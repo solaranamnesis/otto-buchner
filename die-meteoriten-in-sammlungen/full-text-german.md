@@ -172,7 +172,7 @@ Dr. Auerbach, Professor in Moskau. Fallorte 76.
 
 Dr. K. H. Neumann, k. k. Gubernial - und Commerz - Rath in Prag. Fallorte 61.
 
-Dr. Lawr. Smith, Professor in Louisville (durch gütige Mittheilung der Herren Haıpınser in Wien und Shepard in New-Haven), etwa Fallorte 50. und an grossen Massen Fallorte 10. Ist jüngst wohl grossentheils in die Berliner Sammlung übergegangen.
+Dr. Lawr. Smith, Professor in Louisville (durch gütige Mittheilung der Herren Haidinger in Wien und Shepard in New-Haven), etwa Fallorte 50. und an grossen Massen Fallorte 10. Ist jüngst wohl grossentheils in die Berliner Sammlung übergegangen.
 
 Duc de Luynes in Dampierre (durch Herrn A. Gory). Fallorte 39. Die Sammlung soll jüngst an das Musee d'Hist. nat. in Paris übergegangen sein.
 
@@ -221,3 +221,21 @@ Dr. van Breda in Harlem. Fallorte 3.
 Dr. Osann, Professor in Würzburg. Fallorte 2.
 
 Meyer, Mineralienhändler in Hamburg (durch Herrn Dr. Zimmerman). Fallorte 2.
+
+Die bedeutende Sammlung des Herrn Dr. Krantz in Bonn, deren Verzeichniss mir seiner Zeit ebenfalls vom Besitzer gütigst mitgetheilt wurde, ging unterdess grösstentheils in andere Hände über und wurde desshalb in der Regel nicht aufgeführt.
+
+Bei dieser Gelegenheit sage ich meinen verbindlichsten Dank allen den hochverehrten Gönnern und Förderern der Arbeit. Zu ganz besonderem Danke aber bin ich den Herren Haidinger und Hörnzs in Wien verpflichtet, welche mich zu dieser Arbeit anregten, fortdauernd mit Literatur und Notizen der verschiedensten Art unterstützten, aufmunterten, wenn die Hindernisse scheinbar unübersteiglich wurden, und bis zu Ende mit Rath und That zur Seite standen. Habe ich eine Arbeit geliefert, die für Forscher und Sammler nicht ganz ohne Nutzen ist, so danke ich es vorzugsweise diesen beiden hochverehrten Gönnern und Freunden.
+
+Trotz meiner Bemühungen, keine wichtigere Mittheilung zu vernachlässigen, wäre es immerhin möglich, dass bei der ausgedehnten und überall zerstreuten Literatur eine Notiz übersehen worden wäre. Dann bitte ich um freundliche Nachsicht und Mittheilung der Auslassung, damit sie an geeignetem Orte nachgetragen werden kann. Es könnte mir zum Vorwurf gemacht werden, dass ich v. Reichenbachs ausgedehnte Untersuchungen über die Structurverhältnisse der Meteoriten, besonders der Eisenmassen, zu sehr vernachlässigt habe. Doch sind diese Untersuchungen noch zu neu und besonders vom krystallographischen und chemischen Standpunkt aus noch zu wenig bestätigt. Auch G. Rose hat bei seiner neuen Eintheilung der Meteoriten der Berliner Sarnmlung einen anderen Weg betreten.
+
+Bei der »Literatur« wurden nur die wichtigsten Quellen vorzüglich aus den verbreitetsten Zeitschriften angeführt. Partschs classische Schrift über die Meteoriten in Wien (1843) wurde fortwährend zu Grunde gelegt und desshalb nicht regelmässig citirt. Auch die handschriftlichen Notizen von Parrtscn, fortgesetzt von Hörnes, wurden mir von Wien mit rühmenswerther Bereitwilligkeit und Freundlichkeit zur Benutzung überlassen. Wer ausgedehntere Literaturnachweise wünschen sollte, den erlaube ich mir auf meine beiden Quellenverzeichnisse zur Literatur über Meteoriten zu verweisen, die im Band 3 und 4 der Abhandlun gen der Senckenbergischen naturforschenden Gesellschaft in Frankfurt a. M. zu finden sind. Die Theorie der Meteoriten habe ich früher besonders bearbeitet.*
+
+Die Gewichtsangaben wurden auf das französische Grammgewicht reducirt. Eine Verwandlung der Längenmaasse in das Metermaass liess sich nicht durchführen, weil meist selbst nicht mit einiger Gewissheit angenommen werden konnte, welche Meile, welcher Fuss u. s. w. gemeint war. So blieb da besser die Unbestimmtheit, die sich Jeder annähernd richtig auslegen kann, als dass eine annähernd richtige Uebertragung für genau richtig angenommen wird.
+
+Es sind noch viele Lücken auszufüllen. Die von mir nicht verschuldeten sind zugleich ein Fingerzeig für die Forscher. Wo das meiste Material ist, da sollte der Schatz ganz und vollständig der Wissenschaft erschlossen werden.
+
+Da noch kein System zur Eintheilung der Meteoriten allgemeiner anerkannt ist, so habe ich die chronologische Aufeinanderfolge vorgezogen. Doch habe ich die natürlich sich gebenden Gruppen der meteorischen Stein- und Eisenmassen, sowie die vermittelnden Zwischenglieder festgehalten. Nur bei den Steinen schied ich die mit bekannter Fallzeit von denen, deren Fallzeit unbekannt ist. Um jedoch Gelegenheit zu geben, unter den bis jetzt vorgeschlagenen Systemen das einem Jeden am meisten zusagende auszuwählen, lasse ich sie nachstehend folgen.
+
+Giessen, Ende März 1863.
+
+*) O. Bucuner Die Feuermeteore, insbesondere die Meteoriten historisch und naturwissenschaftlich betrachtet. Giessen, Ricker, 1859.
