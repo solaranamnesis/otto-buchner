@@ -171,3 +171,53 @@ Mr. Nevill, Gresham Str. West, London (durch Mittheilung des Herrn Greg)
 Dr. Auerbach, Professor in Moskau.
 
 Dr. K. H. Neumann, k. k. Gubernial - und Commerz - Rath in Prag
+
+Dr. Lawr. Smıra, Professor in Louisville (durch gütige Mittheilung der Herren Haıpınser in Wien und Shepard in New-Haven), etwa und an grossen Massen. Ist jüngst wohl grossentheils in die Berliner Sammlung übergegangen.
+
+Duc de Luynes in Dampierre (durch Herrn A. Gory) Die Sammlung soll jüngst an das Musee d'Hist. nat. in Paris übergegangen sein.
+
+Dr. Troost in Nashville, jetzt bei Maj. Troost in Mobile, Alabama (nach Mittheilung des Herrn Shepard) in sehr grossen Exemplaren, ausserdem wohl in Bruchstücken.
+
+Ferber (Firma Morand & Co.) in Gera
+
+Dr. K. G. Zimmermann in Hamburg
+
+Fürst Lobkowitz in Bilin (durch Herrn Rubesch)
+
+S. K. H. Erzherzog Stephan auf Schaumburg (durch Herrn Siemang*)
+
+*) Ist unterdess gestorben.
+
+Dr. Buchner in Giessen
+
+Dr. med. H. Jordan in Saarbrücken (durch Herrn Dr. Weiss)
+
+P. A. Kesselmeyer in Frankfurt a. M.
+
+Jos. Hieron. Zeidler, Abt des Prämonstratenser-Stifts in Prag (durch Herrn Dr. Hörnes in Wien)
+
+Dr. Phoebus, Professor in Giessen
+
+v. Henikstein in Gratz (nach dem Katalog von 1856)
+
+Dr. Fischer in Hamburg (durch Herrn Dr. Zimmermann)
+
+D. F. Wiser in Zürich
+
+Dr. v. Baumhauer, Professor in Amsterdam (durch die k. Akademie der Wissenschaften)
+
+Dr. Rössler in Hanau
+
+Kessler, Senator in Frankfurt a. M. (durch Herrn P. A. Kesselmeyer)
+
+Max Keller sen. in Freiburg, Breisgau (durch Herrn Professor Fischer)
+
+Ulex, Chemiker in Hamburg (durch Herrn Dr. Zimmermann)
+
+Dr. Dunker, Professor in Marburg
+
+Dr. van Breda in Harlem
+
+Dr. Osann, Professor in Würzburg
+
+Meyer, Mineralienhändler in Hamburg (durch Herrn Dr. Zimmerman)
