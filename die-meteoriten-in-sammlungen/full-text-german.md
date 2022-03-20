@@ -238,4 +238,4 @@ Da noch kein System zur Eintheilung der Meteoriten allgemeiner anerkannt ist, so
 
 Giessen, Ende März 1863.
 
-*) O. Bucuner Die Feuermeteore, insbesondere die Meteoriten historisch und naturwissenschaftlich betrachtet. Giessen, Ricker, 1859.
+*) O. Buchner Die Feuermeteore, insbesondere die Meteoriten historisch und naturwissenschaftlich betrachtet. Giessen, Ricker, 1859.
