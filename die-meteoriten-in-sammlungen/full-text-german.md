@@ -40,184 +40,184 @@ Von den folgenden Sammlungen erhielt ich Meteoritenverzeichnisse; bei der Anzahl
 
 I\. Oeffentliche Sammlungen.
 
-Wien, k. k. Hof-Mineralien-Cabinet (durch Herrn Dr. M. Hörnes)
+Wien, k. k. Hof-Mineralien-Cabinet (durch Herrn Dr. M. Hörnes). Fallorte 194.
 
-London, britisches Museum (durch Herrn N. S. Maskelyne). Nach der neuesten Angabe von Greg in Philos. Mag. Suppl. Jan. 1863 angewachsen auf
+London, britisches Museum (durch Herrn N. S. Maskelyne). Nach der neuesten Angabe von Greg in Philos. Mag. Suppl. Jan. 1863 angewachsen auf Fallorte 190.
 
-Berlin, Universität (durch Herrn Professor G. Rose) Jüngst wesentlich vermehrt aus der Sammlung von Professor L. Smith in Louisville, N. A.
+Berlin, Universität (durch Herrn Professor G. Rose). Fallorte 153. Jüngst wesentlich vermehrt aus der Sammlung von Professor L. Smith in Louisville, N. A.
 
-Göttingen, Universität (durch Herrn Professor Wöhler)
+Göttingen, Universität (durch Herrn Professor Wöhler). Fallorte 125.
 
-Paris, Mus. d’Histoire naturelle (durch freundliche Mittheilung des Herrn Professor DeLarosse an Herrn Haidinger [Sept. 1859], der die Benutzung hier gestättete)
+Paris, Mus. d’Histoire naturelle (durch freundliche Mittheilung des Herrn Professor DeLarosse an Herrn Haidinger [Sept. 1859], der die Benutzung hier gestättete). Fallorte 53.
 
-Paris, Ecole des Mines (durch Vermittelung des Herrn Haidinger, der es durch die Güte des Herrn v. Senarmont erhielt)
+Paris, Ecole des Mines (durch Vermittelung des Herrn Haidinger, der es durch die Güte des Herrn v. Senarmont erhielt). Fallorte 44.
 
-Calcutta, Museum der Asiat. Society of Bengal (durch Herrn Haidinger zusammengestellt)
+Calcutta, Museum der Asiat. Society of Bengal (durch Herrn Haidinger zusammengestellt). Fallorte 37.
 
-Hudson, Ohio, N.A., Western Reserve College (vermittelt durch die Herren Shepard und Greg)
+Hudson, Ohio, N.A., Western Reserve College (vermittelt durch die Herren Shepard und Greg). Fallorte 33.
 
-Copenhagen, Universität; früher in den Sammlungen Königs Christian VIII., des k. naturhistorischen Museums und der Universität (durch Herrn Professor Forchhammer), [viele Doubletten]
+Copenhagen, Universität; früher in den Sammlungen Königs Christian VIII., des k. naturhistorischen Museums und der Universität (durch Herrn Professor Forchhammer), [viele Doubletten]. Fallorte 31.
 
-Stockholm, Reichsmuseum (durch Herrn Professor Nordenskiöld)
+Stockholm, Reichsmuseum (durch Herrn Professor Nordenskiöld). Fallorte 29.
 
-Upsala, Universität (durch Herrn Dr. Thalen)
+Upsala, Universität (durch Herrn Dr. Thalen). Fallorte 24.
 
-Zürich, vereinigte Sammlung der Universität und des Polytechnikums (durch Herrn Professor Kenngott)
+Zürich, vereinigte Sammlung der Universität und des Polytechnikums (durch Herrn Professor Kenngott). Fallorte 23.
 
-Bologna, Universität (durch Herrn Professor Bombicci)
+Bologna, Universität (durch Herrn Professor Bombicci). Fallorte 22.
 
-München, mineralogische Sammlung des Staats (durch Herrn Professor v. Kobell)
+München, mineralogische Sammlung des Staats (durch Herrn Professor v. Kobell). Fallorte 20.
 
-Stuttgart, königl. Cabinet (durch Herrn Professor Krauss)
+Stuttgart, königl. Cabinet (durch Herrn Professor Krauss). Fallorte 20.
 
-Heidelberg, Universität (durch Herrn Professor Blum)
+Heidelberg, Universität (durch Herrn Professor Blum). Fallorte 17.
 
-Tübingen, Universität, ohne die v. Reichenbach'sche Sammlung (im Auftrag des Herrn Professor Quenstedt)
+Tübingen, Universität, ohne die v. Reichenbach'sche Sammlung (im Auftrag des Herrn Professor Quenstedt). Fallorte 17.
 
-Dublin, Trinity College (durch Herrn R. P. Greg in Manchester)
+Dublin, Trinity College (durch Herrn R. P. Greg in Manchester). Fallorte 16.
 
-Freiberg, mineralogische und geognostische Sammlung der Bergschule (durch Herrn Dr. A. Weisbach)
+Freiberg, mineralogische und geognostische Sammlung der Bergschule (durch Herrn Dr. A. Weisbach). Fallorte 14.
 
-Gotha, herzogl. Naturalien-Cabinet (durch Herrn Dr. A. Hellmann)
+Gotha, herzogl. Naturalien-Cabinet (durch Herrn Dr. A. Hellmann). Fallorte 13.
 
-Edinburg, Universität (durch Vermittelung des Herrn Greg in Manchester)
+Edinburg, Universität (durch Vermittelung des Herrn Greg in Manchester). Fallorte 12.
 
-Leipzig, Universität (durch Herrn Professor Naumann)
+Leipzig, Universität (durch Herrn Professor Naumann). Fallorte 10.
 
-Gratz, Joanneum (durch Herrn Professor Aichhorn)
+Gratz, Joanneum (durch Herrn Professor Aichhorn). Fallorte 9.
 
-Kiel, Universität (durch Herrn Professor Karsten)
+Kiel, Universität (durch Herrn Professor Karsten). Fallorte 9.
 
-Trier, Gesellschaft nützlicher Forschungen (durch Herrn Gymnasiallehrer Flesch)
+Trier, Gesellschaft nützlicher Forschungen (durch Herrn Gymnasiallehrer Flesch). Fallorte 9.
 
-Pisa, Universität (Professor Meneghini, nach Mittheilung des Herrn Greg in Manchester)
+Pisa, Universität (Professor Meneghini, nach Mittheilung des Herrn Greg in Manchester). Fallorte 7.
 
-Darmstadt, grossh. Naturalien-Cabinet (durch Herrn Ministerialrath Schleiermacher)
+Darmstadt, grossh. Naturalien-Cabinet (durch Herrn Ministerialrath Schleiermacher). Fallorte 7.
 
-Clausthal, Bergschule (durch Herrn Dr. Römer)
+Clausthal, Bergschule (durch Herrn Dr. Römer). Fallorte 7.
 
-Prag, böhmisches National-Museum (durch Vermittelung des Herrn Dr. Hörnes in Wien)
+Prag, böhmisches National-Museum (durch Vermittelung des Herrn Dr. Hörnes in Wien). Fallorte 6.
 
-Harlem, Museum der holländischen Gesellschaft der Wissenschaften (durch Herrn van Breda)
+Harlem, Museum der holländischen Gesellschaft der Wissenschaften (durch Herrn van Breda). Fallorte 6.
 
-Florenz, naturhistorisches Museum (Sign. Cocci, nach Mittheilung des Herrn Greg in Manchester)
+Florenz, naturhistorisches Museum (Sign. Cocci, nach Mittheilung des Herrn Greg in Manchester). Fallorte 6.
 
-Utrecht, Universität (durch die k. Akademie der Wissenschaften und deren Secretär Herrn Vrolik in Amsterdam)
+Utrecht, Universität (durch die k. Akademie der Wissenschaften und deren Secretär Herrn Vrolik in Amsterdam). Fallorte 6.
 
-Würzburg, Universität (durch Herrn Dr. Rumpf)
+Würzburg, Universität (durch Herrn Dr. Rumpf). Fallorte 6.
 
-Freiburg, Breisgau, Universität (durch Herrn Professor Fischer)
+Freiburg, Breisgau, Universität (durch Herrn Professor Fischer). Fallorte 6.
 
-Giessen, Universität (durch Herrn Professor Knop)
+Giessen, Universität (durch Herrn Professor Knop). Fallorte 6.
 
-Bern, Universität (durch Vermittelung des Herrn Professor Kenngott in Zürich)
+Bern, Universität (durch Vermittelung des Herrn Professor Kenngott in Zürich). Fallorte 5.
 
-Dorpat, Universität (durch Herrn Professor Grewingk)
+Dorpat, Universität (durch Herrn Professor Grewingk). Fallorte 5.
 
-Harlem, Teyler'sche Stiftung (durch die Herren Vrolik in Amsterdam und van Breda)
+Harlem, Teyler'sche Stiftung (durch die Herren Vrolik in Amsterdam und van Breda). Fallorte 5.
 
-Basel, Universität (durch Herrn Professor Müller)
+Basel, Universität (durch Herrn Professor Müller). Fallorte 4.
 
-Moskau, Universität (durch Herrn Dr. Auerbach)
+Moskau, Universität (durch Herrn Dr. Auerbach). Fallorte 4.
 
-Cassel, höhere Gewerbschule (durch Herrn Dr. Schwaab)
+Cassel, höhere Gewerbschule (durch Herrn Dr. Schwaab). Fallorte 4.
 
-Stuttgart, polytechnische Schule (nach Mittheilung des Herrn Professor Krauss)
+Stuttgart, polytechnische Schule (nach Mittheilung des Herrn Professor Krauss). Fallorte 4.
 
-Lemberg, Universität (durch Herrn Professor Pebal) 3 davon unbestimmt.
+Lemberg, Universität (durch Herrn Professor Pebal). Fallorte 4. 3 davon unbestimmt.
 
-Marburg, Universität (durch Herrn Professor Dunker)
+Marburg, Universität (durch Herrn Professor Dunker). Fallorte 3.
 
-Erlangen, Universität (durch Herrn Dr. F. Praff)
+Erlangen, Universität (durch Herrn Dr. F. Praff). Fallorte 3.
 
-Frankfurt a. M., Senckenbergisches Museum (durch Vermittelung des Herrn Kesselmeyer)
+Frankfurt a. M., Senckenbergisches Museum (durch Vermittelung des Herrn Kesselmeyer). Fallorte 2.
 
-Helsingfors, Universität (durch Herrn Professor A. E. Arppe)
+Helsingfors, Universität (durch Herrn Professor A. E. Arppe). Fallorte 2.
 
-Altenburg, naturforschende Gesellschaft des Osterlandes (durch Herrn Rath Zinkeisen)
+Altenburg, naturforschende Gesellschaft des Osterlandes (durch Herrn Rath Zinkeisen). Fallorte 2.
 
-Krakau, Universität (durch Herrn Professor Ritter v. Zepharovich)
+Krakau, Universität (durch Herrn Professor Ritter v. Zepharovich). Fallorte 2.
 
-Leyden, naturhistorisches Museum (durch Vermittelung der k. Akademie der Wissenschaften in Amsterdam, Herrn Vrolik)
+Leyden, naturhistorisches Museum (durch Vermittelung der k. Akademie der Wissenschaften in Amsterdam, Herrn Vrolik). Fallorte 2.
 
-Mannheim, naturhistorischer Verein (durch Herrn Dr. Hirschbrunn)
+Mannheim, naturhistorischer Verein (durch Herrn Dr. Hirschbrunn). Fallorte 2.
 
-Giessen, Realschule (Dr. Buchner)
+Giessen, Realschule (Dr. Buchner). Fallorte 2.
 
-Copenhagen, Thierarzneischule (durch Herrn Professor Barfoed)
+Copenhagen, Thierarzneischule (durch Herrn Professor Barfoed). Fallorte 1.
 
-Görlitz, Realschule (durch Herrn Oberlehrer Fechner)
+Görlitz, Realschule (durch Herrn Oberlehrer Fechner). Fallorte 1.
 
-Hamburg, naturhistorisches Museum (nach Vermittelung des Herrn Dr. Zimmermann)
+Hamburg, naturhistorisches Museum (nach Vermittelung des Herrn Dr. Zimmermann). Fallorte 1.
 
-Innsbruck, Ferdinandeum (durch Herrn Dr. Lindner)
+Innsbruck, Ferdinandeum (durch Herrn Dr. Lindner). Fallorte 1.
 
-Prag, Universität (nach Mittheilung des Herrn Dr. Hörnes in Wien)
+Prag, Universität (nach Mittheilung des Herrn Dr. Hörnes in Wien). Fallorte 1.
 
-Rotterdam, Cabinet der batavischen Gesellschaft (durch Vermittelung der k. Akademie der Wissenschaften in Amsterdam, Herrn Vrolik)
+Rotterdam, Cabinet der batavischen Gesellschaft (durch Vermittelung der k. Akademie der Wissenschaften in Amsterdam, Herrn Vrolik). Fallorte 1.
 
-Washington, Smithsonian Institution (durch Herrn Jos. Henry)
+Washington, Smithsonian Institution (durch Herrn Jos. Henry). Fallorte 1.
 
 II\. Privatsammlungen.
 
-R. P. Greg, Esq. Manchester (1863, Febr. 23)
+R. P. Greg, Esq. Manchester (1863, Febr. 23). Fallorte 191.
 
-v. Reichenbach, auf Schloss Reisenberg bei Wien. Ohne die unter verschiedenen Namen doppelt gezählten; dabei 6 unbekannte (die Sammlung geht später in den Besitz der Universität Tübingen über).
+v. Reichenbach, auf Schloss Reisenberg bei Wien. Fallorte 176. Ohne die unter verschiedenen Namen doppelt gezählten; dabei 6 unbekannte (die Sammlung geht später in den Besitz der Universität Tübingen über).
 
-Ch. U. Shepard, Professor am Amherst College New-Haven (die Sammlung ist zur Sicherheit in diesem College aufbewährt). Darunter sehr bedeutende Massen.
+Ch. U. Shepard, Professor am Amherst College New-Haven (die Sammlung ist zur Sicherheit in diesem College aufbewährt). Fallorte 151. Darunter sehr bedeutende Massen.
 
-Mr. Nevill, Gresham Str. West, London (durch Mittheilung des Herrn Greg)
+Mr. Nevill, Gresham Str. West, London (durch Mittheilung des Herrn Greg). Fallorte 101.
 
-Dr. Auerbach, Professor in Moskau.
+Dr. Auerbach, Professor in Moskau. Fallorte 76.
 
-Dr. K. H. Neumann, k. k. Gubernial - und Commerz - Rath in Prag
+Dr. K. H. Neumann, k. k. Gubernial - und Commerz - Rath in Prag. Fallorte 61.
 
-Dr. Lawr. Smıra, Professor in Louisville (durch gütige Mittheilung der Herren Haıpınser in Wien und Shepard in New-Haven), etwa und an grossen Massen. Ist jüngst wohl grossentheils in die Berliner Sammlung übergegangen.
+Dr. Lawr. Smith, Professor in Louisville (durch gütige Mittheilung der Herren Haıpınser in Wien und Shepard in New-Haven), etwa Fallorte 50. und an grossen Massen Fallorte 10. Ist jüngst wohl grossentheils in die Berliner Sammlung übergegangen.
 
-Duc de Luynes in Dampierre (durch Herrn A. Gory) Die Sammlung soll jüngst an das Musee d'Hist. nat. in Paris übergegangen sein.
+Duc de Luynes in Dampierre (durch Herrn A. Gory). Fallorte 39. Die Sammlung soll jüngst an das Musee d'Hist. nat. in Paris übergegangen sein.
 
-Dr. Troost in Nashville, jetzt bei Maj. Troost in Mobile, Alabama (nach Mittheilung des Herrn Shepard) in sehr grossen Exemplaren, ausserdem wohl in Bruchstücken.
+Dr. Troost in Nashville, jetzt bei Maj. Troost in Mobile, Alabama (nach Mittheilung des Herrn Shepard). Fallorte 9. in sehr grossen Exemplaren, ausserdem wohl Fallorte 20. in Bruchstücken.
 
-Ferber (Firma Morand & Co.) in Gera
+Ferber (Firma Morand & Co.) in Gera. Fallorte 23.
 
-Dr. K. G. Zimmermann in Hamburg
+Dr. K. G. Zimmermann in Hamburg. Fallorte 23.
 
-Fürst Lobkowitz in Bilin (durch Herrn Rubesch)
+Fürst Lobkowitz in Bilin (durch Herrn Rubesch). Fallorte 22.
 
-S. K. H. Erzherzog Stephan auf Schaumburg (durch Herrn Siemang*)
+S. K. H. Erzherzog Stephan auf Schaumburg (durch Herrn Siemang*). Fallorte 19.
 
 *) Ist unterdess gestorben.
 
-Dr. Buchner in Giessen
+Dr. Buchner in Giessen. Fallorte 18.
 
-Dr. med. H. Jordan in Saarbrücken (durch Herrn Dr. Weiss)
+Dr. med. H. Jordan in Saarbrücken (durch Herrn Dr. Weiss). Fallorte 12.
 
-P. A. Kesselmeyer in Frankfurt a. M.
+P. A. Kesselmeyer in Frankfurt a. M. Fallorte 12.
 
-Jos. Hieron. Zeidler, Abt des Prämonstratenser-Stifts in Prag (durch Herrn Dr. Hörnes in Wien)
+Jos. Hieron. Zeidler, Abt des Prämonstratenser-Stifts in Prag (durch Herrn Dr. Hörnes in Wien). Fallorte 12.
 
-Dr. Phoebus, Professor in Giessen
+Dr. Phoebus, Professor in Giessen. Fallorte 10.
 
-v. Henikstein in Gratz (nach dem Katalog von 1856)
+v. Henikstein in Gratz (nach dem Katalog von 1856). Fallorte 9.
 
-Dr. Fischer in Hamburg (durch Herrn Dr. Zimmermann)
+Dr. Fischer in Hamburg (durch Herrn Dr. Zimmermann). Fallorte 8.
 
-D. F. Wiser in Zürich
+D. F. Wiser in Zürich. Fallorte 8.
 
-Dr. v. Baumhauer, Professor in Amsterdam (durch die k. Akademie der Wissenschaften)
+Dr. v. Baumhauer, Professor in Amsterdam (durch die k. Akademie der Wissenschaften). Fallorte 8.
 
-Dr. Rössler in Hanau
+Dr. Rössler in Hanau. Fallorte 8.
 
-Kessler, Senator in Frankfurt a. M. (durch Herrn P. A. Kesselmeyer)
+Kessler, Senator in Frankfurt a. M. (durch Herrn P. A. Kesselmeyer). Fallorte 6.
 
-Max Keller sen. in Freiburg, Breisgau (durch Herrn Professor Fischer)
+Max Keller sen. in Freiburg, Breisgau (durch Herrn Professor Fischer). Fallorte 5.
 
-Ulex, Chemiker in Hamburg (durch Herrn Dr. Zimmermann)
+Ulex, Chemiker in Hamburg (durch Herrn Dr. Zimmermann). Fallorte 4.
 
-Dr. Dunker, Professor in Marburg
+Dr. Dunker, Professor in Marburg. Fallorte 3.
 
-Dr. van Breda in Harlem
+Dr. van Breda in Harlem. Fallorte 3.
 
-Dr. Osann, Professor in Würzburg
+Dr. Osann, Professor in Würzburg. Fallorte 2.
 
-Meyer, Mineralienhändler in Hamburg (durch Herrn Dr. Zimmerman)
+Meyer, Mineralienhändler in Hamburg (durch Herrn Dr. Zimmerman). Fallorte 2.
