@@ -810,11 +810,11 @@ System von Shepard.*
 
 I\. Classe. Metallische Meteoriten.
 
-1. Ordnung. Hämmerbar, gleichartig.
+1\. Ordnung. Hämmerbar, gleichartig.
 
-1. Sect.: Rein (Scriba, Walker County).
+1\. Sect.: Rein (Scriba, Walker County).
 
-2. Sect.: Legirt:
+2\. Sect.: Legirt:
 
 a\. Feinkrystallinisch (Green County, Texas, Dickson County, Burlington).
 
