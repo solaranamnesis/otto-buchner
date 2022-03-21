@@ -640,6 +640,222 @@ Hemalga. (London, Edinburg, Paris). 190.
 
 System von G. Rose.*
 
+*) Berl. Acad. Ber. 1862, Aug. 7, 14. 1863, Jan. 15.
+
 Systematisches Verzeichniss der Meteoriten in dem mineralog. Museum der Universität zu Berlin.
 
 I\. Eisenmeteoriten.
+
+1\. Meteoreisen (nickelhaltiges Eisen, worin Schreibersit (Haidinger), d. i. Phosphornickeleisen (Berzelius) und Tänit (v. Reichenbach), d\. i. eisenhaltiges Nickel (v. Reichenbach d. J.) regelmässig oder unregelmässig eingemengt sind.)
+
+a\. Aus einem Individuum bestehend, ohne schalige Zusammensetzung.
+
+Braunau, Claiborne, Saltillo.
+
+b\. Aus vielen grobkörnigen Individuen bestehend.
+
+Seeläsgen, Zacatecas, Nelson County, Union County, Tucuman.
+
+c\. Aus einem Individuum bestehend, mit schaliger Zusammensetzung parallel den Flächen des Octaeders (mit Widmannstätten'schen Figuren).
+
+Bohumilitz, Arva, Cosbys Creek, Sarepta, Sevier County, Bemdego, Schwetz, Ruffs Mountain, Seneca River, Toluca, Misteca, Sierra blanca, Tula, Carthago, Burlington, Marshall County, Oranje River, Red River, Lenarto, Durango, Elbogen, Agram, Asheville, Löwenfluss, Oldham County, Putnam County, Tazewell, Caille, Denton County, Robertson County, Nebraska, Madoc, Black Mountains, Guilford, Lockport, Jewell Hill.
+
+d\. Aus feinkörnigen Individuen bestehend.
+
+Tacavita, Rasgata, Chesterville, Senegal, Capland, Salt River, Babbs Mill, De Kalb County.
+
+2\. Pallasit (Meteoreisen mit eingeschlossenen Krystallen von Olivin).
+
+Krasnojarsk, Brahin, Atacama, Steinbach, Rittersgrün, Bitburg.
+
+3\. Mesosiderit (Nickeleisen und Magneikies einerseits, Olivin und Augit andrerseits in nahezu gleicher Menge).
+
+Hainholz, Sierra de Chaco.
+
+I\. Steinmeteoriten.
+
+1\. Chondrit (feinkörnige Grundmasse mit eingemengten kleinen Kugeln eines Magnesia-Silikats, mit Krystallen und Körnern von Olivin, Chromeisenerz und einer unbestimmten schwarzen Substanz, sowie von Nickeleisen und Magnetkies).
+
+Kleinwenden, Erxleben, Stauropol, Ensisheim, Chantonnay, Tabor, Luce, Barbotan, Doroninsk, Limerik, Tipperary, Toulouse, Seres, Krasnoy-Ugol, Wesselv, Grünberg, Cabarras County, Mezö-Madaras, Renazzo, Luponnas, Eichstädt, Benares, Nanjemoy, Timochin, Weston, Parma, Lixna, Blansko, Richmond, la Baffe, Poltawa, Macao, Gütersloh, Siena, Bremervörde, Parnallee, Aussun, Mauerkirchen, Linn County, Linum, Apt, Bachmut, New-Concord, Honolulu, Kakowa, Charkow, Wold Cottage, Sales, Schellin, l’Aigle, Dhurmsala, Asco, Lissa, Charsonville, Kuleschowka, Berlanguillas, Agen, Zaborzika, Slobodka, Pohlitz, Forsyth, Vouille, Okniny, Little Piney, Chateau Renard, Oesel, Milena, Meno, Futtehpore, Pegu, Trenzano, Ohaba, Charvallas, Mainz.
+
+2\. Howardit (feinkörniges Gemenge von Olivin mit einem weissen Silikat, möglicherweise Anorthit, mit einer geringen Menge Chromeisenerz und Nickeleisen).
+
+Luotolaks, Bialistock, Mässing.
+
+3\. Chassignit (kleinkörniger eisenreicher Olivin mit eingemengten kleinen Körnern von Chromeisenerz).
+
+Chassigny.
+
+4\. Shalkit (kleinkörniges Gemenge von Olivin, Shepardit [MgO SiO3] und Chromeisenerz).
+
+Shalka.
+
+5\. Chladnit (Gemenge von Shepardit [Mgo SiO3] mit einem thonerdehaltigen Silikat, mit geringen Mengen von Nickeleisen, Magnetkies und einigen anderen noch zu bestimmenden Substanzen).
+
+Bishopville.
+
+6\. Kohlige Meteoriten.
+
+Alais, Cold Bokkeveld, Kaba.
+
+7\. Eukrit (Gemenge von Anorthit und Augit mit einer geringen Menge Magnetkies und meist viel geringerer Menge Nickeleisen, zuweilen mit gelben Blättchen [Juvenas] und Olivin [Petersburg)).
+
+Juvenas, Stannern, Jonzac, Petersburg.
+
+System von v. Reichenbach.
+
+Systematisches Verzeichniss der Meteoriten in der Sammlung des Freiherrn
+
+v. Reichenbach zu Wien.*
+
+*) Nach gütiger brieflicher Mittheilung d. d. 23. Nov. 1861; ergänzt nach Poggend. Ann. 107, 166 u. ff. Doch weicht das Verzeichniss daselbst etwas von dem hier gegebenen ab.
+
+1\. Sippe. Steine frei von regulinischen Metallen.
+
+1\. Gruppe:
+
+Chassigny, Bishopville. — Jonzac (Uebergangsglied).
+
+2\. Gruppe:
+
+Uden, Shalka, Trenzano, Stannern, Juvinas, Constantinopel, Petersburg.
+
+2\. Sippe. Steine mit weisslicher Grundmasse; wenig gediegenes Eisen.
+
+1\. Gruppe: Keine dunkeln Kügelchen, höchstens hie und da ein einzelnes zerstreut. 
+
+a\. Weissliche mit leichten Einschlüssen:
+
+Nashville, Linn County, Bachmut, Schie, Mauerkirchen, Zaborczika, Futtehpore, Kuleschowka, Milena, Czartorya (?), Wold Cottage, Angers, Forsyth, Girgenti, Ajaquz (?), Pohlitz, Cereseto, Aumieres, Charkow, Chandakapoor, Dooralla, Oesel, Garz, Apt, Asco.
+
+b\. Bläulich-weisse Grundmasse:
+
+New-Concord, Glasgow, Honolulu, Piemont (?), Chateau Renard, Killeter, Lissa, Toulouse, Favars, Berlanguillas, Vouille.
+
+2\. Gruppe: Durch eingeschlossene dunkle Kügelchen grobkörnig, rauh:
+
+Parma, Eichstädt, St. Denis Westrem, Zebrak, Little Piney, la Baffe, Nanjemoy, Quenggouk, Benares, Aussun, Luce, Timochin, Gross-Divina, Richmond, Poltava, Borkut.
+
+3\. Gruppe: dunkle und helle Kügelchen gemengt:
+
+Siena, Luotolaks, Mässing, Nobleborough, Bialistock.
+
+3\. Sippe. Die Grundmasse ist grau, fester als bei den vorigen, nicht zerreiblich, und enthält mehr Eisen und weniger Schwefeleisen; das spec. Gew. ist grösser.
+
+a\. Sigena, Macao, Charsonville.
+
+b\. Grau und weiss gefleckt:
+
+Luponnas, Gütersloh, Weston, Macerata, Okniny, Sales, Mooresfort, Limerik, l’Aigle, Assam.
+
+c\. Mit weisslichen Einschlüssen:
+
+Cabarras County, Krasnoy-Ugol, Seres, Mezö-Madaras, Parnallee, Bremervörde.
+
+d\. Dunkelgrau:
+
+Doroninsk, Cereseto, Agen, Lixna, Chantonnay, Grüneberg, Tabor, Blansko, Barbotan, Wessely, Tounkin.
+
+4\. Sippe. Grünliche Grundmasse.
+
+Ensisheim, Simbirsk, Stawropol, Kleinwenden, Erxleben.
+
+d\. Sippe. Schwarzbraun und schwarz durch einen starken Kohlegehalt.
+
+Renazzo, Kaba, Cold Bokkeveld, Alais.
+
+6\. Sippe. Die Steine enthalten derbe grössere braune Antheile.
+
+Mainz, Segowlee, Charvallas.
+
+7\. Sippe. Steinige Substanzen sind mit regulinischem Eisen gemengt.
+
+Mittelglied: Hainolz.
+
+1\. Gruppe mit reinem Olivin:
+
+Bitburg, Sachsen, Brahin, Krasnojarsk, Atacama.
+
+2\. Gruppe Eisen mit Steineinschlüssen:
+
+Toluca.
+
+8\. Sippe. Die krystallinischen Metalle mit Leisten von Nickeleisen; Widmannstätten'sche Figuren.*
+
+*) Die hier verzeichneten Eisen theilte v. Reichenbach noch in eine 9. Sippe und diese in 5 Gruppen; doch scheint er diese Eintheilung aufgegeben zu haben.
+
+1\. Gruppe:
+
+Seeläsgen, Cosbys Creek, Bruce, Black Mountains, Bemdeg6, Bohumilitz, Madoc, Burlington, Marshall County, Tula, S. Rosa, Robertson County, Ruffs Mountain, Carthago, Pittsburg, Nebraska, Texas (?), Guilford, Red River, la Caille, Eibogen, Asheville, Agram, Lockport, Oldham County, Löwenfluss, Jewell Hill, Dickson County, Putnam County, Tazewell.
+
+2\. Gruppe:
+
+Claiborne (?), Braunau, Nelson County, Cabaja (?), Tucuman, Senegal, Tarapaca.
+
+3\. Gruppe:
+
+Cap, Union County, Rasgata, Livingston County.
+
+4\. Gruppe:
+
+Lenarto, Seneca River, Misteca, Salt River, Chester County, Arva, Davisstrasse, Sarepta, De Kalb, Sevier (?), Zacatecas.
+
+5\. Gruppe:
+
+Durango, Schwetz, Oranje River.
+
+System von Shepard.*
+
+*) Sillim. Amer. Journ. (2) 2, 377. Report on Met. p. 46.
+
+I\. Classe. Metallische Meteoriten.
+
+1. Ordnung. Hämmerbar, gleichartig.
+
+1. Sect.: Rein (Scriba, Walker County).
+
+2. Sect.: Legirt:
+
+a\. Feinkrystallinisch (Green County, Texas, Dickson County, Burlington).
+
+b\. Grobkrystallinisch (De Kalb, Asheville, Guilford, Carthago).
+
+2\. Ordnung. Hämmerbar, ungleichartig.
+
+1\. Sect.: Blasig-olivinisch (Krasnojarsk).
+
+2\. Sect.: Blasig-pyritisch (Cambria).
+
+3\. Sect.: Pyritisch-graphitisch (Cocke County).
+
+3\. Ordnung. Spröde.
+
+1\. Sect.: Rein (Bedford County, Randolph County).
+
+2\. Sect.: Legirt (Otsego County).
+
+II\. Classe. Steinmeteoriten.
+
+1\. Ordnung. Trachytisch.
+
+1\. Sect.: Olivinisch.
+
+a\. Grobkörnig (Weston, Richmond).
+
+b\. Feinkörnig (Nobleborough, Little Pinney).
+
+2\. Sect.: Augitisch (Juvinas).
+
+3\. Sect.: Chladnitisch (Bishopville).
+
+4\. Sect.: Kohlig (Cold Bokkeveld).
+
+2\. Ordnung. Trappartig.
+
+1\. Sect.: Gleichartig (Chantonnay).
+
+2\. Sect.: Porphyrartig (Renazzo).
+
+3\. Ordnung. Bimssteinartig (Waterville).*
+
+*) Nicht meteorisch.
