@@ -239,3 +239,177 @@ Da noch kein System zur Eintheilung der Meteoriten allgemeiner anerkannt ist, so
 Giessen, Ende März 1863.
 
 *) O. Buchner Die Feuermeteore, insbesondere die Meteoriten historisch und naturwissenschaftlich betrachtet. Giessen, Ricker, 1859.
+
+System von P. Partsch.*
+
+Verzeichniss der im k. k. Mineralien-Cabinet zu Wien aufbewahrten Meteoriten.
+
+(December 45, 1862. Von P. Partsch, fortgesetzt von Dr. M. Hörnes.)
+
+I\. Meteorsteine.
+
+A\. Anomale (ohne gediegenes und Schwefeleisen, oder im Pulver nur mit dem Mikroskop zu entdecken.)
+
+a\. Kohlige Meteoriten.
+
+Alais. 1806, März 15 (Paris, Berlin, London, Stockholm). 19.
+
+Capland (Cold Bokkeveld). 1838, Oct. 13 (London, Edinburg, Petersburg u. A.). 60.
+
+Kaba. 1857, Apr. 15 (Debreczin, Göttingen). 94.
+
+b\. Schlackenartige Meteoriten.
+
+Chassigny. 1815, Oct. 3 (Paris, London, Berlin, Göttingen). 36.
+
+Shalka. 1850, Nov. 30 (Calcutta, London, Berlin). 80.
+
+B\. Normale (mit Schwefeleisen und z. Th. mit gediegenem Eisen).
+
+a\. Ohne metallisches Eisen; die Rinde glänzend.
+
+Juvinas. 1821, Juni 15 (Paris, London, Berlin u. A). 42.
+
+Stannern. 1808, Mai 22 (in den meisten Sammlungen). 23.
+
+Constantinopel. 1805, Juni. 19.
+
+Bialistock. 1827, Oct. (Petersburg, Berlin, Dorpat). 51. 
+
+Luotolaks. 1813, Dec. 13 (Helsingfors, London, Upsala, Berlin). 34. 
+
+Manegaon. 1843, Juli 26 (Calcutta, London). 72. 
+
+Nobleborough. 1823, Aug. 7. 46.
+
+Petersburg. 1855, Aug. 5 (Berlin, London). 89.
+
+Mässing. 1803, Dec. 13 (Berlin, Paris, München). 17.
+
+Bishopville. 1843, März 25 (London, Berlin, Göttingen). 69.
+
+Uden. 1840, Juni 12 (Amsterdam, Göttingen). 64.
+
+b\. Mit metallischem Eisen; die Rinde matt (die Steine folgen hier in Gruppen auf einander, so dass die metallärmsten beginnen und die metallreichsten schliessen. Jede Gruppe enthält die ihrem Aussehen nach verwandtesten Steine).
+
+Borgo San Donino. 1808, Apr. 19 (Paris, Berlin, London, Göttingen). 23.
+
+Okniny. 1833, Dec. 27 (Berlin). 57.
+
+Harrison County. 1859, März 28 (London). 101.
+
+Siena. 1794, Juni 46 (Berlin, Göttingen, London, Clausthal). 11.
+
+Ensisheim. 1492, Nov. 16 (in den meisten Sammlungen). 3.
+
+l'Aigle. 1803, Apr. 26 (in den meisten Sammlungen). 15.
+
+*) Partsch Die Meteoriten im k. k. Hof-Mineralien-Cabinete zu Wien 1843. Es sind gleichzeitig die grösseren öffentlichen Sammlungen aufgeführt, wo noch Steine und Bruchstücke aufbewahrt sind, sowie die Seitenzahl, wo die betreffende Monographie zu finden ist.
+
+Luponnas. 1753, Sept. 7 (Berlin, London). 6.
+
+Chandakapoor. 1838, Juni 6 (London, Upsala, Edinburg, Copenhagen). 60.
+
+Chantonnay. 1812, Aug. 5 (Berlin, Paris, Göttingen u. A.). 31.
+
+Mainz. ? (Göttingen, London). 116.
+
+Segowlee. 1853, März 6 (Calcutta). 85.
+
+Duruma. 1853, (München). 85.
+
+Nulles. 1851, Nov. 5 (Madrid, Barcelona, London). 81.
+
+Renazzo. 1824, Jan. 13 (Bologna, Stockholm, Paris, Pisa, Berlin). 46.
+
+Richmond. 1828, Juni 4 (London, Berlin, Göttingen, Paris). 52.
+
+Weston. 1807, Dec. 14 (London, Stockholm, Paris, Berlin, Göttingen). 22.
+
+Epinal. 1822, Sept. 13 (Paris, Berlin). 44.
+
+Little Piney. 1839, Febr. 13 (London, Berlin). 63.
+
+Aussun. 1858, Dec. 9 (Paris, Berlin, London, Göttingen u. A.). 99.
+
+Benares. 1798, Dec. 13 (London, Edinburg, Paris, Berlin, Göttingen). 14.
+
+Quenggouk. 1857, Dec. 27 (Calcutta, London). 97.
+
+Trenzano. 1856, Nov. 12 (London). 90.
+
+Utrecht. 1843, Juni 2 (Harlem, Utrecht, Göttingen). 71.
+
+Gouv. Poltava. ? (Petersburg, Berlin). 114.
+
+Borkut. 1852, Oct. 13. 83.
+
+Krasnoy-Ugol. 1829, Sept. 9 (Petersburg, Berlin). 53.
+
+Erxleben. 1812, Apr. 15 (Göttingen, Berlin, London u. A.). 30.
+
+Kleinwenden. 1843, Sept. 16 (Berlin). 73.
+
+Gouv. Simbirsk. ? (Petersburg). 115.
+
+Iowa. 1847, Febr. 25 (Edinburg, Berlin, London, Göttingen). 76.
+
+Mauerkirchen. 1768, Nov. 20 (München, London, Berlin u. A.). 8.
+
+Monte Milone. 1846, Mai 8 (Bologna, Pisa, Florenz). 75.
+
+Nashville. 1827, Mai 9 (Leyden, Berlin, London, Göttingen). 50.
+
+Kakowa. 1858, Mai 19 (Göttingen, Berlin). 98.
+
+Luce. 1768, Sept. 13 (Berlin, Zürich, Freiberg). 7.
+
+Lissa. 1808, Sept. 3 (Berlin, London, Paris, Prag, Göttingen u. A.). 26.
+
+Owahu. 1825, Sept. 27 (Dorpat, Berlin, London). 49.
+
+Oesel. 1855, Mai 11 (Dorpat, Berlin, Göttingen, London). 87.
+
+Nellore. 1852, Jan. 23 (Madras). 82.
+
+Charkow. 1787, Oct. 13 (Charkow, Petersburg, London, Göttingen, Berlin). 10.
+
+Schie. 1848, Dec. 27 (Christiania, London). 78.
+
+Zaborzika. 1818, Apr. 10 (Kiew, Berlin, London). 37.
+
+Futtehpore. 1822, Nov. 30 (Calcutta, London). 44.
+
+Bachmut. 1814, Febr. 3 (Charkow, London, Berlin, Petersburg). 34.
+
+Aumieres. 1842, Juni 4 (Paris). 68.
+
+Pohlitz. 1819, Oct. 13 (Gera, Berlin, London, Göttingen u. A.). 40.
+
+Kuleschowka 1811, März 12/13 (Petersburg, London, Berlin). 28.
+
+Girgenti. 1853, Febr. 10 (London). 84.
+
+Slobodka. 1818, Aug. 10 (Petersburg, Berlin, Paris). 39.
+
+Kikina. 1809. 21.
+
+Milena. 1842, Apr. 26 (Agram, Gratz, Berlin). 67.
+
+Forsyth. 1829, Mai 8 (London, Berlin, Dublin). 53.
+
+Wold Cottage. 1795, Dec. 13 (London, Göttingen, Paris, Berlin). 12.
+
+High-Possil. 1804, Apr. 5 (London). 18.
+
+Berlanguillas. 1811, Juli 8 (Paris, Berlin, London, Göttingen). 29.
+
+Apt. 1803, Oct. 8 (Paris, Berlin, Gotha). 17.
+
+Vouille. 1831, Juli 18 (Paris, Berlin). 54.
+
+Chateau Renard. 1841, Juni 12 (London, Paris, Berlin, Göttingen). 66.
+
+Ohaba. 1857, Oct. 11 (Göttingen). 96.
+
+Sales. 1798, März 8? 12? (London, Paris, Berlin, Göttingen). 13.
