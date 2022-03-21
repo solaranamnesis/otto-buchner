@@ -859,3 +859,88 @@ b\. Feinkörnig (Nobleborough, Little Pinney).
 3\. Ordnung. Bimssteinartig (Waterville).*
 
 *) Nicht meteorisch.
+
+I\. Steinmeteoriten,
+
+Deren Fallzeit bekannt ist.
+
+Sie sind nach der Fallzeit geordnet.
+
+Ensisheim, Elsass, jetzt Dep. du Haut Rhin, Frankreich. 1492, Nov. 16 (Nov. 7 a. St.), zwischen 11 und 12 Uhr Vormittag.
+
+Ein Stein von 127 K. 270 fiel unter heftigem Getöse; wahrscheinlich wurde dabei auch eine Feuererscheinung beobachtet. Man sah den Stein in ein Weizenfeld fallen; er wurde bis auf zwei abgeschlagene Stücke auf Befehl Kaiser Maximilians I. in der Kirche zu Ensisheim aufgehängt, wo er bis zur französischen Revolution blieb; er wurde übel zerschlagen, so dass jetzt nur 40-50 K. wieder an der alten Stelle hängen. ‚Von Sammlungen besitzt das Mus. Hist. nat. in Paris ein Stück von über 9 K. Kleinere Fragmente finden sich in den meisten Sammlungen.
+
+Specifisches Gewicht:
+
+3,233 Barthold,  
+3,5 v. Schreibers,  
+3,4884 Rumler.  
+
+Die Rinde fehlt bei den allermeisten Handstücken; sie ist bräunlichschwarz bis schwarz, dünn, ohne Glanz, etwas rauh und in den Vertiefungen glasartig.
+
+Die Grundmasse ist dunkelgrau, feinkörnig, schimmernd, rostbraun gefleckt, stellenweise heller. Bei genauem Betrachten besonders einer geschliffenen Fläche unter dem Mikroskop zeigt sich ein unvollkommen breccienartiges Aussehen durch die zahlreichen, vielgestaltigen grösseren und kleineren rundlichen und eckigen dunkelgrau-grünen Partien, die in eine hellere Masse eingebettet sind. Die dunkelgraue Substanz ist am wenigsten krystallinisch, sehr feinkörnig bis dicht, wachsglänzend, der Bruch uneben bis flach muschelig und splitterig. Die hellgraue Masse ist krystallinisch feinkörnig und mit dunkeln Theilchen gemischt. Unter der Lupe erkennt man noch gelbe bis braune durchscheinende, glasglänzende Körnchen, die an Olivin erinnern, nebenbei auch grosse schwarze Körnchen, die an Magnetit erinnern, aber nicht magnetisch sind. Nach Suerasp sollen auch Krystalle (0, oo 0) von Chromeisen darin vorkommen. Nickeleisen ist nicht häufig und auf dem Bruch schwer zu erkennen; es ist eingesprengt als sehr kleine, fast silberweisse Körner, die z. Th. oxydirt sind. Schwefeleisen ist vorwaltend, theils fein eingesprengt, theils in kleinen Flocken, Nieren und Körnern, theils als dünne schuppige Lagen, als Adern. Schwarze glänzende Ablösungsflächen, kleine dunkelgraue Facetten, die einer unvollkommen gebildeten Rinde ähnlich sehen, sind sehr ausgezeichnet und zahlreich, so dass der Stein fast schieferig und leicht spaltbar wird.
+
+Die Analysen sind sehr mangelhaft:
+
+SiO3. MgO. CaO. FeO. Fe. NiO.  
+1\. 42. 14. 2. -,-. 20. -,-.  
+2\. 56. 12. 1,4. 30. -,-. 2,4.  
+
+1\. von Barthold, 2\. von Fourcroy und Vauquelin. Klaproth wies noch 1,5% Thonerde und Laugier 0,01% Chromoxyd nach. Schafhäutl fand eine Verbindung von Schwefeleisen mit Schwefelkupfer, die sich erst in kochender Salzsäure löste.
+
+Viele Chroniken und Urkunden gedenken des Ereignisses (Chladni Feuermet. 205). Barthold Journ. de Phys. 2, 1773, 251. Fourcroy und Vauquelin Gilb. Ann. 13, 295. 18, 280. 319. Laugier ebd. 24, 383. Klaproth ebd. 33, 211. Beiträge 5, 256. Partsch 32. Shepard Report 8. Schafhäutl Münchner gel. Anz. 1847, 24, 556.
+
+Dorf Vago unweit Caldiero, Territorium von Verona, Italien. 1668, Juni 19 nach Montanari, oder 21 nach Valisnieri; nach Mitternacht.
+
+Obgleich jedenfalls ein, wahrscheinlich aber zwei sehr grosse Steine fielen und ausführliche Mittheilungen darüber erhalten sind, auch Bruchstücke an die Akademie zuVerona und viele Gelehrte Italiens und Frankreichs geschickt, selbst ein grosses Stück an Ketten in einer Kirche aufgehängt wurde, so scheint doch jetzt aus den Sammlungen fast jede Spur verschwunden zu sein. Laugier besass 1818 ein kleines Stückchen; er wies zuerst Chrom darin nach (1%). Chladni sah diesen Rest und fand ihn Barbotan, Tabor und andern ähnlich. Wo ist er hingekommen? Catullo beschreibt die schwarze Rinde und vergleicht das Innere mit dem der Steine von Toulouse (1812), nur scheine es mehr metallische Theile zu enthalten. Er sah ein Bruchstück in dem früher berühmten Museo Moscardo in Verona, das in den Besitz der Familie Miniscalchi in Verona überging; da findet sich vielleicht noch ein Bruchstück; die Reste des Museum Moscardo sind jetzt in einer Dachstube des Miniscalchi'schen Hauses wer weiss in welchem Zustande.
+
+Literatur: Gilb. Ann. 24, 383. Chladni Feuermet. 233. Catullo Geogn. delle prov. Venete 435.
+
+Schellin (weniger richtig Garz) bei Stargard in Pommern. 1715, April 11, 4 Uhr Nachmittag.
+
+Nach einem Getöse, das von SO. nach NW. gehört wurde, fielen miehre Steine, einer von ca. 7% K., der zweite kleiner. Der Fall wurde erst 4822 durch GiLsert bekannt. Es haben sich nur sehr wenige kleine Bruchstücke erhalten (in Berlin, Wien, London und den Privatsammlungen von v. REICHENBACH und KranTz); auch soll ein Gutsbesitzer in Pommern ein Fragment besitzen. Das, welches Prof. GiLgert besass, scheint verloren zu sein.
+
+Specifisches Gewicht: 3,5 Gilbert.
+
+Sie sind aussen schwarz, »als wenn sie von Pulver angelauffen, inwendig aber weislicht und glimmend, als ob Metall bei ihnen befindlich und gaben einen schweflichten Geruch von sich.« Auf dem unebnen Bruch zeigt sich ein regelloses Gemenge von vielerlei verschieden abgesonderten Körpern, die wie eingeknetet zu sein scheinen in eine weisse, etwas ins Grauliche ziehende dichte erdige Masse. Diese ist weich, selbst zerreiblich; auch einige schwarzgraue Körner und kleine halbkugelige Vertiefungen, wo offenbar runde Körner ausgebrochen waren, sind bemerkbar. Durch die ganze Masse sind sehr viele rostfarbene Flecken verbreitet;;. wo sie angefeilt werden, zeigt sich metallisches Eisen. An mehren Stellen ragen kleine Eisenmassen über die Steinfläche hervor. Einzelne nicht verrostete Stellen sind röthlichgelb, wie Magnetkies; auch findet sich viel schwarzes Eisenoxyd (Magneteisen?).
+
+Der Stein ist noch nicht analysirt worden.
+
+Literatur: Gilbert Annalen 71, 213.
+
+Plescowitz und Liboschitz, einige Meilen von Reichstadt, Bunzlauer Kreis, Böhmen. 1723, Juni 22.
+
+Man sah bei heiterem Himmel eine einzelne kleine Wolke und hörte darin ein starkes Krachen und Knallen, worauf bei Liboschitz 25 und auf anderen herrschaftlich Plescowitz'schen Dörfern unter Funkensprühen 8 grosse und kleine Steine fielen, die nach Schwefel rochen, auswendig schwarz und inwendig metallisch waren.
+
+Das britische Museum behauptet einen solchen Stein zu besitzen; sonst fehlt er jeder anderen Sammlung, auch Wien. Es ist sehr wahrscheinlich, dass der Stein inLondon vom Taborfall (1753) herrührt, umsomehr, als er mit den Taborsteinen grosse Aehnlichkeit haben soll. Eine genaue Beschreibung desselben ist noch nicht veröffentlicht; er soll 1844 durch Heuland an das britische Museum gelangt sein.
+
+Literatur: Poggend. Ann. 116, 640.
+
+Tabor. Hof Krawin bei Strkow, südl. von Plan und Tabor. 1753, Juli 3, 8 Uhr Abends.
+
+Nach einer Feuererscheinung erfolgte eine heftige Detonation; dann fielen mehre Steine herab, was von zwei Schäfern an verschiedenen Stellen beobachtet wurde. Ein ganzer Stein, der erste, der unverletzt in Sammlungen aufbewahrt wurde, ist in Wien und wiegt 2 K. 782,5; ausserdem werden daselbst noch 6 St. aufbewahrt (im Ganzen 4 K. 119,69). Kleinere Bruchstücke finden sich in London (164 Gr.), Berlin (77,802 Gr.), Prag (böhm. Nat.-Mus.), Pesth (Univ.-Mus.) und den Privatsammlungen des Fürsten Loskowırz (Bilin, 2 St. 777 Gr.), v. Reichenbach (Wien), v. Henikstein (Gratz, 2 St.), Neumann (Prag, 3 St. 74,39 Gr.), Shepard (N. Haven).
+
+Specifisches Gewicht:
+
+3,234 Stepling,  
+4,281 Bournon,  
+3,66 v. Schreibers,  
+3,6528 Rumler.
+
+Die Rinde ist matt, schwarz.
+
+In der dunkel-, fast blaulich-grauen, rostbraun gefleckten Grundmasse, die dicht und stark zusammenhängend ist, liegen meist kleine und nicht sehr deutliche Kügelchen, viel fein und grob eingemengtes, zum Theil auch zu Adern und rundlichen, bis bohnengrossen Partien vereinigtes Eisen und sehr fein eingesprengter Magnetkies.
+
+Nach Howırp werden fast 25%, vom Magnet ausgezogen. Nach seiner Analyse besteht der erdige Theil aus:
+
+SiO3. MgO. Fe2O3. NiO. Sa.  
+45,45. 17,27. 42,72. 2,72. 108,16  
+
+und das hämmerbare Metall aus:
+
+Fe. Ni.  
+89,28. 10,92.
+
+Meyer hat den Stein nicht selbst analysirt, sondern nur die Procentberechnung der Analyse Howarv’s bekannt gemacht. Nach Schwefel, der jedenfalls darin enthalten ist, wurde nicht gesucht.
+
+Literatur: Howard Phil. Trans. 1802. Voigt Magaz. 10, 220. Chladni Feuermet. 246.
