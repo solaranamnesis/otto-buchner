@@ -413,3 +413,233 @@ Chateau Renard. 1841, Juni 12 (London, Paris, Berlin, Göttingen). 66.
 Ohaba. 1857, Oct. 11 (Göttingen). 96.
 
 Sales. 1798, März 8? 12? (London, Paris, Berlin, Göttingen). 13.
+
+Agen. 1814, Sept. 5 (Paris, London, Göttingen, Berlin). 35.
+
+Garz. 1715, Apr. 11 (Berlin, London). 5.
+
+Nanjemoy. 1825, Febr. 10 (London, Berlin, Göttingen, Dublin). 48.
+
+New Concord. 1860, Mai 1 (London, Berlin, Göttingen, Zürich). 104.
+
+S. Denis Westrem. 1855, Juni 7 (Göttingen). 89.
+
+Killeter. 1844, Apr. 29 (London, Dublin). 74.
+
+Asco. 1805, Nov. (Berlin). 19.
+
+Toulouse. 1812, Apr. 10 (Paris, Berlin, London, Stockholm). 30.
+
+Blansko. 1833, Nov. 25 (Berlin, Stockholm). 56.
+
+Cereseto. 1840, Juli 17 (Turin, London, Paris, Bologna). 65.
+
+Heredia. 1857, Apr. 1 (Göttingen). 93.
+
+Wessely. 1831, Sept. 9 (Brünn, Berlin). 55.
+
+Limerik. 1813, Sept. 10 (Paris, Göttingen, Berlin). 33.
+
+Grüneberg. 1841, März 22 (Berlin, Breslau, Tübingen, London). 65.
+
+Tipperary. 1810, Aug. (Dublin, London, Berlin, Copenhagen). 27.
+
+Gouv. Kursk. ? (Petersburg). 114.
+
+Lixna. 1820, Juli 12 (Göttingen, Berlin, Dorpat, Paris, London). 41.
+
+Cabarras County. 1849, Oct. 31 (London, Berlin, Göttingen). 79.
+
+Tabor. 1753, Juli 3 (London, Berlin, Prag, Pesth). 6.
+
+Charsonville. 1810, Nov. 23 (Paris, Berlin, Bern, Upsala). 28.
+
+Esnandes. 1837, Aug. (Bordeaux). 60.
+
+Doroninsk. 1805, Apr. 10 (Berlin). 18.
+
+Mezö-Madaras. 1852, Sept. 4 (Berlin, London, Copenhagen, Göttingen). 82.
+
+Assam. 1846. (Calcutta, London). 115.
+
+Bremervörde. 1855, Mai 13 (Göttingen, Clausthal, Stockholm, Berlin). 88.
+
+Parnallee. 1857, Febr. 28 (London, Berlin, Göttingen). 94.
+
+Dhurmsala. 1860, Juli 14 (Calcutta, London, Berlin, Boston). 106.
+
+Mhow. 1827, Febr. 16 (Calcutta, London). 50.
+
+Seres. 1818, Juni (Göttingen, Berlin, London). 38.
+
+Sigena. 1773, Nov. 17 (Paris). 9.
+
+Kheragur. 1860, März 28 (Calcutta, London). 104.
+
+Barbotan. 1790, Juli 24 (London, Paris, Bordeaux, Berlin u. A). 11.
+
+Charvallas. 1834, Juni 12 (London). 57.
+
+Eichstädt. 1785, Febr. 19 (München, Berlin, Göttingen, London). 9.
+
+Gross-Divina. 1837, Juli 24 (Pesth). 59.
+
+Zebrak. 1824, Oct. 14 (Prag, London). 47.
+
+Gütersloh. 1851, Apr. 17 (Berlin, London). 80.
+
+Darmstadt. ? (Heidelberg, London). 113.
+
+Timochin. 1807, März 13 (Petersburg, Berlin, London, Göttingen). 21.
+
+Macao. 1836, Nov. 11 (Berlin, Göttingen, Paris, Petersburg). 58.
+
+Hainholz. ? (London, Berlin, Göttingen). 130.
+
+II\. Meteoreisen.
+
+A\. Aestig (mit Olivin in den Höhlungen).
+
+Atacama. (London, Paris, Göttingen, Berlin u. A). 127.
+
+Krasnojarsk. (fast in allen Sammlungen). 121.
+
+Oregon. 131.
+
+Brahin. (Kiew, Berlin, London, Wien, u. A.). 129.
+
+Sachsen (Steinbach, Rittersgrün). (London, Freiberg, Berlin u. A). 124.
+
+B\. Derbes Meteoreisen (Einmengungen nur in geringer Menge und nicht von gestaltendem Einfluss auf das Eisen).
+
+Bitburg. (Berlin, Trier, New-Haven). 126.
+
+Toluca. (Göttingen, Darmstadt, Londan, Berlin u. A.). 139.
+
+Elbogen. (Prag, Upsala, Berlin u. A.). 151.
+
+Putnam County. (London, Göttingen, Berlin, Paris). 162.
+
+Oldham County. (London). 197.
+
+Löwenfluss. (London, Berlin). 186.
+
+Agram (1754, Mai 26) (London, Berlin, Göttingen u. A.). 135.
+
+Lockport. (London, Edinburg, Dublin). 173.
+
+Tazewell. (London, Berlin, Hudson). 187.
+
+Robertson County. (London). 197.
+
+Lenarto. (Pesth, London, Paris, Berlin u. A). 152.
+
+Petropawlowsk. (Petersburg). 163.
+
+Schwetz. (Berlin, London, Göttingen). 182.
+
+Madoc. (London, Paris). 191.
+
+Nebraska. (London, Göttingen). 196.
+
+Marshall County. (London, Hudson). 194.
+
+Denton County. (Austin, Göttingen). 192.
+
+Red River. (New-Haven, London, Berlin u. A). 153.
+
+Seneca River. (Göttingen, London, Berlin). 186.
+
+Oaxaca. (Berlin). 148.
+
+Oranje River. (London, Göttingen, Berlin). 193.
+
+Rutherford. (London). 181.
+
+Durango. (Berlin, London, Paris u. A). 149.
+
+Smith County. (London, Berlin, Göttingen u. A.). 174.
+
+Ruffs Mountains. (London, Berlin, Copenhagen u. A.). 184.
+
+Jewell Hill. (London, Hudson). 194.
+
+Guilford County. (New-Haven, London, Göttingen). 167.
+
+la Caille. (Paris, Stockholm, Berlin). 158.
+
+Burlington. (London, Berlin, Göttingen, Copenhagen u. A.). 170.
+
+Tula. (London, Berlin). 195.
+
+Asheville. (London, Berlin, Göttingen u.A.). 163.
+
+Cocke County. (Berlin, London, Göttingen u. A). 164.
+
+Arva. (London, Berlin, Göttingen, Upsala u. A). 168.
+
+Tabarz. (Göttingen). 189.
+
+Sarepta. (Berlin, Würzburg, Stuttgart u. A). 190.
+
+Bohumilitz. (Prag, Berlin, Göttingen u. A). 158.
+
+Seeläsgen. (London, Berlin u. A.). 178.
+
+Cranbourne. (London, Copenhagen). 198.
+
+Black Mountains. (London, Copenhagen, Göttingen). 180.
+
+Brazos. (Austin). 161.
+
+Union County. (London). 187.
+
+Nelson County. (Berlin, London). 198.
+
+Bahia. (München, London, Göttingen, u. A.). 142.
+
+Pittsburg. (Göttingen). 185.
+
+Braunau (1847, Juli 14) (Berlin, Breslau, London u. A.). 176.
+
+Tuczon. (London). 183.
+
+Concepcion. 138.
+
+Saltillo. (Washington). 192.
+
+Zacatecas. (London, Berlin, Heidelberg, München u. A.). 144.
+
+Rasgata. (Paris, Berlin, London, Petersburg, Göttingen). 155.
+
+Seriba. (London, Göttingen). 166.
+
+Tucuman. (London, Copenhagen, Berlin, Paris, Göttingen). 136.
+
+Salt River. (London, Berlin). 185.
+
+Senegal. (Paris, Berlin, London, Göttingen). 136.
+
+Chesterville. (London, Berlin, Göttingen). 182.
+
+Cap der guten Hoffn. (London, Göttingen, Heidelberg). 146.
+
+Green County. (London, Göttingen, Edinburg, Berlin). 172.
+
+Livingston County. (London). 174.
+
+Claiborne. (London, Berlin). 161.
+
+Morgan County. 181.
+
+Grönland. (Copenhagen u. A.). 154.
+
+Madagascar. 174.
+
+Hemalga. (London, Edinburg, Paris). 190.
+
+System von G. Rose.*
+
+Systematisches Verzeichniss der Meteoriten in dem mineralog. Museum der Universität zu Berlin.
+
+I\. Eisenmeteoriten.
