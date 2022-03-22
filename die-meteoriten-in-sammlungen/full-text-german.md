@@ -944,3 +944,116 @@ Fe. Ni.
 Meyer hat den Stein nicht selbst analysirt, sondern nur die Procentberechnung der Analyse Howarv’s bekannt gemacht. Nach Schwefel, der jedenfalls darin enthalten ist, wurde nicht gesucht.
 
 Literatur: Howard Phil. Trans. 1802. Voigt Magaz. 10, 220. Chladni Feuermet. 246.
+
+Luponnas (nach dem Dict. des Postes de l'Empire, nicht Liponas oder Laponas) bei Pont-de-Vesle und Bourg-en-Bresse, Dep. de l'Ain, Frankreich.
+
+1753, Sept. 7, 1 Uhr Nachmittag.
+
+Nach heftiger Detonation fielen zwei, vielleicht auch mehr Steine von 10 und fast 6 K. Fragmente finden sich nur in sehr wenigen Sammlungen: Wien (83,673 Gr.), Berlin (1,666 Gr.), London (1,4 Gr.) und in den Privatsammlungen von de Luynes (44 Gr.), v. Reichenbach, Shepard und Greg.
+
+Specifisches Gewicht: 3,6612 Rumler.
+
+Die Oberfläche hat ausgezeichnete Vertiefungen; die Rinde ist matt.
+
+Die dunkelasch- oder blaulichgraue Grundmasse wird von schwärzlichgrauen Partien durchzogen und bekommt dadurch ein fleckiges oder marmorirtes Aussehen; in beiden zeigen sich Rostflecken und ziemlich deutliche, aber mit der Hauptmasse fest verwachsene kugelige Bildungen. Eisen ist fein und mittelfein, Schwefeleisen sehr fein eingesprengt.
+
+Eine Analyse wurde nicht bekannt.
+
+Literatur: Izarn 56 ausführlicher als Bigot de Morogues 101. Gilb. Ann. 13, 343.
+
+Alboreto, unweit Modena, Italien. 1766, Mitte Juli, 5 Uhr Abends.
+
+Unter heftiger Detonation fiel ein sehr grosser Stein nieder; ob eine Feuerkugel vorher bemerkt wurde, ist zweifelhaft. Der Stein wurde noch heiss ausgegraben. Ein Stück von unbekannter Grösse ist im Mineraliencabinet zu Bologna. Grössere Sammlungen besitzen nichts davon. Daher sind auch die Beschreibungen sehr mangelhaft und beschränken sich auf die Angaben der Zeitgenossen des Falls. Die Oberfläche war mit einer dunkeln Rinde überzogen, das Innere war sandsteinartig und enthielt zahlreiche Eisentheilchen. Das specifische Gewicht wird jedenfalls unrichtig als 1,33 angegeben.
+
+Chiodelli analysirte den Stein und fand, dass er aus halbverbranntem Eisen verbunden mit einer scharfen arsenikalischen Substanz bestehe, die beide sich zufällig mit fetter und sandiger Erde vermischt hätten. Diese Analyse ist gar nichts werth.
+
+Literatur: v. Ende Massen und Steine 44. Chladni Feuermet. 250.
+
+Luce, Maine, jetzt Dep. de la Sarthe, Frankreich. 1768, Sept. 13, 4 1/2 Uhr Nachmittag.
+
+Ohne dass eine Feuererscheinung wahrgenommen wurde, fiel nach heftiger Detonation aus einer dunkeln Wolke in gekrümmter Linie ein Stein von fast 4 K. nieder, der so heiss war, dass man ihn nicht angreifen konnte. Er zerbarst beim Auffallen. Bruchstücke sind nur in wenigen Sammlungen: Wien besitzt 3 St. (166,797 Gr.), Berlin (22,657 Gr. aus Chladnis Sammlung, nach Partsch verschieden von den Wiener Stücken), Zürich (Universität und Polytechnikum 14,5 Gr.), Freiberg (10 Gr.) und die Privatsammlungen von v. Reichenbach, Shepard und Greg. Der grösste Stein war früher in der Sammlung des Ministers Trudaine in Montigny.
+
+Specifisches Gewicht:
+
+3,535 Lavoisier und Cadet,  
+3,4726 Rumler.
+
+Die Rinde ist schwarz, matt, rauh, an einigen Stellen blasig und gibt am Stahl schwache Funken.
+
+Die Grundmasse ist lichtgrau, unter der Lupe krystallinisch körnig; sie besteht aus helleren und dunkleren Theilchen; einzelne dunklere Körnchen erinnern an undeutliche Krystalloide, zeigen aber keine Spaltungs-, sondern fast splitterige Bruchflächen. Sie enthält Rostflecken und ist durchsäet mit undeutlichen kugeligen Absonderungen. In Masse ist Eisen fein und mittelfein, Schwefeleisen sehr fein eingesprengt.
+
+Lavoisier und Cadet, als Commission der Academie, analysirten den Stein und fanden:
+
+Schwefel 8,5  
+Eisen 3,6  
+Verglasbare Erde 55,5
+
+Die Commission schloss daraus, dass der Stein weder durch den Donner entstanden, noch vom Himmel gefallen sei; am wahrscheinlichsten schien es ihr, er habe unter demRasen gelegen und sei durch einen Blitz oberflächlich geschmolzen und herausgeschleudert worden.
+
+Literatur: Das Geschichtliche bei Izarn Lithologie 61, 192, 301 ausführlicher, als bei Bigot de Morogues 105. Lavoisier und Cadet Mem. Ac. Paris 1769. Journ. de Phys. 1772.
+
+Mauerkirchen, damals in Bayern, jetzt im Innviertel, Oesterreich ob der Enns. 1768, Nov. 20, nach 4 Uhr Nachmittag.
+
+Man hörte ein heftiges Sausen und Brausen, dann fiel ein Stein, der aber erst am folgenden Morgen gefunden wurde; er wog 19 K. und war in zwei Stücke zerbrochen. Das grösste, auf vier Seiten mit wohlerhaltener Rinde bedeckte Fragment von 8 K. 802 ist in München; ferner besitzen Wien (2 St. 581,887 Gr.), London (322 Gr.), Berlin (229,741 Gr.), Copenhagen (70 Gr.), Kiel (50 Gr.), Gotha (41 Gr.), Harlem (Teylers Mus. 33,8 Gr.), Göttingen (26 Gr.), Tübingen (17,5 Gr.), Darmstadt (15 Gr.), Paris (15 Gr.), Stuttgart und Zürich (klein) und in den Privatsammlungen von Neumann (2 St. 51 Gr.), v. Reichenbach, Shepard, Greg und Kessler.
+
+Specifisches Gewicht:
+
+3,452 Imhof,  
+3,4566 Rumler.
+
+Die Rinde ist etwas dicker, als bei vielen anderen Meteorsteinen, graulich- oder bräunlichschwarz, glanzlos, am Stahl Funken gebend.
+
+Die Grundmasse ist hellgrau, fast weiss, wenig zusammenhängend, leicht zerreiblich, mit ziemlich vielen, auf den Bruchflächen wenig wahrnehmbaren, auf Schnittflächen aber leicht erkenntlichen kugeligen Bildungen. Man erkennt kleine plattgedrückte, eckige, schwarzgraue, glänzende Körnchen und andere, die weiss und gelblich, durchscheinend und schimmernd sind. Sehr geschmeidiges und zähes Eisen ist in feinen Körnern und Zacken, viel Schwefeleisen sehr fein, aber auch zuweilen in Körnern bis zu Hanfkorn- und Bohnengrösse eingesprengt.
+
+Die Analyse von Imhof ist unvollkommen.
+
+Fe. Ni. Fe2O3. CaO. SiO3. S u. Verl.  
+2,33. 1,2. 40,24. 28,75. 25,4. 2,08.
+
+Literatur: Imhof Gilb. Ann. 15, 316. 18, 328.
+
+Dorf Sena, Bezirk Sigena, Aragonien, Spanien. 1773, Nov. 17, um Mittag.
+
+Ein Stein von etwa 4 1/2 K. fiel unter den gewöhnlichen Umständen und wurde noch heiss gefunden. Die Hauptmasse befand sich im k. Naturaliencabinet zu Madrid, wo sie aber jetzt nicht mehr vorhanden sein soll. Ausserdem sind Bruchstücke in Paris (Mus. Hist. nat. 58 Gr.), Wien (3,828 Gr.) und in v. Reichenbachs Sammlung.
+
+Specifisches Gewicht: 3,6382 Rumler.
+
+Der Stein war unregelmässig eiförmig; auf einer abgeplatteten Basis erhob sich eine dreiseitige stumpfe Pyramide mit abgerundeten Kanten.
+
+Die Rinde ist schwarz und glasig.
+
+Das Innere ist bläulich-, fast dunkelgrau, wie Sandstein, es schliesst wenige eiförmige, abgerundete Körner ein, deren grösste wie Hanfkörner gross sind; zwischen diesen liegen die metallischen und schwefelhaltigen Theile. Das Eisen ist ungleich vertheilt, meist fein eingesprengt.
+
+Proust analysirte den Stein und fand:
+
+FeS. FeO.* SiO3. MgO. CaO, MnO. Sa.  
+12. 5. 66. 20. Spur. 103.
+
+*) Schwarzes Eisenoxyd.
+
+Wird das FeS stöchiometrisch zerlegt, und aus Prousr’s Eisenbestimmungen, die zuerst 17, dann 19, dann 22 Th. Eisen gab, welches 3% Nickel enthalten soll, das Mittel genommen, so ergibt die Analyse:
+
+FeO. SiO3. MgO. CaO, MnO. Fe-Ni. S. Sa.
+5. 66. 20. Spur. 7,54-(18,753. 0,579). 4,46. 103.
+
+Literatur: Proust Journ. de Phys. 60, 185. Gilb. Ann. 24, 261. Chladni Feuermet. 253. Partsch 76.
+
+Eichstädt (im Wittmess, einer Waldgegend etwa 2 St. v. Eichstädt). 1785, Febr. 19, nach 12 Uhr Mittags.
+
+Ein Bauerknecht, durch das Getöse aufmerksam gemacht, beobachtete den Fall des Steins, der heiss war und den Schnee schmolz. Er wog fast 3 K. und hatte ungefähr 1 Fuss Durchm.; doch scheinen noch mehre gefallen zu sein. München besitzt 3 St. (611,25 Gr.). Kleinere Stücke sind in Zürich (293 Gr.), Wien (2 St. 127,97 Gr.), Göttingen (25,87 Gr.), Berlin (15,993 Gr.), London (2,275 Gr.), und bei v. Reichenbach.
+
+Specifisches Gewicht:
+
+3,700 v. Schreibers,  
+3,599 Rumler.
+
+Die Rinde ist dünn, rauh, matt und schwarz.
+
+Das Innere besteht aus einer dunkelgrauen ziemlich grobkörnigen Grundmasse mit vielen Rostflecken. Auf dem Bruch ragen zahlreiche kleinkugelige leucitartige Einschlüsse hervor. Als zweiter Gemengtheil erscheint eine kleinkrystallinische hellgraue Substanz, welche die rundlichen dunkleren Körner gleichsam verkittet, jedoch nur unter der Lupe die krystallinische Bildung erkennen lässt. Ausser diesen beiden sieht man auch grünliche Theilchen, von denen einzelne krystallinisch sind und zum Theil deutliche glänzende Krystallflächen zeigen; ihr Bruch ist glasig-muschelig. Eisen ist mittelfein und reichlich eingesprengt, Magnetkies weniger und sehr fein.
+
+Klaproth analysirte den Stein und fand:
+
+SiO3. MgO. Fe2O3. Fe. Ni. S. u. Verl.  
+37,0. 21,50. 16,50. 19. 1,50. 4,50.
+
+Literatur: Klaproth Beiträge 6, 296. Gilb. Ann. 13, 338. Partsch Meteoriten 78.
