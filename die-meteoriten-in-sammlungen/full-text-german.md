@@ -1057,3 +1057,104 @@ SiO3. MgO. Fe2O3. Fe. Ni. S. u. Verl.
 37,0. 21,50. 16,50. 19. 1,50. 4,50.
 
 Literatur: Klaproth Beiträge 6, 296. Gilb. Ann. 13, 338. Partsch Meteoriten 78.
+
+Gouvernement Charkow. (Auf einem Felde der Slobode Jigalowka, 10 Werst von dem Dorf Bobrik im Sumschen Kreis. Auch bei Lebedin sollen Steine gefallen sein.) 1787, Oct. 1. a. St. Oct. 13. n. St. 3 Uhr Nachmittag.
+
+Nach einem Getöse, das unzweifelhaft unrichtig als mehre Stunden dauernd angegeben wird, fielen einige Steine, die noch warm ausgegraben wurden. Die Hauptmasse besitzt die Universität Charkow. Kleinere Stücke sind in Petersburg (Akad. d. Wiss.), London (493,9 Gr.), Göttingen (44,18 Gr., 2 St.), Berlin (2,499 Gr.), Wien (1,64 Gr.), Freiburg im Breisgrau (3 kl. Stückchen) und in den Privatsammlungen von v. Reichenbach und Greg.
+
+Specifisches Gewicht: 3,4902 Rumler.
+
+Die Rinde ist grau- bis braunschwarz, fast glatt, wenig glänzend und dünn.
+
+Die lichtaschgraue Grundmasse enthält undeutliche Körner eingemengt, die etwas ins Grünliche ziehen. Eisen ist in geringer Menge und fein, Schwefeleisen sehr fein eingesprengt.
+
+Analysen wurden gemacht von Schnaubert und Giese (I) und von Scheerer (II).
+
+SiO3. MgO. Mn2O3. MnO. Fe. Ni. S. C.  
+I\. 48,00. 22,05. 6,00. -,-. 21,78. 1,60. unbest.  
+II\. 51,0. 20,5. -,-. 4,20. 19,8. 1,5. 3,0.
+
+Lowitz fand noch eine Spur Chrom.
+
+Literatur: Gilb. Ann. 31, 321. Mem. Ac. Petersb. 6, Hist. 47. Erman Arch. 5, 176.
+
+Barbotan (Roquefort, Creon, Juillac, Mezin, Eause, Armagnac, Losse, Agen, St. Sever, La Grange), Dep. des Landes, Dep. Lot et Garonne, Dep. du Gers, ehemals Gascogne (danach und wohl auch nach Bordeaux genannt), Frankreich. 1790, Juli 24, nach 9 Uhr Abends.
+
+Ein höchst merkwürdiger und reicher Meteoritenfall, der das grösste Aufsehen erregte und von den Gelehrten Frankreichs mit Hohn als grobe Täuschung und unglaubliche Lüge aufgenommen wurde.
+
+Eine grosse Feuerkugel wurde bei klarem Himmel und hellem Mondschein im südwestlichen Frankreich gesehen: sie detonirte heftig und dann fielen viele Steine nieder, meist etwa 1 K. schwer, aber auch bis 15 K. Bruchstücke sind in vielen Sammlungen. Wien besitzt 2 St. (zusammen 619,621 Gr.), Gratz (576 Gr.), London (481,13 Gr.), Paris (411 Gr., 2 St.), Bordeaux (nach Gilb. Ann. 18, 284 ein 15 Zoll langes Stück), Berlin (302,212 Gr.), Leipzig (239,74 Gr., 2 St.), Darmstadt (78,35 Gr.), Copenhagen (45,5 Gr., mehre St.), Zürich (44,6 Gr.), Gotha (33,45 Gr.), Stockholm (17 Gr.), Gratz, Upsala (10,1 Gr.), Göttingen (8,82 Gr., 2 St.), Calcutta, Hudson und die Privatsammlungen von de Luynes (57,3 Gr., 2 St.), v. Reichenbach, Shepard, Greg (43 Gr.), Neumann (20,2 Gr., 2 St.), Nevill und von Baumhauer.
+
+Specifisches Gewicht: 3,6209 Rumler.
+
+Die Rinde ist schwärzlich, matt, ziemlich dick, runzelig.
+
+Die dunkelgraue, stark rostbraun gefleckte, feste Grundmasse enthält sehr wenige kugelige Einschlüsse, stellenweise feine schwarze Adern und meist fein eingesprengtes Eisen, das aber auch in linsen- bis bohnengrossen Körnern, sowie in unvollkommnen Würfeln auftritt. Schwefeleisen ist nur sehr fein eingesprengt, wurde aber von Vauquelin bei der Analyse vernachlässigt. Er fand:
+
+SiO3. MgO. CaO. Fe2O3. NiO. Sa.  
+46. 15. 2. 38. 2. 103.
+
+Literatur: Gilb. Ann. 13, 346. 421. 15, 320. 328. 429. 18, 284.
+
+Siena in Toscana, Italien. 1794, Juni 16, nach 7 Uhr Abends.
+
+Unter heftigen Detonationen fielen aus einer kleinen feurigen Wolke viele Steine; dieses Wölkchen kam von Norden her, nach anderen Angaben zog es von Ost nach West, rauchte wie ein Schmelzofen und sprühte Funken wie eine Rakete. Es fielen viele, aber kleine Steine, welche sich auf 3 bis 4 ital. Meilen zerstreuten; ein kleiner schlug durch den Hut eines Knaben und versengte ihn. Der grösste scheint fast 3 1/2 K. gewogen zu haben.
+
+Dieser Steinfall erregte grosses Aufsehen; 18 Stunden vorher war ein heftiger Ausbruch des Vesuvs und die Meinung lag nahe, dass die Steine dabei ausgeschleudert worden seien. Doch hätten sie dann einen Weg von 50 Meilen zurücklegen müssen. Auch zeigte schon Howard, dass auf dem Vesuv derartige Steine nicht vorkommen. Olbers entwickelte dann seine Mondhypothese, die noch jetzt manche Anhänger hat, obgleich Olbers selbst davon später zurückkam.
+
+Bruchstücke sind in vielen Sammlungen; die meisten besitzt wohl Pisa (3 St. 403 Gr.) und Wien (7 St. 196,87 Gr.), Berlin (52,145 Gr.); in Göttingen sind 2 ganze Steine mit Rinde (5,09 Gr., 17,5 Gr.), dann finden sich kleinere Stücke in London (20 Gr.), Clausthal (19,1 Gr.), Bologna, Florenz, Gotha (8,73 Gr.), Zürich (3,6 Gr.) und in den Privatsammlungen von de Luynes (6,9 Gr.), v. Reichenbach, Greg (215 Gr.), Shepard, Nevill und Buchner.
+
+Specifisches Gewicht:
+
+3,34-3,40 Klaproth,
+2,986 Thomson,
+3,3-3,4 v. Schreibers,
+3,418 Bournon,
+3,390 Rumler.
+
+Die Rinde ist zart und fein runzelig-aderig, matt, fast kohlschwarz, zum Theil feinrissig und dadurch weiss geadert.
+
+Die Grundmasse ist sehr feinkörnig, krystallinisch, hellgrau, zum Theil rostbraun gefleckt, mit vielen zum Theil lichtgrünlichen oder bernsteingelben, olivinartigen, zum Theil schwärzlichen, oder dunkelgrauen, wachsglänzenden, selten kugeligen, ıneist eckigen Einschlüssen, so dass das Ganze breccien- oder porphyrartig aussieht. Magnetkies ist fein, zum Theil auch in Körnern, das Eisen aber sehr fein in einzelnen zerstreuten Körnchen und Punkten eingesprengt.
+
+Die Analysen von Howard (1 und 2) und Klaproth (3) haben hauptsächlich historische Wichtigkeit.
+
+SiO3. MgO. FeO. MnO. Fe. Ni. S. NiO.
+1\. 46,66. 22,66. 34,66. -,-. -,-. -,-. -,-. (Erdige Matrix)  
+2\. -,-. -,-. -,-. -,-. 75. 25. -,-. (Metall darin)  
+3\. 44,0. 22,5. 25. 0,25. 2,25. 0,6. 5,4.
+
+Literatur: Gilb. Ann. 6, 46. 13, 296. 312. 18, 285. Pogg. Ann. 24, 222. 105, 441. 111, 355. 371. Chladni Feuermet. 261. Partsch 31.
+
+Wold Cottage, Yorkshire, England. 1795, Dec. 13, 3 1/2 Uhr Nachmittags.
+
+Dieser Steinfall ist für die Geschichte der Meteoriten von Wichtigkeit, indem die genau beobachteten und von Capitän Topuam, bei dessen Wohnung das Ereigniss stattfand, zusammengestellten und veröffentlichten Thatsachen wenigstens in England, wenn auch noch nicht in Frankreich, die Zweifel an die Möglichkeit eines solchen Ereignisses vernichteten. Bournon und Howarp wurden durch diesen Steinfall wesentlich zu ihrer trefflichen Arbeit angeregt, die nachher epochemachend wurde.
+
+Nach heftigen Detonationen, ohne dass gleichzeitig eine Feuerkugel gesehen worden wäre, fiel ein Stein von 25 1/2 K., der von Zeugen des Falles noch heiss und rauchend ausgegraben wurde. Das grösste Stück war lange Eigenthum der Familie Sowerby, wurde aber 1838 vom brit. Museum für 2500 fl. gekauft und wiegt jetzt noch 21 K. 581,4 Gr. Göttingen besitzt 2 St. (134,76 Gr.) und Wien (36,647 Gr.). Ausserdem sind Bruchstücke in Paris (7 Gr.), Berlin (2,998 Gr.), Hudson und in den Privatsammlungen von Reichenbach, Shepard, Greg und Nevill.
+
+Specifisches Gewicht:
+
+3,508 Bournon,  
+4,2402 Rumler.
+
+Die Rinde ist schwarz, matt oder schwach schimmernd.
+
+Die hellgraue, schwach rostbraun gefleckte, ziemlich feste, kaolinartige Grundmasse enthält innig verbunden kleine kugelige oder elliptische, manchmal unregelmässig gestaltete Körnchen und ziemlich viel fein und mittelfein eingesprengtes Eisen, nach Bournon bis zum Gewicht von einigen Grains (zu 0,065 Gr.). Schwefeleisen ist reichlich, aber sehr fein eingesprengt. v. Reichenbach analysirte einen kleinen Einschluss mikroskopisch und bildete ihn ab (Pogg. Ann. 111, 373.).
+
+Bei der chemischen Analyse schied Howarp die erdigen Bestandtheile (I.) von dem hämmerbaren Metall (II.) und fand:
+
+SiO3. MgO. FeO. NiO. Sa.  
+I\. 50,00. 24,66. 32,00. 1,33. 107,99.
+
+Fe. Ni.  
+I\. 86,66. 13,34.
+
+Literatur. Gilb. Ann. 15, 318.
+
+Belaja-Zerkwa (Bjelaja-Zerkow nach Eichwald), ehemals Ukraine, Polen, jetzt Gouvernement Kiew, Russland. 1796, Dec. 23. a. St. 1797, Jan. 4. n. St.
+
+In Gegenwart vieler Zeugen fiel unter den gewöhnlichen Umständen ein beträchtlich grosser Stein, der geschmolzen gewesen und erst nach einigen Stunden fest geworden sein soll. Die akademische Sammlung in Kiew (früher in Wilna) besitzt die Hauptmasse. Ausserhalb Russland scheint nur Neumann in Prag ein Stückchen (0,405 Gr.) zu besitzen.
+
+Ueber die Beschaffenheit des Steins ist nichts bekannt geworden.
+
+Literatur: Gilb. Ann. 31, 1809, 307.
+
+Sales, bei Villefranche, Dep. du Rhone, Frankreich. 1798, März 8 oder 12, 6 Uhr Abends.
