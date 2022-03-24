@@ -1347,7 +1347,7 @@ d\. 6,582%, Wasser. Die entweichende SO2 wurde nicht besonders bestimmt.
 
 Hier folgen die Analysen von Thenard I., der Commission II. und Berzeuius III.
 
-SiOs.. Mg0. Fe0. Mn. NiO. Cr. GC. S. Al,O,. Ca0. * *  
+SiO3. MgO. FeO. Mn. NiO. Cr. C. S. Al2O3. CaO. * *  
 I\. 21. 9. 40. 2,0. 2,5. 1. 2,5. 3,5. -,-. -,-. -,-. -,-.  
 II\. 30. 11. 38. 2. 2 (Ni). 2. 2,5. -,-. -,-. -,-. -,-. -,-.  
 III\. 31,22. 22,21. 29,03. 0,26 (MnO). 1,38. 0,63* -,-. -,-. 2,36. 0,32. 0,80. 8,69.
