@@ -1158,3 +1158,202 @@ Ueber die Beschaffenheit des Steins ist nichts bekannt geworden.
 Literatur: Gilb. Ann. 31, 1809, 307.
 
 Sales, bei Villefranche, Dep. du Rhone, Frankreich. 1798, März 8 oder 12, 6 Uhr Abends.
+
+Eine leuchtende Feuerkugel zog von O. nach W. unter furchtbarem Heulen und Prasseln und Funkensprühen. Der Stein, dessen Fall mehre Zeugen in der Nähe beobachteten, wurde erst am folgenden Morgen ausgegraben; er war nicht mehr heiss, roch aber schwefelig und hatte an mehren Stelle Risse: er wog etwa 10 K., doch wurde er zerschlagen. Ueber die Zeit des Falles finden sich verschiedene Angaben. De Dree, der dem Ereigniss am genauesten nachging, aber erst 1802, nennt den 12. März als Falltag. Pictet in Genf sah aber um dieselbe Abendzeit am 8. März eine Feuerkugel von Ost nach West ziehen, so dass dieser Tag vielleicht der richtige ist. — Sage, der in der Zeit des Unglaubens gleich nach dem Fall ein grosses Stück erhielt, liess es in Gestalt einer Vase abdrehen. Existirt wohl noch dieses Stück gelehrter Barbarei? Das grösste Bruchstück ist in Wien (292 Gr., im Ganzen 334,14 Gr.); kleinere sind in London (191,94 Gr.), Paris (38 Gr.), Berlin (15,993 Gr.), Stuttgart (3 Gr.), Göttingen (0,92 Gr.) und in den Privatsammlungen von v. Reichenbach, Shepard, Nevill und Greg.
+
+Specifisches Gewicht:
+
+3,424 v. Schreibers,
+3,4709 Rumler.
+
+Die Rinde ist schwarz, matt, dick und rauh; sie enthält einige Eisenkörnchen und einige graue Kügelchen; am Stahl gibt sie Funken.
+
+Die Grundmasse ist lichtgrau, etwas ins Dunkle und Braune ziehend, körnig und ist von mikroskopisch feinen schwarzen Adern nach allen Richtungen durchwebt, rostbraun gefleckt und schwarz punktirt; von den wenigen kugeligen Einschlüssen sind sehr wenige schmutzig dunkelgrün, wenige andere graulichweiss, sehr zerbrechlich, von dichtem und ebenem Bruch und weicher als die ersteren. Es ist viel Eisen fein und grob manchmal bis zu 3 mm. Länge eingesprengt, weisser und weniger dehnbar als Schmiedeeisen. Schwefeleisen ist theils fein, theils in Körnchen eingesprengt, theils überzieht es die Flächen der Risse; es ist blättrig, weisslich und wird vom Magnet angezogen.
+
+Sage analysirte den Stein, ohne an seine meteorische Natur zu glauben. Er fand Nickel, Eisen, Schwefeleisen, Kieselerde und Magnesia. Ohne von Howards Untersuchungen Kenntniss zu haben, unterwarf auch Vauquelin den Stein einer Analyse und fand, nachdem alles Eisen und Schwefeleisen entfernt waren:
+
+SiO3. Fe2O3. MgO. Ni. CaO. Sa.  
+46. 38. 15. 2. 2. 103.
+
+Literatur: Sage Journ. de Phys. 1803. Avr. p. 314. De Dree Gilb. Ann. 15, 274. 18, 269. Vauquelin ebd. 33, 200.
+
+Bei Benares, besonders bei dem Dorf Krakhut und mehren umliegenden Dörfern. Bengalen, Ostindien. 1798, Dec. 13, 8 Uhr Abends.
+
+Dieser Meteoritenfall ist für die Geschichte der Wissenschaft wesentlich dadurch von Wichtigkeit, dass er die Frage über die physische Möglichkeit solcher Ereignisse wieder in den Vordergrund schob. Aus einer grossen Feuerkugel fielen nach heftiger Detonation viele Steine auf einen Umkreis von etwa 2 Meilen. Einer von 1 K. schlug durch das Dach einer Hütte. Viele englische und indische Beamte waren Zeugen des Falles.
+
+Bruchstücke sind in mehren Sammlungen. Das brit. Museum besitzt mehre schöne Stücke (zusammen 1 K. 143), Wien 3 St. (das grösste 561,102 Gr., zusammen 663,918 Gr.), Edinburg (127,5 Gr.), Dublin, Paris (14 Gr.), Stockholm (8 Gr.), Berlin (5,997 Gr.), Göttingen (5,41 Gr.) und die Privatsammlungen von v. Reichenbach, Greg, Neumann, Shepard, Auerbach und Nevill.
+
+Specifisches Gewicht:
+
+3,352 Bournon,
+3,0392 Kugel aus dem Stein Rumler,
+3,3659 Stein ohne Rinde Rumler.
+
+Die Rinde ist dunkelschwarz, stellenweise ähnlich Firniss, meist matt und dünn, so dass noch die eingemengten Kugeln zu unterscheiden sind.
+
+Die hellgraue, sehr weiche Grundmasse ist ganz angefüllt mit theils kugeligen, theils unvollkommen nierenförmigen, seltner auch eckigen nadelkopf- bis erbsengrossen, nur selten grösseren Einschlüssen von grünlicher Farbe, die mit der Masse nur wenig zusammenhängen, daher aus derselben hervorragen und beim Herausfallen schalige Eindrücke hinterlassen. Schwefeleisen ist körnig und sehr unregelmässig durch die Masse vertheilt. Noch in geringerer Menge tritt das Eisen darin auf.
+
+Die erste Analyse machte Howar», der getrennt untersuchte: 1. die erdige Matrix, 2. die runden Einschlüsse, 3. das hämmerbare Eisen und 4. das Schwefeleisen. VaugqukLin analysirte die Masse ebenfalls 5.
+
+SiO3. MgO. Fe2O3. NiO. Fe. Ni. S. Sa.  
+1\. 48. 18. 34. 2,5. -,-. -,-. -,-. 102,5 Howard,  
+2\. 50. 15. 34. 2,5. -,-. -,-. -,-. 101,5 Howard,  
+3\. -,-. -,-. -,-. -,-. 73,91. 26,09. -,-. 100,0 Howard,  
+4\. -,-. -,-. -,-. -,-. 75,00. 7,14. 14,28. 96,42 Howard,  
+5\. 48. 13. 38. 3. -,-. 3. X. 105 Vauquelin.
+
+Literatur: Gilb. Ann. 13, 291. 15, 423. 41, 453. Chladni Feuermet. 266. v. Schreibers Beiträge 62. Partsch 43.
+
+l’Aigle (la Vassolerie, Fontenil, la Metonnerie, S. Michel-de Sommaire, St. Nicolas-de Sommaire, Bas Vernet, Mesle, Belangere, la Barne, Bois laville, Corboyer etc.), Normandie, Dep. de l’Orne, Frankreich. 1803, April 26, 1 Uhr Nachmittags.
+
+Dieser Steinfall gehört zu den interessantesten und historischmerkwürdigsten, da er nicht nur der reichste aller bekannten Meteoritenfälle ist, sondern auch mit ihm alles Läugnen der Thatsache selbst und der Widerstand, den CGuıpnt’s Behauptungen im grössten Theile der wissenschaftlichen Welt fanden, ein Ende hatten. Eine hellleuchtende Feuerkugel war nur in grösserer Entfernung, z. B. in Caen, Falaise, St. Rieux, Pont-Audemer, Verneuil etc. gesehen worden; an den Orten des Steinregens selbst bemerkte man ein kleines, fast unbewegtes, dunkles Wölkchen, aus welchem die Detonationen erschallten, die 30 Meilen in der Runde gehört wurden. Dann fielen sehr viele Steine nieder, man nimmt 2000 bis 3000 an, die sich auf einer elliptischen Fläche von 2 1/2, Ml. Länge und 1 Ml. Breite ausstreuten. Fast alle Bewohner von 20 Dörfern dieses Bezirks waren Augenzeugen. In mehren Orten fielen die Steine hageldicht nieder; alle waren heiss und verbreiteten starken Schwefelgeruch. Die grosse Axe der elliptischen Fallfläche war von SO. bis NW. gerichtet; die grössten Steine fielen am SO.-Ende, die kleinsten am entgegengesetzten. Der schwerste wog 8 K. 065.
+
+Hand- und Bruchstücke finden sich fast in allen Sammlungen; die grössten besitzt Wien (4 K. 059,538; der grösste 1 K. 505), Berlin (2 K. 018,659), London (1 K. 511), Gratz (570 Gr.), Zürich (559 Gr., 5 St.), Freiberg (514 Gr.), Stuttgart (381 Gr., 3 St.), Tübingen (3 St., der grösste 240 Gr.), Göttingen (237,84 Gr., 2 St.), Copenhagen (184 Gr., 4 St.), Leipzig (173,15 Gr., 3 St.), Paris (Ecole des Mines 154,5 Gr.), München (125 Gr.), Paris (Mus. Hist. nat. 74 Gr.) und die Privatsammlungen des Fürsten Lobkowitz (2 K. 154, 3 St.), Shepard (987 Gr.), Greg (371 Gr.), Ferber (248 Gr.), van Breda (172,1 Gr., 2 St.), Neumann (117,27 Gr., 2 St.).
+
+Specifisches Gewicht:
+
+3,584 Reuss,
+3,626-3,490 v. Schreibers,
+3,279 Blesson,
+3,4791 ohne Rinde Rumler,
+3,3910 mit Rinde Rumler.
+
+Die Rinde ist braun, matt, klein- und plattnarbig, nicht rauh.
+
+Die Grundmasse ist theils hell-, theils dunkelgrau, entweder flockenartig neben eimander, oder der lichtere Theil ist vom dunkleren in mehr oder weniger dickem aderigen Gewebe durchzogen. Vielfach treten auch rostbraune Flecken auf. Heilere und dunklere, allermeist rundliche Körner sind der Grundmasse porphyrartig eingemengt, sowie bis bohnengrosse Partien, welche durch Zusammenfliessen der schwarzen Adern entstanden sind. Schwarze graphitartig aussehende Ablösungsflächen siud nicht selten. Eisen tritt in ziemlicher Menge zum Theil grobkörnig, Schwefeleisen nur äusserst feinkörnig auf.
+
+Aeltere Analysen existiren von Thenard 1. und Fourcroy und Vauquelin 2.
+
+SiO3. MgO. CaO. FeO. NiO. S. Sa.  
+1\. 46. 10. -,-. 45. 2. 5. 108.  
+2\. 53. 9. 1. 36. 3. 2. 104.
+
+Laugier wies noch 0,01%, Chromoxyd nach.
+
+Literatur: Biot Gilb. Ann. 15, 74. Thenard u. A. ebd. 16, 44. 70. Vauquelin u. A. 18, 310. 318. Laugier ebd. 24, 383.
+
+Saurette bei Apt, Dep. Vaucluse, Frankreich. 1803, Oct. 8, 10 Uhr Vormittag.
+
+Unter hefligem, in weitem Umkreis hörbarem Krachen fiel ein Stein von etwa 4 K., wovon das grösste Stück (1 K.) im Mus. Hist. nat. zu Paris aufbewahrt wird. Kleinere Stücke sind in Wien (324,845 Gr., 2 St., das grösste 287,663 Gr.), Berlin (15,993 Gr.), Gotha (5,65 Gr.) und in den Privatsammlungen von v. Reichenbach, de Luynes (9,5 Gr.), Greg und Shepard.
+
+Specifisches Gewicht: 3,4852 Rumler.
+
+Die Rinde ist schwarz, dünn, matt und rauh.
+
+Die feinkörnige graue Grundmasse ist rostbraun gefleckt und enthält einzelne, meist hellere kugelige Einschlüsse. Auf frischem Bruch sind meist die feinen Körnchen von Eisen und Schwefeleisen kaum zu sehen. Doch ist ersteres zum Theil auch grob eingesprengt.
+
+Laugier fand bei der Analyse:
+
+SiO3. MgO. FeO. MnO. NiO. Cr2O3. S. Verl. u. Wasser (?)  
+34. 14,5. 38,03. 0,83. 0,33. 0,01. 9. 3,31.
+
+Literatur: Gilb. Ann. 16, 72. 18, 321.
+
+Mässing (St. Nicolas) bei Altötting, Landger. Eggenfeld in Bayern. 1803, Dec. 13, zwischen 10 und 11 Uhr Vormittag.
+
+Durch heftige Detonationen aufgeschreokt, sah ein Bauer das Niederfallen des Steins, der durch das Dach eines Schuppens schlug und noch ganz heiss aufgenommen wurde. Er wog etwa 1 K. 600 Gr. Es ist nur noch wenig davon vorhanden. Die grössten Bruchstücke sind in Berlin (23,823 Gr.), Paris (22 Gr.), München (16,2 Gr.). Ferner sind in Wien (3,25 Gr.), Zürich (2,8 Gr.) und in den Sammlungen von v. Reichenbach, Neumann (0,25 Gr.) und Greg.
+
+Specifisches Gewicht:
+
+3,365 Imhof,
+3,3636 Rumler.
+
+Die Rinde ist dünn, sehr schwarz und glänzend, fast wie gefirnisst.
+
+Die Grundmasse ist graulichweiss, sehr feinkörnig, ziemlich locker, ähnlich Bimsteinporphyr und besteht zumeist aus einem wie Feldspath aussehenden lockeren schneeweissen Mineral von blätterig-strahliger Structur, worin kugelige und eckige Einschlüsse bis Erbsengrösse von unreiner pistaziengrüner Farbe mit ziemlich vollkommenen schiefwinkligen Theilungsflächen, dann kubische schwarze und endlich ganz kleine durchscheinende Körner und Blättchen von gelblicher oder olivengrüner Farbe zum Theil über 1 Linie dick eingemengt sind. Eisen, Schwefeleisen, das unter der Lupe krystallinisch erscheint, und Chromeisen sind fein eingesprengt.
+
+Die Analyse von Imhof ist mangelhaft:
+
+SiO3. MgO. Fe2O3. Fe. Ni.  
+31. 23,25. 32,54. 1,8. 1,35.
+
+Im Verlust von 10,06% sind Schwefel, Chrom etc. enthalten.
+
+Literatur: Gilb. Ann. 18, 330. Schafhäutl Münchn. Gel. Anz. 1847, 24, 558.
+
+Dorf High-Possil bei Glasgow, Schottland. 1804, Apr. 5, Vormittags.
+
+Nach heftigem Getöse, das von West nach Ost zog und unter den gewöhnlichen Schallerscheinungen, wobei man eine Rauchwolke, aber kein Feuermeteor beobachtete, fiel ein Stein, der in zwei Stücke gebrochen, wieder weggeworfen und später wieder gesucht wurde; er wurde zum Theil gefunden und sind Bruchstücke nur in London (91,91 Gr.), Wien (15,313 Gr.) und in Gregs Sammlung (24 Gr.).
+
+Specifisches Gewicht: 3,5306 Rumler.
+
+Die Rinde ist schwarz und matt, das Innere hellgrau, rostbraun gefleckt, auch schwarz gesprenkelt, mit undeutlichen grauen kugeligen Einschlüssen. Das Eisen ist fein, meist aber grob eingesprengt, Schwefeleisen aber sehr fein.
+
+Literatur: Gilb. Ann. 24, 369.
+
+Doroninsk, Gouv. Irkutsk, Sibirien. 1805, März 25, nach Eichwald Apr. 10. n. St. 5 Uhr Abends.
+
+Unter heftigem, weithin hörbarem Getöse fielen aus einer von Westen kommenden dunkeln Wolke mehre Steine, von welchen zwei gefunden wurden; der erste von fast 3 K. war noch nach 1/2 Stunde zu heiss, um ihu zu halten; der zweite wog etwa 1 K. Das grösste Bruchstück scheint Prof. Auerbach in Moskau zu besitzen (179 Gr. mit viel Rinde), Wien hat 61,250 Gr., Berlin 52,312 Gr., Shepard 115 Gr., und Greg 14 Gr.
+
+Specifisches Gewicht: 3,6154 Rumler.
+
+Die Rinde ist matt und schwarz. Im Anfang soll der Stein aussen wie mit Russ bedeckt gewesen sein, der abgewischt werden konnte, worauf eine dunkelkaffeebraune Oberfläche erschien.
+
+Im Innern ist die Masse dunkelaschgrau oder bläulich und durch eine Menge Rostflecken fast braun, sehr dicht, mit helleren, undeutlichen kugeligen Einschlüssen, die mit der Grundmasse fest verwachsen sind und als kleine Flecken erscheinen. Ferner zeigen sich schwarze Ablösungsflächen und undeutliche, sehr feine die Masse durchziehende Adern. Eisen und Magneteisen sind sehr fein eingesprengt.
+
+Die Analyse von Scheerer ist zweifelhaft richtig, gibt auch keinen Aufschluss über die Richtigkeit der Angabe, dass der Stein einen salzigen Geschmack gehabt.
+
+SiO3. MgO. CaO. MnO. Cr203. Al2O3. Fe. Ni. S. Sa.  
+40,50. 9,00. 6,25. 1,25. 2,00. 3,25. 18,50. 10,00. 8,12. 98.87.
+
+Literatur: Scheerer Mem. Ac. Petersb. 6. Hist. 46. Stoikowitz Gilb. Ann. 29, 212. 31, 308.
+
+Constantinopel, Türkei. 1805, im Juni.
+
+Am hellen Tage fielen auf dem Fleischplatz mitten in der Stadt mit grosser Heftigkeit mehre Steine nieder. Die Griechen, denen man bei diesem Ereigniss die Schuld gab, wurden desshalb angefeindet. Aber der Schwefelgeruch und die schwarze Rinde überzeugten vom meteorischen Ursprung. Ein Bruchstück (7,656 Gr.) befindet sich nur in der Wiener Sammlung und ein kleines Stückchen bei v. Reichenbach.
+
+Specifisches Gewicht: 3,17 Rumler.
+
+Die Rinde ist schwarz, schwach glänzend, das Innere grau, gleichartig gemengt, stellenweise von dünnen schwarzen Adern durchzogen. v. Reichenbach analysirte mikroskopisch ein eingeschlossenes Fleckchen.
+
+Literatur: Gilb. Ann. 71, 361. Partsch 26. v. Reichenbach 111, 368. 372.
+
+Asco, Insel Corsika. 1805, November.
+
+Ueber das Ereigniss selbst ist nichts bekannt geworden; der Stein soll in einer Kirche auf Corsika aufbewahrt werden. Stückchen davon befinden sich nur in den Sammlungen von Wien (18,59 Gr.), Berlin (6,664 Gr.) und v. Reichenbach.
+
+Specifisches Gewicht: 3,6681 Rumler.
+
+Die Grundmasse ist lichtgrau, mit Rostflecken und kleinen undeutlichen kugeligen Einschlüssen. Eisen ist fein und mittelfein reichlich eingesprengt. Adern treten sehr fein, schwarz und undeutlich auf.
+
+Literatur: Pogg. Ann. Ergb. 4, 11. 441, Partsch 64.
+
+Alais, eigentlich bei den Dörfern St. Etienne de Lolm und Valence, Dep. du Gard, Frankreich. 1806, März 15, 5 1/2 Uhr Abends.
+
+Unter den gewöhnlichen Erscheinungen fielen zwei Steine von 4 und 2 K., die beim Aufschlagen in Stücke zerbrachen. Zeugen beobachteten den Fall und nahmen noch heisse Stücke auf. In Sammlungen finden sich nur kleine Fragmente (Paris, Wien, Berlin, London, Stockholm, Zürich und in den Privatsammlungen von Neumann (Prag), v. Reichenbach, Shepard, Greg, de Luynes und Auerbach.
+
+Specifisches Gewicht:
+
+1,94 Biot,  
+1,7025 Rumler.
+
+Ganz eigenthümlicher Stein, ähnlich einer erdigen Kohle. Die Rinde ist bräunlichschwarz, matt, das Innere ist ebenso gefärbt, schr weich und zerreiblich, daher in den Sammlungen als Bröckchen oder Pulver; beim Reiben nehmen sie Harzglanz an. In Wasser zerfällt die Masse zu einem graugrünen Brei mit Thongeruch; an der Luft bedeckt sie sich mit weissen Salzausblühungen (nach Berzelius MgOSO3 und NiOSO3). Auch mit der Lupe lassen sich weder kugelige Einschlüsse, noch Eisenkörnchen, und nur schwer und selten Körnchen von gelbem Schwefeleisen unterscheiden. Doch verrathen die starken Rostflecken die Gegenwart von Eisen. Am Feuer verbreitet die Masse schwachen Bitumengeruch; vor dem Löthrohr ist sie schwer schmelzbar. Bei abgehaltener Luft erhitzt verliert sie nach Thenard 17%, dabei CO2.
+
+Die Analysen von Tugnarp, der Commission des Institut de France (Monge, Fourcroy, Berthollet und Vauquelin) und von Berzelius lassen zweifelhaft, ob der Stein ursprünglich Wasser enthielt. Entweder wurde der Verlust als Wasser angenommen oder das von Berzelius nachgewiesene Wasser kann auch hygroskopisch aufgenommen worden sein. Am genauesten ist die letzte Analyse. Nach Berzelius lässt sich die Masse beim Behandeln mit Wasser scheiden in
+
+1\. 13,28% mit dem Magnet Ausziehbares; schwarz, glanzlos; vorzugsweise FeOFe2O3, Spuren von Fe und FeS.
+
+2\. 11,59% in Wasser Lösliches (MgOSO3, CaOSO3, NaOSO3, KOSO3); Spuren von Ni, NH3, und einer organischen Substanz. Die meisten dieser Verbindungen bildeten sich vielleicht erst im Laufe der Zeit durch die Einwirkung des oxydirten Schwefeleisens auf die Silikate.
+
+3\. 75,13%, Hauptmasse. Wird diese der trocknen Destillation unterworfen, so zerfällt sie in:
+
+a\. 88,146%, schwarzen Rückstand; brennt sich an der Luft roth; vor dem Löthrohr schwer schmelzbar (s. Analysen unten).
+
+b\. 0,944%, graubraunes Sublimat.
+
+c\. 4,328%, Kohlensäure.
+
+d\. 6,582%, Wasser. Die entweichende SO2 wurde nicht besonders bestimmt.
+
+Hier folgen die Analysen von Thenard I., der Commission II. und Berzeuius III.
+
+SiOs.. Mg0. Fe0. Mn. NiO. Cr. GC. S. Al,O,. Ca0. * *  
+I\. 21. 9. 40. 2,0. 2,5. 1. 2,5. 3,5. -,-. -,-. -,-. -,-.  
+II\. 30. 11. 38. 2. 2 (Ni). 2. 2,5. -,-. -,-. -,-. -,-. -,-.  
+III\. 31,22. 22,21. 29,03. 0,26 (MnO). 1,38. 0,63* -,-. -,-. 2,36. 0,32. 0,80. 8,69.
+
+*) Zinnoxyd und Kupfer.
+
+*) Rückstand; liess sich in ein Silikat von Eisenoxydul und Magnesia zerlegen, das auch Thonerde, Nickel und Zinn enthielt. Der Verlust bestand zum Theil aus Sauerstoff, der dem Eisen angehört.
+
+*) Chromeisen.
