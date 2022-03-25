@@ -1411,7 +1411,7 @@ Literatur: Gilb. Ann. 29, 353. 42, 210. Sill. Am. Journ. (2) 6, 410.
 
 Mooradabad, Indien. 1808.
 
-Ueber das Ereigniss des Steinfalls ist nichts Genaueres bekannt geworden. CGalcutta besitzt 3 Stücke (70,87 Gr.). In Europa scheint nur London ein Bruchstück zu besitzen (17,39 Gr.).
+Ueber das Ereigniss des Steinfalls ist nichts Genaueres bekannt geworden. Calcutta besitzt 3 Stücke (70,87 Gr.). In Europa scheint nur London ein Bruchstück zu besitzen (17,39 Gr.).
 
 Specifisches Gewicht: 3,5.
 
