@@ -1357,3 +1357,66 @@ III\. 31,22. 22,21. 29,03. 0,26 (MnO). 1,38. 0,63* -,-. -,-. 2,36. 0,32. 0,80. 8
 *) Rückstand; liess sich in ein Silikat von Eisenoxydul und Magnesia zerlegen, das auch Thonerde, Nickel und Zinn enthielt. Der Verlust bestand zum Theil aus Sauerstoff, der dem Eisen angehört.
 
 *) Chromeisen.
+
+Literatur: Pages Journ. de Phys. 62, 440. Gilb. Ann. 24, 189. Thenard, Fourcroy etc. ebd. 24, 202. Berzelius Poggend. Ann. 33, 113. Partsch 13.
+
+Timochin, Kreis Juchnow, Gouv. Smolensk, Russland (Timoschin nach Blöde, Timschino nach Eichwald). 1807, März 13. a. St. März 25. n. St. Nachmittags.
+
+Ohne dass eine Feuerkugel bemerkt wurde, fiel unter donnerartigem Getöse und Krachen ein grosser Stein von ca. 70 K. unweit zweier Bauern nieder. Die Hauptmasse von etwa 41 K. besitzt die Akademie der Wissenschaften zu Petersburg. Kleinere Bruchstücke sind in vielen Sammlungen: Berlin (437,158 Gr.), Wien (140 Gr., 2 St., der grösste 83,126 Gr.), Charkow (Bull. Ac. Petersb. 5, 198), London (56,87 Gr.), Göttingen (15,4 Gr., 2 St.), Darmstadt (9,3 Gr.) und noch kleinere Stücke in Zürich und Kiel; dann in den Privatsammlungen von v. Reichenbach, Erzh. Stephan (55 Gr.), Shepard, Greg und Auerbach.
+
+Specifisches Gewicht:
+
+3,70 Klaproth,  
+3,6046 Rumler.
+
+Die Rinde ist graulichschwarz, dick, matt und chagrinartig, stellenweise runzelig.
+
+Aus der heller oder dunkler aschgrauen, sehr klein-rostfleckigen, erdigen Grundmasse treten viele dunklere grüne oder braune kugelige Absonderungen hervor, wodurch das Ganze ein mehr kleinporphyrartiges als mandelsteinartiges Aussehen erhält. Eisen tritt reichlich auf in ziemlich starken rauhen Zacken, meist aber als Körner und Punkte, als ästige und zum Theil zusammenhängende Linien und Adern. Schwefeleisen dagegen ist höchst fein ingelben metallglänzenden Punkten eingesprengt und selbst auf derSchlifffläche nur mikroskopisch wahrnehmbar.
+
+Analysen wurden von Scheerer I. und Klaproth II. ausgeführt:
+
+SiO3. MgO. Fe. Fe2O3. Ni. (MnO. S. Cr. Verl.) Al2O3. CaO.  
+I\. 39. 20. 17,75. 17,5. 1,25. (4,5.) -,-. -,-.  
+II\. 38. 14,25. 17,6. 25. 0,4. (3.) 1. 0,75.
+
+Literatur: Scheerer Gilb. Ann. 29, 213. Klaproth ebd. 33, 210. Blöde Bull Ac. Petersb. 6. 1848. no. 1. Eichwald Erman Arch. 5, 177.
+
+Wahrscheinlich ist der Stein von Kikina, Wjasemsker Kreis, Gouv. Smolensk, Russland, der 1809 zu nicht genauer bekannter Zeit gefallen sein soll, ebenfalls von Timochin. Ein Handstück lag in der Sammlung des verstorbenen K. W. Rosenserc in Pawlowsk, und in Wien ist noch ein Stück von 20,784 Gr. Nach EıcawaLp ist die Masse aschfarben, hat einen braungelben Umfang (okrujnost) mit einer glatten, schwarzen und matten Rinde und enthält Körner von Schwefeleisen und gediegenem Eisen eingesprengt.
+
+Literatur: Eichwald Erman Arch. 5, 177.
+
+Weston, Connecticut, Nordamerika. 1807, Dec. 14, 6 1/2 Uhr Morgens.
+
+Eine von N. kommende, sich schlangenartig bewegende Feuerkugel, welche Funken sprühte und einen langen Schweif nachzog, detonirte dreimal und machte jedesmal einen Sprung dabei. Darauf folgten die gewöhnlichen Explosionserscheinungen und der Steinfall an 6 verschiedenen Orten in der Richtung der Meteorbahn: die ersten fielen mehr nach N., die letzten weiter nach S. Der letzte muss wohl 100 K. gewogen haben, war aber beim Auffallen zerborsten; der grösste ganze Stein wog fast 16 K., wurde aber zerschlagen. Anfangs waren die Steine weich, wurden aber beim Liegen an der Luft härter.
+
+Bruchstücke finden sich in vielen Sammlungen. Surrırp in New-Haven scheint am meisten davon zu besitzen (708,6 Gr.), London und Wien haben gleichviel (184 Gr.). Kleinere Stücke sind in Stockholm (55 Gr.), Paris (Ec. des Mines 31,4 Gr., Mus. Hist. nat. 6 Gr.), Copenhagen (32 Gr.), Berlin (21,158 Gr.), Göttingen (5,23 Gr.), Dublin, Zürich (7,5 Gr.), Stuttgart (1,5 Gr.) und in den Privatsammlungen von v. Reichenbach, de Luynes, Greg (125 Gr.), Neumann, Lobkowitz und Rössler (Hanau).
+
+Specifisches Gewicht:
+
+3,6 Silliman,  
+3,3 Warden,  
+3,5854 Rumler.
+
+Die Rinde ist braunschwarz, matt und rissig, sehr uneben. Innen herrscht die dunkelgraue Farbe vor; durch die Masse zerstreut liegen Flecken von hellerer Farbe, die aber nicht von einem ganz gleichartigen Mineral gebildet und meist mit braunen Rostflecken besäet sind. Durch diese Verschiedenheit können kleine Bruchstücke für ganz verschiedenen Localitäten angehörig gehalten werden. Sehr reichlich finden sich kleine kugelige Einschlüsse von gelblicher Farbe, die in den dunkleren Partien weit deutlicher auftreten. Shepard hält sie für Olivinoid, die unregelmässiger gestalteten wie ein Theil der helleren Flecken für Howardit. Schwefeleisen findet sich seltner als gewöhnlich und ist sehr fein und unregelmässig zerstreut. Nickeleisen tritt sehr reichlich nicht nur in kleinen Punkten, sondern auch in fortlaufenden Fäden und Adern auf, sowie in ovalen Massen manchmal von mehr als 3 Gr. Gewicht. Ja in der Sammlung des Duc de Luynes ist eine Eisenkugel daraus wie ein Kirschkern, 0,04 m. auf 0,025 m., welche 32 Gr. wiegt, wohl die grösste Eisenkugel, die je in einem Meteorstein gefunden wurde. An einer solchen Eisenkugel fand Shepard auch Glimmer in kleinen bräunlichgrauen Blättchen.
+
+Analysen lieferten Silliman I. und Warden II.:
+
+SiO3. Fe2O3. MgO. NiO. S. CaO. Al2O3. Cr2O3. MnO. Sa.  
+I\. 51,5. 38. 13. 1,5. 1. -,-. -,-. -,-. -,-. 104.  
+II\. 41. 30.* 16. -,-. 2,3. 3. 1. 2,3. 1,3. 97.  
+
+*) (mit Ni.)
+
+Literatur: Gilb. Ann. 29, 353. 42, 210. Sill. Am. Journ. (2) 6, 410.
+
+Mooradabad, Indien. 1808.
+
+Ueber das Ereigniss des Steinfalls ist nichts Genaueres bekannt geworden. CGalcutta besitzt 3 Stücke (70,87 Gr.). In Europa scheint nur London ein Bruchstück zu besitzen (17,39 Gr.).
+
+Specifisches Gewicht: 3,5.
+
+Die Masse ist ziemlich zerreiblich und enthält Nickel und Chrom. Der Stein scheint mit der häufigsten Art der Meteoriten übereinzustimmen.
+
+Literatur: Poggend. Ann. 24, 223.
+
+Borgo San Donino, Casignano, bei Parma, Italien. 1808, Apr. 19, zwischen 12 und 1 Uhr Mittags.
