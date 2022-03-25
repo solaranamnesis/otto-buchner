@@ -1381,7 +1381,7 @@ II\. 38. 14,25. 17,6. 25. 0,4. (3.) 1. 0,75.
 
 Literatur: Scheerer Gilb. Ann. 29, 213. Klaproth ebd. 33, 210. Blöde Bull Ac. Petersb. 6. 1848. no. 1. Eichwald Erman Arch. 5, 177.
 
-Wahrscheinlich ist der Stein von Kikina, Wjasemsker Kreis, Gouv. Smolensk, Russland, der 1809 zu nicht genauer bekannter Zeit gefallen sein soll, ebenfalls von Timochin. Ein Handstück lag in der Sammlung des verstorbenen K. W. Rosenserc in Pawlowsk, und in Wien ist noch ein Stück von 20,784 Gr. Nach EıcawaLp ist die Masse aschfarben, hat einen braungelben Umfang (okrujnost) mit einer glatten, schwarzen und matten Rinde und enthält Körner von Schwefeleisen und gediegenem Eisen eingesprengt.
+Wahrscheinlich ist der Stein von Kikina, Wjasemsker Kreis, Gouv. Smolensk, Russland, der 1809 zu nicht genauer bekannter Zeit gefallen sein soll, ebenfalls von Timochin. Ein Handstück lag in der Sammlung des verstorbenen K. W. Rosenberg in Pawlowsk, und in Wien ist noch ein Stück von 20,781 Gr. Nach Eichwald ist die Masse aschfarben, hat einen braungelben Umfang (okrujnost) mit einer glatten, schwarzen und matten Rinde und enthält Körner von Schwefeleisen und gediegenem Eisen eingesprengt.
 
 Literatur: Eichwald Erman Arch. 5, 177.
 
