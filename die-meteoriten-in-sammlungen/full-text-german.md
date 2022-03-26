@@ -1420,3 +1420,48 @@ Die Masse ist ziemlich zerreiblich und enthält Nickel und Chrom. Der Stein sche
 Literatur: Poggend. Ann. 24, 223.
 
 Borgo San Donino, Casignano, bei Parma, Italien. 1808, Apr. 19, zwischen 12 und 1 Uhr Mittags.
+
+Eine Feuererscheinung wurde nicht deutlich wahrgenommen; die Detonation war sehr heftig und ein Stein wurde sofort noch ganz heiss aufgefunden. Doch fielen viele Steine auf eine Fläche von etwa 9 Kilometer Umfang. Der grösste war oder ist noch in der Sammlung des verstorbenen Grafen Lınatı in Parma; ausserdem besitzen Bruchstücke die Sammlungen in Paris (428 Gr.), Wien (80,391 Gr., 2 St.), Berlin (15,327 Gr.), London (10,465 Gr.), Göttingen (0,65 Gr.) und die Privatsammlungen von v. Reichenbach, Shepard, de Luynes (2,6 Gr.), Greg (2 Gr.), Neumann (1,7 Gr.).
+
+Specifisches Gewicht:
+
+3,39-3,46 Guidotti,  
+3,399 Rumler.
+
+Die Rinde ist braunschwarz, dünn, halb glasartig, fast matt.
+
+In der lichtgrauen Grundmasse liegen viele kleine kugelige und eckige Einschlüsse, wodurch der Stein ein breccienartiges Aussehen erhält. Eisen ist fein eingesprengt; Schwefeleisen herrscht vor und tritt auch in grösseren Partien auf.
+
+Nach der Analyse von Guiporti besteht der Stein aus
+
+SiO3. MgO. FeO. MnO. NiO. Cr2O3. S.  
+50,0. 19,0. 28,0. 1,5. 2,5. 1,0. 4.
+
+Das Schwefeleisen fand er wenig nickelhaltig. Vauquelin wies in der Steinmasse 0,15%, Thonerde nach.
+
+Literatur: Gilb. Ann. 29, 210. 33, 198.
+
+Stannern (Langenpiernitz), Iglauer Kreis, Mähren. 1808, Mai 22, gegen 6 Uhr Morgens.
+
+Nicht nur die Steine sind höchst merkwürdig, sondern auch der Fall selbst vortrefflich beobachtet, die Thatsachen durch gerichtliche und wissenschaftliche Untersuchungen festgestellt und die Steine in reichlicher Menge sorgfältig gesammelt; von keinem Ereigniss dieser Art sind so viele Steine in derselben Sammlung, so dass ein genaues Studium, ein Vergleichen und eine folgerichtige Zusammenstellung derselben möglich ist, wie gerade hier.
+
+Bei heiterem Himmel und plötzlich eingetretenem Nebel, der 4 Stunden währte, hörte man mehre Detonationen und darauf folgendes Getöse; die Lufterschütterung dabei wurde 5—8 Meil. im Umkreis verspürt. In 4-5 Meil. Entfernung wurde auch eine Feuerkugel mit Schweif von NO. nach SW. gehend gesehen. Es fielen in Gegenwart vieler Augenzeugen viele Steine nieder, nach v. Schreibers etwa 100, nach Partsch 200-300. Schon am sechsten Tage nach dem Fall wurden v. Schreibers und v. Widmannstätten von Wien aus in die Gegend geschickt, um die Thatsachen festzustellen, was durch die genauesten privaten und gerichtlichen Untersuchungen und Verhöre, durch 20 Protokolle und über 100 private Aussagen vollkommen gelang. 61 Steine konnten nach Wien zurückgebracht werden. An ihnen erkannte v. Schreibers Zuerst die vorherrschend pyramidale Gestalt, die unterdessen an so vielen anderen Meteoriten bestätigt worden ist. Die Steine fielen auf eine elliptische Fläche, in deren Mittelpunkt der Marktflecken Stannern liegt, und deren grösste Länge etwa 7000, die grösste Breite 2600 Klafter beträgt. Doch verbreiteten sich hier die Steine nicht gleichmässig, sondern in drei Hauptgruppen entsprechend den drei Hauptdetonationen, die gleich gewaltigen Donnerschlägen nach manchen Richtungen auf 10 bis 14 Meil. gehört wurden. Die erste Fallgruppe liegt am nördlichen Ende der ganzen Fläche; es wurden 4 Steine gefunden, deren grösster über 8 K. wog; ihr Gesammtgewicht beträgt 15 K. Zur mittleren Gruppe gehörten 36 Steine von zusammen fast 31 K.; es waren meist kleinere, der grösste 2 1/2 K., im Durchschnitt 1-1 1/2 K. Zur südlichsten Gruppe gehörten 26 Steine im Gesammtgewicht von nur etwas über 6 K., also durchweg kleine und sehr kleine Steine, der grösste etwas über 1 K., der kleinste ca. 60 Gr., doch sind ohne Zweifel noch kleinere gefallen, aber der Fallort nicht genauer bezeichnet worden. In der Wiener Sammlung wiegt der kleinste der Stannern-Steine nur 3,5 Gr. Hätte der Krieg von 1809 den Untersuchungen kein Ende gemacht, so wären voraussichtlich — es wurde das Feld nur zweimal durchsucht — noch weitere Steine gefunden worden.
+
+Ganze Steine oder Bruchstücke sind fast in allen Sammlungen: Die meisten und grössten in Wien (15 K. 531,031, 35 St., der grösste 6 K. 384,257), kleinere in Berlin (3 K. 460,649), London (1 K. 079), Innsbruck (Ferdinandeum 600 Gr.), Petersburg (Akademie der Wissensch. 541,7 Gr.), Paris (Mus. Hist. nat. 538 Gr.), Harlem (Teylers Mus. 426,4 Gr.), München (420 Gr.), Göttingen (366,72 Gr.), Gratz (337 Gr.), Gotha (335 Gr.), Copenhagen (310 Gr.) und noch kleinere in Breslau (schles. Gesellsch.), Bologna, Calcutta, Freiberg, Gratz (loanneum), Heidelberg, Hudson (Res. Coll.), Leipzig, Lemberg, Mannheim (nat.-hist. Verein), Marburg, Sct. Gallen (städt. Min.-Cab.), Stockholm, Stuttgart (k. Mus. und polyt. Schule), Trier, Tübingen, Upsala, Würzburg und Zürich. Auch in vielen Privatsammlungen findet sich diese Localität, so namentlich bei v. Reichenbach, Erzh. Stephan (617 Gr.), Neumann (393,88 Gr.), Ferber (295,6 Gr.), Greg (275 Gr.), Shepard (222 Gr.), Lobkowitz (215 Gr.) und kleinere bei Auerbach (33 Gr.), v. Baumhauer, Fischer, Jordan, Kessler, de Luynes, Nauck, v. Henikstein, Nevill.
+
+Specifisches Gewicht:
+
+2,9-3,2 v. Schreibers,  
+3,19 Vauquelin,  
+2,95-3,16 Chladni,  
+3,1527 ohne Rinde Rumler,  
+3,1529 mit wenig Rinde Rumler,  
+3,0777 mit viel Rinde Rumler.
+
+v. Schreibers hat ausführlich die Rinde in allen ihren Verschiedenheiten und mancherlei Eigenschaften und Abweichungen sehr ausführlich beschrieben. Schon er bemerkt, dass man aus der Richtung der Streifungen auf derselben und ihrem merkwürdigen Ueberfliessen über die Kanten auf die Richtung schliessen kann, die der Stein während des Falles hatte. Noch ausführlicher hat Haidinger diesen Punkt behandelt und unter andern auch Stannernsteine als Belegstücke gewählt.
+
+Gewöhnlich ist die Rinde dünn, schwarz, aderig, oft rissig, besonders glänzend, wie gefirnisst auf den erhöhten Stellen, weniger in den zwischenliegenden Vertiefungen. Auch treten verschiedenartige und unvollkommene Ueberrindungen auf. v. Schreibers hat diese Abweichungen tabellarisch zusammengestellt.
+
+Die Grundmasse ist locker und porös und ganz gleichmässig hellgrau bei einem innigen Gemenge der beiden Bestandtheile, oder es sind diese deutlich zu unterscheiden als eine weisse und eine braune oder grünlichschwarze Masse, die ziemlich grob, oder fein, selbst sehr fein mit einander gemengt sind. Diese Verschiedenheiten können in demselben Steine vorkommen, wodurch das Aussehen fleckig wird. Zuweilen wird ein porphyrartiges Aussehen hervorgebracht durch einzelne schwärzliche, meist längliche Körper, zuweilen auch durch unvollkommen kugelige schwarze Einschlüsse, die von einer anderen Art des Gemengtseins der beiden Bestandtheile herrühren. Schwarze Adern und Gänge sind sehr selten. Metallisches Eisen fehlt ganz; Schwefeleisen ist meist fein, oder in kleinen Nestern, selbst in bohnengrossen Körnern eingesprengt.
+
+Aeltere Analysen existiren von v. Moser 1., Vauquelin 2. und Klaproth 3.
