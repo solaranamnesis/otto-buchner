@@ -38,7 +38,7 @@ Es ist dies um so wünschenswerther, als bei dem raschen Wachsen mancher Sammlun
 
 Von den folgenden Sammlungen erhielt ich Meteoritenverzeichnisse; bei der Anzahl der Localitäten wurden die zweifelhaften und unrichtigen nicht mitgezählt, auch nicht die synonymen.
 
-I\. Oeffentliche Sammlungen.
+## I\. Oeffentliche Sammlungen.
 
 Wien, k. k. Hof-Mineralien-Cabinet (durch Herrn Dr. M. Hörnes). Fallorte 194.
 
@@ -158,7 +158,7 @@ Rotterdam, Cabinet der batavischen Gesellschaft (durch Vermittelung der k. Akade
 
 Washington, Smithsonian Institution (durch Herrn Jos. Henry). Fallorte 1.
 
-II\. Privatsammlungen.
+## II\. Privatsammlungen.
 
 R. P. Greg, Esq. Manchester (1863, Febr. 23). Fallorte 191.
 
@@ -240,7 +240,7 @@ Giessen, Ende März 1863.
 
 *) O. Buchner Die Feuermeteore, insbesondere die Meteoriten historisch und naturwissenschaftlich betrachtet. Giessen, Ricker, 1859.
 
-System von P. Partsch.*
+## System von P. Partsch.*
 
 Verzeichniss der im k. k. Mineralien-Cabinet zu Wien aufbewahrten Meteoriten.
 
@@ -638,7 +638,7 @@ Madagascar. 174.
 
 Hemalga. (London, Edinburg, Paris). 190.
 
-System von G. Rose.*
+## System von G. Rose.*
 
 *) Berl. Acad. Ber. 1862, Aug. 7, 14. 1863, Jan. 15.
 
@@ -702,7 +702,7 @@ Alais, Cold Bokkeveld, Kaba.
 
 Juvenas, Stannern, Jonzac, Petersburg.
 
-System von v. Reichenbach.
+## System von v. Reichenbach.
 
 Systematisches Verzeichniss der Meteoriten in der Sammlung des Freiherrn
 
@@ -804,7 +804,7 @@ Lenarto, Seneca River, Misteca, Salt River, Chester County, Arva, Davisstrasse, 
 
 Durango, Schwetz, Oranje River.
 
-System von Shepard.*
+## System von Shepard.*
 
 *) Sillim. Amer. Journ. (2) 2, 377. Report on Met. p. 46.
 
@@ -866,7 +866,7 @@ Deren Fallzeit bekannt ist.
 
 Sie sind nach der Fallzeit geordnet.
 
-Ensisheim, Elsass, jetzt Dep. du Haut Rhin, Frankreich. 1492, Nov. 16 (Nov. 7 a. St.), zwischen 11 und 12 Uhr Vormittag.
+### Ensisheim, Elsass, jetzt Dep. du Haut Rhin, Frankreich. 1492, Nov. 16 (Nov. 7 a. St.), zwischen 11 und 12 Uhr Vormittag.
 
 Ein Stein von 127 K. 270 fiel unter heftigem Getöse; wahrscheinlich wurde dabei auch eine Feuererscheinung beobachtet. Man sah den Stein in ein Weizenfeld fallen; er wurde bis auf zwei abgeschlagene Stücke auf Befehl Kaiser Maximilians I. in der Kirche zu Ensisheim aufgehängt, wo er bis zur französischen Revolution blieb; er wurde übel zerschlagen, so dass jetzt nur 40-50 K. wieder an der alten Stelle hängen. ‚Von Sammlungen besitzt das Mus. Hist. nat. in Paris ein Stück von über 9 K. Kleinere Fragmente finden sich in den meisten Sammlungen.
 
@@ -896,7 +896,7 @@ Obgleich jedenfalls ein, wahrscheinlich aber zwei sehr grosse Steine fielen und 
 
 Literatur: Gilb. Ann. 24, 383. Chladni Feuermet. 233. Catullo Geogn. delle prov. Venete 435.
 
-Schellin (weniger richtig Garz) bei Stargard in Pommern. 1715, April 11, 4 Uhr Nachmittag.
+### Schellin (weniger richtig Garz) bei Stargard in Pommern. 1715, April 11, 4 Uhr Nachmittag.
 
 Nach einem Getöse, das von SO. nach NW. gehört wurde, fielen miehre Steine, einer von ca. 7% K., der zweite kleiner. Der Fall wurde erst 4822 durch GiLsert bekannt. Es haben sich nur sehr wenige kleine Bruchstücke erhalten (in Berlin, Wien, London und den Privatsammlungen von v. REICHENBACH und KranTz); auch soll ein Gutsbesitzer in Pommern ein Fragment besitzen. Das, welches Prof. GiLgert besass, scheint verloren zu sein.
 
@@ -908,7 +908,7 @@ Der Stein ist noch nicht analysirt worden.
 
 Literatur: Gilbert Annalen 71, 213.
 
-Plescowitz und Liboschitz, einige Meilen von Reichstadt, Bunzlauer Kreis, Böhmen. 1723, Juni 22.
+### Plescowitz und Liboschitz, einige Meilen von Reichstadt, Bunzlauer Kreis, Böhmen. 1723, Juni 22.
 
 Man sah bei heiterem Himmel eine einzelne kleine Wolke und hörte darin ein starkes Krachen und Knallen, worauf bei Liboschitz 25 und auf anderen herrschaftlich Plescowitz'schen Dörfern unter Funkensprühen 8 grosse und kleine Steine fielen, die nach Schwefel rochen, auswendig schwarz und inwendig metallisch waren.
 
@@ -916,7 +916,7 @@ Das britische Museum behauptet einen solchen Stein zu besitzen; sonst fehlt er j
 
 Literatur: Poggend. Ann. 116, 640.
 
-Tabor. Hof Krawin bei Strkow, südl. von Plan und Tabor. 1753, Juli 3, 8 Uhr Abends.
+### Tabor. Hof Krawin bei Strkow, südl. von Plan und Tabor. 1753, Juli 3, 8 Uhr Abends.
 
 Nach einer Feuererscheinung erfolgte eine heftige Detonation; dann fielen mehre Steine herab, was von zwei Schäfern an verschiedenen Stellen beobachtet wurde. Ein ganzer Stein, der erste, der unverletzt in Sammlungen aufbewahrt wurde, ist in Wien und wiegt 2 K. 782,5; ausserdem werden daselbst noch 6 St. aufbewahrt (im Ganzen 4 K. 119,69). Kleinere Bruchstücke finden sich in London (164 Gr.), Berlin (77,802 Gr.), Prag (böhm. Nat.-Mus.), Pesth (Univ.-Mus.) und den Privatsammlungen des Fürsten Loskowırz (Bilin, 2 St. 777 Gr.), v. Reichenbach (Wien), v. Henikstein (Gratz, 2 St.), Neumann (Prag, 3 St. 74,39 Gr.), Shepard (N. Haven).
 
@@ -945,7 +945,7 @@ Meyer hat den Stein nicht selbst analysirt, sondern nur die Procentberechnung de
 
 Literatur: Howard Phil. Trans. 1802. Voigt Magaz. 10, 220. Chladni Feuermet. 246.
 
-Luponnas (nach dem Dict. des Postes de l'Empire, nicht Liponas oder Laponas) bei Pont-de-Vesle und Bourg-en-Bresse, Dep. de l'Ain, Frankreich.
+### Luponnas (nach dem Dict. des Postes de l'Empire, nicht Liponas oder Laponas) bei Pont-de-Vesle und Bourg-en-Bresse, Dep. de l'Ain, Frankreich.
 
 1753, Sept. 7, 1 Uhr Nachmittag.
 
