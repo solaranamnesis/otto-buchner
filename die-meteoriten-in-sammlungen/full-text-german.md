@@ -1465,3 +1465,121 @@ Gewöhnlich ist die Rinde dünn, schwarz, aderig, oft rissig, besonders glänzen
 Die Grundmasse ist locker und porös und ganz gleichmässig hellgrau bei einem innigen Gemenge der beiden Bestandtheile, oder es sind diese deutlich zu unterscheiden als eine weisse und eine braune oder grünlichschwarze Masse, die ziemlich grob, oder fein, selbst sehr fein mit einander gemengt sind. Diese Verschiedenheiten können in demselben Steine vorkommen, wodurch das Aussehen fleckig wird. Zuweilen wird ein porphyrartiges Aussehen hervorgebracht durch einzelne schwärzliche, meist längliche Körper, zuweilen auch durch unvollkommen kugelige schwarze Einschlüsse, die von einer anderen Art des Gemengtseins der beiden Bestandtheile herrühren. Schwarze Adern und Gänge sind sehr selten. Metallisches Eisen fehlt ganz; Schwefeleisen ist meist fein, oder in kleinen Nestern, selbst in bohnengrossen Körnern eingesprengt.
 
 Aeltere Analysen existiren von v. Moser 1., Vauquelin 2. und Klaproth 3.
+
+SiO3. Al2O3. Fe2O3. CaO. MnO. MsO. Cr. S. aq Verl.  
+1\. 46,25. 7,12. 27. 12,13. 0,75. 2,50. Spur. 5.  
+
+SiO3. Al2O3. Fe2O3. CaO. MnO. NiO. S.  
+2\. 50. 9. 29. 12. 1. Spur. Spur.  
+
+SiO3. Al2O3. Fe. CaO. MgO. S. MnO. und Verl.  
+3\. 48,25. 14,50. 23. 9,50. 2. 2,25.
+
+Wissenschaftlicher und genauer ist die von RAMMELSBERG, der ausser derGesammtanalyse 1. die des durch Salzsäure zersetzbaren Theils, 34,98%, 2. und des unzersetzbaren Theils (65,02%) 3. gab.
+
+SiO3. Al2O3. Fe2O3. FeO. MnO. CaO. MgO. NaO. KO. FeOCr2O3. FeS.  
+1\. 48,30. 12,65. -,-. 19,32. 0,81. 11,27. 6,87. 0,62. 0,26. 0,54. Sp.  
+2\. 46,19. 31,26. 2,93 -,-. -,-. 16,98. 1,12. 1,14. 0,50. 0,83. -,-.  
+3\. 49,44. 2,64. -,-. 28,31. 1,25. 8,20. 9,97. 0,35. 0,10. -,-. -,-.
+
+Daraus berechnete er 2. als Anorthit und 3. als Augit, die im Verhältniss von 1 : 2 die Masse bilden.
+
+Das Fehlen von Eisen und Nickel wird durch alle Analysen bestätist. Das Eisen, das Klaproth fand, ist an Schwefel gebunden. Schafhäutl fand darin Chromeisen mit Nickelgehalt, eine Verbindung, die nicht auf den Magnet wirkt und sich nicht einmal in heissem Königswasser löst.
+
+Die Literatur über die Localität ist sehr ausgedehnt. Am wichtigsten ist v. Schreibers Gilb. Ann. 29, 225. v. Moser ebd. 309. 324. v. Scheerer ebd. 31, 1. v. Schreibers ebd. 23. Vauquelin ebd. 33, 202. Klaproth Beiträge 5, 257. Rammelsberg Pogg. Ann. 83, 591. Haidinger Wien. Akad. Ber. 40, 525. v. Schreibers Stein- und Metallmassen 20. 59. 69. 87. Partsch 17. Dabei finden sich mehrfach gute Abbildungen von Steinen. Schafhäutl Münchn. gel. Anz. 24, 1847, 556.
+
+Lissa (zwischen den Dörfern Stratow und Wustra), Bunzlauer Kreis, Böhmen.
+
+1808, Sept. 3, 3 1/2 Uhr Nachmittags.
+
+Es fielen einige, 4 oder 5 Steine, deren grösster über 5 1/2, Pfund wog. Die Detonation war wie gewöhnlich; eine Feuerkugel wurde nicht beobachtet. Bruchstücke sind in mehren Sammlungen. v. Reichenbach soll das grösste Stück besitzen. In Wien wiegt das grösste 3 K. 108 Gr., Das Gesammtgewicht beträgt 3 K. 390 Gr. Ausserdem sind Fragmente in Berlin (769,892 Gr.), London (10,53 Gr.), Paris (10 Gr.), Prag (böhm. Nat.-Museum, 4 St.), Gratz (36 Gr.), Göttingen (9,58 Gr., 2 St.), Gotha (8,5 Gr.), Calcutta und in den Privatsammlungen des Fürsten Lobkowitz in Bilin (634 Gr.), von Neumann (54,8 Gr., 2 St.), Greg (35,5 Gr.), Shepard.
+
+Specifisches Gewicht:
+
+3,50 v. Schreibers, Rumler,
+3,56 Reuss.
+
+Die Rinde ist allermeist dunkelschwarz, matt pechglänzend, zartrunzelig, an anderen Stellen mehr braun und glatter.
+
+Das Innere ist dicht, feinkörnig, lichtaschgrau und an den Kanten hie und da etwas durchscheinend. Auf polirter Fläche sind kugelige oder ovale, mit der Grundmasse innig zusammenhängende Einschlüsse wahrnehmbar. Häufig wird die Masse von dünnen Adern und Schichten von sehr schwarzer Farbe durchzogen. Eisen tritt in vielen höchst feinen metallglänzenden Punkten auf. Schwefeleisen ist meist auch fein, aber auch in linsengrossen Partien eingesprengt.
+
+Klaproth fand bei der Analyse:
+
+SiO3. Al2O3. MgO. CaO. Fe. Ni. MnO. S. u. Verl.  
+43. 1,25. 22. 0,50. 29. 0,5. 0,25. 3,5.
+
+Literatur: Gilb. Ann. 30, 358. 32, 126. 50, 254. Klaproth Beiträge 5, 246.
+
+Caswell County, Nord-Carolina, Nord-Amerika. 1810, Januar 30, 2 Uhr Nachmittags.
+
+Unter den gewöhnlichen Umständen fiel ein Stein von über 1 K., der in Besitz des Bischofs Madison in Williamsburg kam. Nach dessen Beschreibung gleicht er den anderen Meteorsteinen, besonders dem von Weston. Doch wird er nicht nur vom Magnet angezogen, er ist auch polarmagnetisch.
+
+Ob der Stein noch aufbewahrt wird und wer ihn besitzt wurde so wenig bekannt, als Genaueres über seine Beschaffenheit.
+
+Literatur: Gilb. Ann. 41, 1812, 449. Chladni Feuermet. 291.
+
+Mooresfort, Grafsch. Tipperary, Irland. 1810, August, ohne genauere Angabe des Tags, um die Mittagszeit.
+
+Ein fast kubischer Stein, 3 K. 326 schwer, fiel unter den gewöhnlichen Erscheinungen in Gegenwart von Zeugen, konnte aber seiner Hitze wegen erst zwei Stunden nachher mit den Händen berührt werden. Etwa die Hälfte des Steines ist im Irish-Museum in Dublin, kleinere Bruchstücke sind in Wien (278,366 Gr.), London (199 Gr.), Copenhagen, Berlin, Paris (Mus. Hist. nat.), Göttingen, Tübingen und in den Privatsammlungen von Shepard, v. Reichenbach, Nevill, Greg (27,4 Gr.), Auerbach (8 Gr.) und Neumann.
+
+Specifisches Gewicht:
+
+3,67 Higgins,
+3,6478 Rumler.
+
+Die Rinde ist schwärzlich, ohne Glanz, aderig, etwas rauh und dick.
+
+Das Innere ist ziemlich gleichförmig dunkelaschgrau, mit einigen sehr feinen schwarzen Adern durchzogen. In der Grundmasse liegen dunklere kleine kugelige Einschlüsse, viele feine Eisen- und sehr feine Schwefeleisenkörnchen; letzteres findet sich auch in einigen grösseren Körnern. Manchmal erscheinen auch schwarze Ablösungsflächen.
+
+Higgins fand bei der Analyse zweier verschiedener Stücke:
+
+SiO3. MgO. Fe. Ni. S. Sa.  
+1\. 48,25. 9. 39. 1,75. 4. 102.  
+2\. 46. 12,25. 42. 1,50. 4. 105,75.
+
+Literatur: Gilb. Ann. 60, 236. 63, 22.
+
+Charsonville bei Orleans, Dep. du Loiret, Frankreich. 1810, Nov. 23, 1 1/2 Uhr Nachmittags.
+
+Bei klarem Himmel fielen aus einer Feuerkugel, die von N. nach S. ging, und einen langen Schweif nachzog, unter heftigem Getöse drei Steine nieder, von welchen zwei von 10 und 20 K., der kleinere noch heiss, der grössere aber erst nach 18Stunden gefunden wurden. Im Mus. Hist. nat. zu Paris wird ein Stück von 2 K. aufbewahrt; kleinere Bruchstücke sind in Wien (595,012 Gr., 2 St.), Paris (Ec. des Min. 81,3 Gr.), Berlin (46,318 Gr.), Bern (32,38 Gr.), Upsala (10,4 Gr.) und kleinere in Göttingen, Stockholm, London, Calcutta, Tübingen, Dublin, Stuttgart, Hudson, Bologna. In Privatsammlungen scheint Shepard das grösste Stück zu besitzen (135 Gr.), kleinere v. Reichenbach, de Luynes, Erzh. Stephan, Greg (7,5 Gr.), Nevill und Neumann.
+
+Specifisches Gewicht:
+3,6373 mit einer Spur gangart. Substanz, Bigot de Morogues,  
+3,3650 mit 1/15 derselben, Bigot de Morogues,  
+3,712 Hauy,  
+3,57-3,65 v. Schreibers,  
+3,64905 ohne Gangmasse, Rumler,  
+3,7132 mit derselben, Rumler.
+
+Die Rinde ist schwarz und sehr dünn, matt, etwas schimmernd. Das Innere ist dunkelaschgrau oder blaulichgrau, durch viele Rostflecken wie marmorirt, erdig, dicht und fest. Diese Grundmasse enthält undeutliche und innig damit verwachsene halbdurchscheinende, helle kugelige Einschlüsse, die zum Theil Krystallflächen zeigen, eine Menge unregelmässiger metallischer Eisenkörnchen, sowie kleinere in geringerer Menge, die stärker glänzen und Krystallflächen zeigen; sie scheinen Schwefeleisen zu sein. Alle Theile, auch die, in denen kein Eisen wahrnehmbar ist, wirken auf den Magnet. Besonders bezeichnend für diese Localität sind die schwarzen etwas verzweigten Adern, die aber im kleinen Stein viel dünner sind, als im grossen und sich da in vielen Richtungen durchschneiden; eine Ader hat 2-6 mm. Dicke; die Masse zeigt nirgends den Charakter der Schmelzung und hängt fest am Nebengestein.
+
+Die Analyse von Vauquelin ergab:
+
+SiO3. Fe. MgO. Al2O3. CaO. Cr. Mn. Ni. S. Sa.  
+38,4. 25,8. 13,6. 3,6. 4,2. 1,5. 0,6. 6. 5. 98,7.
+
+Literatur: Gilb. Ann. 37, 349. 40, 83. 41, 450 (hier ist irrthümlich 1811 statt 1810 als Falljahr angegeben).
+
+Kuleschowka (Kuleschowk), Romener Kreis, Gouv. Poltawa. Russland.
+
+1811, 12/13 März, um Mitternacht.
+
+Es fiel unter den gewöhnlichen Umständen ein Stein von über 5, nach Eichwald von mehr als 6 K., der noch heiss ausgegraben wurde und fast vollständig in der Sammlung der Akademie zu Petersburg ist. Kleinere Fragmente besitzen die mineralog. Gesellschaft daselbst, Wien (196,328 Gr., 2 St.), London (7,02 Gr.), Berlin (0,166 Gr.) und die Privatsammlungen von v. Reichenbach, Shepard, Greg (90 Gr.), Nevill und Auerbach (10 Gr.).
+
+Specifisches Gewicht: 3,4985 Rumler.
+
+Die Rinde ist dick und matt, oder etwas schimmernd.
+
+Die Hauptmasse ist hellaschgrau mit äusserst feinen braunen Punkten. Nur auf Schliffflächen sind undeutliche kugelige Einschlüsse erkennbar. Eisen tritt reichlich, theils fein, theils grob eingesprengt auf, sowie ziemlich viel sehr feinkörniger Magnetkies. Nach v. Reichenbach schliesst die Masse auch bohnengrosse genauere Sphäroide ein.
+
+Literatur: Blöde Bull. Ac. Petersb. VI. no. 1, 1848. Eichwald Erman Arch. 5, 177. Partsch 54. v. Reichenbach Pogg. Ann. 111, 360.
+
+Berlanguillas unweit Burgos, Altcastilien, Spanien.
+
+1811, Juli 8, 8 Uhr Abends.
+
+Die Detonation und der Fall des Steins, der noch ganz heiss aufgefunden wurde, wurden beobachtet; doch sollen noch 2-3 Steine unweit des ersten gefallen sein. Einer der Steine von 2-3 K. wurde nach Paris geschickt, wo im Mus. Hist. nat. noch das grösste Bruchstück (1 K.) aufbewahrt wird; kleinere sind in Wien (197,421 Gr.), Berlin (38,484 Gr.), London (30,16 Gr.), Göttingen (2,2 Gr.), Calcutta Florenz, Dublin, sowie in den Privatsammlungen von Greg (2,1 Gr.), v. Reichenbach, Shepard, Neumann und Nevill.
+
+Specifisches Gewicht: 3,4967 Rumler.
+
+Die Rinde ist schwarz und matt.
