@@ -1583,3 +1583,153 @@ Die Detonation und der Fall des Steins, der noch ganz heiss aufgefunden wurde, w
 Specifisches Gewicht: 3,4967 Rumler.
 
 Die Rinde ist schwarz und matt.
+
+Die graue, rostbraun gefleckte Grundmasse enthält undeutliche kugelige Einschlüsse, die mit der Grundmasse innig verbunden sind. Eisen ist reichlich fein und grob eingesprengt, Schwefeleisen sehr fein, aber auch reichlich.
+
+Die Masse wurde noch nicht chemisch untersucht.
+
+Literatur: Gilb. Ann. 40, 116. 41, 452.
+
+Panganoor, Ostindien.
+
+1811, November 23.
+
+Bei Panganoor soll eine Eisenmasse gefallen sein, über die aber nichts bekannt wurde. Wahrscheinlich ist es eine Verwechselung mit dem Stein von 4808, der als von Mooradabad und von Panganoor angeführt wird und der mehr Eisen und Nickel enthalten soll, als Steinmasse. Von Calcutta könnte das Dunkel aufgehellt werden.
+
+Literatur: Journ. Asiat. Soc. Bengal. 1844, 13, 885.
+
+Toulouse, in den Gemeinden le Burgau, Dep. Haute Garonne und Savenes, Dep. Tarne et Garonne, Frankreich.
+
+1812, April 10, 8 1/4 Uhr Abends.
+
+Aus einer Feuerkugel, die nicht an den Fallorten selbst, aber in der Nachbarschaft gesehen wurde, fielen nach heftiger Detonation bei verschiedenen Gemeinden viele Steine; sechs wurden an die Untersuchungscommission abgegeben, andere hatte man fallen hören, ohne sie zu finden; die Dunkelheit der Nacht und der Schrecken der Beobachter machten ein Nachsuchen erst am folgenden Morgen möglich, aber die hochstehende Ernte war demselben hinderlich. Die entferntesten Steine lagen 3600 Meter auseinander.
+
+Bruchstücke finden sich nur in wenigen Sammlungen: Paris (Mus. Hist. nat. 121 Gr.), Berlin (29,155 Gr.), London (17,55 Gr.), Wien (16,406 Gr.), Stockholm (4 Gr.), sowie v. Reichenbach, Greg (2 Gr.) und Neumann (1,8 Gr.).
+
+Specifisches Gewicht:
+
+3,656-3,709 Bigot de Morogues,  
+3,813 Puymaurin,  
+3,7396 Rumler.
+
+Die Rinde ist bis zu 1/2 mm. dick, bräunlichschwarz, matt und mit kleinen runden Erhöhungen oder Narben besetzt.
+
+Die dunkelgraue, rostbraun gefleckte Grundmasse ist grobkörnig, matt und erdig, locker, und schliesst kleine undeutliche Kügelchen fest ein. Eisen ist fein, aber ziemlich reichlich, Schwefeleisen höchst fein eingesprengt.
+
+Eine chemische Analyse wurde nicht bekannt.
+
+Literatur: Gilb. Ann. 41, 445. 42, 111. 343.
+
+Erxleben (Niedererxleben, 2 Meil. von Helmstädt, 4 Meil. von Magdeburg, Preussen), Deutschland.
+
+1812, Apr. 15, 4 Uhr Nachmittags.
+
+Am Fallort der Steine nicht, wohl aber bei Dessau wurde eine Feuerkugel beobachtet. Die Detonationserscheinungen waren die gewöhnlichen. Dabei fiel ein etwas gekrümmt keilförmiger Stein, der über 2 K. wog und erst nach 1/4 Stunde aber kalt aus dem feuchten Boden gehoben wurde. Ueber das ganze Ereigniss wurde ein gerichtliches Protokoll aufgenommen.
+
+Die grössten Bruchstücke sind in Göttingen (328,7 Gr., 3 St., der grösste 259 Gr.) und Berlin (197,921 Gr.), kleinere finden sich in Wien (87,5 Gr., 2 St.), London (35,4 Gr.), Stockholm (31,4 Gr.), Copenhagen (30,2 Gr.), Giessen (15,96 Gr.) und noch kleinere in Paris, Stuttgart, Trier. Von Privatsammlungen besitzen davon v. Reichenbach, Shepard, Greg (27,9 Gr.), Krantz und Neumann.
+
+Specifisches Gewicht:
+
+3,6132 Hausmann und Stromeyer,  
+3,61523 Hausmann und Stromeyer,  
+3,6441 Rumler.
+
+Die Rinde ist schwarz oder schwarzbraun, matt und ganz eigenthümlich dünn und unzusammenhängend, so dass sie nur als dünner erdiger Anflug, zuweilen nur in Fleckchen und Pünktchen auftritt, die wie ausgeschwitzt aussehen; zwischen derselben sieht man überall hindurch die metallisch glänzenden Punkte des Innern blinken.
+
+Die Grundmasse ist dunkelaschgrau, gleichmässig gemengt und sehr dicht, kleinkugelige Einschlüsse sind nur auf polirter,Fläche an der etwas dunkleren Farbe zu erkennen. Eisen ist reichlich und gleichmässig, aber sehr fein eingesprengt, ebenso Schwefeleisen, das aber in noch feineren Körnchen auftritt. Mit Vergrösserung lassen sich auch schwarze Körner erkennen, die vielleicht Chromeisen sind.
+
+Analysirt wurde der Stein von Klaproth 1. und Stromeyer 2.:
+
+Fe. Ni. Cr. Mn. SiO3. MgO. Al2O3. CaO. S. u. Verl.  
+1\. 31. 0,25. 1. 0,25. 39,50. 26,50. 1,25. 0,50. 3,75.
+
+Fe. Ni. Cr2O3. MnO. SiO3. MgO. Al2O3. CaO. S. u. Verl.  
+2\. 24,415. 1,579. 0,246. 0,704. 36,320. 23,584. 1,605. 1,922. 2,952. 5,574. 0,741. 0,358.
+
+Literatur: Vieth Gilb. Ann. 40, 450. Hausmann ebd. Gilbert ebd. 41, 96. Stromeyer ebd. 42, 105. Klaproth Beitr. 6, 305.
+
+Chantonnay, zwischen Nantes und la Rochelle, Dep. de la Vendee, Frankreich.
+
+1812, Aug. 5, Morgens gegen 2 Uhr.
+
+Aus einem Feuermeteor, das beobachtet wurde, fiel unter heftigem Getöse ein grosser Stein von ca. 35 K., der aber erst um die Mitte des Tages 2 1/2 Fuss tief in der Erde steckend gefunden wurde. Er roch stark nach Schwefel und behielt diese Eigenschaft noch 6 Monate lang in abnehmender Stärke. Bruchstücke finden sich in vielen Sammlungen, die grössten in Paris und in Wien (2 K. 719,122, 4 St., der grösste 2 K. 331,923), kleinere in Berlin (283,386 Gr.), Göttingen (209,98 Gr.), Zurich (121,8 Gr.), Copenhagen (113 Gr.), noch kleinere in Galcutta, Stockholm, London, Upsala, Breslau (schles. Gesellsch.), Stuttgart und Tübingen. Auch viele Privatsammlungen besitzen Bruchstücke, die grössten wohl Greg (202 Gr.), kleinere Shepard, V. Reichenbach, Neumann (714,82 Gr., 2 St.), Ferber (63,5 Gr.),
+Wiser (57,22 Gr.), Nevill, Auerbach (19 Gr.), Jordan (20,3 Gr.), Erzh. Stephan und Rössler.
+
+Specifisches Gewicht:
+
+3,44-3,49 v. Schreibers,  
+3,4662 die lichtere Masse, Rumler,
+3,4845 die dunklere Masse, Rumler.
+
+Die Rinde ist abweichend von gewöhnlich, theils schlackig, theils ähnlich äusserlich verwittertem Basalt, und nur an wenigen Stellen ist eine Schwärzung ähnlich der Rinde anderer Meteorsteine wahrnehmbar. Sie ritzt wie das Innere Glas und gibt am Stahl Funken.
+
+Das Innere ist sehr dunkel, theils eine schwarze basaltähnliche kleinkrystallinische Masse, theils darin eingeschlossene grössere Brocken einer helleren grauen feinkörnigen Masse. Der schwarze Theil erscheint unter der Lupe unvollkommen körnig mit unebnem Bruch und Spuren von Spaltungsflächen, oder dicht mit splittrigem Bruch, besonders an den scharfen Grenzen. Da und dort sieht man auch ganz kleine röthlichbraune Partien, ähnlich zersetztem Granat. Der graue Theil erzeugt in dem schwarzen ein zum Theil breccienartiges Aussehen und ist ein krystallinisch feinkörniges Gemenge hellgrauer und schwarzer Theilchen, von denen die letzteren im Aussehen und an den Rändern mit der schwarzen Substanz des Steins zusammenhängen. Bisweilen ziehen sich dünne schwarze Linien durch das Gemenge hindurch, welche stark vergrössert dicht erscheinen. Die schwarzen und helleren Theile des Steins sind nicht scharf von einander getrennt, sondern verlaufen sich stellenweise in einander. Eisen ist ziemlich reichlich theils fein, theils in hirsekorngrossen Körnern eingesprengt; Magnetkies tritt in weit geringerer Menge höchst fein auf. Viele der metallischen weissen glänzenden Körnchen sind ganz zersetzt und daher die schwarze Masse braun gefleckt. — Ohne durch das Resultat einer chemischen Analyse dazu berechtigt zu sein, hat Shepard die schwarze Masse Chantonnit genannt (Härte 6,5-7. Specifisches Gewicht 3,48).
+
+Vauquelins Analyse wurde nicht bekannt. Berzelius veröffentlichte 4832 seine Analyse, zu der er den schwärzesten und härtesten Theil des Steins verwandte. Mit dem Magnet liessen sich nur unvollkommen Nickel- und Schwefeleisen ausziehen. Er fand dann:
+
+1\. durch Säure unzersetzbare Silikate 48,88%.
+
+2\. durch Säure zersetzbar 51,12%.
+
+SiO3. MgO. FeO. NiO.* NaO. KO. Al2O3. CaO. MnO. FeOCr203.  
+1\. 56,252. 20,396. 9,723. 0,138. 1,000. 0,512. 6,025. 3,106. 0,690. 1,100.  
+2\. 32,607. 34,357. 28,801. 0,456. 0,977. 0,977. -,-. -,-. 0,824. -,-.
+
+(* mit Sn. und Cu.).
+
+Rammelsberg berechnete daraus 1. als ein Gemenge von Labrador und Hornblende oder weniger wahrscheinlich Oligoklas und Augit, 2. als Olivin mit einem anderen Silikat, das aber nicht Anorthit sein kann.
+
+Literatur: Chladni Gilb. Ann. 60, 247. Cavoleau ebd. 63, 228. Berzelius Pogg. Ann. 33, 28. Rammelserg Handwörterb. Suppl. 5, 19. Shepard Rep. 7.
+
+Grafschaft Limerik (Adare, Scagh, Brasky, Faha), Ireland.
+
+1813, Sept. 10, 6 Uhr Morgens.
+
+Aus einer Wolke erschallte heftiges Getöse. Von dieser Stelle des Himmels schienen verschiedene Massen mit grosser Gewalt herzukommen, die mit ausserordentlicher Geschwindigkeit nach Westen zogen. Eine dieser Massen sah man herabfallen; sie schlug 1 1/2 Fuss tief in den Boden und wurde noch warm und nach Schwefel riechend gefunden. Sie wog etwa 8 K. 6-7 andere Massen fielen gegen das Dorf Adare zu. Der grösste Stein fiel auf den Ländereien von Brasky und wog fast 30 K., ein kleinerer wog 11 K. Das Dorf Adare, wo die kleinsten Steine fielen, ist etwa 3 engl. Meil. entfernt von der Stelle, wo die grössten gefunden worden sind.
+
+In Dublin sind 3 St. von nicht näher angegebenem Gewicht. Ausserdem finden sich Bruchstücke in Wien (164,063 Gr., 3 St., der grösste 69,453 Gr.), Paris (Mus. Hist. nat. 133 Gr.), Göttingen (109,24 Gr., 2 St., der grösste 105,7 Gr.), Calcutta, Berlin, Heidelberg, Stuttgart und in den Privatsammlungen von v. Reichbenbach, Shepard, Nevill, Greg (46 Gr.) und Neumann. Ein Stein von fast 23 K. wurde 1838 von Sowergy in London für 1500 fl. feilgeboten.
+
+Specifisches Gewicht:
+
+3,621 Apjohn,  
+4,230 Apjohn,  
+3,6496 Rumler.
+
+Die Rinde ist glatt und schwarz, matt, zuweilen aderig.
+
+Die Grundmasse ist dunkelaschgrau, rostbraun gefleckt und mit meist undeutlichen kugeligen Einschlüssen. Eisen ist reichlich und fein, Schwefeleisen sehr fein eingesprengt. Schwarze, zum Theil metallisch glänzende Ablösungsflächen sind mehr oder weniger deutlich.
+
+Arsoan analysirte den Stein 1. ohne Scheidung der durch den Magnet ausziehbaren Theile, 2. den Rückstand, nachdem die durch den Magnet ausziehbaren Theile abgeschieden waren.
+
+SiO3. MgO. CaO. FeO. NiO. Cr2O3. Fe. Ni. S. Alkal.  
+1\. 39,10. 21,32. 0,26. 8,85. -,-. 2,30. 24,81. 1,14. 1,50. 0,74.  
+2\. 44,12. 31,36. -,-. 18,26. 0,33. -,-. 3,92. -,-. 2,04. -,-.
+
+Literatur: Gilb. Ann. 60, 233. Transact. Irish Acad. 18. P. 1. p. 17.
+
+Luotolaks [bedeutet Felsenbucht], (nicht Lontalax oder Lontolaks), bei Friedrichsham, Switaipola (Sawotaipola), Gouv. Wiborg, Finnland.
+
+1813, Dec. 13, bei Tag (nicht 1814, Jan. 11, wie Eichwald oder 1814, März, wie Chladni angibt).
+
+Mehre Steine fielen auf einen zugefrorenen See, versanken aber meist beim Aufthauen des Eises im Frühjahr. Daher auch nur in wenigen Sammlungen; die Hauptmasse ist in Helsingfors (836 Gr.); dann sind Bruchstücke in Wien (16,953 Gr.), Upsala (14,5 Gr.), Berlin (5,497 Gr.), Stockholm (2 Gr.), und in v. Reichenbachs Privatsammlung. Das Stück in London (109 Gr.) ist nach Greg unrichtig und wahrscheinlich von Timochin.
+
+Specifisches Gewicht: 3,07.
+
+Die Rinde ist dünn, schwarz, pechartig, glänzend, aderig.
+
+Die Grundmasse ist lichtaschgrau, körnig, wenig zusammenhängend, doch ungleich dicht. Mit der Lupe erkennt man darin meist äusserst feine runde, hellgrüne oder bernsteingelbe Körner höchstens von der Grösse eines Stecknadelknopfs, ferner schwärzliche Körnchen von eckiger, selten rundlicher Gestalt, die vorwalten und dem Ganzen ein breccienartiges Aussehen geben, und endlich weisse leucit- oder feldspathartige Körner, die meist blätterig, halb durchsichtig und spröde sind. Mit dem Magnet sind äusserst feine Metallkörnchen auszuziehen.
+
+Analyse des löslichen Theils von Berzelius:
+
+SiO3. MgO. FeO. MnO. CuO. Al2O3. KO, NaO. (Olivin).  
+37,411. 32,922. 28,610. 0,793. Spur. 0,264. Spur.
+
+Der unlösliche Theil (6,37%) hat die Zusammensetzung wie bei Blansko und Chantonnay mit etwa 1% Chromeisen mit Zinn.
+
+Literatur: Gilb. Ann. 67, 370. Nordenskiöld ebd. 68, 340. 71, 209. Berzelius Poggend. Ann. 33, 30. Greg Philos. Magaz. Suppl. Jan. 1863.
+
+Bachmut, Gouv. Ekaterinoslaw, Russland.
+
+1814, Febr. 3. a. St. (Febr. 15. n. St.) um die Mittagszeit.
+
+...
