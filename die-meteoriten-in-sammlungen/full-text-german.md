@@ -1732,4 +1732,203 @@ Bachmut, Gouv. Ekaterinoslaw, Russland.
 
 1814, Febr. 3. a. St. (Febr. 15. n. St.) um die Mittagszeit.
 
+Bei hellem Sonnenschein explodirte das Meteor; ein Stein von etwa 20 K. drang 6 Zoll seitwärts in die Erde und wurde noch heiss aufgefunden. Der grösste Theil wurde kurz nach dem Fall an die Universität zu Charkow geschickt; zwei Stücke von über 4 K. kamen an das Gymnasium zu Ekaterinoslaw. Ausserdem sind Bruchstücke in Wien (1 K. 170,337), London (177,645), Berlin (63,974), Petersburg, Bergcorps und in den Privatsammlungen von v. Reichenbach, Shepard, Greg (19 Gr.) und Nevill.
+
+Specifisches Gewicht: 3,4235 Rumler.
+
+Der Stein ist mit einer schimmernden schwarzen Rinde bedeckt; die Grundmasse ist hellaschgrau und durch undeutliche kugelige Einmengungen schwach gefleckt; diese treten beim Anschleifen deutlicher hervor. Eisen und Schwefeleisen sind ziemlich reichlich, aber meist fein eingesprengt. Kleine schwarze Theilchen sind Chromeisen.
+
+v. Reichenbach analysirte miskroskopisch einen der kleinen Einschlüsse. — Giese lieferte eine chemische Analyse. Er fand:
+
+SiO3. MgO. Al2O3. Fe. Ni. Mn. Cr2O3, S.  
+44. 18. 3. 21. 2,5. 1. 1.
+
+Nach Wöhlers Analyse besteht der Stein aus:
+
+Eisen mit Nickel, Kobalt und Phosphor 11,00 mit 9% Ni.  
+Einfachschwefeleisen 5,00  
+Chromeisenstein 2,00  
+Magnesia-Eisenoxydul-Silikat (Olivin) 41,56  
+Unlösliche Silikate (Augit und ein Feldspath, wahrscheinlich Labrador) 39,47
+
+In manchen Meteoritenverzeichnissen wird noch aus demselben Gouvernement Ekaterinoslaw unter Paulowgrad eine besondere Localität angeführt. Der Stein von etwa 43 K. soll 1826, Mai 19, gefallen und jetzt im Museum zu Odessa sein. Wirklich führt Eichwald einen Meteorstein von 1 Fuss Durchmesser von Ekaterinoslaw an, den er 1829 im Museum der vaterländischen Alterthümer zu Odessa gesehen habe. Da Zweifel waren, ob hier ein besonderer Fall vorliege, oder ob es nur eine Verwechselung mit dem Fall von 1814 sei, so wandte sich Hörnes in Wien neuerlich um Auskunft nach Odessa. Diese ergab, dass allerdings ein solcher Stein daselbst aufbewahrt wird, aber erst seit 1843, wo er in einem Tumulus bei Berdiansk am Asowschen Meer gefunden wurde und antiquarischer Natur ist. Wie stimmt das aber mit der Behauptung von Eichwald? Greg kämpfte jüngst wieder für die Selbständigkeit und Richtigkeit der Localität Ekaterinoslaw.
+
+Jedenfalls ist dasFragment Paulowgrad in Wien (11,485 Gr.) und wohl auch das in Gres’s Sammlung (14,8 Gr.) dem Stein von Bachmut täuschend ähnlich.
+
+Literatur: Giese in Gilb. Ann. 50, 117. Eichwald in Erman Arch. 5, 178. v. Reichenbach in Poggend. Ann. 111, 372. Haidinger in Wien. Ztg. 1862, Oct. 18, Beil. No. 38. p. 303. Wöhler Nachrichten d. Univ. Göttingen, 1862, 373. Greg Philos. Magaz. Suppl. Jan. 1863.
+
+Agen, Dep. Lot et Garonne, Frankreich.
+
+1814, Sept. 5, kurz vor Mittag.
+
+Man bemerkte eine rotirende Wolke, keine Feuerkugel, aber eine blitzartige Erscheinung und eine heftige Detonation. — Viele Steine fielen auf einen Raum von 1 Lieue Durchmesser; sie wogen im Ganzen 30-35 K., die zwei grössten von etwa 9 K., die noch heiss gefunden wurden, waren zerbrochen.
+
+Das grösste Stück von 531 Gr. ist im Mus. Hist. nat. zu Paris, kleinere Fragmente in Wien (201,7 Gr.), London (46 Gr.), Göttingen 26 Gr.), Berlin (18,159 Gr.), Florenz, Stockholm und den Privatsammlungen von Shepard (N.-Haven), v. Reichenbach (Wien), Greg Manchester 2,7 Gr.), Neumann (Prag), Nevill (London).
+
+Specifisches Gewicht:
+
+3,5925 Rumler,  
+3,6213 Rumler.
+
+Die Rinde ist schwarz, matt, wenig pechartig glänzend, stellenweise schlackig, ähnlich Barbotan, l’Aigle u. A.
+
+Das Innere ist feinkörnig, porös, zerreiblich, lichtaschgrau, rostbraun gefleckt und schwarz punktirt; hell und dunkelgraue kugelige, fest verwachsene Theile sind so durch einander geknetet, dass sie mancherlei krumme Streifen und Flächen bilden. Viele schwarze, meist sehr feine Adern bilden in der Masse theils Lagen und Streifen, theils einzelne tropfenartigeFlecken. Manchmal finden sich beträchtliche schwarze Absonderungsflächen. Da und dort zeigen sich auch Kügelchen von einer dunkelgrauen und Anhäufungen von einer ganz weissen erdigen Substanz. Viele metallische Punkte sind fein, Schwefeleisen mikroskopisch fein eingesprengt. Der Stein wirkt stark auf die Magnetnadel.
+
+Nach der qualitativen Analyse von Vauquelin fehlt Nickel; der Stein besteht aus Kieselsäure, Magnesia, Eisen, Schwefel, einer Spur Kalk und Chrom; nach Stromeyer enthält er Chromoxyd. Eine genauere Analyse wäre sehr wünschenswerth.
+
+Literatur: Gilb. Ann. 48, 395. Vauquelin Journ. des Min. 37, 317. Partsch 62.
+
+Dorf Dooralla, im Territorium von Patyala Raja, 80 Meil. von Lodiana, Ostindien, 30° 8'23 Br. 46.4 östl. L., Greenw.
+
+1815, Febr. 18.
+
+Unter heftigem Knall und Getöse fiel ein etwa 13 K. schwerer Stein nieder, der sich 5 Fuss tief in den Boden bohrte. Es sollte ihm zur Verehrung ein besonderer Tempel gebaut werden, dann kam er aber nach London in das East India-House und ist jetzt im britischen Museum (12 K. 848). Bruchstücke scheinen nur zu sein in Calcutta (98 Gr.) und bei v. Reichenbach?
+
+Die Gestalt ist unförmlich dreieckig, die Rinde ist schwarz und dünn und auf dem Bruch ist deutlich Nickeleisen zu erkennen. Genauere Mittheilungen fehlen.
+
+Literatur: Gilb. Ann. 68, 333. Rep. Brit. Assoc. 1850, 119.
+
+Chassigny, 4 M. SO. von Langres, Dep. Haute Marne, Frankreich.
+
+1815, Oct. 3, 8 Uhr Vormittags.
+
+Ohne dass eine Feuerkugel wahrgenommen wurde, fiel aus einer grauen Wolke bei sonst ganz heitrem Himmel unter dem gewöhnlichen Getöse ein Stein nieder, der noch heiss aufgenommen wurde; er war zerborsten und die Bruchstücke wogen etwa 4 K. Nach 8 Tagen wurde 160 Meter davon noch ein zweiter ziemlich beträchtlicher Stein gefunden; vielleicht sind noch mehre gefallen.
+
+Bruchstücke sind in mehren Sammlungen: Paris (Mus. Hist. nat. 374 Gr.), Wien (99,532 Gr., 2 St.), London (33,67 Gr.), Zürich (17,6 Gr., 3 St.), Berlin (16,493 Gr.), Göttingen (5,4 Gr. und 5 Fragmente), Dublin und in den Privatsammlungen von v. Reichenbach, Shepard, de Luynes (55,7 Gr., 2 St.), Greg (8,5 Gr.), Nevill und Neumann.
+
+Specifisches Gewicht:
+
+3,55 v. Schreibers,  
+3,5566 Rumler.
+
+Die Rinde ist matt, mehr oder weniger schwarz; an dunkelschwarzbraunen Stellen glänzt sie auch; sie zeigt viele kleine Risse und wirkt kaum auf den Magnet.
+
+Das Innere hat Aehnlichkeit mit einem etwas lockeren glimmerhaltigen Sandstein, ist leicht zu zerbröckeln, weiss oder hellgrau, mit einem Stich ins Blassgelblichgrüne, mit sehr kleinen glänzenden Schüppchen, die aber nicht Nickel- oder Schwefeleisen sind. Sehr feine schwarze Körnchen werden Chrom- oder Magneteisen sein. Calmelet fand im Inneren einen ziemlich vollständigen Krystall von 4 mm. Höhe und Breite, ähnlich einer Tafel oder einem kurzen schiefen Prisma, wie Pyroxen. Auch Gillet de Laumont bemerkte Krystallflächen.
+
+Wenn schon die oryktognostische Beschreibung dieser Localität von den meisten anderen abweicht, so ist dieses bei dem Resultat der chemischen Untersuchung noch mehr der Fall. Vauqelin bestätigte durch die Analyse, dass der Stein frei von metallischem Eisen und Nickel ist.
+
+Er fand:
+
+SiO3. MgO. Fe2O3. Cr.  
+33,9. 32,0. 31,0. 2,0.
+
+Damour fand bei der Analyse:
+
+SiO3. MgO. FeO. MnO. Cr2O3. KO. X.  
+35,30. 31,76. 26,70. 0,45. 0,75. 0,66. 3,77.
+
+(X. = Chromeisen und Pyroxen).
+
+Damour berechnet daraus die Formel (FeO, 2MgO) SiO3 wie für Hyalosiderit.
+
+Literatur: Pistollet Gilb. Ann. 53, 384. Vauquelin ebd. 58, 171. Calmelet und Gillet de Laumont Ann. des Mines 1, 489, 491. Damour Cpt. rnd. 55, 1862, 591.
+
+Zaborzika (Saboryzy, Saborytz nach Eichwald), bei dem Fluss Slutsch, Gouv. Volhynien, Russland.
+
+1818, März 30 (Apr. 10. n. St.).
+
+Ueber den Fall selbst ist nichts Genaueres bekannt geworden. Nach Eichwald werden einige Stücke, die zusammen etwa 4 1/2 K. wiegen, im Museum zu Kiew aufbewahrt. Kleinere Stücke sind in Wien (112,657 Gr.), Berlin (54,145 Gr.), London (8,19 Gr.) und in den Privatsammlungen von de Luynes (12,2 Gr.), v. Reichenbach, Shepard und Neumann.
+
+Die hellaschfarbene Grundmasse enthält unregelmässig beigemengte graue Körner und kleine rostbraune Flecken; Magnetkies und Eisen sind reichlich eingeschlossen. v. Reichenbach untersuchte mikroskopisch ein solches graues Körnchen.
+
+Laugier unterwarf den Stein einer Analyse und fand:
+
+SiO3. MgO. Al2O3. Fe2O3. CaO. Ni. Cr. S. Sa.  
+41. 14,9. 0,75. 45. 2. 1. 0,75. 4. 109,4.
+
+Literatur: Gilb. Ann. 75, 264. Erman Archiv 5, 178. Poggend. Ann. 111, 372.
+
+Seres, Macedonien, Türkei.
+
+1818, Juni.
+
+Ueber die Geschichte des Steinfalles ist nichts bekannt. Jussuf Pascha, Statthalter von Seres in Macedonien, schenkte den einzeln gefallenen Stein von etwa 7 1/2 K. seinem Leibarzt Grohmann, der fast den ganzen Stein Hrn. Prof. Andreas Ritter v. Scheerer in Wien schenkte. Nach dessen Tode 1844 wurden die beiden zusammenpassenden, durch eine Ablösungsfläche getrennten Hälften dem k. k. Hof-Min.-Cabinet zu Wien als Vermächtniss übergeben (4 St., 6 K. 905,534, der grösste 4 K. 830). Kleinere Stücke besitzen Göttingen (4 St., 88,69 Gr.), Berlin (48,813 Gr.), London (37,18 Gr.), Stockholm (5 Gr.), Calcutta und die Privatsammlungen von Auerbach (45,5 Gr.), Shepard, v. Reichenbach und Greg (10 Gr.).
+
+Specifisches Gewicht:
+
+3,60 John,  
+3,7113 Rumler.
+
+Die Rinde ist matt und schwarz, die Grundmasse grau, rostbraun gefleckt, sehr dicht, mit helleren runden Punkten, welche mit der Grundmasse innig verbunden sind. Eisen ist ungleich, aber reichlich eingesprengt, Schwefeleisen höchst fein. Gestreifte Ablösungsflächen.
+
+Nach der Analyse von Berzelius besteht der Stein aus:
+
+1\. Magnetischer Theil:
+
+Nickeleisen 82,74%. Magnetkies 17,26%.  
+Fe. Ni. Fe. S.  
+77,94. 4,80. 10,43. 6,83.
+
+2\. Grundmasse:
+
+47,5% zersetzbar. 52,5%, nicht zersetzbar.
+
+SiO3. 28,7. 49,83.  
+FeO. 29,6. Fe2O3 9,52.  
+MgO. 40,0. 14,48.  
+NaO. 0,9. 1,47.  
+KO. 0,8. 3,22.  
+MnO. -,-. 4,57.  
+Cr2O3. -,-. 0,95.  
+Al2O3. -,-. 5,33.  
+CaO. -,-. 3,54.  
+NiO. -,-. 0,19.  
+ 100,0. 93,10.
+
+Nach Rammelsberg lassen sich die Mineralbestandtheile aus dieser Analyse nicht berechnen.
+
+Literatur: Berzelius Poggend. Ann. 16, 618. Rammelsberg Handwörterb. Suppl. 5, 28.
+
+Slobodka, Gouv. Smolensk, Russland. (Nach Eichwald im Kreis Juchnow, aber verschieden von Timochin, 1807, März 13, welche Localität auch Juchnow. genannt wird.)
+
+1818, Aug. 10. n. St. (nach Gilb. Ann. 60, 254 unrichtig Juli 11, Juni 29. a. St.)
+
+Es fiel nur ein Stein von etwa 3 1/2 K. Das grösste Bruchstück (134 Gr.) besitzt die Universität Moskau. G. Rose sah 1829 daselbst einen Meteorstein, der im Gouv. Smolensk gefallen sein soll, doch ist sehr zweifelhaft, dass es der von Partsch beschriebene Slobodkastein der Wiener Sammlung war, da er kein Nickeleisen enthielt, die grösste Aehnlichkeit mit Stannern hatte, eine glänzend schwarze Rinde besass und ein kleinkörniges Gemenge von Augit und Labrador schien. Nach Eichwald ist auch im Museum der Akad. d. Wissensch. in Petersburg ein Bruchstück. Wien besitzt 3 St. (149,847 Gr., der grösste 71,641 Gr.), Berlin (176,762 Gr.), Paris (49 Gr.) und die Privatsammlungen von Erzh. Stephan (9 Gr.), Shepard, Greg (1,7 Gr.) und Neumann (0,6 Gr.). Ein ziemlich grosses hat v. Reichenbach, der es als Timochin (1807) erhielt.
+
+Specifisches Gewicht: 3,4763 Rumler.
+
+Die Oberfläche ist nach Partsch rauh, und durch den dunkelbraunen, matten oder nur schimmernden Ueberzug erkennt man die innere Masse.
+
+Die Grundmasse ist hellgrau und rostbraun gefleckt und mit feinen schwarzen Adern durchzogen. Durch viele, aber nicht sehr deutliche kugelige und eckige Einschlüsse wird die Masse marmorartig. Eisen ist fein und mittelfein, wenig Schwefeleisen sehr fein eingesprengt.
+
+Literatur: Gilb. Ann. 60, 254. Erman Arch. 5, 178. G. Rose Reise Ural 1, 75. Partsch 55.
+
+Sehr wahrscheinlich ist dieser Fall zu streichen, da das in Moskau befindliche Stück, sowie das in Berlin, von welchen die anderen abstammen müssen, nach dem Urtheil der ausgezeichnetsten Kenner (v. Reichenbach, Hörnes, G. Rose etc.), sowie nach Vergleichung mit den reichsten Sammlungen nur ein »>Stannern« ist. Auch Partsch bezweifelt, dass die 3 Stücke der Wiener Sammlung von derselben Localität stammen.
+
+Jonzac (Barbezieux), Dep. de la Charente inferieure, Frankreich.
+
+1819, Juni 13, 6 Uhr Morgens.
+
+Nach drei Detonationen, wovon besonders die erste schrecklich war, fielen die Steine fast wie ein Hagel; die grössten waren 2 und 3 K. schwer. Doch finden sie sich nur in wenigen Sammlungen. Wien besitzt 3 St. (zusammen 1 K. 167,056), London (10,53 Gr), Berlin (2,165 Gr.) und die Privatsammlungen von de Luynes (16,8 Gr.), v. Reichenbach, Greg (3,7 Gr.), Shepard und Neumann (0,92 Gr.).
+
+Specifisches Gewicht:
+
+3,12 Fleuriau,  
+3,0773 ohne Rinde, Rumler,  
+3,0897 mit etwas Rinde, Rumler.
+
+Die Rinde ist sehr glasig, dünn, durchscheinend, glänzend, aderig.
+
+Im Innern sind 2 Massen zu unterscheiden, eine grünlichgraue oder braune, die fast vorherrscht und in eckigen Kryställchen oder rundlichen Körnchen auftritt, und eine weisse, welche als Grundmasse erscheint und jene einschliesst. Körner von Eisen sind nicht sichtbar. Magnetkies ist nur sehr spärlich und fein darin vertheilt.
+
+Nach der Analyse von Laucıer besteht der Stein aus:
+
+SiO3. MgO. CaO. Fe2O3. Mn2O3. Cr2O3. Al2O3. S. Sa.  
+46. 1,6. 7,5. 36. 2,8. 1. 6. 1,5. 102,4.
+
+Literatur: Gilb. Ann. 68, 335.
+
+Pohlitz (nicht richtig Köstritz) bei Gera, Fürstenthum Reuss, Deutschland.
+
+1819, Oct. 13, gegen 7 Uhr Morgens.
+
+Ein sehr starker Knall, der 8 Stunden im Umkreis hörbar war und darauf folgendes starkes Brausen und Sausen liessen auf einen Steinfall schliessen. Doch war bei dem dicken Nebel nichts zu sehen. Erst zwei Tage darauf wurde ein Stein von etwa 3 1/2 K. auf einem Acker 9 Zoll tief im Boden gefunden. Allmählich wurde etwa 1 K. davon abgeschlagen; den Rest von 2 1/2 K., die Hauptmasse, besitzt das Gymnasium zu Gera. Kleinere Bruchstücke sind in den Sammlungen zu Berlin (723,743 Gr.),. Wien (408,520 Gr., 4 St., das grösste 388,281 Gr.), London, Gotha (133,2 Gr.), Heidelberg, Jena, Altenburg, Göttingen, Freiberg und den Privatsammlungen von Ferber (490 Gr., 2 St.), v. Reichenbach, Shepard, Nevill, Greg (12,6 Gr.), Auerbach, und Fürst Lobkowitz.
+
+Specifisches Gewicht:
+
+3,4938 Stromeyer,  
+3,3789 mit Rinde, Rumler.
+
+Die Rinde ist schwarz, matt, ziemlich dick und etwas rauh anzufühlen. An einer Stelle ist offenbar während des Falles ein Stück vom Stein abgesprungen und da die Rinde merklich dünner.
+
 ...
