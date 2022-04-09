@@ -1931,4 +1931,65 @@ Specifisches Gewicht:
 
 Die Rinde ist schwarz, matt, ziemlich dick und etwas rauh anzufühlen. An einer Stelle ist offenbar während des Falles ein Stück vom Stein abgesprungen und da die Rinde merklich dünner.
 
+Das Innere ist schmutzig hellgrau, feinkörnig, im Ganzen erdig, selten splitterig, fast zerreiblich. Da und dort sind dichtere Stellen von dunklerer Farbe, die allmählich wieder ins Feinkörnige ziehen; andere sind noch dichter, bleigrau, wachsglänzend, hart, manche ähnlich Mandeln in Mandelstein. Diese kugeligen Einschlüsse sind mehr oder weniger deutlich. Ausserdem sind selten äusserst kleine kirschrothe Punkte in der Steinmasse sichtbar. Eisen tritt in vielen stark metallisch glänzenden Blättchen von silberweisser bis bleigrauer Farbe, manchmal selbst in kleinen Kügelchen auf. Schwefeleisen ist in geringerer Menge und sehr fein eingesprengt. Die ganze Masse durchsetzen zwei gerade, parallel laufende Gänge, die 3/4 Zoll von einander entfernt und 0,1-0,75 Linien dick sind; kleine äusserst dünne Gangtrümmer durchziehen die ganze Masse, und gehn fast alle wie die zwei Hauptgänge von der Rinde aus. Die Adermasse ist schwarz und zeigt unter der Lupe eine stengelige Absonderung.
+
+Stromeyer analysirte die Masse und fand:
+
+Fe. Ni. S.  
+17,489. 1,365. 2,695., welches er zerlegt in
+
+Nickeleisen 14,812 = Fe 13,446. Ni 1,365.  
+Schwefeleisen 6,739 = Fe 4,044. S 2,695.
+
+SiO3. MgO. Al2O3. FeO. MnO. Cr2O3.  
+38,059. 29,93. 3,468. 4,896. 1,146. 0,130.
+
+Literatur: Gilb. Ann. 63, 217. 451. 68, 336. Eine Zusammenstellung des Geschichtlichen, namentlich auch der Protokolle und Zeugenaussagen findet sich im 3. Jahresber. der Gesellsch. von Freunden der Naturwiss. in Gera. 1860.
+
+Gut Lixna (Liksen nach Eichwald), bei dem Dorf Lasdany (Forst Lasdany), 1 1/2 Meil. von Dünaburg, Gouv. Witebsk, Russland.
+
+1820, Juli 12. n. St., zwischen 5 und 6 Uhr Abends.
+
+Eine grosse Feuerkugel von SSO. nach NNW. mit Schweif war gefolgt von heftiger Detonation und dann einem Steinfall. Nur die wenigsten Steine wurden gefunden und waren da zum Theil noch heiss; viele fielen wahrscheinlich in einen grossen Wald, viele auch in verschiedene Gewässer. — Einer der gefundenen Steine hatte etwa die Gestalt eines runden Amboses, der sich mit dem spitzen Ende in die Erde gebohrt hatte. Sein Gewicht betrug etwa 20 K.; er wurde zerschlagen.
+
+Die Hauptmasse kam nach Wilna und dann nach Kiew. Es sind Bruchstücke in Wien (1 St., 251 Gr.), Göttingen (4 St., zusammen 160 Gr.), Berlin (81,8 Gr.), Dorpat (23,5 Gr.), Freiberg (Bergschule 2 St., 15 Gr.), Paris (Mus. Hist. nat. 13 Gr.), London (10,35 Gr.), Heidelberg und in den Privatsammlungen von v. Reichenbach (Wien), Shepard (N.-Haven), Greg (Manchester 65 Gr.), de Luynes (Dampierre), Auerbach (Moskau 16,5 Gr.), Neumann (Prag).
+
+Specifisches Gewicht:
+
+3,756 Grothuss,
+3,6608 Rumler.
+
+Die Rinde ist matt, etwas rauh, schwarz.
+
+Die Grundmasse ist licht- bis fast dunkelaschgrau; der Bruch ist erdig, doch kann er auch durch häufige metallische eisen- und stahlfarbene Schichten ganz metallisch erscheinen. Diese metallischen Schichten durchsetzen die ganze Masse meist in 2 Hauptrichtungen 1/4-3/4''' dick, bilden aber oft eine ganz zusammenhängende, mehre ?'' grosse vollkommen metallisch glänzende Oberfläche. Die Grundmasse ist mit kleinen Rostflecken durchsäet und häufig von schwarzen Linien, glänzenden graphitartigen Ablösungen durchzogen. Zahlreiche dunkelgraue kugelige Einschlüsse sind mit der Grundmasse fest verwachsen und treten auf der Bruchfläche nicht vor. Eisen ist fein und mittelfein reichlich eingesprengt, Schwefeleisen sehr fein. Mit der Lupe unterscheidet man 1. weisse Theile, 2. eisenschwarze oder graue, 3. fast zinnweisse oder tombakbraune und 4. sparsam schwarze Pünktchen.
+
+Analysen von Laugier 1. und Grothuss 2.:
+
+SiO3. Fe2O3. MgO. S. Ni. Cr. CaO. Mn,Cu. FeO. Al2O3.  
+1\. 34. 40. 17. 6,8. 1,5. 1. 0,5. Spur. -,-. -,-.  
+
+SiO3. Fe. MgO. S. Ni. Cr. CaO. Mn,Cu. FeO. Al2O3.  
+2\. 33,2. 26. 10,8. 3,5. 2. 0,7. 0,5. -,-. 22. 1,3.
+
+Nach I. lässt sich 1/4, mit dem Magnet ausziehen. Grortnuss hält die helleren nicht magnetischen Körner für Anorthit oder Labrador, die gelblichbraunen für Olivin oder Granat, und die schwarzen, die viel grösser und seltner sind, für Augit. Unter den metallischen Körnern sind sehr kleine körnige Krystalle von Magnetkies, und dicht gedrängte und stark glänzende Körner von Nickeleisen, welches auch in dünnen Blättchen gleichsam als Skelet auftritt.
+
+Literatur: Gilb. Ann. 67, 337. (Abb.) Laugier Bull. Soc. Phil. 1823, Juni. Gilb. Ann. 75, 264. Eichwald u. Grothuss in Erman Arch. 5, 179. Poggend. Ann. 85, 574.
+
+Juvinas (weniger richtig Juvenas) bei Libonnez, Dep. de l’Ardeche, Languedoc, Frankreich.
+
+1821, Juni 15, zwischen 3 und 4 Uhr Nachmittags.
+
+Aus einer Feuerkugel fiel bei Gegenwart von Zeugen unter heftigem Getöse ein mächtiger Stein von 110 K. und in der Nähe noch mehre kleinere nieder. Das grösste Bruchstück von 42 K. ist im Mus. Hist. nat. zu Paris; kleinere finden sich in vielen Sammlungen: London (1 K. 027), Berlin (1 K. 023,657), Wien (698,373 Gr., 4 St., das grösste 498,762 Gr.), Leipzig (151,272 Gr.), Göttingen (151 Gr.), Edinburg (120 Gr.), Darmstadt (45,47 Gr.) und noch kleinere in Trier, Hudson, Stuttgart, Stockholm, Calcutta. In Privatsammlungen besitzt davon van Brepa in Harlem (801,3 Gr.), Shepard (312 Gr.), Greg (194 Gr.), v. Reichenbach, de Luynes (32,4 Gr. und ein Stück, etik. Aubenas, Dep. Ardeche, Juli 1821, das wohl hierher gehört und nur später gefunden wurde, von 248 Gr.), Auerbach (unsicher, ob wirklich daher), v. Baumhauer und Neumann.
+
+Specifisches Gewicht:
+
+3,099 d'Hombres Firmas,  
+3,148 Rumler.
+
+Die Rinde ist sehr dünn, schwarz, glänzend, aderig, und mässig hart; hier und da mit braunen Tröpfchen.
+
+Das Innere, sehr ähnlich dem Dolerit des Meissner, ist ein körniges, ziemlich bröckliges Gemenge besonders eines braunen oder schmutzig dunkelgrünen und weissen Bestandtheils zu gleichen Theilen, welche in krystallinischen, eckigen Körnern und Blättchen erscheinen; dazwischen liegen strohgelbe Blättchen, die an manchen Stellen ganz fehlen. Da und dort tritt auch Magnetkies in ganz kleinen deutlichen Krystallen und Körnern auf, die aber nicht magnetisch sind. In kleinen Höhlungen und Löchern finden sich Krystalle der braunen Substanz mit messbaren Winkeln und scheinen Augit zu sein. Die weisse Masse tritt stellenweise in noch grösseren Partien auf und zeigt sehr deutlichen blättrigen Bruch; doch sind die Krystalle in den Höhlungen zur Messung meist zu klein. Hauy und Laugier halten sie für Feldspath; nach G. Rose sind sie wahrscheinlicher Labrador, nach Shepard und Rammelsberg aber Anorthit. Sphenomit nennt Shepard die bräunlichgrauen, dünnen tafelförmigen Krystalle (mehre Linien lang), die mit Augit und dem feldspathartigen Gestein gleichzeitig vorkommen. Besonders auf polirten Flächen erkennt man, dass an einigen Stellen die Gemengtheile von etwas gröberem Korn und in runden oder länglichen Partien ausgeschieden sind.
+
+Die älteren Analysen von Vauquelin 1. und Laugier 2. sind mangelhaft.
+
 ...
