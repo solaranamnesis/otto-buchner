@@ -1992,4 +1992,263 @@ Das Innere, sehr ähnlich dem Dolerit des Meissner, ist ein körniges, ziemlich 
 
 Die älteren Analysen von Vauquelin 1. und Laugier 2. sind mangelhaft.
 
+SiO3. Al2O3. Fe, Mn. CaO, MgO. S. Cr. Cu. KO. Sa.  
+1\. 40. 13,4. 27. 27. 8. 8. 11,6. 11,6. 11,6. 11,6. 100.  
+SiO3. Al2O3. Fe2O3. MnO. CaO, MgO. S. Cr. Cu. KO. Sa.  
+2\. 40. 10,4. 23,5. 6,5. 9,2. 0,8. 0,5. 1. 0,1. 0,2. 92,2.
+
+Sehr sorgfältig und maassgebend für viele darauf folgende Analysen war aber die Rammelsberg’s. Sie ergab 36,77%, durch Säuren zersetzbaren Theil 1. und 63,23% nicht zersetzbaren 2.
+
+SiO3. Al2O3. Fe2O3. CaO. MgO. NaO. KO. PO5. FeS.  
+1\. 44,38. 33,73. 3,29. 18,07. 0,36. 1,03. 0,33. 0,54. 0,71.  
+SiO3. Al2O3. FeO. CaO. MgO. NaO. TiO2. FeOCr2O3.  
+2\. 52,07. 0,24. 30,81. 5,68. 9,98. 0,41. 0,16. 2,13.
+
+Danach bestände der Stein aus etwa  
+36%, Anorthit,  
+60%, Augit,  
+1,5% Chromeisen,  
+0,25% Magnetkies  
+und vielleicht kleinen Mengen von Apatit und Titanit.
+
+Kupfer fand Rammelsberg nicht; Nickel wurde bei keiner Analyse gefunden. Dagegen wies Bunsen spectral-analytisch Lithion nach. Auffallend ist die grosse Menge von Kalk und Thonerde, während Magnesia sehr gering vertreten ist.
+
+Literatur: Vaquelin Gilb. Ann. 71, 202. Laugier ebd. 71, 208. G. Rose Poggend. Ann. 4, 174. Rammelsberg ebd. 73. 585. Wöhler Ann. Chem. Pharm. Nov. 1861, 253.
+
+Angers, Dep. Maine et Loire, Frankreich.
+
+1822, Juni 3, nach 8 Uhr Abends.
+
+Aus einer Feuerkugel, die in NNW. erschien und heftig detonirte, fielen wahrscheinlich mehre Steine. Einer von nicht ganz 1 K. wurde gleich nach dem Fallen nicht besonders warm aufgenommen. In Poitiers wurde die Feuerkugel als Sternschnuppe gesehen. Der Schweif blieb einige Zeit und veränderte seine Gestalt.
+
+Ueber die Beschaffenheit des unregelmässig eckigen Steins, der seiner Hauptmasse nach in Paris (77 Gr.) und ausserdem vielleicht nur in v. Reichenbach’s Sammlung vertreten ist, wurde nur sehr wenig bekannt. Die Rinde ist gleichförmig braunschwarz und zeigt an einer Stelle eine Blase. Das Innere ist den Steinen von l’Aigle ähnlich und ein Gemenge eines weissen und eines röthlichen Bestandtheils.
+
+Literatur: Gilb. Ann. 71, 345. 361.
+
+Epinal, Gemeinde la Baffe, Dep. des Vosges, Frankreich.
+
+1822, Sept. 13, 7 Uhr Morgens.
+
+Zufällig während eines heftigen Gewitters fiel ein Stein 2 Lieues von Epinal unter heftigem Getöse, das sich aber wesentlich von dem gleichzeitig rollenden Donner unterschied. Der Stein fiel ganz nahe bei einem Bauer nieder und wurden die Bruchstücke noch heiss aufgefunden. Doch waren beim Zerschellen viele Stücke in die benachbarten Felder geschleudert worden. Nur wenige Sammlungen besitzen diese Localität: Paris, Mus. Hist. nat. (31 Gr.), Wien (16,406 Gr.), Berlin (10,662 Gr.) und v. Reichenbach in Wien.
+
+Specifisches Gewicht: 3,666 Rumler.
+
+Die Rinde ist schwarz, matt oder schwach schimmernd.
+
+Die hellgraue, rostbraun gefleckte Grundmasse enthält eine grosse Menge kleiner kugeliger Einschlüsse, viel fein und mittelfein eingesprengtes Eisen und sehr fein vertheiltes Schwefeleisen.
+
+Die Analyse von Vauquelin ergab:
+
+SiO3. Fe2O3. Fe. S. Cr2O3. NiO. MsO. CaO, KO. Sa.  
+35. 31,37. 22. 2,25. 0,25. 0,50. 4,25. 1,25. 96,82.
+
+Literatur: Gilb. Ann. 72, 323. 75, 231. 258.
+
+Futtehpore, Orte Rourpore, 72 engl. Meil. NO. von Allahabad, Bittoor (Bithur) und Shahpore (Shapur), 75 engl. Meil. NW. von Allahabad, Ostindien.
+
+1822, Nov. 30, kurz nach Sonnenuntergang.
+
+Der Fall mit den gewöhnlichen Erscheinungen wurde vollständig
+beobachtet: man sah ein leuchtendes Meteor von Mondgrösse, das fun-
+kensprühend und von SO. nach NW. sich bewegte. Nach der Detona-
+
+tion fiel ein wahrer Schauer von Steinen, deren grösster etwa 1 K. gewogen haben soll. Ein Stein von 3/4 K. wurde noch heiss gefunden. Das grösste Bruchstück ist in Galcutta (1 K. 601 Gr.). Demselben Fall angehörig, jedenfalls unter demselben Datum (1822, Nov. 30) registrirt sind die beiden Steine von Bithur (1 K. 900) und Shapur (340 Gr.), beide ebenfalls in Calcutta. In Europa sind die grössten Stücke in London (1 K. 617 und 77,87 Gr.) und Wien (546,875 Gr., der grösste 459,387 Gr.), sowie in den Privatsammlungen von Shepard (etwa 1 K.), v. Reichenbach, Greg (7 Gr.) und Nevill; auch Th. McPherson Grant in Edinburg soll nach Shepard einen Stein von 1 K. besitzen, den einzigen, der unverletzt gefunden wurde.
+
+Specifisches Gewicht:
+
+3,352 Shepard,  
+3,352-4,281 Tytler,  
+3,526 Haidinger.
+
+Die Rinde ist bräunlichschwarz, ohne Glanz, da und dort mit einzelnen oder gruppenweise stehenden rundlichen, seichten Vertiefungen. Wie durch kurzklüftige Zerspaltung ist die Rindenoberfläche in einzelne eckige Täfelchen von unregelmässiger Form und von 2-3 Lin. Durchm. getrennt. Mit der Lupe ist an der Schmelzoberfläche eine und die andere Kluft oder eingeschlossene Kugel, sowie metallisches Eisen erkennbar.
+
+Die Grundmasse ist hellaschgrau, feinkörnig, stellenweise braun rostfleckig; sie ist nach verschiedenen Richtungen von Sprüngen und Klüften durchzogen, die sich unter scharfen Winkeln kreuzen und durch feste Theile ausgefüllt sind, theils dunkelfarbige, theils metallische. Diese Ausfüllungen der Risse zeigen alle Eigenschaften von Gängen. Stellenweise sind auch härtere Kügelchen eingeschlossen, die graulich weiss, einige auch dunkler sind und selbst wieder zum Theil Eisen enthalten. Einzelne dieser Einschlüsse sind auch eckig und manche haben plattenförmige, linear glänzend erscheinende Structuranzeichen. Die gangartig angeordneten Platten von Schwefeleisen haben die röthlich speissgelbe Farbe von Magnetkies. Metallisches Eisen erscheint in zahlreichen Pünktchen und Körnchen von verschiedener Grösse bis zu 1 1/2 Linien grösstem Durchmesser.
+
+Literatur: Shepard Sillim. Amer. Journ. 2. 11, 367. Haidinger Wien. Acad. Ber. 41, 1860, 747.
+
+Es ist möglich, dass noch ein zweiter Steinfall in demselben Jahr 1822 am 7. August Nachts zu Kadonah, Agra stattfand. Ein grösserer Theil des Steins oder einer der Steine war in der Royal Institution in London 1853 oder 1854 ausgestellt, wird aber jetzt vermisst. Ein Theil desselben ist jetzt wahrscheinlich im britischen Museum und ganz verschieden von dem Futtehporesteine. Nevill soll vor Jahren auch ein Stück davon, aber mit dem Datum 30. Nov. gehabt haben und Lettom in London hatte ein ähnliches Stück, aber mit dem Datum 7. August.
+
+
+Nobleborough (Nobleboro’) Maine, Nord-Amerika.
+
+1823, August 7, zwischen 4 und 5 Uhr Nachmittags.
+
+Bei sonst klarem Himmel und ruhiger Luft wurde aus einer kleinen weissen Wolke nahe dem Zenith ein Getöse vernommen, das immer heftiger wurde. Der Steinfall selbst wurde beobachtet, doch erst eine Stunde darauf der Stein aufgenommen; er verbreitete starken Schwefelgeruch und mochte anfangs 2-3 K. schwer sein. Aehnliche Steine sollen einige Meilen von Nobleborough gefunden worden sein. Bruchstücke sind nur in sehr wenigen Sammlungen, so namentlich in Wien (6,563 Gr.) und in den Privatsammlungen von Shepard, v. Reichenbach und Greg (0,4 Gr.).
+
+Specifisches Gewicht:
+
+3,08 Webster (wohl nur durch einen Druckfehler 2,08, aber so mehrfach nachgedruckt),  
+3,092 Rumler.
+
+Die Rinde ist ein vollkommen geschmolzenes, glänzendes Glas, die Innenmasse ist hell aschgrau und unter der Lupe erkennt man zahlreiche Bestandtheile; namentlich sind kleine durchsichtige olivengrüne, sowie schwärzliche, eckige und runde Körner eingemengt, so dass das Ganze ein breccienartiges Aussehen erhält. Nach Shepard enthält die Masse hauptsächlich Howardit durchsäet mit Olivinoid, weissen Theilchen von Anorthit, schwarzen von CGhantonnit und einem rothen, glasartigen, harten Mineral, das Granat oder Idocras zu sein scheint.
+
+Eine Analyse liegt vor von Webster:
+
+SiO3. Al2O3. CaO. MgO. Fe. Ni. S. Cr.  
+29,6. 4,7. Spur. 24,8. 14,9. 2,3. 18,3. 4.
+
+Diese Analyse ist jedenfalls nur höchst zweifelhaft richtig, denn der Schwefel- und Chromgehalt ist gewiss, und der Gehalt an Eisen und Nickel wahrscheinlich auch zu hoch angegeben. Shepard fand weder Nickeleisen noch Magnetkies.
+
+Literatur: Poggend. Ann. 2, 153. Ergb. 4, 23. Sillim. Am. Journ. 2. 6, 407.
+
+Renazzo (Arenazzo), nördlich von Cento, Prov. Ferrara, Italien.
+
+1824, Jan. 15, zwischen 8 und 9 Uhr Abends.
+
+Die Lichterscheinung, die Detonation und das Getöse, die dem Steinfall vorausgingen, weichen in der Beschreibung nicht von den gewöhnlichen ab. Es fielen einige Steine, drei wurden gefunden. Der grösste soll 6 K. gewogen haben und noch auf der Sternwarte zu Bologna aufbewahrt werden. Abbe Ranzont daselbst erhielt einen Stein von etwa 750 Gr., von welchem Stücke nach Wien und Paris kamen. Jedenfalls sind noch jetzt Bruchstücke in Bologna (Prof. Bombicci), ausserdem in Wien (114,296 Gr.), Stockholm (68 Gr.), Paris, Mus. His. nat. (18 Gr.), Pisa (6,5 Gr. und kleine Bruchstücke), Berlin (2,998 Gr.), Florenz und in den Privatsammlungen von v. Reichenbach, Greg (3 Gr.) und Shepard.
+
+Specifisches Gewicht: 3,2442 Rumler.
+
+Die Rinde ist matt oder schwach schimmernd, mit rundlichen, wie schuppig aussehenden Erhöhungen.
+
+Das Innere ist höchst eigenthümlich, fast wie Obsidianporphyr und besteht aus einer matten, schwarzen emailartigen Grundmasse mit reichlichen und fest verwachsenen lichtgrauen kugeligen Einschlüssen. Eisen ist ziemlich reichlich theils fein, theils gröber vorzüglich in der Grundmasse, seltener in den Einschlüssen enthalten, umgibt diese aber oft ringförmig. Magnetkies kann nicht erkannt werden.
+
+v. Reichenbach untersuchte mikroskopisch einen der vielen runden oder eirunden Einschlüsse.
+
+Nach der Analyse von Laugier besteht der Stein aus:
+
+SiO3. MgO. F2O3,. NiO. Cr2O3. S. Sa.  
+41,75. 16. 43. 1,25. 1,50. 1. 104,5.
+
+Um das Eisenoxyd als Eisen in Rechnung zu bringen, zieht er 9,2 Sauerstoff ab und bekommt so die Sa. 95,3. Nach Cordier ist das weisse Magnesiasilikat (15%) eine neue Mineralart; er fand darin mikroskopisch kleine grüne Krystalle, ähnlich dem Olivin; die metallischen Theilchen (8%) treten auch nur mikroskopisch auf und bestehn aus Eisen, Nickel, Chrom und Schwefel.
+
+Literatur: Poggend. Ann. 18, 181. Laugier u. Cordier Ann. de Chim. 24, 132. Poggend. Ann. Ergb. 4, 23. v. Reichenbach ebd. 111, 370.
+
+Festung Tounkin, 210 Werst von Irkutsk, Sibirien; Tunga (bei v. Reichenbach), Russland.
+
+1824, Febr. 18, 7 Uhr Abends.
+
+Nach der gewöhnlichen Detonation fiel ein Stein von 2 1/2 K., der noch sehr heiss aufgefunden wurde; er war rund und voll kleiner Löcher. Prof. Stschoukine in Irkutsk besitzt denselben; ausserdem wohl nur v. Reichenbach einen Splitter durch Dr. Fiedler, der denselben mit dem Fingernagel ablöste.
+
+Er ist aussen schwarz, innen hellgrau ; auf dem ganzen Stein erkennt man stahlfarbene Punkte und Adern.
+
+Literatur: Poggend. Ann. 24, 224. EıchwaLp führt diesen russischen Fall nicht in Erm. Arch. 5 an.
+
+Zebrak, Prascoles bei Horzowitz, Berauner Kreis, Böhmen.
+
+1824, Oct. 14, nach 8 Uhr Morgens.
+
+Ob vor der Detonation eine Feuerkugel beobachtet wurde, ist nicht sicher ermittelt worden. Es wurden 450 Schritte von einander entfernt zwei zusammengehörige Stücke Stein gefunden, die zusammen 1 K. 600 wogen. Die Hauptmasse wurde für das böhmische National-Museum zu Prag erworben (1 K. 292). Kleinere Bruchstücke sind in Wien (353,288 Gr.), London (8,775 Gr.), Stuttgart (königl. Cabinet 1,2 Gr.) und in den Privatsammlungen von Neumann (3 Gr. und 2 kl. St.) und Shepard. Wenn diese Zahlenangaben richtig sind und ein drittes, den ganzen Stein ergänzendes Stück nicht gefunden wurde, so würde das Gesammtgewicht dieser Bruchstücke mehr, als das Gewicht der beiden gefundenen Steinstücke betragen.
+
+Specifisches Gewicht:
+
+3,6 Zippe,  
+3,6062 Rumler.
+
+Die dicke matte Rinde bedeckt eine mehr dunkelgraue, ganz mit braunen Flecken erfüllte Grundmasse, welche viele kleine Kügelchen einschliesst, mit welchen sie nicht fest verwachsen ist. Eisen ist ziemlich reichlich und fein, Magnetkies sehr fein eingesprengt.
+
+Nach v. Martius besteht der Stein aus:
+
+20,30 nickelhaltigem Eisen,  
+18,82 Schwefeleisen,  
+60,70 Kieselsäure, Thonerde, Magnesia, Eisenoxydul und Wasser.
+
+Literatur: Poggend. Ann. 6, 28. Karstner Arch. f. d. gesammte Naturlehre 5, 418.
+
+Lager Oriang in Malwate, im westlichen Theil von Ostindien.
+
+1825, Jan. 16, Abends.
+
+Eine grosse Feuerkugel soll eine Strecke weit auf der Erde hingerollt und dann zerplatzt sein. Ein Mann wurde getödtet und eine Frau schwer beschädigt. Die Steine wurden noch glühend heiss aufgefunden; einer hatte die Grösse einer 9 K. schweren Kanonenkugel.
+
+Bruchstücke scheinen nicht nach Europa gekommen zu sein; in Calcutta sind auch keine. Auch wurde nichts Genaueres über die Steine selbst bekannt.
+
+Literatur: Asiat. Journ. 1825, 486. Poggend. Ann. 6, 32.
+
+Nanjemoy, Maryland, Nord-Amerika.
+
+1825, Febr. 10, gegen Mittag.
+
+Nach einem Getöse, das wohl auf 50 engl. Quadratmeilen gehört wurde, fiel ein Stein von etwa 8 K., der noch heiss aufgenommen wurde und einen starken Schwefelgeruch verbreitete. Bruchstücke sind besonders in Wien (350 Gr.), London (291,39 Gr.), Berlin (33,153 Gr.), Göttingen (10,68 Gr.), Dublin und in den Privatsammlungen von Shepard, Greg (40,6 Gr.), v. Reichenbach, Nevill und Neumann.
+
+Specifisches Gewicht:
+
+3,66 Chilton,  
+3,6062 Rumler.
+
+Die braune und sehr harte Rinde ist rauh und matt und mit feinen Sprüngen durchwebt. Innen ist der Stein hellschieferfarben oder aschgrau, feinkörnig, zum Theil mit Rostflecken, sowie mit theils helleren, meist aber dunkleren kugeligen Einschlüssen, die mit der Grundmasse fest verwachsen sind. Die Angaben über die Festigkeit widersprechen sich: nach der einen ist der Stein fest und dicht, nach der anderen sehr lose zusammenhängend, so dass er beim leisesten Schlag wie in Sandkörner zerfällt. Eisen ist ziemlich reichlich und fein, Magnetkies in sehr harten, gelbbraunen und äusserst kleinen Körnchen eingesprengt. Mit dem Magnet können 18%, ausgezogen werden. Im Ganzen ist der Stein sehr ähnlich Iowa (Linn Cty).
+
+Nach der Analyse von Chilton besteht er aus:
+
+SiO3. MgO. CaO. Fe2O3. NiO. Al2O3. S. Sa.  
+1\. 59,6. 10,4. 7,8. 24,6. 3,2. 0,2. 5,08. 104,88.  
+SiO3. MgO. CaO. Fe. Ni. NiO. Al2O3. S. Sa.  
+2\. 13,84. 13,84. 13,84. 96,00. 5,00. -,-. -,-. -,-. 114,84.
+
+1. Nicht magnetischer, 2. magnetischer Theil.
+
+Nach Shepard ist die Hauptmasse Howardit; mit dem Mikroskop erkennt man etwa 15% Olivinoid in rundlichen Körnchen. — Von Chrom wurde keine Spur gefunden.
+
+Literatur: Ann. de Chim. 30, 422. Sillim. Amer. Journ. 9, 351. 10, 131. 2. 6, 406. Poggend. Ann. 8, 47. 18, 184.
+
+Honolulu auf Owahu (O’Wahu, Wahu, Woahoo), Sandwichinseln, Australien.
+
+1825, Sept. 14, zwischen 10 und 11 Uhr Morgens.
+
+Unter den gewöhnlichen Detonationserscheinungen fiel ein Schauer von Meteorsteinen zum Theil in den Canal zwischen Molokai und Lanai und zum Theil zwischen diese Inseln und Owahu, zum Theil auch zu Honolulu. Nur zwei Steine von je etwa 8 K. und ihre Bruchstücke kamen in die Sammlungen. Einen Stein, bis auf eine Schnittfläche von allen Seiten mit Rinde versehen, besitzt die Universität Dorpat. Kleinere Stücke sind in Wien (96,25 Gr., 2 St.), Berlin (64,307 Gr.), London (30,355 Gr.) und in den Privatsammlungen von Shepard (75,62 Gr.), v. Reichenbach, Nevill, Greg (7,7 Gr.) und Osann (in Würzburg).
+
+Specifisches Gewicht: 3,3964 Rumler.
+
+Die Rinde ist matt und schwarz, zum Theil aber ins Bräunlichrothe umgeändert.
+
+Die graulichweisse Grundmasse, die sich mit dem Messer ritzen lässt, ist durch eingemengte kugelige Einschlüsse mehr oder weniger deutlich gefleckt und ist von einer grossen Masse schwarzer, zum Theil verästelter Adern in verschiedenen Richtungen durchzogen; auch treten schwarze, graphitartig glänzende Ablösungen auf. Das Eisen ist in kleinen silberweissen, metallisch glänzenden Körnchen ziemlich reichlich, Magnetkies sehr fein eingesprengt.
+
+Literatur: E. Hoffmann Geogn. Beobachtungen gesammelt auf einer Reise um die Welt in O. v. Kotzedue’s 2. Reise um die Welt. Weimar 1830. 2 B. Pogg. Ann. 18, 184, 624. 24, 225. Sill. Am. Journ. 49, 407. G. Rose Reise Ural I, 32.
+
+Mhow, Ghazeepore, District Azim-Gesch (Azim-Gur), NO. von Benares, Ostindien.
+
+1827, Febr. 16, 3 Uhr Nachmittags.
+
+Unter donnerähnlichem Getöse fielen einige Steine, wobei ein Mensch getödtet wurde; die Bruchstücke der Steine wurden mehre englische Meilen weit’ auseinander gefunden. Bruchstücke sind in Calcutta (354,37 Gr.), London (153 Gr.) und Wien (24,7 Gr.).
+
+Specifisches Gewicht: 3,5.
+
+Lichtgraue Grundmasse mit dunkelgrauen kugeligen Einschlüssen, ziemlich viel eingesprengtem Eisen und Magnetkies. — Die Steine sind denen von Parnallee und Dhurmsala zum Verwechseln ähnlich.
+
+Literatur: Poggend. Ann. 24, 226.
+
+Drake Creek, 18 engl. Meil. von Nashville, Sumner Cty, Tennessee, Nord-Amerika.
+
+1827, Mai 9 (nicht 22), 4 Uhr Nachmittag.
+
+Unter heftiger Detonation fielen mehre Steine, von welchen 5 gesammelt wurden; der schwerste wog etwa 5 1/2 K.
+
+Das grösste Stück von 4 1/2 K. ist in der Troost'schen: Sammlung in Mobile; Shepard in New-Haven hat ein faustgrosses Stück, das Museum zu Leyden ca. 2 1/2 K. (2 dcm. lang, 1 dcm. breit, 1/2 dcm. dick). Kleinere Bruchstücke sind in Wien (66,17 Gr.), Berlin, London (8,19 Gr.),. Göttingen (5,58 Gr.) und in den Sammlungen von. v. Reichenbach, v. Baumhauer und Greg (1,8 Gr.).
+
+Specifisches Gewicht:
+
+3,485 Seybert,  
+3,469 v. Baumhauer,  
+3,583 Rumler.
+
+Die Rinde ist matt, ziemlich: glatt, gleiohmässig bräunlich schwarz.
+
+Die Grundmasse sieht entschieden feldspathig aus; lichtgrau, mehr weiss, mit zahlreichen blassgelben Körnchen und durch undeutliche kugelige Einschlüsse schwach gefleckt; nicht fest. Sie enthält sehr viel meist fein eingesprengtes Schwefeleisen (Magnetkies) aber auch bis zu. hanfkorngrossen Partien; Eisen ist fein und in geringer Menge eingestreut.
+
+Analyse: 1. von Seybert. 2. v. Baumhauer.  
+Unzersetzbarer Theil. a. Grundmasse. b. Rinde.  
+SiO3. 40,000. 58,75. 60,49.  
+FeO. (z. Th. met.) 12,000. 22,70. 32,10.  
+MnO. -,-. 2,08. -,-.  
+MgO. 23,833. 18,50. 1,48.  
+CaO. -,-. 0,30. -,-.  
+Al2O3. 2,466. 0,23. -,-.  
+NiO (Co). 2,166.* 2,08. 1,85.  
+S. 2,443. 1,80. 2,47.  
+Fe2O3. 12,200. Sn. 0,10. -,-.  
+Cr2O3. 0,833. KO. 0,02. -,-.
+--. -,-. NaO. 0,35. -,-.
+
+*) entspricht 1,704 Ni.
+
+*) entspricht 0,584 Cr.
+
+Nach v. Baumhauer ist der durch Säure zersetzbare Theil Olivin. Das nicht Zersetzbare liess sich nicht berechnen, weil die Alkalien nicht bestimmt waren. v. Baumhauer vermuthet darin Labrador und Hornblende mit wenig Olivin. Shepard glaubt, dass darin ausser den blassgelben Körnchen von wahrscheinlich Olivin (Olivinoid) noch Howardit wundÄnorthit, Nickel- und Schwefeleisen seien, sowie da und dort kleine Fleckchen von Chromeisen.
+
+Literatur: Seybert Sillim. Am. Journ. 17, 326. 18, 200. Poggend. Ann. 24, 227. v. Baumhauer ebd. 66, 498.
+
+Gouvernement Bialistock bei dem Dorfe Knasti (nach Eichwald Knasta), früher Polen, jetzt Russland.
+
+1827, Oct. 5 (oder 8), a. St., 17. n. St., zwischen 9 und 10 Uhr Morgens.
+
 ...
