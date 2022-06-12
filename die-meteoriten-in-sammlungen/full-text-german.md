@@ -2251,4 +2251,130 @@ Gouvernement Bialistock bei dem Dorfe Knasti (nach Eichwald Knasta), früher Pol
 
 1827, Oct. 5 (oder 8), a. St., 17. n. St., zwischen 9 und 10 Uhr Morgens.
 
+Es fielen mehre Steine, deren grösster etwa 2 K. wog. Bruchstücke finden sich in Petersburg (282,8 Gr.), Berlin (84,79 Gr.), Dorpat (81,67 Gr.), Wien (59,062 Gr.) und in den Privatsammlungen von v. Reichenbach, Shepard und Greg (1 Gr.).
+
+Specifisches Gewicht; 3,1756 Rumler.
+
+Das grosse Stück in der Sammlung der Akademie zu Petersburg lässt nach BLöpe auf einen 4—5 Zoll hohen Stein schliessen; die Rinde ist schwarz, glänzend, wulstig und porös. Die graulich weisse, zerreibliche Grundmasse enthält ziemlich häufig kleinere und grössere Körner von klarem bernsteingelbem bis grünem Olivin, hier und da einzelne weisse feldspathähnliche Körner oder deutlichere Flecken (nach G. Rose vielleicht Anorthit), sowie einzelne grössere Körner und rundliche Partien einer grauschwarzen Beimischung, wodurch das Ganze ein breccienartiges Aussehen erhält. Schwefeleisen ist nur in sehr geringer Menge und fein eingesprengt; Nickeleisen fehlt wahrscheinlich. Die Masse ist sehr ähnlich Luotolaks.
+
+Literatur: Blöde Bull. Acad. Petersb. T. 6, 1848, No. 1. G. Rose Reise Ural 1, 77. Eichwald Erman Arch. 5, 179.
+
+Richmond (7 engl. Meil. westl. davon), Chesterfield County, Virginia, Nord-Amerika.
+
+1828, Juni 4, gegen 9 Uhr Morgens.
+
+Es fiel nur ein sphäroidisch gestalteter Stein von etwa 2 K. Die Erscheinungen dabei boten nichts Eigenthümliches. Das grösste Bruchstück scheint Surrırn zu besitzen (159 Gr.) ; kleinere sind in Wien (140,55 Gr.), London (113,75 Gr.), Berlin (8,996 Gr.), Göttingen (6,53 Gr.), Paris, Mus. Hist. nat. (1,1 Gr.) und den Privatsammlungen von Greg (5 Gr.), v. Reichenbach und Nevill.
+
+Specifisches Gewicht:  
+3,29-3,31 Shepard,  
+3,3713 Rumler.
+
+Auf der Oberfläche sind Höhlungen und kreisförmige Vertiefungen, wovon manche 1/2 Zoll Durchmesser und fast dieselbe Tiefe haben. Die schwarze Rinde scheint unvollständig und nur theilweise geschmolzen gewesen zu sein; sie ist meist matt, porös und leicht ablösbar.
+
+Das Innere ist dunkelaschgrau, weissgrau gesprenkelt und da und dort mit braunen Rostflecken und sehr zahlreichen dunkleren und festeren, häufig wohl abgerundeten Kügelchen von Senfkorn - bis Erbsengrösse. Zahlreiche eiförmige und unregelmässige kleine Höhlungen sind oft von glänzenden metallischen Kryställchen und stahlgrauen Körnchen überzogen, die zuweilen kugelig angeordnet und bunt angelaufen sind. Mit dem Mikroskop erkennt man selten grünliche und honiggelbe Körnchen.
+
+Nach Shepard besteht die Hauptmasse des Steins (etwa 90%, der erdigen Masse des Steins), Olivin aus:
+
+SiO3. MgO. FeO., sowie NaO, Cr2O3. und S.  
+42,3. 31,46. 20,67.
+
+Ferner findet sich darin ein feldspathartiges Mineral, wahrscheinlich Labrador, dann phosphorsaurer Kalk in sehr kleinen Mengen, als kleine gelblichgrüne durchsichtige Körnchen und in kleinen Kugeln und Nieren, Howardit, die weissgrauen Einschlüsse in der dunkeln Grundmasse, ferner Magnetkies, der krystallinische Ueberzug der Höhlungen, sowie Nickeleisen in mittelfein eingesprengten Körnern, welches besteht aus:
+
+Fe. Ni.  
+93,9. 6,1.
+
+Literatur: Sillim. Amer. Journ: 15, 195. 16, 191. 42, 102. (2) 6, 411.
+
+Forsyth, Georgia, Nord-Amerika.
+
+1829, Mai 8, zwischen 3 und 4 Uhr Nachmittags.
+
+Es fiel ein einzelner Stein von etwa 18 K. Grössere Bruchstücke
+scheinen nur in amerikanischen Sammlungen zu sein (Shepard 197 Gr.).
+Kleinere Stücke sind in Wien (86,954 Gr.), London, Berlin (3,498
+Gr.), Dublin und den Privatsammlungen von Greg, v. Reichenbach,
+Nevill und Auerbach.
+
+Specifisches Gewicht:  
+3,37—3,52 Shepard,  
+3,4582 Rumler.
+
+Die Rinde ist matt und dick, die feinkörnige Grundmasse grau, rostbraun gefleckt, mit undeutlichen kugeligen Einschlüssen. Eisen ist fein, Magnetkies meist sehr fein eingesprengt.
+
+Nach der Analyse von Shepard besteht der Stein seinen Mineralbestandtheilen nach aus:
+
+SiO3. FeO. MgO. CaO. Al2O3. Sa.  
+50,00. 33,33. 9,30. 5,30. 1,80. 99,73.
+
+Er berechnet die Zusammensetzung des Steins aus:
+
+Nickeleisen. 10. { Fe. 89. Ni. 9,6. Cr. u. Verl. 1,4 }  
+Howardit. 70.  
+Olivinoid. 10-15.  
+Anorthit. 10-15.  
+Magnetkies (FeS.). 2-5.  
+Apatit. Spur.
+
+Literatur: Shepard Sillim. Amer. Journ. 18, 388. (2) 6, 406.
+
+Deal, bei Long-Branch, New-Yersey, Nord-Amerika.
+
+1829, August 14, gegen Mitternacht.
+
+Aus einem leuchtenden Meteor fielen unter Funkensprühen und Detonation mehre Steine, die äusserlich uneben und schwarz, innen lichtgrau und voll von metallisch glänzenden Körnern waren. Bruchstücke finden sich wohl nur in einigen amerikanischen Sammlungen, besonders in der von Shepard.
+
+Literatur: Poggend. Ann. 24, 228.
+
+Krasnoy-Ugol, Gouv. Räsan (Rjäsan), Russland.
+
+1829, Sept. 9. n. St. (nach Eichwald Oct. 11) 2 Uhr Nachmittags.
+
+Unter donnerähnlichem Getöse sollen 7 Steine gefallen sein, von welchen jedoch nur 2 gefunden wurden. Ein nicht grosses Stück soll nach Erman in der Sammlung der Petersburger Akademie sein. Blöde erwähnt es aber in seinem Verzeichniss nicht. Ausserdem scheinen Bruchstücke nur in Berlin (71,638 Gr.), Wien (10,39 Gr.) und in v. Reichenbachs Sammlung zu sein.
+
+Specifisches Gewicht: 3,2673 Rumler.
+
+Die matte schwarze Rinde ist etwas weniger löcherig und etwas glatter, als bei dem Pultawastein. Die Grundmasse ist aschgrau, feinkörnig, mit dem Messer ritzbar und enthält kleine gelblichgrüne Körner von Olivin, kleine graue Kügelchen, sowie etwas Nickel- und Schwefeleisen. Letzteres ist nicht so deutlich wie bei dem Pultawastein.
+
+Nach der Untersuchung von KuprrEr und Hesse soll der Stein nichts von anderen Abweichendes enthalten.
+
+Literatur: Eichwald Erman Arch. 5, 179. G. Rose Reise Ural 1, 76. Poggend. Ann. 24, 228. 54, 291.
+
+Launton bei Bicester, Oxfordshire, England.
+
+1830, Febr. 15, 7 1/2 Uhr Morgens.
+
+Die Feuerkugel und die Detonation boten nichts Abweichendes. Der Fall eines Steines von 1 K. 027 wurde beobachtet; Rev. Dr. Lee von Hartwell-House erhielt ihn; jetzt ist er im Besitz des Dr. John Lee zu Colworth-House, Aylesbury, Bedfordshire. Ein Arzt in Buckingham soll auch ein Stück besitzen.
+
+Specifisches Gewicht: 3,625.
+
+Der Stein hatte eine dünne rostfarbige Rinde, war innen grau und zerreiblich, enthielt zarte Körner und Adern von Eisen und war schwach magnetisch.
+
+Turner konnte in einem sehr kleinen untersuchten Stückchen Chrom und Nickel nicht nachweisen.
+
+Literatur: Poggend. Ann. 54, 291. Thomson Meteorology 1849, 326.
+
+North Inch of Perth, Schottland.
+
+1830, Mai 17, 12 1/2 Uhr Nachmittags.
+
+Diese neue und seltene Localität findet sich im britischen Museum in London und stammt aus Dr. Thomsons Sammlung von einem 7 Zoll langen Stein; er ist geschnitten und polirt: Maskelyne beschrieb ihn bei der Versammlung der British-Association 1862 und zeigte mikroskopische Schnitte vor. Gedruckt ist aber noch nichts über denselben.
+
+Vouille bei Poitiers, Dep. de la Vienne, Frankreich.
+
+1831, Juli 18 nach dem Katalog des Pariser Museums; Mai 13 nach anderen Angaben.
+
+Es fiel ein Stein von 20 K. Einzelheiten des Ereignisses sind nicht bekannt geworden. Bruchstücke sind in Paris, Mus. Hist. nat. (186 Gr.), Wien (88,594 Gr.), Berlin (4,165 Gr.) und v. Reichenbachs Sammlung.
+
+Specifisches Gewicht: 3,557 Rumler.
+
+Die Rinde ist schwachschimmernd, fast matt.
+
+Die graue Grundmasse ist durch undeutliche kugelige, fest mit derselben verwachsene Einschlüsse schwach gefleckt und enthält zum Theil auch Rostflecken. Eisen ist ziemlich reichlich theils fein, theils grob, Magnetkies sehr fein eingesprengt.
+
+Literatur: Ann. de Chim. 4834, Aug. 442; Nov. Poggend. Ann. 34, 341.
+
+Wessely, Dorf Znorow, Hradischer Kreis, Mähren.
+
+1831, Sept. 9, zwischen 3 und 4 Uhr Nachmittags.
+
 ...
