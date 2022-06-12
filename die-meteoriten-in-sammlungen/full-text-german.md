@@ -2377,4 +2377,190 @@ Wessely, Dorf Znorow, Hradischer Kreis, Mähren.
 
 1831, Sept. 9, zwischen 3 und 4 Uhr Nachmittags.
 
+Bei sonst klarem Himmel fiel unter heftiger Detonation aus einer sich schnell bewegenden Wolke ein Stein; der Fall wurde beobachtet, aber erst nach etwa 1/2 Stunde der Stein noch warm und nach Schwefel riechend aufgenommen; er wog 3 K. 780. Wien besitzt die Hauptmasse (3 K. 674,529). Kleinere Stücke sind im Franzensmuseum zu Brünn, in Berlin (3,498 Gr.), Rotterdam, batavische Gesellsch. (3,235 Gr. zweifelhaft, vielleicht auch Weston, Conn.) und den Sammlungen von v. Reichenbach, Greg (3,3 Gr.), Shepard und Neumann (0,7 Gr.).
+
+Specifisches Gewicht:  
+3,66-3,68 ohne Rinde, v. Schreibers,  
+3,60 mit 1/12 Rinde, v. Schreibers,  
+3,7057 ohne Rinde. Rumler.
+
+Die Rinde ist überall gleichmässig, bräunlichschwarz, matt, nur auf den Erhabenheiten schwach schimmernd, fast glatt, durch sehr kleine knotige, meist aber etwas platt gedrückte, hier und da runzel- oder schuppenartige Erhabenheiten sehr schwach rauh. Nur an sehr wenigen Stellen zeigt sich eine unvollkommene Ueberrindung. Die Grundmasse ist dunkelgrau, schwach rostbraun gefleckt und enthält undeutliche, meist kleine kugelige Einschlüsse und sehr feine schwarze Adern. Eisen ist gleichmässig vertheilt und fein, Magnetkies fast mikroskopisch fein eingesprengt.
+
+v. Holger hat den Stein analysirt und gefunden:
+
+Thonsilikat. Mg. Ca. Mn. Al. Fe. Co. S. Sa.  
+1\. 39,00. 6,00. 3,00. 6,66. 0,16. 22,33. 0,19. 22,66. 100,00.  
+2\. 42,80. 7,83. 3,80. 8,90. 0,27. 27,77. 3,50. 5,13. 100,00.  
+3\. 36,37. 8,53. 4,70. 6,87. 0,84. 25,99. 2,70. 14,00. 100,00.
+
+v. Reichenbach hat diese durchaus unbrauchbaren Analysen nicht zu ungünstig beurtheilt.
+
+Literatur: v. Schreibers und v. Holger Baumgartner Zeitschr. f. Phys. 1, 1832, 193. v. Reichenbach Poggend. Ann. 107, 359.
+
+Umballa, Ostindien.
+
+1832 oder 1833.
+
+In London ist ein Stein oder Steinfragment unter diesem Namen eingetragen, doch ist nichts über denselben bekannt.
+
+Curvello, Provinz Minas Geraes, Brasilien.
+
+1833, April 11, 6 3/4 Uhr Abends.
+
+Ein Feuermeteor von scheinbarer Mondgrösse bewegte sich von SSW. nach NNO. und zog einen langen Schweif hinter sich. Im Zenith des Beobachters zerbarst es in drei grosse und einige kleine Stücke und verschwand. Nach 123 Pulsschlägen folgte eine heftige Detonation und ein starkes Getöse, das etwa drei Minuten dauerte. Dabei fiel etwa drei Meilen OSO. von Curvello ein grosser Stein in einen tiefen Sumpf. Der Besitzer des Grundstücks liess von seinen Negern danach suchen, aber der Sumpf war zu tief, man konnte den Stein nicht finden. Einige Tage danach bekam Claussen durch einen Neger ein Stück von etwa 170 Gr., das dieser gefunden und für sich bewahrt hatte, weil er es für Silber hielt. Dieses Stück ist jetzt im Museum zu Rio de Janeiro.
+
+Nach Claussen könnte die Masse für einen Eisenmeteoriten gehalten werden, doch ist wahrscheinlicher, dass es ein eisenhaltiger Steinmeteorit ist.
+
+Literatur: Claussen Bull. Acad. de Bruxelles 8, No. 5.
+
+Blansko, Brünner Kreis, Mähren.
+
+1833, Nov. 25, 6 1/2 Uhr Abends.
+
+Die Feuerkugel wurde auf 70-80 [] Meil. gesehen; heftige Detonation. Nach einigen Tagen wurden durch das Bemühen v. Reichenbachs 8 Steine gefunden; dieser glaubt, dass nach der Lichterscheinung viele 100 gefallen seien. Er besitzt die Hauptmasse. In Wien (69,453 Gr.), Berlin (26,989 Gr.), Stockholm und New-Haven (Shepard) sind Fragmente.
+
+Specifisches Gewicht: 3,7019 mit Rinde, Rumler.
+
+Die Rinde ist matt, die Grundmasse dunkelgrau, rostbraun gefleckt, mit ziemlich vielen dunkleren, kleinkugeligen Einschlüssen, viel fein eingesprengtem Eisen und sehr fein eingesprengtem Schwefeleisen. Die grösseren Eisenkügelchen kommen vollständig mit den grossen Eisenmassen überein und lassen Widmannstätten’sche Figuren erkennen. In einem Stück, das in Stockholm ist, fand sich ein Fleckchen von 1 Linie Durchmesser vollkommen lasurblau.
+
+Analyse von Berzelius, gedeutet von Rammelsberg:
+
+1\. Magnet. Th. 17,15%  
+Fe|93,816.  
+Ni|5,053.  
+Co|0,347.  
+Sn, Cu|0,460.  
+S|0,324.  
+P|Spur.  
+100,00.
+
+2\. Grundmasse 82,85%  
+a. mit HCl zersetzb. 42,67%|b. nicht zersetzb. 39,43%  
+SiO3|33,084.|57,012-57,145.  
+Al2O3|0,329.|4,792-5,590.  
+CaO|-,-.|1,437-3,106.  
+MgO|36,143.|24,956-21,843.
+FeO|26,935.|8,362-8,592.
+MnO|0,465.|0,557-0,724.  
+NiO (Sn u. Cu-haltig)|0,465.|0,0-0,021.  
+NaO|0,857.|0,0-0,931.  
+KO|0,429.|0,0-0,010.  
+FeO Cr2O3|-,-.|1,306-1,533.
+
+Im Ganzen  
+Nickeleisen m. etw. Schwefeleisen|20,14.  
+Chromeisen|0,63.  
+Magnetkies|2,96.  
+Olivin|34,72.  
+Labrador|7,79.  
+Hornblende|33,63.  
+oder statt der beiden letzten:  
+Oligoklas|10,06.  
+Augit|31,36.
+
+Literatur: Jahresber. Schles. Gesellsch. 1834, 10. Berzelius Poggend. Ann. 33, 20. 34, 343. Rammelsberg Handwörterbuch Suppl. 5, 17.
+
+Dorf Okaninach (Okniny), Kremenetzkischer Kreis, Gouv. Volhynien, Russland.
+
+1833, Dec. 27 (a. St.), Morgens zwischen 9 und 10 Uhr.
+
+Unter den gewöhnlichen Umständen fiel ein Stein von etwa 15 K. nieder. In den Petersburger Sammlungen scheint er zu fehlen. Wahrscheinlich finden sich Stücke nur in Wien (111,562 Gr.), Berlin (78,301 Gr.) und bei v. Reichenbach.
+
+Die Rinde ist glänzend braunschwarz, mit Vertiefungen und dendritenartigen Zeichnungen; der Bruch ist splitterig und aschgrau, an einigen Stellen auch strahlig. Die Grundmasse: zeigte kleine eingesprengte Schwefelkieskrystalle (?), Körner gediegenen Eisens und wie es Wtoschetzkii schien, auch Nickelkrystalle (?). Nach v. Reichenbach sind die Einschlüsse in einer fast marmorartig geflossenen Grundmasse.
+
+Literatur: Schriften der k. russ. Gesell. f. gesammt. Min. 1842, p. LXXII. Eichwald führt in seinem Verzeichniss russischer Meteoriten (Erman Arch. 5, 176) diese Localität nicht an.
+
+Charvallas bei Hissar, 40 engl. Meil. von Delhi, Ostindien.
+
+1834, Juni 12, 8 Uhr Morgens.
+
+Genaueres über den Fall des 12 Seers (etwa 3 1/2 K.?) schweren Steins wurde nicht bekannt. Bruchstücke sind in London (692 Gr.) und in den Privatsammlungen von Shepard (99 Gr.), Greg (7 Gr.) und v. Reichenbach; auch G. Metealfa in Delhi soll einen Stein besitzen, sowie Jameson in Edinburg (etwa 3 K.).
+
+Specifisches Gewicht: 3,38.
+
+Der Stein ist sehr fest und mit Eisenrost erfüllt, wie manche verwitterte feinkörnige Granite. Ausser Nickeleisen ist keine Mineralspecies zu erkennen, doch scheint er Olivin und eine Feldspathart zu enthalten. An der Luft schwitzen Tröpfchen von Eisenchlorid aus.
+
+Er enthält 15,07%, Nickeleisen mit Spuren von Schwefel. Der steinige Theil besteht aus Kieselsäure, Magnesia, Eisenoxydul, Thonerde und Kalk.
+
+Literatur: Sillim. Amer. Journ. (2) 11, No. 31.
+
+Aldsworth, Cirencester, England.
+
+1835, August 4, 4 1/2 Uhr Nachmittags.
+
+Der Himmel war sonnig und wolkenfrei; Arbeiter, die 1/2 engl. Meile von Alsworth ruhend an einer Mauer sassen, waren Zeugen des Steinfalles. Sie sahen dabei keine aussergewöhnliche Lichterscheinung, hörten aber ein Getöse in der Luft. Der Stein schlug sechs Zoll tief in den Boden, war aber nicht mehr warm, als er aufgenommen wurde. Seine Oberfläche, wo sie nicht zerbrochen war, war schwarz und beschmutzte die Finger. Er wog 602 Gr. Etwa 1/2 engl. Meile südlich davon fiel ein Schauer von kleinen Steinchen. Kinder hielten sie für schwarze Käfer und versuchten sie zu fangen. Zur selben Zeit wurde zuCirencester, 13 engl. Meil. östlich vom Fallort des Steines, ein leuchtendes Meteor von West-Ost ziehend gesehen, welches einen leuchtenden Schweif hatte. Es verursachte ein rollendes Getöse, welches auch in der ganzen Umgegend gehört wurde. Die Hauptmasse des Steins ist im Museum zu Cirencester, das Modell und ein Stück des Steins (600 Gr.) in London.
+
+Specifisches Gewicht: 3,4.
+
+Der Stein enthält viel Eisen, ist aber nicht magnetisch. Ueber weitere Eigenschaften ist nichts bekannt geworden.
+
+Literatur: Report Brit. Assoc. 1857, 140.
+
+Macao, nahe am Ausfluss des Rio Assu ins Meer, Provinz Rio grande do Norte, Brasilien.
+
+1836, Nov. 11, 5 Uhr Morgens (nicht 11. Dec. 11 1/2 Uhr Nachts).
+
+Es wurde ein Feuermeteor von ausserordentlichem Glanz »so gross wie ein grosser Luftballon« gesehen; nach heftiger Detonation fiel eine ungeheure Menge von Steinen von 1/2-40 K., doch meist von der Grösse von Taubeneiern. Sie verbreiteten sich über eine Fläche von mehr als 10 Leguas, die grösste Menge aber fiel an der Mündung des Flusses. Es sollen viele Ochsen durch sie getödtet und einige verletzt worden sein. Trotz des reichen Schauers finden sich Steine und Bruchstücke nur in wenigen Sammlungen, besonders in Wien (605,951 Gr.), Berlin (41,483 Gr.), Göttingen (10,75 Gr.), Paris, Mus. Hist. nat. (9 Gr.), Petersburg, Akad. d. Wiss. (6,24 Gr.), Madrid, Utrecht, und in den Privatsarımlungen von Shepard, v. Reichenbach, Greg (6,3 Gr.).
+
+
+Specifisches Gewicht:  
+3,74 Rumler,  
+3.7291 mit Rinde, Rumler.
+
+Die Rinde ist schwarz, matt oder schwach schimmernd, meist stark verrostet, zuweilen verschlackt. Die sehr feste Grundmasse ist fast dunkel aschgrau, stark rostbraun gefleckt; die kugeligen Einschlüsse sind undeutlich. Eisen ist in grosser Menge, aber meist fein eingesprengt; oft häuft es sich zu geraden oder krummen dicken Linien zusammen. Magnetkies tritt auch reichlich und sehr feinkörnig auf.
+
+Der Stein ist sehr ähnlich Timochin.
+
+Die Akademie in Paris übertrug Berraier die Analyse, doch ist sie noch nicht geliefert worden.
+
+Literatur: Sillim. Amer. Journ. 34, 209. Poggend. Ann. 42, 592.
+
+Zwischen Gross-Divina und Budetin, Trentschiner Comitat, Ungarn.
+
+1837, Juli 24, 11 1/2 Uhr Vormittags.
+
+Bei etwas bewölktem Himmel und donnerähnlichem Getöse fiel in Gegenwart einiger auf dem Felde arbeitenden Bauern ein Stein von 10 K. 710 und schlug in schiefer Richtung 2 1/2 Fuss tief in den Boden; war noch 1/2 Stunde nach dem Fall sehr heiss. Durch den Erzherzog Palatin für das ungarische Nationalmuseum in Pesth in Anspruch genommen, wird er noch daselbst bewahrt. Ausserdem ist nur ein Bruchstück in Wien (64,532 Gr.) und in v. Reichenbachs Sammlung.
+
+Specifisches Gewicht: 3,562 RumLer.
+
+Die Ueberrindung des Steins ist höchst merkwürdig durch ihre Verschiedenheit an verschiedenen Stellen. Die überall mattbräunlichschwarze Rinde ist am oberen runden Ende des Steins glatt und rein, am unteren aber weniger rein schwarz, etwas lichter, rauh, körnig, zerbrechlich und loszulösen und hat sich beim Herabfallen schon theilweise abgelöst. Haidinger knüpft an diese Verschiedenheit Betrachtungen über die Lage des Steins in seiner Bahn durch die Atmosphäre und über die Bildung der Rinde.
+
+Die graue rostfleckige Grundmasse enthält eine grosse Menge kleiner dunkelgrauer kugeliger Einschlüsse, die auf Bruchflächen theilweise hervorragen. Eisen ist ziemlich reichlich und fein, Schwefeleisen höchst fein eingesprengt.
+
+Literatur: Zipser Jahrb. Mineralogie 1840, 89. Haidinger Wien. Akad.
+Ber. 40, 1860, 525. (4 Abb.). Die Gestalt findet auch durch Partsch genaue Be-
+schreibung in Sadler A Kiralyi magyar termeszettudomanyi tarsulat evkonyvei 1, 1841-1845. 33.
+
+Esnandes (Esnaude weniger richtig), Dep. Charente inferieure, Frankreich.
+
+1837, August.
+
+Es fiel ein Stein von 1 1/2 K., der in mehre Stücke zerbrach. Die Hauptmasse ist im naturhistorischen Museum zu Bordeaux, ausserdem besitzt etwas davon Wien (48,2 Gr.) und Shepard in New-Haven.
+
+Die feinkörnige lichtaschgraue Grundmasse enthält grünlichweisse Einschlüsse und braune Flecken, sowie reichlich eingesprengtes metallisches Eisen, aber wenig Magnetkies. Die Rinde ist schwärzlichbraun, matt und auffallend dick.
+
+Literatur: Instit. 1837, No. 220, 334.
+
+Chandakapoor im Thal von Beraar, Ostindien.
+
+1838, Juni 6, 12 Uhr Mittags.
+
+Akburpoor, District von Saharunpoor, Ostindien.
+
+1838, April 18.
+
+Beide Localitäten scheinen Einem Fall anzugehören und nur das Datum irrthümlich verschieden zu sein. Von der ersten Localität kam ein Stein von 4 K. 200 in den Besitz von Sowerby und finden sich jetzt Bruchstücke in London (803 Gr.), Edinburg (460 Gr.), Wien (104,453 Gr.), Upsala (35,4 Gr.), Copenhagen (11,4 Gr.) und in den Privatsammlungen von Shepard (117 Gr.), Greg (50 Gr.), Fürst Lobkowitz in Berlin (44 Gr.), v. Reichenbach und Nevill. Von der zweiten Localität besitzt das brit. Museum 1 K. 755 Gr. Durch genaue Vergleichung liesse sich feststellen, ob beide gleich oder verschieden sind.
+
+Chandakapoor hat eine dunkelgraue Grundmasse mit braunen Flecken und gelblichweissen rundlichen Einschlüssen; metallisches Eisen und Magnetkies sind reichlich eingesprengt. Die Rinde ist schwarz und matt, mit häufigen Vertiefungen.
+
+v. Reichenbach untersuchte verschiedene Einschlüsse mikroskopisch.
+
+Literatur: Poggend. Ann. 111, 369.
+
+Cold-Bokkeveld, 15 engl. Meil. von Tulbagh, 70 engl. Meil. von der Capstadt, Capland, Südafrika.
+
+1838, Oct. 13, 9 Uhr Morgens.
+
+Das Getöse bei dem Fall war entsetzlich, lauter und gewaltiger, als das heftigste Artilleriefeuer; die Luft wurde auf mehr als 80 engl. Meil. in jeder Richtung erschüttert. Mehre Personen in Worcester fühl-
+
 ...
