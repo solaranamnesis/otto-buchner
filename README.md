@@ -8,5 +8,5 @@ Attempt at translations from the original German to English, I welcome all pull 
 
 English - Plain Text  
 English - PDF  
-[German - Plain Text](die-meteoriten-in-sammlungen/full-text-germand.md)  
+[German - Plain Text](die-meteoriten-in-sammlungen/full-text-german.md)  
 German - PDF  
