@@ -2561,6 +2561,77 @@ Cold-Bokkeveld, 15 engl. Meil. von Tulbagh, 70 engl. Meil. von der Capstadt, Cap
 
 1838, Oct. 13, 9 Uhr Morgens.
 
-Das Getöse bei dem Fall war entsetzlich, lauter und gewaltiger, als das heftigste Artilleriefeuer; die Luft wurde auf mehr als 80 engl. Meil. in jeder Richtung erschüttert. Mehre Personen in Worcester fühl-
+Das Getöse bei dem Fall war entsetzlich, lauter und gewaltiger, als das heftigste Artilleriefeuer; die Luft wurde auf mehr als 80 engl. Meil. in jeder Richtung erschüttert. Mehre Personen in Worcester fühlten sich an den Knien wie elektrisirt. Bei Worcester, in 40 Meil. Entfernung, verglich man den Lärm mit dem Herabrollen von Felsmassen von einem Berg. Von dem Ort der Beobachtung an der Grenze des grossen Karroo, sah man etwas wie eine Gongreve’sche Rakete von Westen her sich Weg bahnen und fast über den Köpfen der Beschauer in Tropfen von Feuer oder durchsichtigem Glase scheinbar zerbersten. Nach der Explosion sah man noch eine Zeit lang einen blauen Rauchstreif von SW. nach NO. Ein Farmer sah den Fall vor sich in den Boden schlagen. Viele Steine fielen in 3 Haufen, alle innerhalb des Umkreises einer Fläche von 40-50 Ellen im Quadrat, einige auf harten Grund, und diese zerschellten in kleine Theilchen, andere in den weichen Grund, und diese wurden ausgegraben. Die Stücke waren anfangs sehr weich und wurden später etwas fester. Nach anderem Bericht sollen die Steine über eine Strecke von 150 engl. Meil. verbreitet gewesen sein, alle in derselben Richtung, so dass man mit Unterbrechungen bei 10, 15, 20, 50 u. s. w. Meilen Steine fand. Die bei Tulbagh gefallenen allein wurden auf mehre Gentner im Gewicht geschätzt. Die meisten Steine wurden gleich nach dem Auffinden verschleppt.
+
+Ganze Steine und Bruchstücke sind in mehren Sammlungen, so besonders in London (1 K. 115,54), Edinburg (964 Gr.), Wien (679,23 Gr., 5 St., der grösste 435,322 Gr.), Petersburg, Akad. d. Wissensch. (250 Gr.); kleinere in Stuttgart (68 Gr.), Göttingen (23,26 Gr.), Berlin (21,491 Gr.), Tübingen (17 Gr.), Paris (Mus. Hist. nat.), Calcutta, München, Giessen (Realschule) und in den Privatsammlungen von v. Reichenbach, Greg (96 Gr.), Shepard, Nevill, Neumann und Auerbach. Dr. Lee, Hartwell-House b. Aylesbury soll viele Stücke besitzen.
+
+Specifisches Gewicht:  
+2,94 Faraday,  
+2,69 RumLer.
+
+Die dunkelschwarze Rinde ist härter als die Innenmasse und lässt sich von dieser nicht trennen.
+
+Die ganze Masse des Steines ist schwarz, matt, weich, bolartig und enthält keine Kügelchen, aber undeutliche hellere Körnchen; metallische Massen fehlen, lassen sich wenigstens nicht mit dem Auge wahrnehmen. Der Stein wirkt nur sehr schwach auf die Magnetnadel, und beim Lösen in Salzsäure entwickelt sich nur sehr wenig Wasserstoff.
+
+Faraday fand bei der chemischen Analyse:
+
+SiO3. FeO. MgO. Al2O3. CaO. NiO. Cr2O3. Co, Na.  
+28,9. 33,22. 19,2. 5,22. 1,64. 0,82. 0,7. Spur.
+
+Doch bleibt durch dieselbe vollkommen unentschieden, woher die merkwürdige schwarze Farbe rührt. Harris analysirte daher nochmals und fand, dass die schwarze Farbe von fast 2%, amorpher Kohle herrührt. Ausserdem wies er noch eine organische kohlehaltige Verbindung nach. Das Ergebniss der Untersuchung war:
+
+Kohle|1,67.  
+Bituminöse Substanz|0,25.  
+Eisen|2,50.  
+Nickel|1,30.  
+Schwefel|3,38.  
+Kieselsäure|30,80.  
+Eisenoxydul|29,94.  
+Magnesia|22,20.  
+Kalk|1,70.  
+Thonerde|2,05.  
+Chromoxyd|0,76.  
+Kali, Natron|1,23.  
+Manganoxydul|0,97.  
+Kupfer|0,03.  
+Cobalt, Phosphor|Spur.
+
+Danach sind mit Wahrscheinlichkeit als nähere Bestandtheile anzunehmen:
+
+Magnesia-Eisen-Ölivin|84,32.  
+Unzersetzbares Silikat|5,46.  
+Schwefelnickeleisen|6,94.  
+Chromeisenstein|1,11.  
+Kohle|1,67.  
+Bituminöse Substanz|0,25.  
+Phosphor, Cobalt, Kupfer|Spuren.
+
+Nach weiteren Untersuchungen von Wöhler verhält sich die organische Substanz wie mineralisches Bitumen und scheint aus einem flüssigen und einem festen Körper zu bestehen; mit absolutem Alkohol lässt sie sich ausziehen. Zugleich wird eine kleine Menge freien Schwefels ausgezogen; ausserdem enthält der Stein 3%, wahrscheinlich an Eisen und Nickel gebundenen Schwefel. Der Stein enthält 2,5%, Eisen und 1%, Nickel und etwas über 1%, Chromeisenstein. Selbst nach seinem Trocknen bei 120° ist'er noch wasserhaltig (10,5%) und fängt‘ dieses erst bei 160° zu entweichen an; erst bei der Glühhitze geht es ganz weg. Wöhler hält es für hygroskopisches, irdisches Wasser; durch Destillation-abgeschieden‚ enthält es ausser Brenzstoffen kohlensaures Ammoniak, das wahrscheinlich auch erst später aus der Atmosphäre aufgenommen wurde.
+
+Engelbach wies auch spectralanalytisch Lithion und Strontian in dem Stein nach.
+
+Literatur: Philos. Transact. 1839, I, 83-88. Faraday Poggend. Ann. 47, 384. Wöhler und Haidinger Wien. Akad. Ber. 35, 1859, 5. 41, 1860, 565. Einzelheiten des Falles sind in vielen, besonders englischen Zeitschriften angeführt.
+
+Pine Bluff bei Little Piney (37° 55 N. B. 92° 5 W. L.), Missouri, Nord-Amerika.
+
+1839, Febr. 13, zwischen 3 und 4 Uhr Nachmittags.
+
+Nach der Detonation einer sehr grossen von O. nach W. gehenden Feuerkugel mit langem Schweif wurde der Steinfall von Zeugen beobachtet. Nur ein Steim von Faustgrösse wurde gefunden; er war an einem Eiehbaum zerseheltt. Später fanden sich noch andere Steine, doch weicht deren Gewichtsangabe von 25-75 K. ab. Am meisten scheint Shepard zu besitzen (198 Gr.); kleinere Stücke sind in Wien (61,796 Gr.), London (56,7 Gr.), Berlin (0,833 Gr.), Calcutta, Hudson und in den Privatsammlungen von Greg (15 Gr.), v. Reichenbach, Nevill und Auerbach.
+
+Specifisches Gewicht: 3,5 Shepard.
+
+Die braunschwarze bis: schwarze,. nicht: ganz glatte, zellige Rinde ist von Sprüngen durchzogen. Das Innere ist aschgrau mit zahlreichen Rostflecken und stellenweise mit kugeligen Einschlüssen, die von der Grundmasse nicht verschieden zu sein scheinen. Durch die ganze Masse sind Metallkörner von der Grösse eines kleinen Schrotkorns bis zu Punktgrösse zerstreut; die meisten sind weiss, wenige gelb oder schwach schillernd und: werden vom Magnet angezogen.
+
+Nach Shepards Untersuchung besteht der Stein aus Olivinoid 40%, Howardit 40%, Meteoreisen und Magnetkies 15%, Anorthit 5% und einer Spur Apatit.
+
+Literatur: Sill. Amer. Journ. 37, 385. 39, 254. (2) 6, 407.
+
+Kirgisensteppe, nahe am Fluss Karokol, diesseits des Flusses Irtisch im Bezirk von Ajagus, im Lande der Kirgisenhorde, nördlich vom kaspischen Meer, Asien.
+
+1840, Apr. 27. a. St. Mai 9. n. St. gegen Mittag.
+
+Der Fall wurde von Kirgisen unter den gewöhnlichen Umständen beobachtet, doch erst nach einer halben Stunde wagten sie es, den Stein auszugrabeni; er lag zwei Fuss tief in der Dammerde und roch noch nach Schwefel.
+
+Die Akademie der Wissenschaften in Petersburg besitzt den vollkommen ganzen Stein von fast 3 K., der eine conische Gestalt von 5 Zoll Höhe und demselben Durchmesser an der Basis hat. Bruchstücke sind in keiner anderen Sammlung.
 
 ...
