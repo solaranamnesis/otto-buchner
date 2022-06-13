@@ -1,6 +1,6 @@
 Attempt at translations from the original German to English, I welcome all pull requests of submitted translations and/or edits.
 
-## Die Meteoriten in Sammlungen, Ihre Geschichte, Mineralogische Und Chemische Beschaffenheit (1863)
+## Die Meteoriten in Sammlungen, ihre Geschichte, Mineralogische und Chemische Beschaffenheit (1863)
 
 English - Plain Text  
 English - PDF  
