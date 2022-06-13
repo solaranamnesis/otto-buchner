@@ -1,4 +1,4 @@
-# Otto Büchner's Meteorite Works
+# Otto Buchner's Meteorite Works
 
 Meteorite Treatises
 
