@@ -2748,17 +2748,17 @@ Hiervon sind in Salzsäure leicht zersetzbar 51%.
 
 Danach wäre der Stein zusammengesetzt
 
-nach Dufresnoy:
-Nickeleisen|9,25.
-Schwefelkies|0,67.
-Olivin|51,62.
-Albit|6,31.
+nach Dufresnoy:  
+Nickeleisen|9,25.  
+Schwefelkies|0,67.  
+Olivin|51,62.  
+Albit|6,31.  
 Hornblende|31,86.
 
-nach Rammelsberg aus:
-Nickel- und Schwefeleisen|10,0.
-Olivin|52,5.
-Augit|21,3.
+nach Rammelsberg aus:  
+Nickel- und Schwefeleisen|10,0.  
+Olivin|52,5.  
+Augit|21,3.  
 Labrador|16,2.
 
 Literatur: Dufresnoy Poggend. Ann. 53, 411. Rammelsberg Handwörterb. Suppl. 2, 92.
