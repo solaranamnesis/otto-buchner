@@ -2632,6 +2632,139 @@ Kirgisensteppe, nahe am Fluss Karokol, diesseits des Flusses Irtisch im Bezirk v
 
 Der Fall wurde von Kirgisen unter den gewöhnlichen Umständen beobachtet, doch erst nach einer halben Stunde wagten sie es, den Stein auszugrabeni; er lag zwei Fuss tief in der Dammerde und roch noch nach Schwefel.
 
-Die Akademie der Wissenschaften in Petersburg besitzt den vollkommen ganzen Stein von fast 3 K., der eine conische Gestalt von 5 Zoll Höhe und demselben Durchmesser an der Basis hat. Bruchstücke sind in keiner anderen Sammlung.
+Die Akademie der Wissenschaften in Petersburg besitzt den vollkommen ganzen Stein von fast 3 K., der eine conische Gestalt von 5 Zoll Höhe und demselben Durchmesser an der Basis hat Bruchstücke sind in keiner anderen Sammlung.
+
+Der Stein ist mattschwarz überrindet und voll länglicher bedeutender Vertiefungen,. die auf der Grundfläche des abgestumpften Kegels grösser und unregelmässiger sind. Innen ist er lichtaschgrau, sehr feinkörnig und fest, sehr rostfleckig und enthält viel fein eingesprengten Magnetkies, aber weniger Eisen.
+
+Literatur: Blöde Bull Ac. Petersb. 6. 1848. No. 1. Eichwald Erman Arch. 5, 180.
+
+Gemeinde Uden, Provinz Nordbrabant, Holland.
+
+1840, Juni 12, zwischen 10 und 11 Uhr Morgens.
+
+Bei heiterem Himmel wurde ein stets wachsendes Geräusch gehört, das mit einem donnerähnlichen, den Boden erschütternden Schlage endigte. Zugleich fiel ein Stein nieder, welcher noch ganz heiss aufgefunden wurde. Er wog etwa 720 Gr., war siebeneckig, schwarz und so mürb, dass sich die schwarze Rinde mit dem Nagel abkratzen liess. Die Hauptmasse (689,5 Gr.) ist im Museum der Provinz. Gesellsch. von Nordbrabant in Amsterdam (früher in Herzogenbusch). Nur ganz kleine Bruchstücke sind in Wien und Göttingen, sowie in den Privatsammlungen von Greg und v. Baumhauer.
+
+Specifisches Gewicht: 3,4025 v. Baumhauer.
+
+Die schwarze Rinde ist feinkörnig und runzelig und scheidet sich scharf von der Innenmasse. Diese ist matt, hellgrau, undeutlich porphyrartig und bei mässiger Vergrösserung von krystallinischer Structur. Auch sind kleine broncefarbene Metallmassen darin erkennbar.
+
+Die Analyse von Seelheim ergab:
+
+Magnetischer Thl. 1,767%:  
+Magneteisenstein|1,767.  
+Nickeleisen|1,767.
+
+Lösliches Silikat 55,281%|Sauerstoff:  
+Kieselsäure|20,713.|10,75.  
+Eisenoxydul|18,360.|4,08.  
+Magnesia|15,490.|6,19.  
+Manganoxydul|0,430.|0,09.  
+Nickeloxydul|0,288.|0,06.  
+
+Unlösl. Silikat 41,474%|Sauerstoff:  
+Kieselsäure|23,866.|12,40.  
+Magnesia|5,177.|2,07.  
+Eisenoxydul|4,049.|0,98.  
+Kalk|2,276.|0,65.  
+Thonerde|4,100.|1,92.  
+Natron|0,940.|0,24.  
+Kali|0,490.|0,08.
+
+Chromeisenstein|0,760.  
+Schwefeleisen|0,718.  
+|99,424.
+
+Das lösliche Silikat ist Olivin, das unlösliche wohl eine Feldspathsubstanz vielleicht mit Hornblende. Schwefeleisen wurde als FeS berechnet. Lithium fand sich bei der Spectralanalyse nicht.
+
+Literatur: v. Baumhauer u. Seelheim Poggend. Ann. 116. 184.
+
+Cereseto bei Offiglia, Prov. Casale, ehemals Montferrat, Piemont, Königr. Italien.
+
+1840, Juli 17, gegen 7 1/2 Uhr Morgens.
+
+Auf ein von O. nach W. ziehendes Feuermeteor, das auch bei Mailand gesehen wurde, folgte unter heftiger Detonation der Fall eines Steines von über 5 K., der gefunden wurde, doch mögen noch mehre, wenigstens zwei gefallen sein; einer soll nach Lavini bei Pastrona gefunden worden sein. Die Hauptmasse ist im k. Museum in Turin und darf nichts mehr davon abgeschlagen werden. Kleinere Bruchstücke sind in London (95,8 Gr.), Wien (26,25 Gr.), Paris, Mus. Hist. nat., Bologna, und in den Privatsammlungen von v. Reichenbach, Shepard, Greg und Nevill.
+
+Specifisches Gewicht: 3,790 Lavini.
+
+Die Rinde ist matt und bräunlichschwarz, die Grundmasse dunkelaschgrau, mit kugeligen Einschlüssen einer olivinarligen Substanz. Eisen ist häufig, von Magnetkies aber nur sehr wenig eingesprengt.
+
+Literatur: Lavini Mem. Acad. Torino (2) 3, 1841. 265.
+
+Concord, New-Hampshire, Nord-Amerika.
+
+1840 (nicht 1846), October (der Tag nicht bestimmt), nach Sonnenuntergang.
+
+Das Niederfallen eines hühnereigrossen Steines wurde beobachtet; er wog 24 Gr. Er scheint in Shepards Sammlung zu sein; in den grossen Sammlungen Europa’s ist nichts davon.
+
+Die Rinde ist ein glänzend graulichweisses Emaille mit einigen dunkelbraunen metallischen Flecken; innen ist der Stein schlackenartig, wie theilweise gefritteter Feldspath, porös, und desshalb sein specifisches Gewicht nicht zu bestimmen. Härte etwa 6,5. Auch bei Vergrösserung zeigen sich keine metallischen Punkte.
+
+Die nur sehr zweifelhaft richtige Analyse Shepards ergab:
+
+Kieselsäure, Magnesia, Natron.  
+84,973. 12,076. 2,718.
+
+Der Stein von Goncord soll dem von Bishopville sehr ähnlich sein und wie dieser meist aus Chladnit bestehn. Dieser hat zwar dieselben Bestandtheile, aber eine andere procentische Zusammensetzung.
+
+Im Ganzen muss dieser Stein noch als zweifelhaft meteorisch betrachtet werden.
+
+Literatur: Sillim. Amer. Journ. (2) 4, 354.
+
+Grüneberg. Seifersholz bei Heinrichsau, Regierungsbezirk Liegnitz, Prov. Schlesien, Preussen.
+
+1841, März 22, 3 1/2 Uhr Nachmittags.
+
+Man hörte drei heftige Detonationen aus einer weissen Wolke im Zenith. Bei Sagan soll auch eine Feuerkugel gesehen worden sein. Sehr bald wurde ein Steinstück, aber schon kalt gefunden. Im Ganzen war nur ein Stein von etwas über 1 K. gefallen und in zwei Hauptstücke zerborsten. Die Hauptmasse ist jetzt in Berlin (812,041 Gr.); dann finden sich Bruchstücke in Breslau, schles. Gesellsch. (160 Gr. mit viel Rinde), Tübingen (100 Gr.), London (51 Gr.), Wien (24,062 Gr.) und in den Privatsammlungen von v. Reichenbach, Erzherzog Stephan (4,4 Gr.), Greg (1,2 Gr.), Shepard und Nevill.
+
+Specifisches Gewicht:
+
+3,1-3,2 Glocker,  
+3,69-3,73 Weimann,  
+3,72 Rumler.
+
+Die Rinde ist sehr schwach glänzend oder nur schimmernd, unrein graulichschwarz, dünn und unvollkommen, mit nur sehr geringen, undeutlichen Spuren von erhabenen Linien. Das Innere ist dunkelaschgrau, höchst feinkörnig, erdig, mit sehr undeutlichen, kleinkugeligen Einmengungen und schwarzen, glänzenden Ablösungsflächen. Unter der Lupe erkennt man einen lichtbläulichgrauen Gemengtheil, in welchen ein schmutzig gelblichweisser wie eingesprengt ist; beide fliessen stellenweise zusammen. Kleinere und grössere zackig hervorragende, vollkommen geschmeidige Eisentheilchen bis zu 2 Linien im Durchmesser sind sehr reichlich, Schwefeleisen sparsamer eingestreut, dieses aber grösser als jene, theils feinkörnig, theils ausgezeichnet einfach blätterig.
+
+Literatur: Weimann u. Glocker Poggend. Ann. 53, 172.
+
+Chäteau-Renard, südöstl. von Montargis, Champ de la Bourgonniere, zwischen den Höfen von Thezars und Petits-Marteaux, Gemeinde Trigueres, Dep. du Loiret, Frankreich.
+
+1841, Juni 12, 1 1/2 Uhr Nachmittags.
+
+Eine von SW. nach NO. sich bewegende Feuerkugel endete mit heftiger Detonation. Erst nach zwei Tagen wurden die Bruchstücke eines Steines gefunden, der im Ganzen 30-40 K. gewogen haben kann. Er war beim Fall auf den harten Boden geborsten; es werden Bruchstücke von 1/2, von nicht ganz 3 und von über 15 K. genannt, letzteres soll das grösste gewesen sein. Viele kleinere Stückchen kamen in die Hände der Bauern.
+
+Die grössten Bruchstücke scheinen in London zu sein (3 K. 615). Kleinere sind in Paris, Mus. Hist. nat. (1 K.), Wien (842 Gr.), Berlin (448,6 Gr.), Copenhagen (341 Gr.), Göttingen (324 Gr.) und noch kleinere in Pisa, Calcutta, Upsala, Freiburg und Hudson; dann in den Privatsammlungen von Fürst Lobkowitz (1 K. 544), Duc de Luynes (507 Gr.), Greg (439 Gr.), v. Reichenbach, Shepard (94 Gr.), Ferber (70 Gr.), Neumann (24,6 Gr.) und Nevill.
+
+Specifisches Gewicht:  
+der Stein 3,56 Dufresnoy,  
+die Eisenkörner 6.48, Dufresnoy.
+
+Die schwarze Rinde ist matt und schimmert nur schwach an einigen Stellen. Die hellgraue, zum Theil rostfleckige und schwarz punktirte Grundmasse schliesst gleichmässig hellgraue Kugeln bis zur Linsengrösse ein und erscheint dadurch gefleckt; ausserdem wird sie von dickeren und dünneren Adern durchzogen, die sich auf den Bruchflächen manchmal als Ablösungsflächen in glänzend schwarzen Blättchen darstellen. Eisen tritt fein und grob, Magnetkies nur sehr fein auf.
+
+Die Analyse ist von Dufresnoy. Er findet im Gesammt:
+
+SiO3. FeO. MgO. Mn. Al2O3. CaO. Fe. Ni. S. KO. NaO.  
+38,13. 29,44. 17,67. Sp. 3,82. 0,14. 7,7. 1,55. 0,39. 0,27. 0,86.
+
+Hiervon sind in Salzsäure leicht zersetzbar 51%.
+
+Danach wäre der Stein zusammengesetzt
+
+nach Dufresnoy:
+Nickeleisen|9,25.
+Schwefelkies|0,67.
+Olivin|51,62.
+Albit|6,31.
+Hornblende|31,86.
+
+nach Rammelsberg aus:
+Nickel- und Schwefeleisen|10,0.
+Olivin|52,5.
+Augit|21,3.
+Labrador|16,2.
+
+Literatur: Dufresnoy Poggend. Ann. 53, 411. Rammelsberg Handwörterb. Suppl. 2, 92.
+
+Bourbon-Vendee, Roche Serviere, Dep. de la Vendee, Frankreich.
+
+1841, Nov. 5.
 
 ...
