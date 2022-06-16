@@ -2938,4 +2938,100 @@ Der Stein ist dem von Erxleben ähnlich. In der grauen Grundmasse liegen zahlrei
 
 Nach der Analyse von Rammelsberg zerfällt der Stein in:
 
+1\. Magnetischer Theil 18,37%.
+
+Eisen|88,892.  
+Nickel (m. Cob.)|10,319.  
+Zinn|0,348.  
+Kupfer|0,212.  
+Schwefel|0,122.  
+Phosphor|0,107.
+
+Wird der Schwefel als zu Magnetkies gehörig mit dem entsprechenden Eisen in Abzug gebracht, so bleibt:
+
+Eisen|88,980.  
+Nickel (Co)|10,351.  
+Zinn|0,349.  
+Kupfer|0,213.  
+Phosphor|0,107.  
+
+Die 18,37% bestehn also aus:
+
+18,31 Nickeleisen,  
+0,06 FeS.
+
+2\. Nicht magnetischer Theil 81,63%.
+
+durch Säuren zersetzbar 39,29% d. Ganz. (48,255%).
+
+Kieselsäure|31,206.  
+Magnesia|37,331.  
+Eisen (Fe)|23,665.  
+Nickel|0,961.  
+Manganoxydul|0,148.  
+Kalk|1,674.  
+Kupferoxyd|0,159.  
+Schwefel|5,264. 
+
+Daraus berechnet sich die Zusammensetzung aus:
+
+Magnetkies (FeS)|14,139.  
+Nickeleisen|9,221.  
+Kieselsäure|31,206.  
+Magnesia|37,331.  
+Eisenoxydul|8,456.  
+Manganoxydul|0,148.  
+Kalk|1,674.
+
+Die 39,29% bestehn aus:
+
+5,55 Schwefeleisen (FeS),  
+4,59 Nickeleisen,  
+29,15 Olivin.
+
+nicht zersetzbar 42,34% d. Ganz. (51,745%).
+
+Kieselsäure|51,009.  
+Magnesia|22,072.  
+Eisenoxydul|11,063.  
+Nickeloxydul|0,203.  
+Thonerde|9,077.  
+Kalk|4,795.  
+Kupferoxyd|0,152.  
+Kali, Natron|1,629.  
+
+Dabei sind von den 51,745% 1,154 Chromeisen in Abzug gebracht. Dieses besteht aus:
+
+Chromoxyd|59,85.  
+Eisenoxydul|27,93.  
+Magnesia u. Verl.|12,22.
+
+Die 42,34% bestehn aus:
+
+1\. 1,04 Chromeisen,  
+2\. 41,30 Silikat:  
+8,864 Olivin,  
+12,732 Labrador,  
+19,704 Augit.
+
+Literatur: Rammelsberg Poggend. Ann. 62, 449.
+
+Werchne Tschirskaja Stanitza am Don im Lande der donischen Kosacken, Russland.
+
+1843, Oct. 30. a. St. Nov. 12. n. St. um Mittag.
+
+Ohne dass ein Feuermeteor gesehen wurde, fiel unter heftigen Detonationen, die 1/2 Stunde gedauert haben sollen, ein Stein von 8 K. 030, der schon kalt aufgefunden wurde. Er wird im Museum der Universität Charkow aufbewahrt, hat die Gestalt einer abgestumpften dreiseitigen Pyramide mit Vertiefungen auf der Oberfläche, wodurch diese ein zelliges Aussehen erhält.
+
+Specifisches Gewicht: 3,58 Borissiac.
+
+Die dünne Rinde ist schwarz, matt, chagrinartig, Glas ritzend, spröde und an einigen Stellen mit Eisentheilchen durchsetzt.
+
+Das Innere ist trachytartig, groberdig, hellgrau, matt, mehr glashart, von feinen Adern durchzogen, die von einer schwärzlichen Masse gebildet werden. Ausser Eisen und Schwefeleisen (mit Salzsäure entwickelt sich Schwefelwasserstoff) enthält die Masse kaum wahrnehmbare unregelmässige Körner, ähnlich Orthoklas und glänzende schwärzliche Kügelchen von Stecknadelkopfgrösse, die vom Magnet angezogen werden.
+
+Literatur: Eichwald Erman Arch. 5, 181. Borissiac Bull. Ac. Petersb. 5, 196.
+
+Killeter bei Castlederg, County Tyrone, Ireland.
+
+1844, April 29, Nachmittags, wahrscheinlich zwischen 3 und 4 Uhr.
+
 ...
