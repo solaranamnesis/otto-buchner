@@ -2767,4 +2767,175 @@ Bourbon-Vendee, Roche Serviere, Dep. de la Vendee, Frankreich.
 
 1841, Nov. 5.
 
+Ueber den Stein, der etwa 5 1/2 K. wog, erhob sich ein Process zwischen dem Finder und dem Besitzer des Grundstücks, auf welches. der Stein gefallen war, der zu Gunsten des Finders entschieden wurde. Jetzt soll er im Besitz eines Arztes sein. Die grössten Sammlungen besitzen nichts davon.
+
+In wissenschaftlicher Beziehung ist über diesen Stein gar nichts bekannt.
+
+Literatur: Echo du Monde sav. 1842, No. 683, Nov. 24.
+
+Milena (ungarisch Milyana). Dorf Pusinsko Selo, 1 Meile südlich von Milena, Warasdiner Comitat, Croatien (an der steiermärkischen Grenze bei Windischlandsberg).
+
+1842, April 26, 3 Uhr Nachmittags.
+
+Viele Zeugen bemerkten ein Feuermeteor.
+
+Nach heftiger Detonation, die in mehren Absätzen wie schwerer Geschützdonner erfolgte, und einem fünf Minuten anhaltenden Getöse fielen zwei Steine von mässiger Grösse 1/2 Meile auseinander; beide wurden von den herbeiströmenden Neugierigen zertrümmert. Das grösste Stück des Restes wog über 1 K. Nach Rosthorn sollen drei Steine von über 5 K. gefunden worden sein. Die Hauptmasse (1 K. 190) ist im Museum zu Agram; kleinere Stücke sind in Wien (193,594 Gr.), Gratz (38 Gr.), Berlin (9,663 Gr.) und in den Privatsammlungen von v. Reichenbach und Shepard.
+
+Specifisches Gewicht:  
+3,54 Rumler.  
+3,523 Nendtvich.
+
+Die Rinde ist dünn und schwarz, matt oder schwach schimmernd. Die hellgraue, etwas rostfleckige Grundmasse, stellenweise mit spiegelnden Krystallflächen, enthält undeutliche, etwas dunklere kugelige Einschlüsse und ziemlich viel fein und mittelfein eingesprengtes Eisen, das an einigen Stellen grössere kugelförmige Massen bildet. Schwefeleisen ist nur sehr fein eingesprengt. Der Stein ist sehr ähnlich Slobodka, Forsyth, Glasgow, Yorkshire, Pohlitz, Charkow, Kuleschowka und Zaborczika.
+
+Eine Analyse von Nendtvich ergab:
+
+NiS. FeS2. FeO Fe2O3. Al2O3. MgO. SiO3. MnO Mn2O3.  
+0,79. 3,13. 20,08. 9,02. 26,27. 40,40. 0,07.
+
+Literatur: Kocevar Poggend. Ann. 56, 349. Rosthorn Leonh. u. Bronn N. Jahrb. 1843, 79. Nenprvica in Sadler A kiralyi magyar termeszettudomanyi tarsulat evkönyvei. 1, 1841-1845. Pesten. 33.
+
+Aumieres, Dep. de la Lozere, Frankreich.
+
+1842, Juni 4.
+
+Ueber diesen Stein und seinen Fall soll Boısse in seinen Recherches Mittheilungen machen. Es finden sich Bruchstücke in Paris (Mus. Hist. nat.), Wien (6,6 Gr.), sowie bei v. Reichenbach und Shepard.
+
+Die lichtaschgraue Grundmasse enthält ziemlich viel fein eingesprengtes Eisen und Magnetkies.
+
+Der Stein hat die grösste Aehnlichkeit mit Bachmut und Pohlitz.
+
+Literatur: Boisse Recherches sur l’histoire et la nature des Aerolithes, Rodez 1851 war unmöglich zu erhalten.
+
+Logrono, Spanien.
+
+1842, Juli 4.
+
+Es ist nichts als die Thatsache eines Steinfalls bekannt geworden; der Stein befindet sich jetzt in Madrid.
+
+Literatur: Phil. Mag. (4) 8. 460.
+
+Myhee-Counta (Khoonbeer), NO. von Ahmedabad, Ostindien.
+
+1842, Nov. 30, 4 Uhr Nachmittags.
+
+Es fiel eine Anzahl Steine; ein kleines Stück ist im Museum der geographischen Gesellschaft zu Bombay.
+
+Specifisches Gewicht: 3,360.
+
+Nach Giraud soll der Stein bestehn aus erdigen Substanzen, Schwefel, Eisen und Nickel, was allerdings sehr wahrscheinlich ist, wodurch aber die Natur des Steines nicht klarer wird.
+
+Literatur: Edinb. N. Phil. Journ. 47, 53.
+
+Bishopville, N. des Sumter-Districts, Süd-Carolina, Nord-Amerika.
+
+1843, März 25.
+
+Das Meteor selbst und seine Detonation wurden von Vielen auf einer Strecke beobachtet, die 30-40 engl. Meil. im Durchmesser hatte. Eine Anzahl Neger waren Zeugen des Steinfalles. Die Erscheinungen dabei, besonders aber der unerträgliche Schwefelgeruch, der die Luft füllte, jagte sie im grössten Schrecken in die Flucht; erst am folgenden Morgen wurde der Stein aus einer Tiefe von 3 Fuss ausgegraben. Er wog etwa 6 1/2 K. Shepard in New-Haven, der ihn erhielt, besitzt noch 3 K. 302. Kleinere Stücke sind in London (525,91 Gr.), Berlin (52,812 Gr.), Wien (45,938 Gr.), Göttingen (6,6 Gr.), Hudson und in den Privatsammlungen von Greg (40 Gr.), v. Reichenbach und Nevill.
+
+Specifisches Gewicht: 3,039 Sartor v. Waltershausen.
+
+Schon die Rinde zeigt viel Abweichendes und Merkwürdiges. Sie ist im Allgemeinen glatt, schwarz, weiss, bläulich und grau und nicht unähnlich manchen verschieden gefärbten Marmorarten; die schwarzen Partien sind obsidianartig, die grauen und weissen meist matt, obgleich die weissen manchmal wie Glasur auf Porzellan glänzen. Sie ist von häufigen Rissen durchzogen, welche bis zu einiger Tiefe in den Stein eindringen; die Ränder derselben sind nach innen zu zum Theil geschmolzen. Ueber den grossen schneeweissen Partien der Grundmasse ist die Rinde durchsichtig und farblos wie Glas. Shepard nannte diesen weissen Bestandtheil mit seiner feldspathartigen Krystallisation ähnlich in Zersetzung begriffenem albitischem Granit Chladnit. Dieses weisse, zuweilen schwach seidenglänzende Mineral hat Sartorius v. Waltershausen genauer untersucht; es hat die Härte 6, das specifische Gewicht 3,039 und steht dem Wollastonit sehr nahe, mit welchem es in Farbe, Härte, Gefüge und Krystallform übereinstimmt. Die mikroskopisch kleinen Krystalle sind monoklino&drisch. Shepard hat auch unvollkommne von Zollgrösse gefunden. Nach v. Reichenbach sind unzählige kleinere und grössere Klumpen dieses weissen Gesteins von Mohnsamengrösse bis zu groben Brocken, ja in ganzen Bänken von der Grösse eines Daumengliedes meist dicht an einander geballt, durch die Grundmasse verkittet. Besonders die grösseren haben ein blätteriges Gefüge und sind in dieser Richtung spaltbar und zerbrechlich. Nur selten sind äusserst kleine schwarze Pünktchen darin enthalten; nach Sartorius v. Waltershausen sind sie metallisch glänzend und Körner von Magnetkies und braunem Eisenoxyd, das sich wahrscheinlich aus jenem gebildet hat. Nach Surparp treten selbst kleine schwarze Adern auf und da und dort kleine stark rostige Körner von Nickeleisen bis zu Erbsengrösse. Die kleinen schwarzen Körner und Krystalle hält er für Schwefelchrom; als weitere Bestandtheile nennt er stellenweise sichtbares und nur in geringer Menge vorhandenes Schwefeleisen, dann blauen Iodolith und honiggelben Apatoid, zwei neue, dem Bishopvillesteine angehörige Silikate, sowie Schwefel in Spuren in kleinen halbdurchscheinenden Körnchen und als Pulver zerstreut. v. Reichenbach bestätigte das Auftreten von gediegenem Schwefel in kleinen Nestern von blass und rein schwefelgelber Farbe bis zur Grösse einer halben Linse. Sartorius v. Waltershausen fand im Stein keine Spur von schweren Metallen, hält aber für möglich, dass Nickel etc. in den Magnetkieskörnern sich finden. In der wässrigen Lösung fand er nur Spuren von Kalk und Magnesia, Shepard dagegen verschiedene schwefelsaure Salze, Chlor- und Schwefelmetalle. Iodolith ist nach demselben violet bis blass smalteblau, glasglänzend und tritt in kleinen eckigen, etwas abgerundeten Körnchen von der Härte 5,5-6 auf; andere Beobachter scheinen diesen Bestandtheil nicht gesehen zu haben. Der Bestandtheil, den Shepard für Chromschwefel hält, tritt in kleinen tief gestreiften Prismen auf, hat unvollkommnen Metallglanz, die Härte 4, ist bräunlichschwarz, undurchsichtig und spröd. Er nannte ihn anfangs Schreibersit, ein Name, der später auf das Phosphornickeleisen der Eisenmeteoriten überging.
+
+Analysen liegen von Shepard 1. und Sartorius v. Waltershausen 2. 3. vor:
+
+SiO3. Al2O3. MgO. Fe2O3. CaO. NaO. HO.  
+1\. 70,71. -,-. 28,25. -,-. -,-. 1,39. -,-.  
+2\. 67,14. 1,48. 27,11. 1,70. 1,82. -,-. 0,67.  
+3\. 68,35. 1,50. 27,60. -,-. 1,85. -,-. 0,68.
+
+Bei 3. ist das Eisenoxyd als fremdartig ausgeschieden. Danach erscheint der Stein zusammengesetzt aus
+
+95,011 Chladnit (MgOSiO3),
+4,985 Kalklabrador
+
+und einer kleinen Menge von Magnetkies und braunem Eisenoxyd. Shepard berechnet dagegen folgende Zusammensetzung:
+
+90 Chladnit,  
+6 Anorthit,  
+2 Nickeleisen,  
+2 Magnetkies, Iodolith, Schwefel etc.
+
+Jedenfalls ist die Hauptmasse kieselsaure Magnesia mit einer kleinen Menge eines Thonerdesilikats, das aber nicht Labrador sein kann, weil dieser immer Alkali enthält.
+
+Rammelsberg untersuchte den Stein aufs Neue. Er bemerkte an der weissen Hauptmasse nichts von Krystallen, nur leichte Spaltbarkeit. Seine Analyse ergab:
+
+SiO3. Al2O3. Fe2O3. MnO. MgO. CaO. NaO. KO. X.  
+57,52. 2,72. 1,25. 0,20. 34,80. 0,66. 1,14. 0,70. 0,80.
+
+X. Glühverlust.
+
+Rammelsberg erkennt darin ein Gemenge von Silikaten, wonach Shepards Chladnit unhaltbar ist.
+
+Literatur: Shepard Sillim. Amer. Journ. (2) 2, 392. (2) 6, 411. Sartorius v. Waltershausen Ann. Chem. Pharm. 79, 369. v. Reichenbach Pogg. Ann. 107, 166. 111, 359. 115, 620. Rammelsberg Berlin. Acad. Ber. 1861, 895.
+
+Utrecht, in der Gemeinde Blaauw-Kapel. 5 Kilometer von Utrecht und 3 Kilometer von dieser Stelle bei dem Dorf Loevenhoutje, Holland.
+
+1843, Juni 2, 8 Uhr Abends.
+
+Der Fall beider Steine wurde unter den gewöhnlichen Umständen beobachtet. Der erste war 7 K. schwer und schlug 1 Meter tief in den Boden ein; er war schon kalt, als er 1/4 Stunde nach dem Fall herausgenommen wurde. Der zweite wog 2,7 K; sein Fall wurde ebenfalls beobachtet, doch wurde er erst 3 Tage darauf in einem Graben gefunden. Beide haben eine unregelmässige vieleckige Gestalt mit abgerundeten Kanten und Ecken; auf der Oberfläche sind die charakteristischen Vertiefungen, wie von Fingereindrücken. Die Hauptmasse besitzen die Gesellschaft der Wissenschaften zu Harlem (7 K. 642) und die Universität Utrecht (2 K. 469). Kleinere Bruchstücke sind in Wien (178,281 Gr.), Göttingen (1,25 Gr.) und in den Privatsammlungen von Shepard (New-Haven), Greg (Manchester), v. Baumhauer (Amsterdam) und Neumann (Prag).
+
+Specifisches Gewicht: 3,57-3,65 v. Baumhauer.
+
+Die Rinde ist dünn, matt, schwarz, mit einigen leichten Rissen.
+
+Die Grundmasse ist hellgrau, sehr weich, mit Eisenkörnchen durch-
+setzt; auch sind deutlich gelbe und schwarze, selten hochpurpurrothe
+Punkte durch die Masse zerstreut.
+
+Nach v. Baumhauers Analyse besteht der Stein aus:
+
+Magnetischer Theil. 10,91%. spec. Gew. 4,93.  
+Fe|86,75-86,64.  
+Ni|12,97-13,04.  
+Cu u. Sn|0,24-0,27.  
+P|0,04-0,05.
+
+Nicht magnetischer Theil 89,09%.
+
+Zersetzbar. 54,06-54,11%.|Nicht zersetzbar. 45,945-45,89%.  
+FeS|7,508-7,623.|-,-.  
+P|0,010.|-,-.  
+SiO3|16,665-16,682.|55,456-55,456.  
+KO|0,013.|3,185. 0,252.  
+NaO|0,121.|3,185. 3,829.  
+CaO|0,205-0,170.|3,002.  
+MgO|17,681-17,750.|17,936.  
+MnO Sp.|17,681-17,750.|1,425.  
+NiO|0,326-0,349.|1,425.  
+Al2O3|0,064-0,066.|4,854-4,229.  
+FeO|10,351-10,130.|11,689-11,090.  
+FeO Cr2O3|10,351-0,226.|2,176.  
+CuO|0,028-0,023.|0,528-0,610.  
+ZnO|0,028-0,023.|-,-.  
+CoO|Spur.|-,-.  
+45,945-45,893.  
+
+Danach besteht der nicht magnetische Theil aus Schwefeleisen 7,51-7,62%; Olivin 46,55-46,49%, und dem unzersetzbaren Theil, der nach v. Baumhauer Albit und Augit, nach Rammelsberg aber Labrador (16,92%) und Hornblende (25,66%) oder Oligoklas (9,62%) und Augit (32,96%) ist.
+
+Literatur: v. Baumhauer Poggend. Ann. 59, 348. 66, 465. Rammelsberg Handwörterb. Suppl. 2, 97. 5, 26.
+
+Manegaon bei Eidulabad in Khandeish, Ostindien.
+
+1843, Juli 26, 3 1/2 Uhr Nachmittags.
+
+Zwar keine Feuerkugel wurde beobachtet, aber eine heftige Detonation gehört; ein 15 Zoll langer und 5 Zoll dicker Stein zerbrach beim Herabfallen, und die Stücke wurden von dem Landvolk, das nach dem Donner zusammenlief, bis auf Weniges sogleich verschleppt. Bruchstücke scheinen nur zu sein in Calcutta (70,87 Gr.), London (7,93 Gr.), Wien (klein) und in Gregs Sammlung (1,3 Gr.).
+
+Specifisches Gewicht: 4-4,5 nach einer Schätzung von Piddington.
+
+Der Stein ist äusserlich schwarz und glasartig, innen gelblichgrau, leicht zerreiblich; darin eingebettet sind häufig hellgrüne glänzende Krystalle von Olivin, entweder einzeln oder in Nestern. Auch Schwefeleisen ist darin.
+
+Literatur: Abbot Journ. Asiat. Soc. Bengal. 1844, 155, 880. Rep. Brit. Assoc. 1850, 122. Poggend. Ann. Ergb. 4, 370.
+
+Kleinwenden bei Nordhausen, Regierungsbezirk Erfurt, Preussen.
+
+1843, Sept. 16, 4 3/4 Uhr Nachmittags.
+
+Bei ganz heiterem Himmel fiel, ohne dass eine Wolke oder eine Lichterscheinung bemerkt wurde, unter heftiger Detonation ein Stein, der anfangs so heiss war, dass er nicht aufgenommen werden konnte. Er wog etwas über 3 K. und hatte eine vierseitig prismatische Gestalt. Die Hauptmasse (2 K. 518) ist jetzt in Berlin, kleinere Bruchstücke in Wien (173,361 Gr.) und in den Sammlungen von v. Reichenbach, Greg und Shepard.
+
+Specifisches Gewicht: 3,7006 Rammelsberg.
+
+Der Stein ist dem von Erxleben ähnlich. In der grauen Grundmasse liegen zahlreiche, aber meist sehr kleine stark glänzende Flitterchen von Meteoreisen ziemlich gleichmässig verbreitet. Unter der Lupe bemerkt man noch in der grauen Masse ganz deutlich durchscheinende gelbliche und grünliche Partien, welche ohne Zweifel Olivin sind, und neben ihnen sehr ausgezeichnet schwarze glänzende Körner, welche auf Augit schliessen lassen. In den kleinen Höhlungen des Steines sind keine deutlichen Krystallbildungen wahrnehmbar. Der metallische Theil hat an einzelnen Stellen eine braune Farbe und gehört wahrscheinlich Magnetkies an; manche sind bis erbsengross.
+
+Nach der Analyse von Rammelsberg zerfällt der Stein in:
+
 ...
