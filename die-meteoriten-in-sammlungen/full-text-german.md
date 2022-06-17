@@ -3034,4 +3034,327 @@ Killeter bei Castlederg, County Tyrone, Ireland.
 
 1844, April 29, Nachmittags, wahrscheinlich zwischen 3 und 4 Uhr.
 
+Ueber die Geschichte des Falles ist so gut wie nichts bekannt geworden. Es scheinen viele Steine gefallen zu sein, doch sind sie wohl meist verloren gegangen. In London sind nur 2,73 Gr. Wahrscheinlich eben so kleine oder noch kleinere Bruchstücke sind in Dublin und in den Privatsammlungen von Nevill, Shepard, Greg und v. Reichenbach.
+
+Specifisches Gewicht: 3,7614 Haughton.
+
+Die gewöhnliche schwarze Rinde deckt die graulichweisse krystallinisch aussehende Grundmasse, die Nickeleisen eingestreut enthält.
+
+Haughton fand bei der Analyse:
+
+1\. In Säure nicht zersetzbar 34,18%.
+
+SiO3|55,01.  
+Al2O3|5,35.  
+FeO|12,18.  
+CaO|3,41.  
+MgO|24,03.  
+99,98. 
+
+Wird für ein Hornblendegestein angesehen, das mit Anthophyllit am nächsten übereinkomme.
+
+2\. In Säure zersetzbar 30,42%.
+
+Konnte durch einen Zufall nicht analysirt werden.
+
+3\. Eisen 25,14.  
+4\. Nickel 1,42.  
+5\. Chromoxyd 2,70.  
+6\. Kobald Spur.  
+7\. Magnetkies 6,14.
+
+Literatur: Poggend. Ann. 113, 1861, 508.
+
+Weiler Favars, Canton Laissac, 28 Kilom. östlich von Rhodez, Dep. Aveyron, Frankreich.
+
+1844, Oct. 21, zwischen 6 1/2 und 7 Uhr Morgens.
+
+Nach heftiger Detonation, die von einem eigenthümlichen Getöse gefolgt war und in mehr als 48 Kilom. Entfernung gehört wurde, fand man nach einigem Suchen in einem frischen Loch einen Stein von 1 K. 50, der beim Reiben Schwefelgeruch verbreitete und auf den Magnet wirkte. Er bildete eine unregelmässige, aber doch erkennbare vierseitige abgestumpfte Pyramide. Bruchstücke sind in Paris, Mus. Hist. nat., sowie bei v. Reichenbach und Shepard.
+
+Specifisches Gewicht: 3,55 Boisse.
+
+Ueber den Stein ist sonst nichts bekannt geworden; doch soll in Boisse Recherches eine Notiz darüber enthalten sein.
+
+Literatur: l’Instit. 1844, No. 570.
+
+Dorf Monte Milone, am Fluss Potenza, 8 ital. Meil. von Macerata, Mark Ancona, Italien.
+
+1846, Mai 8, 9 1/4 Uhr Vormittags.
+
+Ohne dass eine Feuerkugel bemerkt wurde, fielen nach heftiger Detonation wie es scheint viele Steine, von welchen fünf im Gewicht von 3 K. und abwärts gefunden wurden; einer wurde in kleine Stücke zerschlagen. Die Hauptmassen sind wahrscheinlich in italienischen Sammlungen. Bruchstücke sind in Bologna, Pisa (341,7 Gr.), Florenz, Rom, M. L. Med. Spada (ca. 1/2 K.), London (11,18 Gr.), Wien (3,28 Gr.), sowie bei de Luynes in Dampierre (20,4 Gr.), Greg (13,5 Gr.), v. Reichenbach, Shepard und Nevill.
+
+Die Rinde ist schwarz, das Innere feinkörnig und halb krystallinisch, aschgrau, fast weisslich, mit kleinen metallischen Punkten und Adern. Das Ganze hat Aehnlichkeit mit den Steinen von Kleinwenden (1843).
+
+Literatur: l’Instit. 1846, Oct. 7, No. 666.
+
+Schönenberg im Mindelthal, Prov. Schwaben, Bayern.
+
+1846, December 25, 2 Uhr Nachmittags.
+
+Man vernahm wenigstens in einen Umkreis von 8 Stunden Durchmesser ein donnerähnliches Rollen. In Biberach wurde man durch eine Explosion erschreckt, gleich der von einer Kanone oder einem zusammenstürzenden Holzhaufen hervorgebracht, so dass vielfach die Fenster klirrten. Darauf folgte ein Getöse wie von Trommeln und Pauken und endete mit einem langgezogenen Sausen und Klingen. Dabei sahen Bewohner von Schönenberg einen Stein fallen, der zwei Fuss tief in den gefrorenen Lehmboden einschlug und Schwefelgeruch verbreitete. Dabei hellte sich der vorher bedeckte Himmel auf, indem zuerst ein wolkenfreier Streif in der muthmasslichen Richtung! des Meteors entstand. Wahrscheinlich sind noch mehr Steine gefallen, aber nicht gefunden worden.
+
+Der aufgenommene Stein hat die Gestalt einer sehr unregelmässigen Pyramide und wiegt 8 K. 015. Er wurde für 500 Gulden für die Sammlungin München gekauft; es darf nichts davon abgetrennt werden.
+
+Die Oberfläche ist uneben und mit einer schwarzen Rinde bedeckt. Das Innere, das an den hervorragendsten Ecken beim Ausgraben durch kleine Verletzungen aufgeschlossen wurde, hat Aehnlichkeit mit einem feinkörnigen Dolomit mit einzelnen Metallflitterchen. Auch die Rinde enthält einzelne Körner und eine grössere Anzahl von Streifen oder Schnüren von silberweissem, weichem, leicht rostendem Nickeleisen, die 1/4 bis 3/4 Zoll von einander entfernt sind und sich zum Theil kreuzen und gabeln. Die Hauptmasse ist leicht mit den Fingern zu zerbröckeln und zu Sand zu zerreiben und wirkt auf die Magnetnadel. Man unterscheidet einen weissen feinkörnigen Bestandtheil, einen gelblichen und einen grünlichen. Schwefeleisen tritt in einzelnen kleinen Körnchen auf, ebenso ist silberglänzendes Nickeleisen in gefransten Blättchen gleichmässig eingesprengt. Von Augit und Labrador ist nichts zu entdecken.
+
+Die Annahme Schafhäutls, der Stein sei weich niedergefallen, weil er Eindrücke habe, ist durchaus unhaltbar und irrig; ebenso die Hypothesen, die er bei dieser Gelegenheit über die Bildung der Meteoriten aufstellt.
+
+Solange der Stein von Schönenberg nicht genauer untersucht, durchschnitten und analysirt wird, ist es ein für die Wissenschaft nur entdeckter, nicht gehobener Schatz.
+
+Literatur: Schafhäutl Münchn. Gel. Anz. 24, 1847. 564.
+
+Linn County (Hartford), Iowa, Nord-Amerika.
+
+1847, Febr. 25, 2 Uhr 50 Min. Nachmittags.
+
+In der Richtung, woher die 40 Meil. im Umkreis hörbare Detonation kam, sah man Rauch; es fielen mehre Steine, welche zum Theil gleich nach dem Fall gefunden wurden; doch zerbrach der grösste Theil in kleine Stückchen, die verloren gingen. Shepard erhielt einen Stein von etwa 10 K., der durch seine höchst regelmässige prismatische Gestalt ausgezeichnet war; er war beim Fallen in drei Stücke zerbrochen, die aber zusammenpassten. Colonel Abert (Thopograph. Bureau) in Washington erhielt ein Stück von über 1 K. Jetzt besitzt Shepard die Hauptmasse (über 19 K.). Kleinere Bruchstücke sind in Edinburg (439,4 Gr.), Berlin (311,708 Gr.), Wien (236,255 Gr.), London (186,55 Gr.), Göttingen (50,96 Gr), Hudson und Calcutta, sowie in den Privatsammlungen von Greg (202 Gr.), v. Reichenbach, Nevill und Auerbach (9 Gr.).
+
+Die schwarze Rinde ist matt, ziemlich dick, vom Stein scharf abgegrenzt und durch Sprünge in vieleckige Flächen getheilt.
+
+Das Innere ist einförmig perlgrau mit kleinen Rostflecken. Nickeleisen tritt in vielen hellglänzenden Körnchen auf, Schwefeleisen ist weniger zahlreich eingesprengt. Sonst scheint die Grundmasse nur eine Mineralspecies zu enthalten, nach Shepard den Howardiit.
+
+v. Reichenbach untersuchte ein eckiges hellgraues Korn mikroskopisch.
+
+Shepard analysirte den Stein und fand:
+
+Howardit, Nickeleisen, Magnetkies  
+83%. 10,44%. 5%.
+
+und Spuren von Olivinoid und Anorthit.
+
+Den Howardit fand er zusammengesetzt aus:
+
+SiO3. FeO. MgO. FeS. KO, NaO. CaO, NiO.  
+60,13. 23,50. 11,20. 4,66. 0,30. Spur.
+
+und berechnet dafür die Formel FeOSiO3 + MgOSiO3. Das Nickeleisen zerlegte er in Fe 86. Ni 14.
+
+An einem Stein von etwa 10 K., der vor dem Auffinden lange im Boden gelegen hatte, schwitzten an einer Stelle, wenn er feuchter Luft ausgesetzt wurde, Tröpfchen von Eisenchlorid aus, während der übrige Theil davon ganz frei blieb.
+
+Literatur: Sillim. Amer. Journ. (2) 4, 288. 429. (2) 6, 251. 280. (2) 11, 38. (2) 15, 6. Poggend. Ann. 111, 368.
+
+Dharwar, Dorf Negloor einige engl. Meilen von der Vereinigung der Flüsse Wurda und Toombooda, Ostindien.
+
+1848, Febr. 15, 1 Uhr Mittags.
+
+Es wurde der Fall eines Steines beobachtet, der 2 K. wog, in Stücke zerbrach und jetzt im Museum der geographischen Gesellschaft zu Bombay ist.
+
+Specifisches Gewicht: 3,512 Giraud.
+
+Die Rinde ist schwarz und glänzend, die Grundmasse sandsteinartig und mit Metallblättchen von Stecknadelkopfgrösse durchsäet.
+
+Die Analyse von Giraud ist sehr mangelhaft; sie ergab:
+
+Erdige Theile 58,3  
+Eisen 22,18  
+Nickel 6,76  
+Schwefel 2,5  
+89,74
+
+Literatur: Edinb. N. Phil. Journ. 1849, Juli, No. 93. 47, p. 53.
+
+Castine, Maine, Nord-Amerika.
+
+1848, Mai 20, 4 1/4 Uhr Morgens.
+
+Ohne dass eine eigentliche Feuerkugel bemerkt wurde, fiel nach heftiger Detonation wie es scheint nur ein kleiner etwas keilförmiger Stein von etwa 42,5 Gr. Es soll vorher von Manchen ein Lichtschein bemerkt worden sein. Fast den ganzen Stein besitzt das Bowdoin-College in Maine, ein kleines Bruchstück Shepard, der ihn auch beschrieb.
+
+Specifisches Gewicht: 3,456 Shepard.
+
+Die Oberfläche ist eben, theils auch unregelmässig oder leicht wellenförmig. Die Rinde ist schwarz. Das Innere des Steines ist ähnlich Poltawa (unbekannte Fallzeit), aber heller, ohne Rostflecken und mit mehr Perlmutterglanz. Nickeleisen ist in kleinen sehr glänzend silberweissen Punkten eingesprengt; feine schwarze Punkte geben vor dem Löthrohr Chromreaction; auch Magnetkies tritt in kleinen Punkten auf, aber sparsamer, wie Eisen.
+
+Mit dem Magnet lassen sich 11,22%, ausziehen, bestehend aus  
+Eisen und Nickel.  
+85,3. 14,7.
+
+Die erdigen Bestandtheile hält Smerarn für Howardit, ein Trisilikat von Magnesia und Eisenoxydul.
+
+Literatur: Shepard Sillim. Amer. Journ. (2) 6, 281.
+
+Marmande, Dep. Aveyron, Frankreich.
+
+1848, Juli 4.
+
+Weder über das Ereigniss, noch über die Steine, die reich gefallen sein sollen, ist das Geringste bekannt geworden. Bruchstücke sind im britischen Museum (6,37 Gr.) und bei Greg.
+
+Schie, Amt Akershuus, Norwegen (der Name Dalsplads ist ganz falsch; der Finder des Steins hiess Ole Brynoldsen Dalsplads).
+
+1848, Dec. 27, Abends.
+
+Zwei Tage nach einer starken Lichtentwicklung und Detonation wurde auf dem Eis des nahen Flusses der Stein 1/2” tief im Eis gefunden. Nach den Eindrücken im Eis kam er aus SO. und hüpfte auf dem Eis fort, bis er liegen blieb. Er hatte die Grösse eines kleinen Kinderkopfs und wog 850 Gr. Die Universität in Christiania besitzt die Hauptmasse; ausserdem sind Bruchstücke in Wien (35 Gr.), London (4 Gr.) und bei v. Reichenbach in Wien.
+
+Die Oberfläche zeigt warzenförmige Erhöhungen und Vertiefungen; die Rinde ist braunschwarz, etwas glasartig und 1mm dick.
+
+Innen auf frischem Bruch ist er grauweiss, körnig, von einzelnen rostfarbenen Adern durchzogen. Ueberall zeigen sich kleine metallglänzende Körnchen, die an der Luft anlaufen. Er enthält sichtlich verschiedene Mineraliengemenge.
+
+Analyse von Ditten:
+
+Magnet. Thl.
+Fe|84,20.  
+Ni|14,42.  
+FeS|0,49.  
+sowie Silikate u. Spuren von Co, Mn, Cu, Sn.
+
+Mit HCl zersetzbar.  
+SiO3|37,80.  
+MgO|31,68.  
+CaO|3,08.  
+FeO|27,44.  
+u. Einfach-Schwefeleisen.
+
+Nicht zersetzbar.  
+SiO3|57,10.  
+MgO|19,46.  
+CaO|1,47.  
+Al2O3|5,62.  
+Fe2O3|14,72.  
+u. Spuren von Chromeisen u. Zinnstein.
+
+Im Ganzen.  
+Nickeleisen|8,22.  
+FeS|4,32.  
+Olivin|49,00.  
+Magnesia-Eisen-Thonerdesilikat|38,20.  
+Chromeisen, Zinnstein|0,26.
+
+Die Abwesenheit von C, P, As und FeS2 wurde nachgewiesen.
+
+Literatur: Ditten Journ. pract. Chem. 64, 122. Poggend. Ann. 96, 341.
+
+Cabarras County, unweit Charlottetown, Nord-Carolina, Nord-Amerika.
+
+1849, Oct. 31.
+
+Ohne dass eine Wolke bemerkt wurde, hörte man weithin eine starke Detonation und darauf ein donnerartiges, rollendes Getöse. Auch ein Feuerschein, kein eigentliches Meteor wurde dabei von Einigen gesehen. Ein Stein von 10 K. fiel nieder, traf einen auf der Erde liegenden Fichtenstamm und lag 10 Zoll unter dessen Oberfläche. Andere Bäume waren nicht beschädigt, obgleich es gelautet, als wenn viele kleine Körper gefallen und heisse Steine in Wasser geworfen worden wären. Der aufgefundene Stein bildete eine niedere unregelmässige, vierseitige, abgestumpfte Pyramide mit abgerundeten Kanten und wellenförmiger Oberfläche. Die grössten Bruchstücke besitzt Shepard (6 K. 634), Kleinere London (456,75 Gr.), Berlin (133,946 Gr.), Wien (58,516 Gr.), Göttingen (42,1 Gr.), Hudson und Zürich (6 Gr.), sowie die Privatsammlungen von Gres (82,2 Gr.), v. Reichenbach, Nevill und Auerbach (16 Gr.).
+
+Specifisches Gewicht: 3,60-3,66 Shepard.
+
+Die Rinde ist dünn, schwarz und sehr zusammenhängend; die Farbe der Grundmasse ist dunkelblaugrau mit feinen Rostflecken; sie ist körnig und enthält abgerundete Körnerkrystalle eines helleren Minerals, das dem Ganzen ein porphyrartiges Ansehen gibt.
+
+Nach der Analyse von Shepard besteht der Stein aus:
+
+SiO3. FeO. MgO. Al2O3. CaO. {Fe. Ni. Cr.} FeS. {K. Na. Verl.}  
+56,168. 18,108. 10,406. 1,797. Spur. 6,320. 3,807. 3,394.
+
+Am verwandtesten scheint der Stein mit Tabor zu sein.
+
+Literatur: Sillim. Amer. Journ. (2) 9, 143. 10, 127.
+
+Shalka in Bancoorah (Sulker bei Bissempore), Bengalen, Ostindien.
+
+1850, Nov. 30, 3 Stunden vor Sonnenaufgang.
+
+Unter nicht besonders heftigem Getöse fiel ein grosser Stein, der dabei in viele Stücke zerbarst. Die Hauptmasse ist in Calcutta, viel wurde von den Eingeborenen verschleppt. Ein grosses Stück ist auch in London (fast 3 K.), kleinere in Wien (199,062 Gr.) und Berlin (4,664 Gr.) und in den Privatsammlungen von Greg (134 Gr.), Shepard, v. Reichenbach und Auerbach (5 Gr.).
+
+Specifisches Gewicht:  
+3,412 Haidinger,  
+3,66 Piddington.
+
+Die Rinde ist schwärzlichbraun, matt, sehr dünn; nur stellenweise zeigen sich unregelmässige metallische Partien, die etwas mehr glänzen. Das Innere ist bimssteinartig oder perlsteinartig, zum Theil weisslich, feinkörnig, zum Theil aschgrau krystallinisch in grobkörniger Zusammensetzung von Individuen bis zu 2 Linien. Das Ganze sieht durch die grösseren und kleineren sandartig zusammengeworfenen Partien breccienartig aus. Einzelne Körner sind leicht trennbar, und die grösseren Individuen zeigen ziemlich deutliche Theilungsflächen besonders nach einer Richtung. In der aschgrauen Masse liegen kleinere schwarze Körner bis zu Hirsekorngrösse von Chromerz, selten selbst in ziemlich deutlichen Octaedern, aber wie das graue Mineral ungemein mürbe und zerbrechlich, so dass es sich zwischen den Fingern zerreiben lässt.
+
+Analysen liegen vor von Piddington 1. und v. Hauer 2.
+
+SiO3. Fe2O3. FeO. MgO. CaO. Al2O3. Cr2O3. S. HO. As.  
+1\. 68,6. 26,8. -,-. -,-. -,-. 0,5. 2. 0,1. 0,12. Sp.  
+2\. 57,66. -,-. 20,65. 19,00. 1,53. Spur. -,-. -,-. -,-. -,-.
+
+1. ist jedenfalls mangelhaft. Bei 2. wurden die schwarzen Körner möglichst aus der Masse abgesondert.
+
+Haidinger schlägt für das eigenthümliche Mineral, das die Hauptmasse des Steins ausmacht, den Namen Piddingtonit vor. G. Rose nennt diesen kleinkörnigen eisenreichen Olivin Chassignit.
+
+Literatur: Haidinger Wien. Akad. Ber. 41, 251.
+
+Gütersloh bei Minden in Westphalen, Preussen.
+
+1851, April 17, 8 Uhr Abends.
+
+Eine sehr helle Feuerkugel mit ebensolchem Schweif zog von O. nach SW. und zerstob in viele kleine leuchtende Funken. Etwa 2 Minuten darauf folgten die Schallerscheinungen, die 8 bis 10 Secunden währten. Es fielen wenigstens zwei Steine, von welchen der erste die Gestalt einer etwas schiefen, abgestumpften vierseitigen Pyramide hatte und jetzt fast ganz in Berlin ist (900,673 Gr.). Fast ein Jahr später wurde noch ein zweiter Stein von etwa 117 Gr. gefunden, der aber durch die Oxydation des Eisens schon sehr verändert war. Er scheint in London zu sein (117,26 Gr.). Kleinere Bruchstücke sind in Wien (87,5 Gr.) und in den Privatsammlungen von v. Reichenbach, Greg und Shepard.
+
+Die Rinde ist schwarz und glanzlos; die eine Seite des Steins ist etwas rundlich und fast glatt, die anderen Flächen haben rundliche Vertiefungen. Auf dem Bruch ist der Stein licht graulichweiss und aschgrau; beide Farben sind scharf getrennt. Die ganze Masse ist matt mit kleinen kugeligen Partien; Eisen tritt in sehr feinen Körnern, aber auch bis zu Stecknadelkopfgrösse auf.
+
+Literatur: Dove u. G. Rose Poggend. Ann. 83, 465. 87, 500.
+
+Zwischen Nulles und Vilabella, 16 Lieues SW. von Barcelona, 4 Lieues von Tarragona in Catalonien, Spanien.
+
+1851, Nov. 5, 5 1/2 Uhr Abends.
+
+Das Feuermeteor wurde in der ganzen Provinz gesehen; es erschien in O., wuchs zusehends an Grösse, nahm seine Richtung nach SW. und zog hinter sich einen leuchtenden Schweif nach, der sich dann in eine Art von Nebel verwandelte und nach etwa 20 Minuten verschwand. Beim Verschwinden der Feuerkugel wurde ein entsetzliches Getöse gehört, das etwa 40 Secunden währte. Dann fielen viele Steine zwischen Valls und Tarragona; die Hauptmasse, etwa 10 K., fiel bei Nulles, zahllose Bruchstücke aber bei den Dörfern Vilabella und Brafim im Gewicht von 1/2-2 1/2 K. Der Hauptstein, den Balcells in der Gestalt einer rohen Pfeilspitze abbildet, wurde nach einiger Zeit noch heiss aufgenommen. Er wurde nach Madrid an den Hof geschickt. Ein zweiter bei Vilabella gefundener, 690 Gr. schwerer Stein wird von Balcells mit einer gewölbt pyramidalen und zugespitzten Fläche und einer fast flachen Basis abgebildet. Es scheinen nur sehr wenige Bruchstücke in andere grössere Sammlungen gekommen zu sein: Barcelona Industrieschule, London (4,615), Manchester, Greg.
+
+Specifisches Gewicht: 3,818 Balcells.
+
+Die Rinde ist schwärzlich, das Innere blaulichgrau, körnig, mit kleinen glänzenden Punkten, die an einigen Stellen dendritisch geordnet erscheinen.
+
+Nach der Analyse von Balcells besteht die Masse aus:
+
+1\. Magnet. Theil: 24,72%.
+Eisen|22,50.
+Nickel|1,43.
+Unlöslich|0,97.
+
+2\. Nicht magnetisch.
+
+a\. In Säuren zersetzt: 28,77%.
+Kieselsäure|10,00.
+Magnesia|9,67.
+Eisenoxydul|6,45.
+Thonerde|0,31.
+Einfachschwefeleisen|2,34.
+}3RO,SiO3.
+
+b\. Unzersetzbar: 44,72%.
+Kieselsäure|26,43.
+Magnesia|9,80.
+Eisenoxydul|7,10.
+Thonerde|0,53.
+Chromeisen|0,59.
+}3RO,2SiO3.
+
+Balcells will auch Spuren von Arsen gefunden haben.
+
+Literatur: Barceııs Lithologia meteorica. Barcellona 1854. Die Abb. sind schlecht, der Text ein Auszug hauptsächlich aus Chladni, das Ganze nicht wissenschaftlich. Greg Phil. Mag. Suppl. Jan. 1863.
+
+Yatoor bei Nellore, Ostindien.
+
+1852, Jan. 23, 4 1/2 Uhr Nachmittags.
+
+Durch die Detonation aufgeschreckt waren Mehre Augenzeugen des Falles. Ein Stückchen des Steins wurde sogleich mitgenommen, die Hauptmasse erst am folgenden Morgen ausgegraben. Er wog über 13 K. Der grösste Theil ist in Madras, kleine Bruchstücke in Wien und bei Greg.
+
+Die Rinde ist schwarz, der Stein weiss. Genaueres wurde noch nicht darüber bekannt.
+
+Literatur: Haidinger Wien. Akad. Ber. 44, 73.
+
+Mezö-Madaras (Weiler Fekete und Teich Istento), Siebenbürgen.
+
+1852, Sept. 4, zwischen 4 und 5 Uhr Nachmittags.
+
+Bei wolkenlosem Himmel und hellem Sonnenschein wurde an vielen Stellen eine von SW. nach NO. ziehende Feuerkugel wahrgenommen. Dann folgte ein eigenthümliches Getöse bis zur Stärke der heftigsten Erschütterungen. Viele mit Heumachen beschäftigte Arbeiter sahen darauf zahlreiche Steine fallen, doch suchten sie erst nach mehren Stunden nach denselben; einige wurden erst nach Wochen und Monaten gefunden. Sie zerstreuten sich auf einer Ellipse von SW. nach NO. Wenigstens ein Stein fiel in den Istentö; überhaupt scheint nicht 1/4 aller gefallenen Steine gefunden worden zu sein und sind wohl 50 K. gefallen. Der grösste wog fast 10 K.; erkam mitanderen nach Wien(12 K. 671,356). Ausserdem sind Steine und Bruchstücke in Berlin (2 K. 764), London (691 Gr.), Altenburg (150 Gr.), Gratz (143 Gr.), Copenhagen (129 Gr.), Göttingen (52,49 Gr.), Stockholm (34 Gr.), Upsala 17,4 Gr.), Heidelberg, Calcutta und in den Privatsammlungen von Auerbach in Moskau (299 Gr., 2 St.), Erzh. Stersan auf Schaumburg (245 Gr., ganz. St.), v. Reichenbach, Shepard (148 Gr.), Neumann in Prag (76 Gr.), Greg (50 Gr.), Ferber in Gera (41,5 Gr.}, v. Baumhauer in Amsterdam, Zeidler in Prag, Nevill in London.
+
+Specifisches Gewicht: 3,5 Knöpfler.
+
+Die Rinde ist schwarz, das Innere grau mit schmutzigweissen Flecken; auch sind viele weissliche und gelbe Metallpunkte deutlich sichtbar. Auf dem natürlichen Bruch erscheinen unzählige weissliche Kügelchen, die auf dem dunkelbraunen Grund weissgrau und kreisförmig scharf abgegrenzt sind. Sie erscheinen als eine Zusammensetzung von mannichfaltigen weissen, schwarzen, grünlichen und graulichen, metallischglänzenden und erdig matten Körperchen.
+
+Wöhler und Atkinson haben den Stein analysirt: Ein Hauptbestandtheil ist 18%, Eisen mit 1,45% Nickel und 0,05% Kobalt; auch Phosphor in Spuren wurde nachgewiesen. In noch mehr wechselnder Menge tritt Einfachschwefeleisen auf, das auch mit blossen Augen da und dort zu erkennen ist. 0,25% Graphit wird nach dem Auskochen des Steins mit Salzsäure in glänzenden Blättchen sichtbar. Die dunkle Grundmasse scheint aus durch Säure zersetzbaren Silikaten 1. zu bestehn, die darin sitzenden rundlichen Partien aber hauptsächlich aus unzersetzbaren 2.
+
+MgO. Al2O3. CaO. NaO. KO. SiO3. FeO. Graphit.  
+1\. 37,46. 5,08. 1,70. 3,44. 0,30. 51,84. -,-. -,-.  
+2\. 15,29. 1,85. 3,05. 1,91. 1,13. 60,70. 15,25. 0,82.
+
+Chromoxyd wurde nicht gewogen.
+
+Literatur: Partsch (Knöpfler) Wien. Akad. Ber. 11, 674. Wöhler ebd. 17, 284.
+
+Borküt an der schwarzen Theiss, Marmaroscher Comitat, Ungarn.
+
+1852, October 13, 3 Uhr Nachmittags.
+
+Während eines feinen Regens fiel nach heftiger Detonation ein Stein, der noch heiss aufgefunden wurde und etwa 6 K. wog. Er war in einige Stücke zerbrochen; das grösste wog etwas über 4 K. Dieses hat Major K. Pöschl in Raab erhalten. Ausserdem finden sich Bruchstücke in Wien (154,221 Gr.) und in v. Reichenbachs Sammlung.
+
+Specifisches Gewicht: 5,242 Leydolt.
+
+Der Stein hatte die Gestalt einer etwas verschobenen vierseitigen Pyramide, war aussen zum Theil schwarz und glänzend, zum Theil dunkelgrau ins Schwarze gehend, sehr dünn, mit vielen blasenartigen Vertiefungen.
+
+In der sehr feinkörnigen grauen, leicht zu zerbröckelnden Grundmasse sind runde oder ovale, selten unregelmässige Kugeln eingeschlossen, die sich leicht auslösen lassen; sie haben bis zu 1 Linie Durchmesser und eine mehr oder weniger rauhe Oberfläche; ihre Farbe ist olivengrün bis dunkelgrün und braun, ihre Härte meist = 6; die meisten sind ganz dicht, einige innen hohl. Ausser metallischem Eisen sind zweierlei metallische Körper darin enthalten: ein gelber, den Leydolt für Kupfer- oder Eisenkies hält, und ein tombakbrauner, wahrscheinlich Magnetkies. Diese Metallkörper finden sich auch in den Kugeleinschlüssen.
+
+Nach der Analyse von Nurisany lassen sich 18,26%, mit dem Magnete ausziehen 1. Von 100 Theilen des nicht magnetischen Theils werden 51,54%, mit Salzsäure zersetzt 2., 48,46%, nicht 3.
+
 ...
