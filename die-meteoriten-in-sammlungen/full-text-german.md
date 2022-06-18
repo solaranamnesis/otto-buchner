@@ -3357,4 +3357,157 @@ In der sehr feinkörnigen grauen, leicht zu zerbröckelnden Grundmasse sind rund
 
 Nach der Analyse von Nurisany lassen sich 18,26%, mit dem Magnete ausziehen 1. Von 100 Theilen des nicht magnetischen Theils werden 51,54%, mit Salzsäure zersetzt 2., 48,46%, nicht 3.
 
+Fe. Ni, Co. Cu, Sn. S. P. Sa.  
+1\. 85,14. 10,06. 0,40. 4,19. 0,18. 99,97.  
+
+SiO3. Al2O3. Fe. O.* Ni, Mn. CaO. MgO. KO. NaO. S. *  
+2\. 30,77. 2,62. 27,29. 4,05. 1,51. 1,02. 30,93. 0,43. 1,08. 0,30. -,-.
+
+SiO3. Al2O3. Fe. FeO. Ni, Mn. CaO. MgO. KO. NaO. S. *  
+3\. 56,37. 4,13. -,-. 11,89. -,-. -,-. 3,84. 17,39. 1,12. 3,66. -,-. 1,60.
+
+*) O aus dem Verlust bestimmt.
+
+*) Chromeisenstein.
+
+Leydolt berechnet daraus für 2. 0,82 Einfachschwefeleisen, 13,09 Nickeleisen und im Wesentlichen Olivin; für 3. ausser Chromeisen etwa 35%, Oligoklas und 65% Augit.
+
+Literatur: Leydolt Wien. Akad. Ber. 20, 398. (m. Abb.)
+
+Busti, Goruckpore, Ostindien.
+
+1852, December 2.
+
+Entweder ein neu bekannt gewordener Meteoritenfall oder eine Verwechselung mit einem anderen durch unrichtiges Datum. Er soll ein neues Mineral, ein Mehrfachschwefelcalcium enthalten, welches Oldhamit genannt wurde. Die Bestätigung ist abzuwarten. Ein Stück scheint in London zu sein.
+
+Gedruckt wurde dieses Falles noch nirgends Erwähnung gethan.
+
+Girgenti, Sicilien.
+
+1853, Febr. 10, 1 Uhr Nachmittags.
+
+Der Stein wog 3-4 K. Die Hauptmasse in der Grösse einer Mannsfaust ist im Besitz des Prof. Gemmellaro in Catania. Durch Greg, der auch ein Stückchen (9,2 Gr.) besitzt, wurde der Stein ausserhalb Sicilien bekannt. Andere kleine Bruchstücke sind in Wien (17,5 Gr.), London (7,02 Gr.), sowie bei v. Reichenbach, Shepard und Nevill.
+
+Es ist ein dichter, feinkörniger Stein, der sehr feine silberweisse Eisentheilchen enthält.
+
+Literatur: Gemmellaro soll in einem sicilischen wissenschaftlichen Journal den Stein beschrieben haben. Greg Phil. Mag. Suppl. Jan. 1863.
+
+Segowlee (auch Soojoulee), Bengalen, Ostindien.
+
+1853, März 6, Mittags.
+
+Das Niederfallen von Steinen wurde beobachtet, ohne dass durch ein Meteor oder besondere Detonationserscheinungen darauf aufmerksam gemacht worden wäre. Einige englische Meilen davon hatte man an verschiedenen Orten ein eigenthümliches rollendes, aber dem Donner ganz unähnliches Getöse gehört; der Himmel war dabei wolkenlos und die Sonne schien in vollem Glanze. Im Bereich 1 engl. [] Meile wurden nach und nach etwa 30 Steine gesammelt; die meisten wogen 1/3-2 K., einer über 7 K.; alle hatten eine ziemlich pyramidale Gestalt.
+
+Die meisten Steine sind in Calcutta (6 K. 173, der grösste 5 K. 436) und Wien (1 K. 150, der grösste 1 K. 032). Von dem Stein des brit. Museums in London ist es sehr zweifelhaft, ob er von dieser Localität stammt, jedenfalls stimmt sein Aussehen nicht mit Segowlee in Wien. Ausserdem besitzen noch Shepard und v. Reichenbach Bruchstücke.
+
+Specifisches Gewicht: 3,425 Haidinger.
+
+Die Rinde ist sehr dünn, dunkelröthlichbraun, grösstentheils matt, nur stellenweise auf ebnen Theilen und an abgerundeten Kanten dunkler und etwas glänzend. Das Innere kommt der Farbe nach Mainz sehr nahe, ist durch und durch braun, sehr fest, Härte etwa 6, und schliesst kugelige oder eckige, hellere und dunklere Theile von verschiedener Härte ein, sowıe feine Körnchen, selten grössere Körner von metallischem Eisen und Magnetkies. Dazu ist die Masse noch von zahlreichen Trennungen durchzogen, die mehr den Charakter von Ablösungen haben, welche fester zusammenhängende Theile wie Knoten umschliessen.
+
+Der Stein im britischen Museum, der von Segowlee sein soll, ist weiss und dem von Bishopville (1843) sehr ähnlich.
+
+Literatur: Haidinger Wien. Akad. Ber. 41, 1860, 754. Daselbst auch die Abbildung eines Steins mit Betrachtungen über die Richtung des Falles.
+
+Turuma (Duruma), Wanikaland, nach dem Münchener Katalog etwa zwei Tagreisen westlich von Mombas in Ostafrika.
+
+1853 (März 6 ?).
+
+In der Münchener Sammlung befindet sich ein Stück eines Steines von 577 Gr. mit schwarzer Rinde und auf der Bruchfläche graulich mit bräunlichen, rostfarbenen Flecken. Ein kleines Stückchen besitzt auch Gres. Dr. Barth von Calw, der den Stein nach München schenkte, gibt über denselben folgende Auskunft:
+
+Im Jahr 1853 schrieb mir einer meiner Gorrespondenten im Wanikaland in Ostafrika, unter 4° südl. Br., es sei im Turuam-Gebiet unter einem starken Donnerwetter ein Stein vom Himmel gefallen; Hirtenknaben, die in der Nähe weideten, hätten ihn fallen sehen und aufgehoben. Die Missionare hätten alsbald ihre Leute hingeschickt, damit sie den Stein sähen und wegen der Erwerbung desselben unterhandelten. Mittlerweile hatten die in der Nachbarschaft vorhandenen Wanikas den Stein, weil er ja vom Himmel gefallen, sogleich als einen Gott betrachtet, mit Oel gesalbet, bekleidet, mit Glasperlen verziert und einen schuppenartigen Tempel darüber gebaut, um ihn daselbst göttlich zu verehren. Nicht einmal sehen durften ihn die Abgesandten der Missionare. Ich gab unverzüglich meinem Gorrespondenten den Auftrag, er solle suchen, den Stein um jeden Preis an sich zu bringen und ihn mir schicken. Aber der Auftrag kam zu spät. Die Wanika’s waren natürlich entschlossen, diese Bätylie, die sie als ihren Schutzgott betrachteten, um keinen Preis aus den Händen zu lassen. Auch der Gouverneur von Mombas, an den sich die Missionare wandten, vermochte in dieser Hinsicht nichts über den Aberglauben des Volks. Die Aeltesten der Stadt Kaya, eine Tagreise von dem heiligen Platz, die über den Schutz des Heiligthums zu disponiren hatten, wollten von keinem Anerbieten etwas hören. Erst drei Jahre später, als das wilde Wandervolk der Masai über die Wanikas herfiel, ihre Dörfer ausplünderte und verbrannte, und eine Menge Wanikas ums Leben brachte, gestaltete sich die Sache günstiger, das Volk sah nun ein, dass der vermeintliche Gott sie im Stich gelassen habe und sein Schutz für sie werthlos geworden sei, und hörte nun mit mehr Geneigtheit auf die neuen Anerbietungen, welche die Missionare, eingedenk meines Auftrags, machten. Eine Hungersnoth kam auch dazu, um die Unterhandlungen zu erleichtern, und gegen eine schöne Anzahl von Maria-Theresien-Thalern verstunden sich endlich die Aeltesten dazu, ihr Heiligthum auszuliefern. Ein Mann wurde beauftragt, den Stein in Begleitung des Dieners der Missionare nach Mombas zu bringen, um dort die verabredete Geldsumme in Empfang zu nehmen. Die Entfernung war ziemlich weit. Unterwegs blieb der Mann in einem Dorfe über Nacht, dessen Einwohner ihn überredeten, es sei gefährlich, den Stein in die Hände der Lehrer zu geben, und er liess sich bewegen, und brachte den Gott in den Tempel zurück. Der Diener der Missionare, dem eine Belohnung verheissen war, wenn er seinen Auftrag nach Wunsch vollzöge, gieng abermals nach Turuma, und es gelang ihm, die Auslieferung zum zweiten Mal zu bewerkstelligen und das Gewächs des Himmels in die Hand des Missionars zu bringen, der es mit der nächsten sichern Gelegenheit mir zusandte. Die Bestandtheile des Steines sind nach der chemischen Analyse von Kurr Eisen, Nickel, Kalk, Thonerde, Kieselsäure, Magnesia, Eisenoxyd und Wasser, welche bilden: Olivin, Kalkfeldspath, Eisenoxydhydrat und Nickeleisen.
+
+Das Datum 1853 März 6 im Münchener Katalog stimmt genau mit dem von Segowlee (p. 85) überein; scheint aber nur irrthümlich eine Verwechslung mit diesem indischen Falle zu sein. Es wäre wichtig, wenn wirklich eine Uebereinstimmung der beiden Daten nachgewiesen werden könnte, weil Segowlee und Turuma sich vollkommen ähnlich sind.
+
+Literatur: Greg Phil. Mag. Suppl. Jan. 1863. In den Abhandl. der Münchener Akademie soll etwas über diesen Stein stehn, doch war trotz vielseitigen Nachsuchens nichts zu finden.
+
+Linum bei Fehrbellin, Provinz Brandenburg, Preussen.
+
+1854, Sept. 5, kurz vor 8 Uhr Morgens.
+
+Bei klarer Luft, stillem Wetter und wolkenlosem Himmel wurde unter heftiger Detonation der Fall eines Steines beobachtet, der vier Fuss tief in den Moorgrund in schiefer Richtung von SW. nach NO. einschlug und 1 K. 730 wog. Er ist jetzt in Berlin. Andere Sammlungen scheinen gar nichts davon zu besitzen. Der Stein hat die Gestalt einer an Kanten und Ecken ganz abgerundeten unregelmässigen schief dreiseitigen Pyramide, deren eine Seite etwas bauchig ist.
+
+Die Rinde ist schwarz, matt, etwas rauh, schwach aufgerissen und ziemlich dick; die Innenmasse ist graulichweiss, feinkörnig mit meist feinen Körnchen von Eisen; das Ganze ist ähnlich den Steinen von Gütersloh (p. 80) und Mauerkirchen (p. 8).
+
+Literatur: G. Rose Poggend. Ann. 94, 169.
+
+Insel Oesel, Gesinde Kaande, 1 M. von Piddul, deutsch-russische Provinz Livland, Russland.
+
+1855 (Apr. 29. a. St.), Mai 11 n. St., zwischen 3 und 4 Uhr Nachmittags.
+
+Der Steinfall erfolgte nach einer Detonation. Näch Göbel wogen die Bruchstücke 6 K., doch sollen mehre Steine gefallen sein, darunter einer von 28 K. Das grösste Bruchstück von 3 1/2 K. besitzt Graf Perowski in St. Petersburg; ausserdem finden sich Stücke in Dorpat (396,4 Gr.), Berlin (21,658 Gr.), Wien (20,781 Gr.), Göttingen (14 Gr.), London (8,7 Gr.) und in den Privatsammhıngen von v. Reichenbach und Greg (10,3 Gr.).
+
+Specifisches Gewicht: 3,668 Göbel.
+
+Die Rinde ist 1/2-3/4mm dick, rein schwarz und schliesst Eisenkörnchen ein.
+
+Die Grundmasse ist meist heller, stellenweise dunkler blaugrau, an den helleren Stellen ziemlich fest und hart, an den dunkleren etwas bröckelig. Auf frischem Bruch erkennt man mit der Lupe viele silberweisse Körnchen von Nickeleisen, glänzende gelbe von Schwefeleisen, dann schwarze und blauschwarze, die Göbel für Gemenge von Schwefel- und Chromeisen und vielleicht Augit hält. Die kugeligen Einschlüsse sind dichter, härter und feinkörniger als die Grundmasse. Wird der magnetische Theil entfernt, so bleibt ein durch HCl zersetzbares Silikat und mindestens 2 nicht zersetzbare (Labrador und Hornblende oder Oligoklas und Augit).
+
+Analyse von Göbel:
+
+Magetischer Theil. 13,07%.  
+Nickeleisen|12,75.  
+Schwefeleisen|0,25.  
+Chromeisen (unlöslich)|0,04.  
+Chromeisen (löslich)|0,01.  
+Phosphoreisen u. Zinn|0,01.
+
+Nicht magnetischer Theil.
+
+in HCl zersetzbar. 48,86%.  
+Olivin|41,13.  
+Schwefeleisen|5,59.  
+Chromeisen|0,11.  
+Phosphoreisen|0,03.
+
+nicht zersetzbar. 40,08%.  
+Labrador u. Hornbl. od. Oligokl. u. Aug.|38,88.  
+Chromeisen (unlöslich)|0,04.  
+Chromeisen (löslich)|0,57.  
+Phosphoreisen|0,23.  
+
+Literatur: Göbel Poggend. Ann. 99, 642.
+
+Bremervörde, bei dem Dorf Gnarrenburg, Landdrostei Stade, Königreich Hannover.
+
+1855, Mai 13, gegen 5 Uhr Nachmittags.
+
+Bei sehr bewölktem Himmel wurde eine Detonation gehört, aber keine Feuerkugel gesehen. Der Fall eines Steins wurde beobachtet und deren 5, vielleicht mehr gefunden. Der grösste, fast unversehrte ist in Göttingen (2755 Gr.), wo noch 2 Stücke (1309 und 90 Gr.) sind. Ausserdem besitzen: Clausthal (Bergschule, 1048 Gr.), Wien (2 St., 347,814 Gr.), Berlin (60,309 Gr.), London (45,95 Gr.), Stockholm (13,5 Gr.) und die Privatsammlungen von Krantz inBonn, der einen Stein von 2 1/2 K. zum Verkauf zerschlug, Ferber (Gera 130 Gr.), v. Reichenbach (Wien), Greg (Manchester 130 Gr.), Shepard (N.-Haven), Neumann (Prag, 2 St., 14 Gr.), de Luynes (Dampierre, 8 Gr.), Auerbach (11 Gr.).
+
+Specifisches Gewicht: 3,5212-3,5495 Hausmann.
+
+Die Rinde ist pechschwarz, etwas nach braun sich neigend, sehr dünn, theils matt, theils wachsartig schimmernd.
+
+Die Grundmasse ist undeutlich feinkörnig, eine Verbindung von dunkleren und helleren Körpern, im Ganzen perlgrau mit weisslicher Sprenkelung. Häufig ist ein graulich-, gelblich- oder grünlichweisses Mineral von versteckt blättrigem Gefüge in grösseren oder kleineren Massen eingeschlossen, theils matt, theils schwach schimmernd und in dünnen Splittern durchscheinend;; es hat die Härte des Apatit und tritt am häufigsten in abgerundeten Partien auf von kaum messbarer Grösse bis zu einigen Linien Durchmesser; manchmal zeigen sich auch deutliche, aber nicht bestimmbare Krystalle. Mit der Lupe erkennt man andere feine Körper darin eingesprengt. In den grüsseren gerundeten Partien ist nicht selten ein dunklerer Kern von grauer Farbe. Selten sind kleine Körner von Olivin. Kleine schwärzliche Kügelchen lassen sich vollkommen glatt auslösen; bei Vergrösserung erscheinen sie feinsplitterig, matt dunkelgrau und nur an den dünnsten Kanten durchscheinend; sie wirken nicht auf den Magnet. Das Eisen ist nickelhaltig und in kleinen Partien überall, selbst in dem weisslichen Mineral eingesprengt. In kleinen Punkten, selten grösser, tritt auch Schwefeleisen mit der Farbe von Magnetkies auf. Endlich findet sich Graphit in kleinen glänzenden Blättchen und schwarze Körnchen von Chromeisen.
+
+Analyse von Wöhler:
+
+Fe. Ni. SiO3. MgO. FeO. Al2O3. NaO. KO. X. C.  
+21,61. 1,89. 45,40. 22,40. 4,36. 2,34. 1,18. 0,37. 0,31. 0,14.
+
+X. = Chromeisen. C. = Graphit.
+
+und Spuren von Co, P, S, CaO und MnO.
+
+Literatur: Wönter Poggend. Ann. 96, 626. Hausuann ebd. 98, 609.
+
+St. Denis Westrem, 1 Stunde von Gent, Ostflandern, Belgien.
+
+1855, Juni 7, 7 3/4, Uhr Abends.
+
+Der Himmel war bewölkt; weder Feuerkugel noch Detonation sind bemerkt worden. Die zwei Leute, die den Stein fallen sahen und noch heiss 1/2 Meter tief ausgruben, hörten vorher nur ein Gerassel wie von Wagen. Der Stein hatte die Gestalt eines wahren Bruchstücks, war bis auf eine flachere Stelle abgerundet und wog 750 Gr.
+
+Die grössere Hälfte besitzt die Sammlung der Universität in Gent, die kleinere Wien (329,22 Gr.). Göttingen (50,75 Gr.) und v. Reichenbach besitzen Bruchstücke.
+
+Specifisches Gewicht: 3,293 Duprez.
+
+Der grösste Theil der Rinde ist hart, schwarzbraun, eben und gleichmässig abgerundet, nur die flachere Stelle ist höchst uneben. Das Innere ist weissgrau, braunfleckig, sehr porös, körnig und zerreiblich; Eisen und Magnetkies sind fein eingesprengt. Kleine kugelige etwas krystallinische Einschlüsse hinterlassen beim Herausfallen aus der mürben Masse einen Eindruck.
+
+Literatur: Duprez Poggend. Ann. 99, 63. Haidinger Wien. Akad. Ber. 42, 1860, 9.
+
+Petersburg, 15 engl. Meilen von Fayetteville, Lincoln County, Tennessee, Nord-Amerika.
+
+1855, August 5, 3 1/2 Uhr Nachmittags.
+
+Während eines heftigen Regens oder kurz nach demselben fiel vor Augenzeugen ein einzelner Stein von unregelmässig schief rhomboedrischer Form, der noch heiss ausgegraben wurde und etwa 1 1/2 K. wog.
+
 ...
