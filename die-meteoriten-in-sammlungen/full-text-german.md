@@ -3508,6 +3508,240 @@ Petersburg, 15 engl. Meilen von Fayetteville, Lincoln County, Tennessee, Nord-Am
 
 1855, August 5, 3 1/2 Uhr Nachmittags.
 
-Während eines heftigen Regens oder kurz nach demselben fiel vor Augenzeugen ein einzelner Stein von unregelmässig schief rhomboedrischer Form, der noch heiss ausgegraben wurde und etwa 1 1/2 K. wog.
+Während eines heftigen Regens oder kurz nach demselben fiel vor Augenzeugen ein einzelner Stein von unregelmässig schief rhomboedrischer Form, der noch heiss ausgegraben wurde und etwa 1 1/2 K. wog. Drei Seiten waren rauh, mit Höhlungen und Vertiefungen bedeckt, die anderen Seiten waren mehr abgerundet. Er wirkt auf die Magnetnadel. Shepard Scheint die Hauptmasse zu besitzen (fast 1 K.); ausserdem sind Bruchstücke in Berlin (75,303 Gr.), London (67,4 Gr.), Wien (26,25 Gr.) und den Privatsammlungen von L. Smith in Louisville, Greg (10 Gr.), v. Reichenbach und Auerbach (6 Gr.).
+
+Specifisches Gewicht: 3,20-3,28.
+
+Die Rinde ist pechartig glänzend, schwarz und dünn, das Innere asch- bis perlgrau, mit weissen, gelblichen und dunkeln Flecken.
+
+- Nach der Analyse von J. L. Smıtn besteht der Stein aus:
+
+SiO3. Al2O3. FeO. CaO. MgO. MnO. Fe. Ni, P. S. NaO. Sa.  
+49,21. 11,05. 20,41. 9,01. 8,13. 0,04. 0,50. Sp. 0,06. 0,83. 99,23.
+
+Doch wird diese Analyse sehr verschieden gedeutet; Smith unterschied in der Masse Augit als vorherrschenden Bestandtheil, dann Olivin, Orthoklas, Nickeleisen (etwa 1/2%) und ein schwarzes, glänzendes, noch nicht untersuchtes Mineral. Shepard dagegen schliesst aus seinen Untersuchungen, man könne den Stein als zusammengesetzt annehmen aus
+
+82 Anorthit,  
+9 Chladnit,  
+5 Olivin,  
+1 Anusgit,  
+2,5 nickelhaltiges Eisen,  
+0,5 Chrom- und Schwefeleisen.
+
+v. Reichenbach bestätigt das Auftreten gediegenen Schwefels in diesem Stein.
+
+Literatur: Smith u. Shepard Sillim. Amer. Journ. (2) 24, 134. (2) 31, 264. v. Reichenbach Pogg. Ann. 115, 620.
+
+Nahe bei dem Dorf Trenzano, 8 ital. Meil. südwestl. von Brescia, Italien.
+
+1856, November 12, 4 Uhr Nachmittags.
+
+Es wurde kein Feuermeteor beobachtet, aber eine heftige Detonation mit darauf folgendem Getöse gehört. Dabei fielen drei ansehnliche Steine während eines gelinden Regens; aus welcher Richtung sie kamen, wurde nicht beobachtet; doch fielen sie unter einem Winkel von 45° nieder. Nur zwei der Steine wurden gefunden. Der grösste wog ursprünglich wohl 8 K., schlug etwa 1 Meter tief in die Erde und wurde noch warm gefunden; doch wurde er sogleich von den Findern beschädigt, auch waren beim Zerbersten Stücke ins Feld geschleudert worden und verloren gegangen.
+
+Zwei grosse Stücke besitzt A. Venturi in Brescia; kleinere sind besonders in Wien (80,939 Gr.), London (73,06 Gr.), sowie bei v. Reichenbach, Greg und Shepard.
+
+Speeifisches Gewicht: 3,81 Curioni.
+
+Die Oberfläche ist wellig und mit einer schwarzen, 1-2mm dicken Rinde bedeckt; mit der Lupe erkennt man darin kleine weisse Körnchen. Das Innere besteht hauptsächlich aus dunkelgrauen unregelmässigen bis vollkommen kugeligen Körnchen in einer heller grauen Grundmasse.. Nur sehr selten sind diese Kügelchen auszulösen; das grösste hatte 2mm Durchmesser. Besonders beim Zerreiben mit den Fingern bemerkt man das Eisen in sehr kleinen Körnchen, sowie Magnetkies. Kleine weissliche Körnchen hält Curioni für eine Art Feldspath. Eine kohlige Substanz fand er bei der Analyse. Das Ergebniss derselben war:
+
+Magnetischer Theil: 22,78%, = { Fe. 91,60. | Ni. 8,40.
+
+Nicht magnetischer Theil: 77,22%.
+
+FeS. SiO2. Al2O3. FeO. CaO. MgO. NaO. KO.  
+6,42. 41,80. 3,00. 20,12. 2,35. 21,30. 2,38. 1,98.
+
+sowie Spuren von Kupfer und Kohle.
+
+Danach besteht der Stein ohne Rinde aus:
+
+Nickeleisen, Schwefeleisen und Eisen-Magnesia-Silikat.  
+22,78. 4,96. 71,88.
+
+Nach Haidinger hat der Stein grosse Aehnlichkeit mit Quenggouk (1857), nach Curioni mit Juvenas (1824).
+
+Literatur: Curioni Atti Instit. Lomb. di Scienze. Milano 1860, I. Haidinger Wien. Akad. Ber. 41, 1860, 568.
+
+Parnallee, 16 engl. Meilen von Madura, Ostindien.
+
+1857, Febr. 28, um die Mittagszeit.
+
+Unter heftiger, bis auf 40 engl. Meil. Entfernung hörbarer Detonation fielen zwei Steine, der grössere von 61 K. wenige Secunden vor dem kleineren, der fast 17 K. wog und 2-3 Meil. südlich vom ersten fiel. Beide Fälle wurden von Zeugen beobachtet. Ersterer ist grösstentheils in London (58 K. 890), letzterer kam an das WesternReserveCollege inHudson, von woviele Stücke abgetauscht wurden. Solche finden sich ausser in indischen Sammlungen (Calcutta, Rourkee, Amritsir, Lahore etc.) besonders in Wien (741,574 Gr.), Washington, Berlin, Göttingen, Turin und den Privatsammlungen von Greg (80 Gr.), v. Reichenbach und Shepard.
+
+Specifisches Gewicht:  
+3,421-3,464 Cassels,  
+3,3 Taylor,  
+3,175 Haidinger,  
+4,520 Einschluss von Schwefeleisen, Haidinger.
+
+Der Steinist sehr ähnlich Bremervörde (p. 88). Die Oberfläche zeigt die rundlichen Vertiefungen, aber einzelne derselben haben nur 1/2, ja nur 1/4 Zoll im Durchmesser und sind ziemlich steil vertieft. Die sehr dünne Rinde ist bräunlichschwarz, nur wenig glänzend, fast matt.
+
+In der grau und braun gefleckten Grundmasse bemerkt man zahlreiche hellgraue, zum Theil weissliche, grösstentheils runde Einschlüsse; unter der Lupe tritt aber erst die Mengung aus ungleichartigen Theilchen besonders auf polirten Flächen bis ins Kleinste hervor. Geschiebeartig liegen weisslichgraue bis 1/4 Zoll grosse Einschlüsse neben eckigen dichten schwarzen, glanzlosen von ähnlicher Grösse, und dann zeigen sich wieder metallische dichte oder ganz feinkörnige mehr eckige Massen eines Eisenkieses in dem Gemenge, die nicht auf die Magnetnadel einwirken. Auch feine Theilchen von metallischem Eisen sind vorhanden, aber in wenig beträchtlicher Menge. Zu den merkwürdigsten Gemengtheilen gehören aber hellere und dunklere, gelbe und braune, oft innen gelbe und aussen dunkelbraune, stark abgerundete Einschlüsse, welche von glänzenden metallischen Ringen auf den polirten Flächen eingefasst erscheinen. Diese Einfassung besteht aus der eisenkiesartigen gelben Metallmasse; Eisen tritt nur in Spuren in der Ueberrindung auf, findet sich aber auch in kleinen Theilchen in den grösserenMassen vonSchwefeleisen. Diese mannichfaltigen Bestandtheile geben dem Stein ein marmorirtes Aussehen. Cassels will deutliche Krystalle von Nickeleisen gefunden haben. Die Farbe des Pulvers ist olivengrün. Scott fand bei der qualitativen Analyse Eisen, Nickel, Spuren von Kobalt und Chrom, Schwefel, Kieselsäure, Thonerde, Eisenoxyd, Magnesia und Kalk. Nach Cassels liessen sich 21,151% mit dem Magnet ausziehen. Die Analyse ergab Kieselsäure, Kalk, Natron, Kali, Eisenoxyd, Schwefeleisen, Chromoxyd, Manganoxydul, Eisen, Nickel, Kobalt, Kupfer, Schwefel und Phosphor (keine Magnesia?!). Bunsen wies darin zuerst Lithion spectralanalytisch nach.
+
+Literatur: Cassels Sillim. Amer. Journ. (2) 32, 401. Haidinger Wien. Akad. Ber. 43, Feb. 7. 44, Juli 4.
+
+Stauropol, auf der Nordseite des Kaukasus, Russland.
+
+1857, März 24, 5 Uhr Nachmittags.
+
+Der Augenzeuge des Ereignisses nahm auch den Stein auf. Er hatte eine unregelmässige, flach trapezoidische Gestalt mit abgerundeten Ecken und Kanten und wog 1 K 632. Seine eine Hälfte ist jetzt in der Sammlung der Akademie zu Petersburg. Ein kleines Stück ist in Berlin (16,16 Gr.) und in v. Reichenbachs Sammlung.
+
+Specifisches Gewicht: 3,479-3,708; und ohne die metallischen  
+Theile 3,22-3,39.  
+Die metallischen Theile 5,206 Abich.
+
+Die Oberfläche ist theils glatt, theils rauh, firnissartig glänzend, und treten darauf zahlreiche, grösstentheils kleinkörnige stahlgraue glänzende Bestandtheile hervor; sie haben einen Durchmesser von 1/2-2mm und eine Höhe von 1/2-3/4mm. In der Innenmasse, die etwas härter als die Rinde ist, sind derartige Metalltheilchen häufig, seltner aber grösser als bis zu 5mm Durchmesser und von unregelmässiger Gestalt. Die Grundmasse enthält feinere und gröbere, mehr rundliche als eckige Bestandtheile in meist dunklen Farben. Der Bruch ist grobsplitterig, zum Theil selbst porphyrartig. Es lassen sich deutliche 1-2mm lange Krystalle von lauchgrünem Olivin abscheiden. Auch grünlich grauer Labrador tritt in Krystallen von 2-3mm, selbst von 8mm und einer selbst von 14mm Durchmesser auf; diese Krystalle setzen sich weniger scharf von der Grundmasse ab und sind von einem fremdartigen Aggregat rindenförmig umgeben. Eine dritte Mineralspecies tritt in kleinen weissgelben, schwachglänzenden Krystallfragmenten und in fein eingesprengten Krystallnadeln auf.
+
+Nach der Analyse von Abich besteht der in Salzsäure
+
+1\. lösliche Theil (ohne die Metalltheile) aus:  
+Kieselsäure|31,32.  
+Magnesia|34,43.  
+Eisenoxydul (Ni-haltig)|27,95.  
+Eisen|4,37.  
+Nickeloxydul (Cu-haltig)|0,35.  
+Kali|0,50.  
+Natron|0,50.  
+Schwefel|0,64.  
+Zinnoxyd|Spur.
+
+2\. unlösliche Theil aus:
+Kieselsäure|47,44.  
+Magnesia|21,33.  
+Eisenoxydul|10,72.  
+Thonerde|9,97.  
+Nickeloxydul|1,21.  
+Kali|3,17.  
+Kalk|5,10.  
+Verlust|1,08.
+
+Abich berechnet daraus folgende Bestandtheile:
+1\. Hyalosideritt 45,65  
+2\. Chrysolith  23,04  
+3\. Labrador 18,13  
+4\. Schwefeleisen 2,95  
+5\. Nickeleisen 10,25  
+100,00.
+
+Doch kann diese Deutung nicht ganz richtig sein, da diese Mineralien in concentrirter Salzsäure löslich sind.
+
+Literatur: Abich Bull. Acad. Petersb. II, 439.
+
+Nördlich von Heredia, etwa 5 Meil. von San Jose, Costa Rica, Central-Amerika.
+
+1857, April 1.
+
+Eine Feuerkugel bewegte sich rasch durch die Luft und detonirte heftig. Mehre Steine von beträchtlicher Grösse wurden gefunden. Das grösste Bruchstück mit Rirtde, etwa die Hälfte eines ganzen Steines, ist in Göttingen und wiegt 475 Gr. Kleine Stücke sind in Wien (14,062) und in den Privatsammlungen von v. Reichenbach und Greg (1 Gr.).
+
+Der Stein ist bedeckt mit einer dünnen schwarzen Rinde, welche sich von der Innenmasse nicht unterscheidet; diese ist grau, und scheint viel Graphit in flachen dünnen Blättchen zu enthalten. Sie ist sehr fest und enthält glänzende Kügelchen von metallischem Eisen.
+
+Domeyko hat den Stein analysirt.
+
+|1.|2.|Durchschnitt.
+A. Durch den Magnet ausgezogen|24,8.|27,4.|26,1.  
+B. Nicht magnetisch|75,2.|72,6.|73,9.
+
+A. Das Magnetische
+
+Fe. 94,2.  
+Ni mit ziemlich viel Co. 5,7.
+
+sowie 0,0076 (0,007-0,008) Schwefel, entsprechend 0,0012 FeS.
+
+B. Das Nichtmagnetische.
+
+a. durch HCl aufschliessbar:  
+SiO3|33,6.  
+FeO|30,9.  
+MgO|35,1.  
+CaO|0,1.  
+99,7.
+
+mit etwas Nickel und Manganoxyd.
+
+b. nicht aufschliessbar:  
+SiO3|56,7.  
+Al2O3|3,5.  
+FeO|14,5.  
+NaO|2,3.  
+KO|0,1.  
+CaO|3,2.  
+MgO|19,6.  
+99,9.
+
+dazu noch 0,13 Chromeisen.
+
+Domeyko findet a) dem Hyalosiderit nahe stehend, für b) berechnet er 18%, Oligoklas und 81,9%, Augit, so dass der ganze Stein bestehn würde aus:
+
+Nickelhaltigem Eisen 26,1  
+Olivin 38,1  
+Oligoklas 6,4  
+Augit 29,4
+
+wozu noch Magnetkies und eine Phosphorverbindung, ferner Chromeisenstein nicht über 0,002 des Ganzen kommen.
+
+Die Analyse stimmt nahe mit den von Blansko (p. 56) und Chateau-Renard (p. 66).
+
+Literatur: Harris Dissertat. on Meteorites. p. 99. Domeyko Annales de la Univ. de Chile 1859, 325. v. Reichenbach führt in seinem Verzeichniss noch Costa Rica als zweite, besondere Localität auf, doch ist über dieselbe nichts bekannt.
+
+Kaba, südwestlich von Debreczin, Ungarn.
+
+1857, April 15, zwischen 10 und 11 Uhr Abends.
+
+Es wurde bei heitrem Himmel eine Feuerkugel gesehen und eine starke Detonation sehr verschieden von dem Donner gehört. Erst am folgenden Morgen fand sich der Stein in die harte Strasse so tief eingekeilt, dass die Oberfläche des Steines mit der des Bodens gleich lag. Erst am Abend wurde er ausgegraben. Er war noch unverletzt und wog fast 4 K. Doch wurden einige Stücke abgeschlagen, so dass er jetzt, wie er im Museum des reformirten Collegiums zu Debreczin ist, 2 K. 940 wiegt. Kleine Bruchstücke sind in Wien (39,375 Gr.), Göttingen (3 Gr.) und den Privatsammlungen von v. Reichenbach und Greg.
+
+Der Meteorit hat eine obere gewölbte, fast konische und eine untere jochförmige Oberfläche, bei welcher der eine Abfall steiler ist, als der andere. Die Rinde der convexen Oberfläche ist bräunlich schwarz, glanzlos, und von der konischen Spitze als Mittelpunkt laufen strahlenförmig gegen die Seitenflächen und Seitenkanten schlängelnde, aber nicht continuirliche Furchen und Erhabenheiten. Auf der unteren Fläche dagegen ist die Rinde in der mittleren Gegend feinkörnig durch die überdeckten grösseren und kleineren Kügelchen der inneren Masse; sonst ist sie reinschwarz, matt, glanzlos, nur anzweiStellen porös undsschlackig, hie und da verglast und an einer Stelle mit deutlichem Pechglanz.
+
+In der dunkelgrauen diehten Innenmasse sieht man sehr zahlreiche kleinere und grössere konische Punkte und Flecken, deren einige sogar bohnengross sind, wodurch die Masse ein porphyrartiges Aussehen bekommt. Endlich befinden sich in der Grundmasse unzählige kleinere und grössere hirse- bis pfefferkorngrosse schwarze Kügelchen, einige concentrisch-schalig, die sich aus der Grundmasse ziemlich leicht auslösen lassen, wo dann ein entsprechend rundes Grübchen bleibt. Aus ihrem Pulver lassen sich mit dem Magnet sehr kleine Theilchen von Eisen ausziehen, doch sieht man darin keine glänzenden Metallkörner; letztere bemerkt man überhaupt im Inneren viel weniger, als auf der convexen Oberfläche. Die Kügelchen zeigen unter dem Mikroskop im Inneren einen hohlen Raum und bestehn aus einem farblosen, sehr krystallinischen und einem schwarzen Mineral.
+
+Nach der Analyse von Wöhler besteht der erdige dunkelgraue Theil des Steines aus:
+
+Kohle|0,58.  
+Eisen|2,88.  
+Nickel|1,37.  
+Kupfer|0,01.  
+Chromeisenstein|0,89.  
+Magnetkies (FeS)|3,55.  
+Eisenoxydul|26,20.  
+Magnesia|22,39.  
+Thonerde|5,38.  
+Kalk|0,66.  
+Kali (und Natron?)|0,30.  
+Manganoxydul|0,05.  
+Kieselsäure|34,24.  
+Kobalt, Phosphor und unbekannte Materie|in unbestimmb. Menge.  
+98,50.
+
+Obgleich Wöhler in der unbekannten Materie nach ihrem Verhalten sogleich eine organische Verbindung, einen Kohlenwasserstoff vermuthete, so wies er später doch noch genauer nach, dass der Stein neben freier Kohle allerdings eine den sog. Bergwachsarten, dem Ozokerit, Scheererit etc. ähnliche Verbindung enthalte, die in Weingeist löslich ist, durch Aether in einen flüssigen und einen löslichen festen Körper zerlegt wird, der deutlich krystallisirt. Doch war die untersuchte Steinmasse zu klein, um Genaueres über diese merkwürdige Substanz ermitteln zu können.
+
+Literatur: Hörnes Wien. Akad. Ber. 31, 347. Wöhler ebd. 33, 205. 34, 7. Török Poggend. Ann. 105, 329 gibt die Grundmasse wohl durch einen Druckfehler als dunkelgrün statt dunkelggau an.
+
+Pilot Grove, Independence County, Iowa, Nord-Amerika.
+
+1857, im Sommer (August ?).
+
+Der Stein soll in der Akademie der Wissenschaften zu Chicago gezeigt worden sein. Genaueres ist über denselben bis jetzt nicht bekannt geworden.
+
+Literatur: Shepard Sillim. Amer. Journ. (2) 30, 208.
+
+Gemeinde des Ormes, Arondissement Joigny, Canton Aillant-sur Tholon, Dep. Yonne, Frankreich.
+
+1857, Oct. 1, 4 3/4 Uhr Abends.
+
+Der Steinfall selbst wurde von einem Maurer beobachtet, der gerade auf einem Gerüst stand. Der Stein fiel unter heftiger Detonation nahe bei ihm. Das Gewicht des Steins wird nicht angegeben. Wahrscheinlich fielen noch weitere. Ein Bruchstück von 125 Gr., schwärzlich innen, graulich aussen, kam am 2. Nov. 1857 an das Instit. de France zu Paris und dieses ernannte eine Commission zur Untersuchung und Analyse des Steines. Seitdem hat man nichts mehr davon gehört. - Keine französische Sammlung besitzt ein Bruchstück; im brit. Museum sind 15,79 Gr. davon im Katalog aufgeführt; es scheint aber, dass die Localität mindestens zweifelhaft ist.
+
+Literatur: Instit. 1857, 363.
+
+Ohaba, Blasendorfer Bezirk, Siebenbürgen.
+
+1857, October 10/11 Nachts.
+
+Es wurde am heitren Nachthimmel eine feurige Masse beobachtet; alsdann fiel unter heftiger Betonation ein Stein nieder, der auch am darauf folgenden Morgen gefunden wurde. Er hat die Gestalt einer unregelmässigen dreiseitigen Pyramide; 2 Seiten sind glatt, die dritte und die Basis zeigen die charakteristischen Vertiefungen. Er wog ursprünglich 16 K. 240. Das grösste Stück ist jetzt in Wien (16 K. 030,343, mit 2 kleinen 16 K. 082,83). Ausserdem scheinen nyr Bruchstücke zu sein in Göttingen (11,795 Gr.) und hei Greg (2,2 Gr.) und Shepard.
+
+Specifisches Gewicht: 3,1103 Grailich (Mittel aus 4 Bestimmungen).
+
+Die Rinde ist schwarz, dünn und matt, die Innenmasse grau mit undeutlichen dunkelgrauen Einschlüssen und höchst spärlich auftretenden Olivinkörnern. Eisen ist reichlich fein und grob, Magnetkies sehr fein eingesprengt. Unter der Lupe ist der Stein sehr ähnlich Chateau-Renard (p. 66).
+
+Nach der Analyse von Bukeisen unter Wöhlers Leitung besteht der Stein aus:
 
 ...
