@@ -3286,27 +3286,27 @@ Die Rinde ist schwärzlich, das Innere blaulichgrau, körnig, mit kleinen glänz
 
 Nach der Analyse von Balcells besteht die Masse aus:
 
-1\. Magnet. Theil: 24,72%.
-Eisen|22,50.
-Nickel|1,43.
+1\. Magnet. Theil: 24,72%.  
+Eisen|22,50.  
+Nickel|1,43.  
 Unlöslich|0,97.
 
 2\. Nicht magnetisch.
 
-a\. In Säuren zersetzt: 28,77%.
-Kieselsäure|10,00.
-Magnesia|9,67.
-Eisenoxydul|6,45.
-Thonerde|0,31.
-Einfachschwefeleisen|2,34.
+a\. In Säuren zersetzt: 28,77%.  
+Kieselsäure|10,00.  
+Magnesia|9,67.  
+Eisenoxydul|6,45.  
+Thonerde|0,31.  
+Einfachschwefeleisen|2,34.  
 }3RO,SiO3.
 
-b\. Unzersetzbar: 44,72%.
-Kieselsäure|26,43.
-Magnesia|9,80.
-Eisenoxydul|7,10.
-Thonerde|0,53.
-Chromeisen|0,59.
+b\. Unzersetzbar: 44,72%.  
+Kieselsäure|26,43.  
+Magnesia|9,80.  
+Eisenoxydul|7,10.  
+Thonerde|0,53.  
+Chromeisen|0,59.  
 }3RO,2SiO3.
 
 Balcells will auch Spuren von Arsen gefunden haben.
