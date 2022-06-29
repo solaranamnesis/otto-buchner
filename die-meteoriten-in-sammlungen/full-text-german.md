@@ -3799,7 +3799,7 @@ SiO3. MgO. FeO. Ni. CaO. S. Al2O3. NaO, KO.
 Fe. Ni. Co. P. Cu. Chromeisen.  
 82,95. 14,41. 1,08. 0,12. 0,12. 0,76.
 
-1. ist Olivin, 2. könnte Wollastonit und Anorthit sein, wenn diese nicht leicht durch Salzsäure zersetzbar wären.
+1\. ist Olivin, 2. könnte Wollastonit und Anorthit sein, wenn diese nicht leicht durch Salzsäure zersetzbar wären.
 
 Literatur: Haidinger Wien. Akad. Ber. 34, 11. Wöhler ebd. 34, 8. Dabei auch 2 gute Abbildungen des Steines.
 
