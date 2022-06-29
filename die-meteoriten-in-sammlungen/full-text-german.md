@@ -3744,4 +3744,76 @@ Die Rinde ist schwarz, dünn und matt, die Innenmasse grau mit undeutlichen dunk
 
 Nach der Analyse von Bukeisen unter Wöhlers Leitung besteht der Stein aus:
 
+Fe. Ni. FeS. SiO3. MgO. FeO. MnO. Al2O3. KO, NaO. CaO. X.  
+21,40. 1,80. 13,14. 36,60. 23,45. 1,75. 0,15. 0,28. 0,98. Sp. 0,56.
+
+X. = Chromeisen.
+
+Er leitet daraus ab die Zusammensetzung des durch Salzsäure zersetzbaren 1. und unzersetzbaren Theils:
+
+SiO3. MgO. KO. NaO. MnO. FeO. Al2O3.  
+1\. 43. 57. -,-. -,-. -,-. -,-. -,-.  
+2\. 64,10. 29,08. 1,09. 1,09. 0,33. 3,90. 0,62.
+
+und berechnet daraus die Zusammensetzung aus
+
+unlöslichem Silikat {Augit,Feldspath,}|44,83  
+löslichem Silikat (Olivin)|18,27  
+nickelhaltigem Eisen|23,76  
+und Schwefeleisen|13,14
+
+Literatur: Hörnes Wien. Akad. Ber. 31, 79.
+
+Quenggouk in Pegu, nordöstlich von Bassein, Hinterindien.
+
+1857, Dec. 27, 2 Uhr 25 Min. Morgens.
+
+Etwa 90 engl. Meilen vom Fallort auf dem Basseinflusse fahrend sah Leutnant Aylesbury eine äusserst glänzende Lichterscheinung von SW. nach NO. ziehen, mehr ein langer Feuerschweif, als eine Kugel, die eigentlich nur im Augenblick der heftigen Detonation sichtbar war; der Schall wurde noch in 20 deutschen Meilen Entfernung gehört, in 40, wo das Meteor auch gesehen wurde, nicht mehr. Es fielen 3 Steine und wurden sogleich aufgefunden; sie wogen 2 K. 291, 1 K. 909 und 1 K. 844. Die beiden ersten passten zusammen, doch war die Bruchfläche nicht überrindet; beide lagen etwa 1 engl. Meile auseinander. Das dritte Stück, welches 10 engl. Meilen davon gefunden wurde, hatte einen ansehnlichen Theil überrindet, ähnlich der Rinde der beiden anderen Stücke, aber der andere Theil war frischer Bruch; dieser passte nicht ganz genau an die anderen, aber doch so nahe, dass nur ein kleiner Theil der ganzen Masse verloren gegangen sein kann. Das Zerreissen des Steines muss also in grosser Höhe vor sich gegangen sein, wo aber schon die kosmische Geschwindigkeit durch den Widerstand der Atmosphäre aufgehoben war. Die Hauptmasse ist in Calcutta; Bruchstücke finden sich in London (1 K. 643), Wien (498,762 Gr.) und den Privatsammlungen von Greg (24,6 Gr.), Shepard und v. Reichenbach.
+
+Specifisches Gewicht: 3,737 Haidinger.
+
+Die Rinde ist graulichschwarz insBraune, eglanzlos, dünn; die innere graue, etwas bläuliche Masse besteht ganz aus einzelnen runden, wie in weissen Sand eingebetteten Körnern oder Kügelchen, die sich leicht trennen. Das Ganze ist zerreiblich. Geschliffen treten die kugeligen Einschlüsse deutlicher hervor, theils ganz rund, theils eckig, graulichweiss bis dunkelrauchgrau in allen Schattirungen, höchstens 1 Linie im Durchmesser. Eisen ist gleichmässig und fein, Schwefeleisen äusserst fein eingesprengt. Letzterer Bestandtheil, der Farbe nach Magnetkies, durchsetzt die Steinmasse plattenförmig in der Art eines Ganges, der an der stärksten Stelle etwa 1/2 Linie dick ist.
+
+Literatur: Haidinger Wien. Akad. Ber. 41, 750. 42, 301. 44, 637; bei 2 eine Kartenskizze, bei 3 die Erscheinung des Meteors in Farbendruck.
+
+Kakowa, nordwestl. von Oravitza, Temeser Banat, Oesterreich.
+
+1858, Mai 19, 8 Uhr Morgens.
+
+Schafhirten hörten ein dumpfes Donnern und dann ein Sausen in der Luft und sahen einen schwarzen, mit einem Rauchwölkchen umgebenen Gegenstand mit unbeschreiblicher Schnelligkeit in der nächsten Nähe ihrer Heerde herabfallen. Unmittelbar darauf folgte ein Krach wie ein Böllerschuss. An der Stelle, wo der Stein lag, war das Gras verbrannt, und dieser noch sehr heiss. Er wog 577 Gr. und fehlte nur ein kleines Eckchen daran. Der Hauptmasse nach ist er in Wien (498,762 Gr.), kleine Stücke sind in Göttingen (14,65 Gr.), Berlin (9,662 Gr.), sowie bei Shepard und Greg.
+
+Specifisches Gewicht: 3,384 Haidinger.
+
+Die Rinde ist schwarz, wenig glänzend, in den tieferen Stellen der Oberfläche gröblich netzartig, wie runzelig. Die Grundmasse ist hellgrau mit zahlreichen kleinen rostbraunen Flecken, ganz feinkörnig, fast dicht und voll metallischer Eisentheilchen bis zu 1 Linie im Durchmesser. Auf einer polirten Fläche lassen sich ausser der vorherrschenden hellgrauen Grundmasse dunklere Stellen erkennen, sowie kugelige Einschlüsse von fast graulichweisser Farbe, in denen das Eisen fast ganz fehlt. Einige Kügelchen sind dunkler, von bräunlicher Farbe. Der ganze untere Theil des Steines wird seiner grössten Diagonale nach von einem nahe 3/4 Linien dicken Gang von Rindenmasse durchsetzt. Ausserdem sieht man noch zahlreiche, mehr Haarrissen ähnliche Spaltendurchschnitte, deren einige die hellfarbigen kugeligen Einschlüsse durchsetzen. Im Ganzen ähnelt der Stein denen von Macao (1836) und Luce (1768).
+
+Harris hat unter Wöhlers Leitung den Stein analysirt und gefunden:
+
+1\. Durch Säure zersetzbar: 56,7%  
+2\. Durch Säure nicht zersetzbar: 43,3%
+
+SiO3. MgO. FeO. Ni. CaO. S. Al2O3. NaO, KO.  
+1\. 19,5. 11,2. 24,4. 0,2. 0,7. Sp. -,-. -,-.  
+2\. 21,7. 15,8. -,-. -,-. 0,8. -,-. 2,46. 1,92. 0,26.
+
+3\. Mit dem Magnet ausziehbare Metalltheilchen:  
+Fe. Ni. Co. P. Cu. Chromeisen.  
+82,95. 14,41. 1,08. 0,12. 0,12. 0,76.
+
+1. ist Olivin, 2. könnte Wollastonit und Anorthit sein, wenn diese nicht leicht durch Salzsäure zersetzbar wären.
+
+Literatur: Haidinger Wien. Akad. Ber. 34, 11. Wöhler ebd. 34, 8. Dabei auch 2 gute Abbildungen des Steines.
+
+Aussun und Clarac, Canton Montrejeau, Dep. de la Haute Garonne, Frankreich.
+
+1858, Dec. 9, 7 1/2 Uhr Morgens.
+
+Es wurde eine glänzende Feuerkugel von NO. nach SW. mit einer Bahnlänge von 12-15 Meilen wahrgenommen; dann folgte ein heftiger Schall wie bei der Explosion eines Pulverthurms, welcher auf 10-13 [] Meilen gehört wurde. Ein grosser schwarzer noch heisser Stein von 8-10 K. schlug durch das Strohdach einer Hütte zu Clarac; bei Aussun wurde ein unregelmässig sphärischer Stein mit Einbuchtungen, 40-45 K. schwer, ausgegraben, auch an anderen Stellen scheinen noch Steine gefallen zu sein. Sie wurden zerschlagen und vertheilt. Die grössten Stücke sind wohl nach Paris gekommen. Ausserdem sind Bruchstücke in Wien (745,95 Gr.), Berlin (547,981 Gr.), Edinburg (354 Gr.), London (341 Gr.), Copenhagen (Univ. 150 Gr.), Göttingen (95 Gr.), Heidelberg, Montpellier, Polignan und den Privatsammlungen von de Luynes (715 Gr., 2 St.), Greg (346 Gr.), Shepard (297 Gr.), v. Reichenbach, Nevill und Ferber (133 Gr., 2 St.).
+
+Specifisches Gewicht:  
+3,51 bei einem ganzen Stück, Damour,  
+3,57-3,936 bei kleinen Stückchen, Damour,  
+3,30 Filhol u. Leymerie,  
+3,50 Chancel u. Moitessier,  
+3,39 die Kugeln. Leymerie.
+
 ...
