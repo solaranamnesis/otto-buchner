@@ -3816,4 +3816,259 @@ Specifisches Gewicht:
 3,50 Chancel u. Moitessier,  
 3,39 die Kugeln. Leymerie.
 
+Die Grundmasse ist ziemlich gleichförmig hell aschgrau, derb, doch etwas mürbe; sie enthält verschiedene Einschlüsse, besonders gelb-
+
+lichgrüne von Hirsekorngrösse, ein olivinartiges Mineral; dann dunkelgraue, olivingrüne bis braune Kugeln, zum Theil schalig, von 1-4mm Durchmesser und selbst bis Erbsengrösse, die leicht aus der umgebenden Masse auszulösen sind mit Hinterlassung eines Grübchens; sie sind selten rein und schliessen öfter kleine Metallflitter und Grundmasse ein. Ein dritter Einschluss von etwa 3/4 Kubikzoll ist gelbgrau, ähnlich krystallinischem Olivin, aber weniger durchscheinend und hat mehr Fettals Glasglanz; auch dieser hat eine rundliche Oberfläche ähnlich einem Geschiebe. Magnetkies und gediegenes Eisen, auch etwas Schwefelkies sind in geringer Menge und meist ganz fein eingesprengt, doch haben auch manche Metallflitter bis 5mm Länge; auch fehlen die gelblichen sogenannten Rostflecken nicht.
+
+Die Rinde ist schwärzlichbraun, matt und sehr dünn.
+
+Die Steine zeigen keine magnetischen Pole, wirken aber auf den Magnet. Genauere Untersuchungen darüber stellten Laroque und Bianchi an.
+
+Eine Commission, bestehend aus Pelouze, Fremy und Delafosse, sollte den Stein untersuchen; ein Resultat ist nicht bekannt geworden; unterdessen wurden mehre Analysen veröffentlicht, die auffallende Widersprüche zeigen und zum Theil auch nachträglich umgeändert wurden.
+
+Analyse von Filhol und Leymerie:
+
+SiO3. Al2O3. MgO. FeO. Fe2O3. CaO. NaO. S.  
+a 64,35. Spur. 12,70. 16,80. 2,00. 0,55. 1,60. 2,00.  
+b 38,83. -,-. 24,65. 35,23. -,-. -,-. 1,29. -,-.  
+c 52,05. 11,40. 18,45. 16,50. -,-. Spur. 1,60. -,-.  
+d 61,58. 2,00. 11,80. 16,90. 2,55. 0,60. 2,30. 2,00.  
+e 65,11. 2,10. 12,42. 14,46. 2,68. 0,63. 2,40. -,-.  
+
+a In HCl leicht löslicher Theil. b Dasselbe nach einer späteren Correktur. c Der HCl länger widerstehende Theil. d Die ganze Masse. e Dieselbe ohne Schwefeleisen.
+
+Sie berechnen daraus:  
+Silikate|85,98  
+Schwefeleisen|5,00  
+Fe, Ni|9,02 (92,1% Fe, 7,9% Ni).
+
+Filhol nimmt den löslichen Theil (b) als Olivin an, ebenso Leymerie die Kugeln.
+
+Analyse von Chancel und Moitessier:
+
+Magnet. Thl. 10,04 (Fe 83,65. Ni 15,58. P Met. 0,67. S u. Verl. 0,19)  
+Chromeisen|0,67  
+Magnetkies|5,72  
+Olivin|45,08 (SiO3 39,46. FeO 22,05. MgO 38,49)  
+Labrador|8,34 oder Oligoklas 10,99 } in HCl unlöslich.  
+Hornblende 29,17 oder Augit 26,52 } in HCl unlöslich.
+
+Damour dagegen findet:
+
+Magnetischer Theil|11,60 (Fe, Ni, Cu, P)  
+Magnetkies|3,74  
+Chromeisen|1,83  
+Olivin|44,83  
+Hornblende, Albit|38,00 (die Kugeln!)
+
+Analyse von Harris:
+
+Magnet. Theil. 8,41%  
+Fe|84,71  
+Ni|12,11  
+Co|0,72  
+Mn|0,50  
+S|2,14  
+P|Sp.
+
+Nicht magnesticher Theil.
+
+a\. im Ganzen. 91,59%
+SiO3|42,00  
+MgO|27,39  
+FeO|19,65  
+Al2O3|2,46  
+MnO|0,33  
+Cr2O3|0,83  
+NaO|1,23  
+KO|0,20  
+Fe|2,74  
+S|2,09  
+Cu u. Sn|0,26  
+Ni|Sp.
+
+Chomeisen|1,03%
+Magnetkies|4,83%
+
+b\. nicht zersetzbar durch HCl 41,30%
+SiO3|52,90  
+MgO|24,82  
+FeO|10,00  
+Al2O3|5,96  
+MnO|0,31  
+Cr2O3|-,-  
+NaO|2,98  
+KO|0,48  
+}Labrador 7,79%
+}Augit 30,04%
+
+c\. zersetzbar. 52,74%
+SiO3|38,25  
+MgO|32,48  
+FeO|28,90  
+Al2O3|-,-  
+MnO|0,37  
+Cr2O3|-,-  
+NaO|-,-  
+KO|-,-  
+
+Literatur: Petit Cpt. rend. 47, 1053. 48, 16. Filhol u. Leymerie ebd. 48, 193. 348. 446. Chancel u. Moitessier ebd. 48, 267. 479. Laroque u. Bianchi ebd. 48, 578. 798. 920. Damour ebd. 49, 31. Leymerie ebd. 49, 247. Haidinger Wien. Akad. Ber. 34, 265. Harris Annal. Chem. Pharmac. 110, 181.
+
+Harrison County, Kentucky, Nord-Amerika.
+
+1859, März 28, 4 Uhr Nachmittags.
+
+Unter explosionsartigem Knallen und zischendem Geräusch fielen vier Steine, die zum Theil noch warm aufgefunden wurden. Sie wogen zwischen 10,8 Gr. und 538,6 Gr. Die Bruchstücke scheinen vorzugsweise in amerikanischen Sammlungen zu sein und in Europa nur Wien und London, sowie Greg etwas davon zu besitzen.
+
+Specifisches Gewicht: 3,465 Smith.
+
+Die Rinde ist schwarz und glasig, das Innere grau; mit der Lupe lassen sich darin metallische Theilchen, ein dunkles glasiges Mineral, ein dunkles mattes, sowie ein weisses Mineral erkennen. Mit dem Magnet lassen sich 4,91% ausziehen, die nach der Analyse von Smith bestehn aus:
+
+Fe. Ni. Co. Cu. P. S.  
+86,781. 13,241. 0,342. 0,036. 0,026. 0,022.
+
+Von der erdigen Masse sind durch Salzsäure zersetzbar 62,94%, nicht zersetzbar 37,51%. Das Ganze besteht aus:
+
+SiO3. FeO. MgO. Al2O3. CaO. NaO. KO.  
+47,06. 26,05. 27,61. 2,35. 0,81. 0,42. 0,68.
+
+und einer Spur Manganoxydul. Smith berechnet daraus als Bestandteile dieses Meteoriten:
+
+4,989 nickelhaltiges Eisen,  
+0,009 Schreibersit,  
+0,001 Magnetkies,  
+61,000 Olivin,  
+34,000 Augit und Albit.
+
+Literatur: Smith Sillim. Amer. Journ. (2) 28, 409.
+
+Crawford County, Nord-Amerika.
+
+1859, Juli 4, gegen Mittag.
+
+Im Nordwesttheil der Crawford County soll der Stein unter lautem Getöse gefallen und zerborsten sein. Ein Theil der Bruchstücke fiel als Schauer auf das Dach einer Hütte bei Hrn. Pennywits Schwefelquelle, ein anderer Theil 1/2 engl. Meile davon. Ein H. Scott, der Augenzeuge war, gab ein Stück an Capitän Alb. Pike von Little-Rock. In eine grössere Sammlung ist noch nichts davon gekommen, auch keine weitere Notiz über diesen Fall bekannt geworden.
+
+Dieser Steinfall ist von einem zweiten in derselben County verschieden.
+
+Literatur: Owen 2th. Report geol. Reconnoiss. of Arkansas. Philadelphia 1860, p. 408.
+
+Bethlehem bei Albany, Troy, New-York, Nord-Amerika.
+
+1859, August 11.
+
+Es wurde eine heftige Detonation in Nordwest-Massachussets und New-York gehört. Nur ein Stein in der Grösse eines Taubeneis wurde gefunden; er war beim Anschlagen an ein Haus zerborsten. Der grösste Theil (9,3 Gr.) ist im Staatscabinet zu Albany, auch London und Shepard besitzen kleine Stückchen.
+
+Specifisches Gewicht: 3,56 Shepard.
+
+Die Rinde ist dick, vollkommen schwarz, rauh. Innen ist die Masse hellgrau, feinkörnig; die einzelnen Körnchen sind sehr krystallinisch, fast durchsichtig, glänzend, grau oder grünlich weiss. Nickeleisen von glänzendweisser Farbe ist in feinen Fäden und halb krystallinischen Körnern dick durch die Masse zerstreut; ausserdem treten glänzende Punkte von Einfachschwefeleisen auf.
+
+In der Farbe kommt der Stein Kleinwenden (p. 73) am nächsten, doch ist er grobkörniger und lockerer im Gefüge.
+
+Literatur: Shepard Sillim. Amer. Journ. (2) 30, 205.
+
+Alessandria, S. Giuliano vecchio, Piemont.
+
+1860, Febr. 2, gegen 12 Uhr Mittags.
+
+Prof. Bombicci in Bologna hatte die Güte, über diesen Steinfall folgende briefliche Mittheilungen zu machen:
+
+"Den 2. Febr. 1860 hörte man im Thal von S. Giuliano vecchio, nahe bei der Stadt Alessandria in Piemont, ungefähr gegen 12 Uhr Mittags einen sehr starken Knall in der Luft, der die umliegenden Städte fürchten liess, es sei irgend ein Pulvermagazin explodirt. Der Knall war vom Fall verschiedener Aerolithen begleitet. Ein Jäger, welcher sich bestürzt hinter eine Mauer geflüchtet hatte, konnte einige davon sammeln, unter ihnen den von mir besessenen, von dem ich ein Stück den Sammlungen hiesiger Universität, in das von mir dirigirte Museum, geschenkt habe. Das Aussehen ist dem der Aerolithen sehr ähnlich, die in Gegenwart verschiedener Augenzeugen in der Umgegend von S. Giovan d'Asso nahe bei Siena im Jahr 1794 fielen; dieselbe schwarze Farbe der äusseren Kruste, dieselbe körnige Structur, dieselbe Dichtigkeit. Was diesen sehr schönen Meteorstein allein bemerkenswerth macht, ist der Reichthum an metallischem Eisen, welches, statt in bestimmte kleine Theilchen inmitten der steinartigen Elemente, vorzugsweise Silikate, zertheilt zu sein, in kleinen Schichten, in Plättchen mit verschiedener Richtung und verschiedener Dicke sich darstellt. Sie sind im Allgemeinen sehr fein, diese kleinen Schichten, so dass ihr Querschnitt sich dem Auge wie eine dünne, schwarze Linie präsentirt. Sie haben metallisches Aussehen und Glanz. Die Analyse dieses Meteoriten wurde von Missaghi unternommen, und folgende sind davon die Resultate:
+
+Kieselsäure|37,403  
+Metallisches Eisen|19,370  
+Oxydirtes Eisen|12,831  
+Magnesia|11,176  
+Tonerde|8,650  
+Schwefel|3,831  
+Kalk|3,144  
+Nickel|1,077  
+Chrom|0,845  
+Mangan und Kobalt|Spur  
+Verlust|1,673  
+100,000
+
+Die Stücke und Fragmente wogen 300-1000 Gr. Ihre mittlere Dichtigkeit war 3,815, die Dichtigkeit der äusseren Kruste 4,801. Die Silikate, welche den steinartigen Theil ausmachen, wurden nicht bestimmt.
+
+Das Wetter während des Falles der Aerolithen war regnerisch, ziemlich kalt; der Thau war vom Frost gehärtet, was die Wiederauffindung der Fragmente erleichterte."
+
+Ein Stein findet sich in der Universitätssammlung su Bologna, sowie in Wien (78,5 Gr.).
+
+Literatur: Vielleicht ist schon in italienischen Schriften etwas über diesen Steinfall gedruckt worden, so wahrscheinlich Nuovo Cimento (Pisa) Anfang 1861.
+
+Kheragur, Agra, Indien.
+
+1860, März 28.
+
+Ueber den Fall ist bis jetzt nichts bekannt geworden.
+
+Die lichtgraue Grundmasse enthält braune und dunkelbläulichgraue Flecken mit grob eingesprengtem Eisen und fein vertheiltem Magnetkies. In seinen Eigenschaften steht der Stein zwischen denen von Sigena (1773) und Barbotan (1790). Die Hauptmasse ist in Calcutta; kleine Bruchstücke besitzen Wien (24 Gr.) und London.
+
+Eine gedruckte Erwähnung hat diese Localität noch nicht gefunden.
+
+New-Concord unweit Zanesville, Guernsey County und Muskingum County, Ohio, Nord-Amerika.
+
+1860, Mai 1, 12 Uhr 46 Min. Mittags.
+
+Aus einem Feuermeteor von scheinbarer Vollmondgrösse, das sich von SO. nach NW. mit einer Geschwindigkeit von etwa 4 Meilen in der Secunde bewegte und dessen Höhe Evans auf 41-43 engl. Meilen, den Durchmesser auf etwa 3/8 Meilen berechnete, fielen unter heftiger Detonation viele grössere Steine; einer von etwa 25 K. wurde im Fall gesehen und noch heiss ausgegraben; der grösste von fast 47 K. wurde erst nach drei Wochen am Fuss einer Eiche drei Fuss tief in der Erde gefunden. Es mögen wohl über 30 Steine gefallen sein, die zusammen etwa 350 K. wogen; sie waren auf einem Raum von 10 engl. Meilen Länge und 3 Meilen Breite in der Richtung von SO. nach NW. zerstreut; am NW.-Ende lagen die grössten. Bruchstücke sind jedenfalls in den meisten amerikanischen Sammlungen. Smith, Shepard und Patterson besitzen die grössten. Der grösste Stein ist im Marietta College; von europäischen Sammlungen besitzen Stücke: London (fast 8 K.), Berlin (222,744 Gr.), Göttingen (211 Gr.), Wien (201,25 Gr.), Heidelberg, Zürich (1,6 Gr.) und die Privatsammlungen von Greg (über 3 K.), v. Reichenbach, Ferber (116 Gr.).
+
+Specifisches Gewicht:  
+3,5417 Johnson,  
+3,550 Smith.
+
+Die Steine haben alle eine eckige Gestalt und sind mit einer matten, schwarzen Rinde bedeckt. An manchen Stellen ist die Oberfläche nur zum Theil verglast. Das Innere ist sehr feinkörnig, lichtbläulichgrau; mit der Lupe lassen sich darin fünf verschiedene Bestandtheile unterscheiden; eine weissliche Masse ist reichlich durch das Ganze zerstreut und an einigen Stellen ein noch heller weisses Mineral erkennbar. Ein gelblichbraunes Mineral ist in Flecken, und schwarze Theilchen über: die Oberfläche zerstreut. Ein Stück hatte sehr dünne Adern eines glänzenden schwarzen Minerals, wahrscheinlich Graphit. In grossen Massen ist der Stein sehr zäh, kleine Stückchen aber sind leicht zerreiblich. Die undeutlichen kugeligen Einschlüsse sind so fest in der Grundmasse eingebettet, dass sie auf dem Bruch ebenfalls Querbruch zeigen. Glänzendweisses Nickeleisen ist reichlich in kleinen Punkten und bis zu Stecknadelkopfgrösse eingestreut. Einfachschwefeleisen ist weniger auffallend, obgleich oft sichtbar in grösseren Flecken, während schwarze Körner von Chromeisen mit der Lupe und manchmal mit blossen Augen zu erkennen sind.
+
+Analysen liegen vor von Johnson 1., Smith 2., 3. und Madelung 4.
+
+SiO3. FeO. MgO. Al2O3. CaO. Fe. Ni. S. Cr, P. HO. NaO, KO.  
+1\. 51,25. 25,204. 8,873. 5,325. 0,785. 8,803. 2,360. 1,184. Sp. 0,035. -,-.  
+2\. 47,30. 28,03. 24,53. 0,31. 0,02. -,-. -,-. -,-. -,-. -,-. 1,04.  
+
+SiO3. FeO. MgO. Al2O3. CaO. Fe. Ni. S. Co. Cu. P.  
+3\. -,-. -,-. -,-. -,-. -,-. 87,011. 12,36. 1,08. 0,42. Sp. 0,012.  
+
+SiO3. FeO. MgO. Al2O3. CaO. Fe. Ni. Fe2O3. NiO. Mn.  
+4\. 40,391. 18,133. 23,510. 2,300. 2,523. 5,778. 0,235. 5,819. 0,812. Sp.
+
+Bei 2. ist in HCl zersetzbar: 63,7%. nicht zersetzbar: 36,3%.
+
+Aus 2. und 3. wird folgende Zusammensetzung abgeleitet:
+
+Nickeleisen|10,690  
+Schreiberst|0,005  
+Magnetkies|0,005  
+Olivin|56,884  
+Pyroxen|32,416
+
+Nach 4. geben die einzelnen gesonderten Theile:
+
+a\. Nickeleisen:  
+Fe. Ni. MgO. Sa.  
+5,778. 0,235. 0,094. 6,107%.
+
+b\. Lösliche Silikate:  
+SiO3. FeO. MgO. NiO. Sa.  
+18,944. 18,133. 15,616. 0,812. 53,505%.
+
+c\. Unlösliche Silikate:  
+SiO3. Al2O3. Fe2O3. MgO. CaO. Mn2O3. Sa.  
+21,447. 2,300. 5,819. 7,800. 2,523. Spur. 39,889%.
+
+Shepard nimmt an, dass 2/3 der Masse aus Peridot bestehe und dass die eingestreuten weissen Flecken Chladnit seien.
+
+Literatur: Sehr ausführliche Berichte nebst Kartenskizzen und Abbildungen von Steinen finden sich in Sillim. Amer. Journ. (2) 30, 103. 106. 109. 111. 207. 31, 87. Madelung Dissertat. Göttingen. 1862.
+
+Dhurmsala, Dharam Sal, District von Kangra, NO. von Punjab, 31° 55' nördlicher Breite, 77°, östlicher Länge von Greenw., Ostindien.
+
+1860, Juli 14, 2 1/4 Uhr Nachmittags.
+
+Unter entsetzlichem Getöse, dass die Erde zitierte, und 14-16 darauf folgenden schwächer werdenden Knallen wurde ein Feuermeteor beobachtet, das von NNW. nach SSO. zog. An sechs verschiedenen Stellen waren Steine gefallen, die - eine unzweifelhaft festgestellte und höchst merkwürdige Thatsache - unmittelbar darauf so kalt waren, dass sie die Sammler nicht in den Händen halten konnten. Das grösste Stück wog wohl 145 K. Bruchstücke sind ausser in Calcutta u. a. indischen Sammlungen in London (13 K.), Berlin (200,253 Gr.), Wien (175 Gr.), Boston (128 Gr.), Washington, Turin.
+
+Specifisches Gewicht:  
+3,456 Jackson,  
+3,175 Haidinger.
+
+Die Rinde ist bräunlichschwarz und glanzlos, das Innere ist ziemlich fest, hellgrau und vollkommen körnig mit sehr wenigen rostbraunen Flecken, und schliesst stellenweise bis nahe viertelzöllige Einschlüsse der verschiedensten Beschaffenheit ein; die hellgrauen, fast weissen sind mehr krystallinisch, die dunkelbraunen mehr dicht. Eisen und Magnetkies sind nicht sehr häufig, letzterer tritt auch in Spuren als Ueberrindung der runden, wie abgerollten Einschlüsse auf.
+
+Nach der Analyse von Jackson werden 43%, mit dem Magnet ausgezogen. Die Steinmasse besteht aus:
+
 ...
