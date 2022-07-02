@@ -4071,4 +4071,198 @@ Die Rinde ist bräunlichschwarz und glanzlos, das Innere ist ziemlich fest, hell
 
 Nach der Analyse von Jackson werden 43%, mit dem Magnet ausgezogen. Die Steinmasse besteht aus:
 
+Kieselsäure mit Spur Zinn|40,0  
+Magnesia|26,6  
+Eisenoxydul|27,7  
+Eisen|3,5  
+Nickel|0,8  
+Tonerde|0,4  
+Chlor|0,049  
+Phosphorsäure|nicht gewogen  
+99,049.
+
+Literatur: Haidinger Wien. Akad. Ber. 42, 305. 44, 285. Jackson Proceed. Boston Soc. Nat. Hist. 8, 233.
+
+Tocane St. Apre, Dordogne, Frankreich.
+
+1861, Febr. 14.
+
+Unter Feuererscheinung und Regen soll auf dem Marktplatz der Stadt ein Stein von 7 Gr. niedergefallen sein, der jetzt im Museum des Dep. Dordogne sich befindet. Weiteres wurde nicht bekannt und ist fast anzunehmen, dass hier wieder ein sehr zweifelhaft richtiger Fall vorliegt.
+
+Literatur: Cosmos 1861, Avril 26.
+
+Im Goruckpur-District unweit Butsura; bei Piprassi, Bulloah, Qutahar Bazar, Chireya, vier Stellen, wo Steine fielen, auf der rechten Seite des Gundukflusses. (Nicht weit von Segowlee, wo 1853, März 6, ein Steinfall sich ereignete.) Östindien.
+
+1861, Mai 12, um Mittag.
+
+Das Ereigniss war von so heftiger Detonation begleitet, dass dieselbe noch in einer Entfernung von 60 engl. Meilen gehört wurde. Dabei wurde an verschiedenen Stellen eine Feuerkugel gesehen. An vier verschiedenen Stellen des Goruckpur-Districtes fielen Steine; der nächste grössere Ort war Butsura. Die zwei kleinsten Steine von 257 Gr. und 151 Gr. wurden bei Bulloah von einem Augenzeugen im Fall beobachtet. Nach drei heftigen Detonationen bemerkte er in der Höhe eine Lichtmasse wie eine Flamme; dann fielen die Steine, verursachten ein heftiges Getöse nnd sprühten dabei Funken wie weissglühendes Eisen; sie schlugen etwa 180 Meter von ihm in den Boden, dass der Sand hoch in Luft geschleudert wurde. Der Himmel war dabei heiter, das Wetter sehr heiss, doch bemerkte man eine kleine Wolke, aus welcher das Getöse und der leuchtende Körper gekommen war. An der Stelle, wo das Niederfallen der Steine bemerkt worden, fanden sich fünf Steinstücke, die sehr heiss waren. Leider wurden nur zwei Stücke aufbewahrt. - Auch der Fall des Piprassisteines wurde, aber aus grösserer Entfernung, beobachtet. Nach drei heftigen Detonationen, denen ein rollendes, allmählich schwächer werdendes Getöse folgte, wurde die Aufmerksamkeit vieler Augenzeugen auf eine Staubwolke gelenkt, welche etwa 1 Kilometer von ihnen vom Boden aufstieg. Einen fallenden Körper sahen sie vorher nicht, hörten aber einen pfeifenden Ton wie von einer Kugel, nur viel lauter. Sie gingen darauf hin und fanden den Stein, der 5 K. 249 wog, berührten ihn aber zwei Tage lang nicht, weil sie ihn für Mahadeo hielten. - Zwei Stunden nach dem Fall wurde die Heiterkeit des Weiters durch einen Sturm unterbrochen, der von etwas Regen begleitet war. - Der Stein von Qutahar Bazar wog fast 9, der von Chireya über 4 K.
+
+Die vier Fallorte liegen an den Ecken eines ziemlich regelmässigen Parallelogramms von etwa 2 und 3 engl. Meilen Seitenlänge; die kürzere Diagonale zwischen Piprassi und Chireya geht von NW. nach SO. Analog den genauen Untersuchungen von Biot bei dem Steinfall von l'Aigle und von v. Schreibers bei dem von Stannern ist anzunehmen, dass die grössten Steine zuerst fielen und das Meteor sich von WNW. nach OSO. bewegte. Maskelyne nimmt eine Bewegung in entgegengesetzter Richtung an.
+
+Piprassi  
+5 K.
+
+Qutahar-Bazar  
+9 K.
+
+Bulloah  
+257,151 Gr.
+
+Chireya  
+4 K.
+
+Es kann nicht bezweifelt werden, dass die fünf an vier verschiedenen Orten gefallenen Steine ursprünglich eine einzige Masse ausmachten. Maskelyne hat sie an einander gepasst; danach fehlte nur ein plattenförmiges Stück zwischen dem Piprassi- und dem Qutaharstein. Die zwei Bulloahbruchstücke passen genau an einander und an den Piprassistein; an den Stellen, wo sie zusammenstossen, sind sie nicht überrindet, wohl aber an den anderen. Die Chireya- und Qutaharstücke dagegen haben überall eine Rinde, die kaum irgendwo eine Verschiedenheit zeigt. Die Oberflächen sind glatt und die Ecken stark abgerundet. Das Zerbersten muss also zu verschiedenen Zeiten vor sich gegangen sein, so dass zuerst eine Ueberrindung der Bruchfläche noch möglich war, dann aber nicht mehr.
+
+Specifisches Gewicht: 3,60 Maskelyne. Es scheint in den ver-
+schiedenen Theilen ziemlich gleichmässig zu sein.
+
+Die Rinde ist russschwarz und von dichtem Gefüge; an manchen Stücken geht die Farbe mehr in’s Braune über. Auch die Dicke ist nicht überall gleich.
+
+Das Innere besteht aus einer gelblichbraunen Grundmasse; mit einer Lupe erkennt man eine reichliche Einstreuung von vorstehenden Punkten metallischen Eisens, welche von unregelmässigen dunkeln Flecken umgeben sind. Schwefeleisen tritt in ansehnlicher Menge mit dem Eisen auf. Dieses ist in kleinen, einzelnen, unregelmässig gestalteten und manchmal krystallinisch aussehenden Körnchen vertheilt, die nicht zu einer schwammartigen Masse sich vereinigen. Ausser diesen Bestandtheilen finden sich verschiedene sehr unregelmässig vertheilte Kügelchen eines durchscheinenden Minerals von grünlichbrauner Farbe, das dem Olivin ähnlich ist, sowie selten ein sehr dunkel gefärbtes Mineral gewöhnlich mit schimmerndem Bruch und vielleicht manchmal etwas krystallinisch.
+
+Unter dem Mikroskop bei schwacher Vergrösserung scheint eine Schnittfläche aus Olivin zu bestehn, der mit einem grauen und einem undurchsichtigen weissen Mineral gemischt ist; das graue scheint manchmal Kügelchen zu bilden, die wieder Olivin einschliessen.
+
+Es ist sehr bemerkenswerth, dass au dem grösseren Stein von Piprassi sich ein wahrer, wenn auch sehr schmaler Gang von metallischem Eisen zeigt, der ihn parallel einer der kürzeren schmalen Begrenzungsflächen etwa 1 1/4 Zoll von derselben entfernt in der ganzen Breite und in derselben Richtung auch den Stein von Qutahar Bazar durchsetzt, so dass deren Zusammengehörigkeit trotz des fehlenden Mittelstücks nicht bezweifelt werden kann.
+
+Alle Stücke wurden an das britische Museum nach London geschickt, um daselbst abgeformt und zerschnitten zu werden. Wien besitzt 766,5 Gr. In kurzer Zeit werden wohl alle grösseren Sammlungen Bruchstücke davon besitzen.
+
+Literatur: Haidinger Wien. Akad. Ber. 1862, 45, Mai 15. Maskelyne Philos. Magaz. Jan. 1863. Daselbst auch zwei Abbildungen der 5 verschiedenen wiedervereinigten Steine.
+
+Canellas, Villa nova bei Barcelona, Spanien.
+
+1861, Mai 14, 1 Uhr Nachmittags.
+
+Die Lichterscheinung und die erschreckliche Detonation scheinen nicht von den gewöhnlich beobachteten abgewichen zu sein. Es fielen wohl viele Steine, meist aber auf angebautes Land, wo sie nicht gefunden werden konnten, zwei oder drei auch auf Felsen. Das grösste Stück wog etwa 500 Gr. und kam in das naturhistorische Museum in Madrid; ein anderes, nicht drittel so grosses Stück besitzt Prof. Arba in Barcelona; Prof. Balcells daselbst hat nur 5 Gr.; es war ihm nicht möglich, von den Bauern, die Stücke von 5-9 Gr. besassen, etwas zu erhalten, weil sie dieselben als glückbringend besonders hochschätzten.
+
+Weiteres ist noch nicht bekannt geworden.
+
+Literatur: Philos. Magaz. 1861, Aug. 107.
+
+Meno in der Nähe von Fürstenberg, Alt-Strelitz, Mecklenburg.
+
+1862, October 7, zwischen 12 1/2 Uhr Mittags.
+
+Aus einer grossen Feuerkugel fiel unter Geräusch, Zischen und Sausen, unterbrochen von heftigen Detonationen, die mit einer fernen Kanonade verglichen wurden, ein grosser Stein schräg von Ost nach West 1 1/2 Fuss tief in die Erde. Dabei war der Himmel klar, und weder ein Schweif, noch eine Wolke in der Gegend der Detonation ist bemerkt worden. Einem Schafhirten, der nahe dabei war, wurde dabei der Sand ins Gesicht geworfen; doch war die Hitze des Steines zu gross, ihn sofort aus dem Boden zu nehmen. Anfangs hatte er das Gewicht von etwa 10 K. oder etwas darüber, doch wurden einige Stücke davon abgeschlagen, so dass er jetzt noch 7 K. wiegt. v. Reichenbach hat ihn für 400 Thlr. gekauft.
+
+Nach den Detonationen zu urtheilen und wie auch einige Leute behaupten, soll zu gleicher Zeit ein Stein in den nahe dabei liegenden See gefallen und das Wasser in die Höhe gespritzt sein.
+
+Die vorherrschende Gestalt ist die einer verschobenen Pyramide mit einer ebenen, etwas nach innen gewölbten Basis, mit abgerundeten Kanten und Ecken. Die Rinde ist dünn, schwarz, glatt, und glasig. Das Innere ist ein dunkelaschgraues, mehr oder weniger feinkörniges Gemenge mit zahllosen silberglänzenden Metalltheilchen von der Grösse eines Schrotkorns bis zum kleinsten Punkte.
+
+Specifisches Gewicht: 4,1.
+
+Literatur: Poggend. Ann. 117, 637 stellt einige Zeitungsnachrichten zusammen.
+
+### 2\. Steinmeteoriten, deren Fallzeit unbekannt ist.
+
+Sie sind nach der Zeit ihres Bekanntwerdens geordnet.
+
+Ebene zwischen Quivira und Cicuit, Nord-Amerika.
+
+Die Zeit des Falles ist unbestimmt. Cardan erwähnt das Ereigniss 1557, und es ist daher wahrscheinlich, dass es in den Beginn des 16. Jahrhunderts zu setzen ist. Auch der Fallort lässt sich nicht mehr genau ermitteln; durch neuere Reisende ist aber soviel festgestellt, dass man den Fundpunkt in der von der Sierra de Jumanes auf der östlichen Seite des Rio grande del Norte gebildeten Hochebene zwischen den Parallelen des 34. und 35.° nördl. Br. suchen darf. Obgleich nach A. v. Humboldt die Namen Quivira und Cicuit an die Fabeln vom Eldorado Mittel-Amerikas erinnern, so scheinen doch Steine als von dieser Localität stammend in der einen oder der anderen Sammlung aufbewahrt zu werden. Doch ist nichts Genaueres über mineralogische Charaktere bekannt.
+
+Literatur: Carpants De rerum varietate I. XVII. Humboldt Essai politique IV. 107. ed. 8°. Burkart N. Jahrb. Mineral. 1856, 273.
+
+Im Darmstädtischen (nach der Etikette 1815 bei Darmstadt gefallen, aber jedenfalls irrthümlich).
+
+Fallzeit unbekannt. Ein Stein von etwa 94 Gr. Gewicht ist in der akadem. Mineraliensammlung zu Heidelberg; von anderen Sammlungen besitzen nur Wien (5,5 Gr.) und London ein kleines Bruchstück. Suckow führt in seiner »Mineralogie« von 1804 an, dass mehre Stücke in der Heidelberger Sammlung waren und dass sie, »nachdem man verschiedene Male heftige Knalle in der Luft gehört hatte«, im Darmstädtischen gefunden worden seien. Sie müssen also jedenfalls vor 1804 gefallen sein.
+
+Blum beschreibt den Stein als ein. feinkörniges Gemenge von vorherrschendem Olivin mit Labradorit und wie es scheint auch mit etwas Augit und gediegenem Eisen. Dieses ist in einzelnen stark glänzenden Körnchen eingestreut und durchzieht die Masse in zackigen Partien, so dass der Gehalt davon ziemlich bedeutend ist. An der Oberfläche ist es hier und da oxydirt, wodurch kleine Rostflecken entstehn. Der Olivin tritt in bräunlichgelben krystallinischen Theilchen auf, selten in undeutlichen Krystallen, manchmal mit deutlichen und stark glänzenden brachydiagonalen Spaltungsflächen. Labradorit tritt in graulichen krystallinischen Partien, auch zuweilen mit deutlichen Spaltungsflächen auf. Kleine schwarze Pünktchen scheinen Augit zu sein.
+
+Die Rinde ist schwarz, runzelig, matt, nur stellenweise glänzend.
+
+Eine chemische Analyse existirt nicht.
+
+Literatur: Suckow Mineralogie 2, 649. Blum Verh. naturhistor. medic. Verein Heidelberg. B. 2, 164.
+
+Gouvernement Poltawa, nach Eichwald im Romensker Kreis, Russland.
+
+Ueber Geschichte und Zeit des Falles, sowie über den genaueren Ort desselben ist nichts bekannt. Blöde nennt den 13. März 1807, verwechselt aber mit Timochin (p. 21) und hält den Stein für identisch mit Kuleschowka (p. 29), beides fälschlich.
+
+Die Akademie in Petersburg besitzt einen fast ganzen Stein von 1 K. 510; obgleich unregelmässig, ist doch die pyramidale Gestalt zu erkennen. Bruchstücke sind in Wien (89,68 Gr.), Berlin (7,99 Gr.) und den Privatsammlungen von v. Reichenbach und Neumann.
+
+Specifisches Gewicht: 3,33 Rumler.
+
+Nur stellenweise findet sich eine schwarze, dünne, matte, löcherige Rinde; wo sie fehlt ist der Stein bräunlich gefärbt. Die Hauptmasse ist dunkelaschfarben oder bläulichgrau, feinkörnig, porös und enthält eine grosse Menge dunklerer und festerer, häufig wohl abgerundeter, bisweilen auch eckiger Kügelchen. Magnetkies tritt in grossen körnigen Gruppen, manchmal bunt angelaufen, auf, ist jedoch wie das ziemlich reichliche Eisen meist nur fein eingesprengt.
+
+Literatur: Eichwald Erman Arch. 5, 180. Blöde Bull. Acad. Petersb. VI. No. 1. 1848. Partsch 44.
+
+Gouvernement Kursk, Russland.
+
+Weder über Fallort, noch Fallzeit ist etwas bekannt geworden. In der Sammlung der Akademie der Wissenschaften zu Petersburg ist ein fast ganzer Stein von unregelmässig rhomboidaler Gestalt und 3 Zoll im Querschnitt (609 Gr.). Von demselben scheint nur Wien ein Bruchstückchen (3,281 Gr.) zu besitzen.
+
+Specifisches Gewicht: 3,55 Rumler.
+
+Die meist schwarze, dünne, iwatte Rinde wird an einer Seite, die zugleich durch die Vertiefungen darin sich auszeichnet, durch einen bräunlichen Ueberzug ersetzt. Die dunkelaschfarbene, feinkörnige Grundmasse enthält theils hellere, theils dunklere, stellenweise fast schwarze rundliche Einschlüsse, sowie meist sehr fein und nicht häufig eingesprengtes Eisen und ebenso Magnetkies.
+
+Literatur: Blöde Bull. Acad. Petersb. 6, 1848, No. 1. Eichwald Erman Arch. 5, 180.
+
+Gouvernement Simbirsk, Russland.
+
+Genauere Angaben über den Fallort fehlen. Auch die Zeit des Falles ist unbekannt. Die Akademie der Wissenschaften zu Petersburg besitzt einen fast ganzen Stein von 2 K. 730 mit höchst deutlich ausgesprochener vierseitig pyramidaler Gestalt; bis an die abgeschlagene Spitze ist er 7 Zoll hoch, unten 4 1/4 Zoll, oben 2 3/4 Zoll dick. Bruchstücke sind nur in Wien (9,296 Gr.) und in v. Reichenbachs Sammlung.
+
+Speecifisches Gewicht: 3,51-3,55 Rumler.
+
+Die Rinde ist matt und schwarz, sehr dünn, unterbrochen und fast nur schorfartig.
+
+Die derbe und dichte dunkelgraue Grundmasse zeigt angeschliffen feine dunkelgrüngraue Körner. Eisen ist spärlich und fein eingesprengt, aber viel Schwefeleisen, das ebenfalls meist sehr fein, aber selbst bis zu erbsengrossen Körnern und zum Theil bunt angelaufen auftritt. Blöde vermuthet auch Magneteisen (?) darin. Nach v. Reichenbach sollen auch grosse krystallinische Körper darin eingeschlossen sein.
+
+Literatur: Eichwald Erman Arch. 5, 180. Blöde Bull. Ac. Petersb. VI. 1848. No. 1. v. Reichenbach Poggend. Ann. 111, 362. Partsch 46.
+
+Czartorya, Polen.
+
+v. Reichenbach erwähnt diese Localität seiner Sammlung mehrfach und gibt eine mikroskopische Analyse eines kleinen Einschlusses. Sonst findet sich nirgends die geringste Notiz über den Fall und die weiteren Eigenschaften des Steines.
+
+Literatur: Poggend. Ann. 107, 161. 111, 360. 372. Abb.
+
+Assam, Asien.
+
+1846 gefunden.
+
+Der eigentliche Fallort ist unbekannt. Piddington fand 3 Bruchstücke 1846 in den Sammlungen des Goal and iron committee unter Umständen, dass sie kaum anders, als aus Assam stammen konnten. Es waren 3 Bruchstücke (866 Gr., 306 Gr., 262 Gr.). Zwei gehörten demselben Stein an, das dritte musste von einem anderen abstammen. Bruchstücke finden sich ausser in Calcutta, wo die Hauptmasse ist, in London (513 Gr.), Wien (188,125 Gr.) und in v. Reichenbachs Sammlung.
+
+Specifisches Gewicht: 3,792 Haidinger.
+
+Die sehr dünne Rinde ist dunkelgraulichschwarz, stellenweise mit einer Spur beginnenden Glanzes.
+
+Der Stein ist sehr fest und dicht, ähnlich Seres, Barbotan etc. In der dunkelgrauen Grundmasse liegen bis nahe halbzöllige, unregelmässig abgerundete Bruchstücke von hellerem Grau, dann zahlreiche mehr oder weniger kugelige Theile, kleine ganz schwarze, aber auch kleine und grössere bis zu hellaschgrau. Auch in den eingeschlossenen heller grauen Theilen liegen wieder kleinere braune, auch metallische, weisse und gelbe, ebenfalls wieder mit dem Ansehen wahrer Bruchstücke. Durch die helleren und dunkleren Theile hindurch ist metallisches Eisen, grösstentheils nur in feinen Theilchen, doch auch stellenweise in etwas grösseren Körnchen, bis 1/4 Linie in jeder Richtung vertheilt, sowie Magnetkies in nahezu gleicher Menge. Stellenweise haben sich die Eisentheilchen als Einfassung um die kugeligen Einschlüsse gelagert. - Der allgemeine Eindruck, den der Stein macht, ist der des Marmorirten.
+
+Literatur: Haidinger Wien. Akad. Ber. 41, 1860, 752.
+
+Mainz, Grossherzogthum Hessen, Deutschland.
+
+Die Fallzeit ist unbekannt. Gefunden wurde der Stein 1852 zwischen dem Münsterthor und dem Gauthor vor der Stadt. Er wog 1 K. 750 und war offenbar nur ein Bruchstück eines grösseren Steines. Der grösste Theil scheint in Wien zu sein (122,501 Gr.), kleinere Stücke in Göttingen (59,7 Gr.), London und. in den Privatsammlungen von v. Reichenbach, Phoebus in Giessen (18 Gr.) und Greg (5,5 Gr.).
+
+Specifisches Gewicht:  
+3,44 Gergens,  
+3,26 Seelheim (weniger zersetzter Theil aus dem Inneren des Steins).
+
+Der Stein hat von aussen das Ansehen eines eisenhaltigen, stark verwitterten Dolerits und ist stellenweise mit einer neu gebildeten Kruste eines kalkhaltigen Brauneisensteins überzogen. Nach Gergens ist die Verwitterung in’s Innere fortgeschritten, und nur einzelne dichtere Partien, etwa die Hälfte der ganzen Masse, sind noch wenig zersetzt, dunkelbraun und zeigten dem Magnet folgende Einschlüsse, dunkelstahlgraue Klümpchen von unregelmässig geflossener Gestalt und blätterig krystallinische Flitter. Das verwitterte Silikat glich stark zersetztem Olivin und war schmutzig gelbbraun, feste Körner aber olivengrün; einzelne weniger zersetzte graue Körner schienen Aehnlichkeit mit Labrador zu haben. Die am wenigsten verwitterten Theile waren bräunlichschwarz.
+
+v. Reichenbach ist dagegen der Ansicht, dass die derben grösseren braunen Antheile kein Erzeugniss der Verrostung sein können, sondern dass die angeführten Eigenschaften in der ursprünglichen Beschaffenheit des Gemenges liegen. Das Ganze sieht mehr einem armen Brauneisenstein, als einem Meteorstein ähnlich, doch sind die rostbraunen, einförmigen Partien beinahe grösser, als die gewöhnlichen gemengten Meteorsteinantheile.
+
+Seelheim hat den Stein analysirt: 1. den durch Salzsäure zersetzbaren Theil 52,23%; 2. den nicht zersetzbaren Theil 39,26%; 3. sonstige Bestandtheile 8,56%.
+
+SiO3. MgO. FeO. NiO.  
+1\. 15,74. 16,12. 18,29. 2,08.
+
+SiO3. Al2O3. FeO. KO.  
+2\. 20,96. 13,49. 3,60. 1,21.
+
+FeS2 (?). Fe (Ni). Cr2O3. PO5. HO.  
+3\. 3,86. 2,13. 0,46. 0,60. 1,51.
+
+sowie Spuren von Kupfer, Zinn, Mangan und Kalk.
+
+Literatur: Jahrb. Verein. Naturk. Nassau. 1857, H. 12. Poggend. Ann. 107, 173. 111, 363.
+
+Crawford County, Nord-Amerika.
+
+Edw. T. Cox in Van Buren erhielt ein Mineral, das sich als Bruchstück eines Meteoriten auswies. Es wog 638 Gr. Beim ersten Anblick scheint es ein vulkanisches Gestein zu sein, doch sind bei genauerer Betrachtung Theilchen von gediegenem Eisen erkemntlich, die aus der Grundmasse hervorstehn und sich scharf anfühlen. Die qualitative Analyse ergab Eisen, Nickel, Thonerde, Kalk, Magnesia (nicht auch Kieselsäure?). Ausser dem hämmerbaren Eisen und Nickel sind Nephelin und Olivin von blass- und dunkelgrüner Farbe darin. - Ist von Crawford County 1859 (p. 102) verschieden.
+
+Literatur: Owen 2th. Rep. Geol. Reconnoiss. of Arkansas. 1859 und 1860. Philadelphia 1860. p. 408.
+
+### 3\. Uebergangsstufe von den Stein- zu den Eisenmeteoriten.
+
+Sie sind nach der Zeit ihres Bekanntwerdens geordnet.
+
 ...
