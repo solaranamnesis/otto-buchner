@@ -4283,4 +4283,276 @@ Specifisches Gewicht des Olivins:
 
 »Die ganze Wacke scheint« - nach der Beschreibung von Pallas - »eine rohe eisensteinartige Schwarte gehabt zu haben, die auf einem grossen Theil der Oberfläche durch die Hammerschläge, womit man Stücke davon abzusondern gesucht hat, verloren gegangen ist. Ausser dieser ziemlich dünnen Rinde ist das ganze innere Wesen derselben ein geschmeidiges, weissbrüchiges, wie ein grober Seeschwamm löchericht ausgewebtes Eisen, dessen Zwischenräume mit runden und länglichen Tropfen eines sehr spröden, aber harten, bernsteingelben, vollkommen hellen und reinen Glases oder Hyazintenflusses genau ausgefüllt sind.« Berzelius vergleicht die zellige Bildung des Eisens mit der wohlausgegohrenen Brodes. Die Höhlungen sind rund und dicht und mit hellpistacien- bis schmutzig bräunlichgrünem glasklarem Olivin ausgefüllt. Stellenweise sind deutliche Krystallflächen an demselben erkennbar und an manchen Krystallen Winkelmessungen vorzunehmen. Da bei dem Zerschlagen der Olivin fast vollständig herausfällt und nur das Eisengerippe zurückbleibt, so wird zugleich das Aussehen wesentlich geändert; ein solches Stück macht nicht mehr den Eindruck des Massiven und kann in seiner Unähnlichkeit mit der ursprünglichen Masse für vollkommen verschiedener Abstammung gehalten werden. - Magnetkies hilft in geringer Menge das Gerippe bilden, ist aber ungleichmässig vertheilt und scheint stellenweise ganz zu fehlen; er ist fast nur auf Schnittflächen wahrnehmbar. Durch mässiges Aetzen mit Säuren werden die Ränder oder die Aussenwände des Eisens fast nicht angegriffen und bleiben glänzend oder fast glänzend, während die Mitte oder der Kern des Eisens in ein mit den Rändern paralleles mattes Feld umgeändert wird, das von erhöhten Leisten eingefasst und zuweilen mit einzelnen oder auch mehren unter einander parallelen Linien durchzogen ist.
 
+Die ersten Analysen des Pallaseisens von Howard 1., Klaproth 2., John 3. und Laugier 4. sind sehr mangelhaft.
+
+1\. 2\. 3\. 4\.  
+Fe 83,0. 98,5. 90. 47,7.  
+Ni 17,0. 1,5. 7,5. 5,2.  
+Cr -,-. -,-. Sp. 0,6.  
+Co -,-. -,-. 2,5. -,-.  
+S -,-. -,-. -,-. 5,2.  
+SiO3 -,-. -,-. -,-. 16,0.  
+MgO -,-. -,-. -,-. 15,0.
+
+Bei 4. war das Eisen nicht frei von Olivin.
+
+Auch die Analysen des Olivins von Howard 1., Klaproth 2., Stromeyer 3. 4. und Walmstedt 5. sind nicht genau:
+
+SiO3. MgO. Fe2O3. FeO. NiO. MnO. Mn2O3. Al2O3. CaO.  
+1\. 27. 15,5. 8,5. 0 -,-. 0,5. -,-. -,-. -,-. -,-.  
+2\. 41. 38,5. 18,5. -,-. -,-. -,-. -,-. -,-. -,-.  
+3\. 38,48. 48,42. -,-. 11,19. -,-. -,-. 0,34. 0,18. -,-.  
+4\. 38,25. 49,68. -,-. 11,75. -,-. -,-. 0,11. -,-. -,-.  
+5\. 40,83. 47,74. -,-. 11,53. -,-. 0,39. -,-. Sp. Sp.  
+
+4\. ist die Analyse eines Olivins, angeblich aus dem Tucuman-Eisen, doch war es wahrscheinlich auch Pallasolivin. Ersteres enthält keinen Olivin.
+
+Die Analyse von Berzelius ist weit genauer und war seine Methode massgebend für spätere derartige Arbeiten. Er fand für das Eisen:
+
+Fe. Ni. Co. Mn. Sn. Cu. Mg. S. C. Unlösl.  
+88,042. 10,732. 0,455. 0,132. 0,066. Sp. 0,050. Sp. 0,043. 0,480.
+
+Dabei wurde das Kupfer mit dem Zinn gewogen.
+
+Das Unlösliche bestand aus:
+
+Fe. Ni. Mg. P. C. Verl.  
+48,67. 18,33. 9,66. 18,47. Sp. 4,87.
+
+Wird das Eisen in verdünnter Säure gelöst, so bleibt ein schwarzes, poröses Skelet zurück, das beim Verbrennen in Sauerstoff Kohlensäure gibt. Diese schwarze Masse besteht nach Berzelius aus:
+
+Fe. Ni. Mg. Sn, Cu. C. P.
+57,18. 34,00. 4,52. 3,75. 0,55. Sp.
+
+Demnach wäre Eisen mit Nickel und Magnesium weniger löslich, als Eisen selbst.
+
+Die Analyse des Olivin ergab:
+
+SiO3. MgO. FeO. MnO.  
+40,86. 47,35. 11,72. 0,43.
+
+Rumler fand im Olivin auch Arsen, Walmstedt Spuren von Kali und Natron.
+
+Literatur: Pallas Reisen 3, 411. Howard Gilb. Ann. 13, 325. Klaproth ebd. 18, 289. Laugier ebd. 58, 184. John ebd. 68, 345. Stromeyer Götting. gel. Anz. 1824, St. 208. 209. Walmstedt Poggend. Ann. 4, 201. Berzelius ebd. 33, 129. Rumler ebd. 49, 391. G. Rose bespricht einen Olivinkrystall und bildet ihn ab ebd. 4, 186. Tb. 2.
+
+Steinbach, zwischen Johanngeorgenstadt und Eibenstock bei Schwarzenberg, Sachsen.
+
+Rittersgrün bei Schwarzenberg, Sachsen.
+
+Chladni erwähnt mehre Eisenmassen mit Olivin aus Sachsen. 1751 beschrieb Lehmann eine solche, die Markgraf besass und zwischen Eibenstock und Johanngeorgenstadt auf einer Eisenhalde bei den Steinbacher Seifenwerken gefunden worden war. Ein zweites Stück stammt aus der v. Schönberg'schen Sammlung und ist jetzt der Hauptmasse nach in Gotha (764,67 Gr.); es war etikettirt: »ein kurioses Stück gediegen Eisen, so auf dem Felde gefunden worden.« In der de Dree'schen Sammlung befand sich ein Stück angeblich vom Senegal, in der Born'schen Sammlung ein solches von Böhmen, in der Stieglitz'schen ein Eisen aus Norwegen. Alle diese Localitäten zeigen durch ihre vollkommne Uebereinstimmung mit Rittersgrün (bekannt seit 1861), dass sie demselben Fall angehören und mit dem ersterwähnten Eisen von Steinbach übereinstimmen, welche Namen sie auch irriger Weise führen mögen.
+
+Im April 1861 wurde zu Breitenbach, Gerichtsbezirk Platten, Kreis Elbogen in Böhmen, 3-4 Stunden von Johanngeorgenstadt, etwa eine Elle tief in der Dammerde eine olivinreiche Eisenmasse gefunden, die ungefähr 10 1/2 K. wog. Offenbar gehört sie demselben Meteoritenfall an, wie die vorherigen und muss derselbe ein sehr ausgedehnter und reicher gewesen sein (vielleicht zwischen 1540 und 1550). Letztere Masse ist zum allergrössten Theil vom britischen Museum in London angekauft worden; nur Fabrikant Rössler in Hanau besitzt ein Stückchen. Von den erstgenannten Steinbacheisen besitzt am meisten Wien (1 K. 203,696) und London (130,7 Gr.); kleinere Stücke oder solche von unbekanntem Gewicht Berlin (50,146 Gr.), Upsala (46,9 Gr.), Göttingen (11,93 Gr.), Stockholm (Akad. der Wissensch.), sowie die Privatsammlungen von Greg (17 Gr.), v. Reichenbach, Nevill, Shepard, Auerbach, Zimmermann in Hamburg, Neumann in Prag.
+
+Specifisches Gewicht des Eisens:
+7,507 Rumler,  
+
+des Olivins:  
+3,2759 Stromeyer,  
+3,23 Rumler,  
+
+angeblich von Norwegen:  
+6,866 Rumler.
+
+Auf der Schnittfläche tritt das Eisen in glänzenden Tafeln von verschiedener Grösse und den verschiedensten Gestalten aus dunkelschwarzgrünem Olivin heraus; es zeigt allermeist abgerundete Umrisse und nur selten erscheinen scharfe Ecken. Beim Aetzen treten die schönsten Widmannstätten'schen Figuren auf, die sich aber von denen des Pallas-, Atacama- und Brahin-Eisens wesentlich unterscheiden. Sie sind nicht, wie bei diesen, von einem dünnen Saume ringsum eingefasst, sondern bei jedem Eisentheilchen, das von Olivin umgrenzt wird, erstrecken sich die Figuren in gleicher Richtung bis an die äusserste Grenze fort und erscheinen auch im nächsten Eisentheilchen wieder in gleicher Richtung. Bei Betrachtung der Figuren auf drei senkrecht auf einander stehenden Schnittflächen erkennt man deutlich, dass die ganze Eisenmasse ein einziger Krystall ist. - Magnetkies in kleinen bis über erbsengrossen Partien ist reichlich eingesprengt.
+
+Howard analysirte das Eisen, das aus der Born'schen in die Greville'sche Sammlung übergegangen war und angeblich von Tabor in Böhmen stammte. Er fand:
+
+Eisen 80.  
+Nickel 20.
+
+Stromeyer untersuchte den Olivin. Das Ergebniss seiner Analyse war:
+
+SiO3. FeO. MgO. Mn2O3. Cr,0,. Glühverl. Sa.  
+61,88. 9,12. 25,83. 9,31. 0,33. 0,45. 97,92.
+
+Der 86 1/2 K. schwere Eisenblock von Rittersgrün bei Schwarzenberg in Sachsen wurde erst 1861 durch Breithaupt bekannt, doch schon 1847 wurde er von einem Bauer beim Ackerroden eine Elle tief im Boden gefunden. Kein Schmied und kein Hammerwerk in der Nähe wollte dieses »alte Eisen« gebrauchen können.
+
+Wo sie nicht beschädigt ist hat die Masse eine dicke Rostrinde. Die Brandrinde ist dünn und besteht nach Breithaupt aus Magneteisenstein - dieser könnte aber auch wie bei dem Tolucaeisen sich beim Liegen in der Erde gebildet haben.
+
+Bei der vollkommnen Uebereinstimmung dieses Eisens mit dem von Steinbach in Sachsen ist um so weniger zu zweifeln, dass beide Localitäten demselben Fall angehören, als Rittersgrün und Steinbach nur eine geogr. Meile von einander entfernt sind.
+
+Die Hauptmasse ist in Freiberg, kleinere Stücke besonders in Wien, Berlin und bei Greg, v. Reichenbach und Auerbach, werden aber bald keiner grösseren Sammlung fehlen.
+
+Rube hat das Eisen von Rittersgrün analysirt und gefunden:
+
+Fe. Ni. Co. MgO. CaO. P. SiO3.  
+87,13. 9,63. 0,58. 0,15. 0,25. 1,37. 0,98.
+
+Literatur: Chladni Feuermeteore p. 324-326 erwähnt die verschiedenen Eisenmassen unter verschiedenen Namen, die Partsch p. 91 als von derselben Localität stammend bestimmt. Stromeyer Poggend. Ann. 4, 196. Breithaupt Ztschr. deutsch. Geol. Gesellsch. 13, 148. Rube Berg- und Hüttenmänn. Ztg. 1862, 72.
+
+Bitburg, Provinz Niederrhein, Preussen.
+
+Gefunden 1802, bekannt seit 1814.
+
+Die ursprünglich wohl 1600-1700 K. schwere Eisenmasse wurde 1802 3/4 Stunden von Bitburg auf einer kleinen Anhöhe einige Fuss tief im Boden gefunden. 1807 wurde sie zum allergrössten Theil auf dem Pluwiger Hammer bei Trier eingeschmolzen. Kalt war das Eisen gut hämmerbar, aber die umgeschmolzene Masse nicht. Es bildete sich selbst keine Luppe, als viel gemeines Eisen zugesetzt wurde. Daraufhin wurde es weggeworfen und vergraben. Später, erst 1833, wurde es zum Theil wieder aufgesucht und ausgegraben. So kommt es, dass nur in sehr wenigen Sammlungen von dem ursprünglichen Eisen Stückchen gefunden werden, nämlich in Wien (108,281 Gr.), Berlin (10,329 Gr.), Trier, Gesellsch. nützl. Forschungen (etwa 24 Gr.), New-Haven (32 Gr.); das umgeschmolzene dagegen ist ziemlich verbreitet und besonders in Göttingen, Utrecht, Paris (Mus. Hist. nat.), London, Giessen, Florenz, Frankfurt a. M. (Senkenb. Museum), Würzburg, Leipzig, Heidelberg, Bern und in den Privatsammlungen des Erzh. Stephan auf Schaumburg, des Fürsten Lobkowitz in Bilin, bei Nevill, Neumann, v. Reichenbach, Zimmermann, Auerbach, Greg und Fischer in Hamburg. Es hat das entschiedene Aussehen eines Hüttenproductes, und enthält in den Zwischenräumen Schlacke und selbst grössere Kohleneinschlüsse.
+
+Diese fehlen bei dem ursprünglichen Eisen. Dagegen enthält dieses viele kleine Körnchen einer gelblichen, in's Braune oder Grünliche ziehenden olivinartigen Substanz. Beim Aetzen polirter Flächen erscheinen deutliche Widmannstätten'sche Figuren.
+
+Specifisches Gewicht:  
+6,14 Steininger, ungeschmolzen,  
+6,52 Rumler, ungeschmolzen,  
+6,679 Nöggerath und Bischoff, geschmolzen  
+6,859 Nöggerath und Bischoff, geschmolzen.
+
+Der Nickelgehalt wurde zuerst von Gisss nachgewiesen und von Bischoff und Karsten bestätigt. Vollständigere Analysen lieferten Stromeyer 1. und John 2.
+
+Fe. Ni. Co. Mn. Si. S. SiO3.  
+1\. 81,8. 11,9. 1,0. 0,2. -,-. 5,1. -,-.  
+2\. 78,82. 8,1. 3,0. 4. 0,8. 4,5. 5,5.
+
+Jonn fand noch Al2O3 und Fe203; er will auch Spuren von Selen entdeckt haben.
+
+Literatur: Gilb. Ann. 60, 243. 68, 342. Bischoff Schweigg. Journ. 43, 44, 46, 385. 392.
+
+Provinz Atacama bei dem Dorf San Pedro; Imilac; nach Field 100 Leguas von der Küste von Bolivia, 20 Leguas nördlich vom Hafen von Cobiza, an der Grenze von Chili, Süd-Amerika.
+
+Diese Eisenmassen wurden zu Anfang dieses Jahrhunderts gefunden; Philippi erzählt Ausführlicheres darüber, auch wie es anfangs für Silber gehalten, und wie bekannt wurde, dass es Meteoreisen sei, eifrig gesucht und selbst von Grobschmieden verarbeitet wurde. Jetzt ist es fast ganz verschwunden und nur mit dem grössten Zeitaufwand lässt sich noch etwas davon finden. Die Hauptstelle ist bei Imilac, fast in der Mitte des trockensten und ödesten Theiles der Wüste Atacama. Philippi sammelte (Dec. 1853) 673 Stücke von zusammen nicht 1 1/2 K. Gewicht; das schwerste wog etwa 60 Gr., das kleinste 0,06 Gr. Nimmt man an, dass seine beiden Begleiter ebensoviel fanden und ebensoviel auch liegen blieb, so lässt sich die Menge auf 3000 Stücke schätzen, ungerechnet die vielen grossen Massen, die in den letzten 30 und 40 Jahren fortgeschafft wurden und deren Menge nicht zu bestimmen ist. Das grösste von Philippi gesehene Stück von über 25 K. besitzt Don lcn. Domeyko; es hat eine unregelmässige Gestalt mit ziemlich glatten Flächen und scharfen Winkeln; die verlängerten Enden sind rauh und gekrümmt und zeigen Andeutungen von octaedrischer Krystallisation. Die Masse ist polarmagnetisch und die Pole liegen nahe an den beiden langen Enden. Philippi nimmt nach der Lage der Stücke an, dass das Meteor aus NNO. kam, einige Theile auf seinem Wege fallen liess und dann platzte; die kleinen Theile zerstreuten sich wie Funken an dem Abhang, während die grossen in den Thalgrund fielen oder rollten.
+
+Stücke finden sich in vielen Sammlungen: London (13 K. 600), Paris, Mus. Hist. nat. (3 K.), Wien (3 K. 578), Göttingen (2 K. 202), Copenhagen (1 K. 865), Edinburg (1 K. 560), München (848 Gr.), Berlin (791,88 Gr.), Paris, Ec. des Mines (388 Gr.), Upsala (116 Gr.) und kleinere Massen in Clausthal, Cassel, Stuttgart, Würzburg, Stockholm, Hudson, Tübingen, Heidelberg, Freiburg, Zürich.
+
+In Privatsammlungen: de Luynes in, Dampierre (902 Gr.), Bohn in Kiel (500 Gr.), Ferber in Gera (528 Gr.), Shepard in New-Haven (558 Gr.), Greg in Manchester (484 Gr.), v. Reichenbach in Wien, Jordan in Saarbrücken (114,5 Gr.), Erzh. Stephan auf Schaumburg (112 Gr.) und kleinere bei Rössler in Hanau, Dunker in Marburg, Auerbach in Moskau (50 Gr.), v. Henikstein in Gratz, Neumann in Prag, Zimmermann, Ulex, Meyer und Fischer in Hamburg, Wiser in Zürich. Im Museum zu Angers ist ein Stück zelligen Eisens mit Olivin von Potosi bei Bolivia, das sehr zäh ist und nicht an feuchter Luft oxydirt; es wurde 1839 durch Lieutnant Julien mitgebracht und stimmt höchst wahrscheinlich mit Atacama überein.
+
+Specifisches Gewicht:  
+6,687 Turner,  
+7,89 Field,  
+7,663  
+7,44-7,66 das Metall, Rumler,  
+3,33 der Olivin,  
+7,736 Potosi-Eisen. Morren.
+
+Die kleinsten Exemplare haben die Form von Blättchen, die grösseren sind mehr verzweigt-blättrig mit durchstreichenden Linien wie auf Papier, das in der Hand zusammengeknittert und wieder ausgebreitet wird. Die Oberfläche ist sehr schwarz, bei einigen irisirend. Der Olivin in den Höhlungen ist deutlich zu erkennen; er ist meist sehr zersetzt und in eine weisslichgelbe oder rostrothe und erdige Substanz umgewandelt; unter der Lupe erkennt man kleine glasige oder krystallinische Körnchen, aus denen er besteht. Die Höhlungen sind ziemlich regelmässig, als wenn sich das Eisen in geschmolzenem Zustand zwischen die Olivinkrystalle eingedrängt hätte. Der Durchmesser dieser Höhlungen ist selten bis 15mm und unter 5mm gross. Auf dem Durchschnitt zeigt sich das Eisen in Feldern mit aus- und einspringenden Winkeln und die von Olivin erfüllten Zellen ebenfalls eckig, selten rund. Beim Poliren zeigt sich auch Schwefeleisen in sehr geringer Menge. Die eckigen dunkeln Felder der Widmannstätten'schen Figuren sind durch glänzende Leisten eingefasst und öfter von Linien durchzogen; der grössere Theil des den Rändern näher liegenden Theiles behält seinen Metallglanz.
+
+Chemische Analysen wurden vielfach angestellt, so besonders von
+Allan und Turner 1., Frapoli 2., Field 3., Rivero 4., Morren 5.,
+v. Kobell 6., Schmid 7.
+
+Fe. Ni. Co. Mg. Ca. Na. K. P. Unlösl.  
+1\. 93,40. 6,62. 0,53. -,-. -,-. -,-. -,-. -,-. -,-.  
+2\. 88,01. 10,25. 0,70. 0,22. 0,13. 0,21. 0,15. 0,33. -,-.  
+3\. 87,80. 11,88. Spur. -,-. -,-. -,-. -,-. 0,30. -,-.  
+4\. 90,40. 8,60. -,-. -,-. -,-. -,-. -,-.-,-. 0,30.  
+5\. 90,241. 9,759. (Mittel aus 3 Analysen des Potosi-Eisens.)
+
+Olivin { SiO3, MgO. }  
+SiO3. MgO. FeO. ALO,. Fe2O3. MnO, Mn2O3. KO.  
+6\. 40,79. 47,05. 12,10. 0,02. -,-. -,-. -,-.  
+7\. 36,92. 43,16. -,-. -,-. 17,21. 1,81. 0,59.
+
+Frapoli 2. analysirte ein homogen aussehendes kleines Stückchen.
+
+Field 3. fand in den Höhlungen der Oberfläche kleine bräunlichweisse Krystalle aus Kieselsäure, Kalk, Eisenoxyd, und Phosphorsäure.
+
+v. Kobell 6. fand kein Nickel-, Kobalt- und Manganoxydul, auch nicht wie Runter arsenige Säure.
+
+Schmid 7. lässt die Anwesenheit von Nickel und Arsen zweifelhaft. Nach ihm stimmt der Atacama- und der terrestrische Olivin stöchiometrisch überein.
+
+Literatur: Philippi Petermann Mittheilgn. 1856, 64. Turner Poggend. Ann. 11, 470. Frapoli Jahrb. Mineralogie 1857, 264. Field Journ. pract. Chem. 69, 250. Julien Institut 1839, No. 8. Morren Chron. scientif. I. annee, No. 8. v. Kobell Corresp.-bl. zool. min. Vereins Regensburg 5, 1851, 112. Schmid Poggend. Ann. 84, 501.
+
+Brahin, Gouvernement Minsk, Russland.
+
+Die Fallzeit ist unbekannt. Gefunden wurde das Eisen 1810 (nach Eichwald 1820), bekannt erst 1822 durch Sniadecki. Es waren 2 Stücke, die zusammen etwa 100 K. wogen: der grösste Theil befindet sich jetzt in der Sammlung der Universität zu Kiew (früher in Wilna). Kleinere Fragmente sind in Berlin (454,15 Gr.), London (80,79 Gr.), Wien (18,594 Gr.), Paris (Mus. Hist. nat.) und in den Privatsımmlungen von Ferber in Gera (65,7 Gr.), v. Reichenbach in Wien, Greg in Manchester (28,3 Gr.), de Luynes in Dampierre (11,4 Gr.), Zimmermann in Hamburg (5,58 Gr.) und Neumann in Prag (0,75 Gr.).
+
+Specifisches Gewicht:  
+6,2 Drzewinski,  
+7,58 Rumler.
+
+Das zellige Eisen schliesst ähnlich wie das Pallaseisen Olivin ein. Doch scheint das metallische Eisen, welches das schwammförmige Gerippe bildet, schmalere, weniger ausgedehnte Pärtien zu bilden, als bei Atacama und Krasnojarsk. Wie bei diesen sind die Widmannstätten'schen Figuren von einem schmalen Saume eingefasst, aber die mattwerdenden Mittelfelder verhältnissmässig sehr ausgedehnt und die glänzenden Ränder sehr schmal. Der Olivin, der offenbar vorherrscht, kommt mit dem Pallaseisen überein.
+
+Die Analyse Sniadeckis ist sehr unvollkommen; in deutschen Schriften wurde sie nicht berücksichtigt. Laugier unterschied eine bläuliche I. und eine weissliche Varietät II. und analysirte beide:
+
+Fe. Ni. Cr. S. SiO3. MgO. Verl.  
+I\. 87,55. 2,50. 0,5. 1,85. 6,3. 2,1. -,-.  
+II\. 91,5. 1,5. Spur. 1,0. 3,0. 2,0. 1,00.
+
+Literatur: Laugier Gilb. Ann. 75, 267. Erman Archiv 5, 183. Partsch Meteoriten 90.
+
+Singhur bei Poona, Dekkan, Ostindien.
+
+Dieses sehr zähe dehnbare Eisen wurde 1847 gefunden und wog über 15 K. Es enthält erbsengrosse erdige Einwüchse, daher das specifische Gewicht nur 4,72-4,90 beträgt. Es scheint nur in indischen Sammlungen etwas davon zu sein, die Hauptmasse bei der geographischen Gesellschaft zu Bombay (etwa 15 K.).
+
+Giraud hat eine sehr mangelhafte Analyse geliefert:
+
+Erdige Silikate, Eisen, Nickel.  
+19,53. 69,16. 4,24.
+
+Literatur: Edinb. N. Phil. Journ. 47, 53.
+
+Hainholz, nördlich von Borgholz, SO. von Paderborn, Westphalen, Preussen.
+
+Die Fallzeit ist unbekannt. Gefunden wurde die Masse 1856 von Mühlenpfordt aus Hannover und wog etwa 16 1/2 K. Sie zersprang beim Zerschlagen in mehre schalig abgesonderte Stücke. Die grössten davon hat wohl v. Reichenbach gekauft; ausserdem finden sich Stücke in Wien (1 K. 592, das grösste 840 Gr.), London (680 Gr.), Berlin (529,155 Gr.), Göttingen (177 Gr., Olivin 5,85 Gr.), sowie bei Greg (77 Gr.), Shepard, Auerbach (59 Gr.), Neumann in Prag (44 Gr.) und v. Baumhauer in Amsterdam.
+
+Specifisches Gewicht: 4,61 Wöhler,  
+ohne Einschluss grösserer Eisenknollen: 3,830 Haidinger.
+
+Dem äusseren Aussehen nach ist es ein Steinmeteorit, sehr ähnlich Brauneisenstein, aber durch den hohen Eisengehalt und das bedeutende specifische Gewicht gehört es zu den Uebergangsgliedern der Pallasgruppe. Das Ganze ist sehr fest. Der frische Bruch ist dunkelgrauschwarz oder dunkelgrün bis schwarzgrün, feinkörnig und schliesst stellenweise grüne Olivinkörner und gelbliches Schwefeleisen ein. Beim Anschleifen und Anfeilen tritt überall metallisches nickelreiches Eisen in kleinen Partien hervor. Doch enthält es auch kugelige und elliptische Knollen von Eisen in der Grösse einer Erbse bis einer Kirsche, die sich auslösen lassen. Diese schliessen abermals kleinere Kugeln oder Knollen von Schwefeleisen ein, die mit Schreibersit eingefasst sind. Die Eisenknollen sind fest mit der umgebenden Silikatgrundmasse verwachsen und zeigen Widmannstätten'sche Figuren. Das Eisen der Grundmasse erscheint in kleinen Partien von etwa 2 Linien nach jeder Richtung von vollkommen gleichbleibendem krystallinischen Gefüge, was durch die gleichzeitige Spiegelung sichtbar ist, schliesst aber in seinem Inneren wie in ästiger Durchwachsung Silikattheilchen ein; grössere rundliche Theilchen des letzteren sind noch überdies vorhanden, sowie eckige Theilchen von 1/2-1 Linie. Höchst charakteristisch sind die hochkrystallinischen Olivine mit deutlicher Spaltbarkeit, sie zeigen aber nur einen regelmässigen Umschluss und haben die äussere Krystallform verloren. v. Reichenbach besitzt einen solchen Krystall von 1 3/4 Zoll Länge und 1 1/2 Zoll Breite. Derselbe schliesst aus den merkwürdigen Bestandtheilen auf verschiedene Bildungsepochen und eröffnet die Aussicht auf eine Art von Geologie der Meteoriten mit Nachweisen über die Zeitfolge der Bildung der Bestandtheile.
+
+Eine Analyse ist noch nicht geliefert worden.
+
+Literatur: Wöhler Poggend. Ana. 110, 342. v. Reichenbach ebd. 101, 311. 102, 618. Haidinger Wien. Akad. Ber. 42, 516.
+
+Forsyth, Tanae County, Missouri, Nord-Amerika.
+
+Shepard hat dieses Eisen bekannt gemacht; es ist wie bei Krasnojarsk mit Olivin gemengt und herrscht dieser vor. Es sollen zwei Massen gefunden worden sein, die aber verborgen gehalten werden, weil man. sie für Silber hält. Shepard besitzt etwas davon. Fragmente wurden an einen Probirer in Ducktown, Tenn. und an Prof Swallow in St. Louis zur Untersuchung geschickt.
+
+Specifisches Gewicht: 4,46.
+
+Das Eisen ist sehr weiss, der Olivin schön grün und deutlich krystallisirt. Weiteres ist noch nicht darüber bekannt geworden.
+
+Literatur: Shepard Sillim. Amer. Journ. (2) 30, 205.
+
+Rogue River Mountains, Oregon, Nord-Amerika, etwa 42° 35' nördl. Breite, 123°-124° westl. Länge.
+
+Diese grosse Eisenmasse wurde erst 1859 bekannt. Dr. John Evans fand sie etwa 40 Meilen von Port Orford am stillen Ocean; was zu Tage sichtbar war, schätzte er auf 10,000 K.; der Block hatte 4-5 Fuss horizontalen Durchmesser und 3-4 Fuss Höhe. Nur kleine Stücke wurden davon abgeschlagen; eins davon ist in Wien (3,53 Gr.). Das Ganze sollte der Smithsonian Institution in Washington übergeben werden, doch starb der Entdecker, ehe der Block gefördert war, und so wird er wahrscheinlich für lange Zeit verloren sein.
+
+Es ist eine dichte Eisenmasse mit eingewachsenen grossen Olivinkrystallen; beim Aetzen entstehn Figuren ähnlich wie bei dem Pallas- und Brahineisen.
+
+Jackson in Boston fand bei der Analyse:
+
+Fe. Ni. Sn. und etwas SiO,.
+89. 40,29. 0,729.
+
+Literatur: Boston Soc. Nat. Hist. 7, 161. 174. 175. 279. 289. Haidinger Wien. Akad. Ber. 41, 1860, 572. 44, 1861, Juni 6.
+
+Sierra de Chaco, in der Wüste Atacama, nördl. von Chili.
+
+Durch G. Rose wurde 1863 eine merkwürdige Meteoritenmasse bekannt, von welcher ein Stück von 422 Gr. durch Domeyko nach Berlin kam.
+
+Dieser Meteorit ist verschieden von dem Atacamaeisen, gehört aber auch zu der Uebergangsgruppe und schliesst sich am nächsten an Hainholz an. Wie bei diesem sind metallische Gemengtheile und Silikate in fast gleicher Menge vorhanden; die metallischen sind Nickeleisen und Magnetkies, die Silikate Olivin und Augit. Betrachtet man das Stück auf dem frischen Bruch, so sieht es körnig und im Allgemeinen grünlichschwarz und glanzlos aus; man erkennt nur einzelne grössere Körner von röthlichgelbem Olivin und kleinere schwärzlichgrüne von Augit. Das überall fein eingesprengte Eisen ist hier fast gar nicht wahrzunehmen, vollkommen aber unterscheiden sich die Gemengtheile auf einer polirten Fläche.
+
+Das Eisen tritt stahlgrau, metallglänzend und in grosser Menge hervor. Es ist in feinen Theilen allenthalben mit kleinen Theilen der Silikate gemengt, die überall mit ganz unregelmässigen eckigen und zackigen Oberflächen in einandergreifen und zwischen denen der Magnetkies überall, aber in noch feineren Theilen, durch seine tombakbraune Farbe kenntlich, enthalten ist. Dazwischen treten nun in einzelnen grösseren Körnern Nickeleisen, Olivin und Augit auf. Geätzt zeigen die grösseren Körner des Nickeleisens sehr feine und zierliche Widmannstätten'sche Figuren von einem eigenthümlichen Verhalten; man erkennt darin nicht ein System von Streifen, die einem aus schaligen Zusammensetzungsstücken parallel den Flächen des Octaeders bestehenden Individuum entsprechen, sondern stets mehre; bei einem Korne sind deren drei zu erkennen, die durch eine halbe Linie dickes, nicht gestreiftes Nickeleisen getrennt sind, in welchen nur hie und da kleine Körner oder körnige Partien von Augit liegen. Die kleineren Theile des Eisens zeigen beim Aetzen keine Figuren.
+
+Der Olivin ist von grünlichgelber bis röthlichgelber und brauner Farbe und zuweilen von beträchtlicher Grösse (bis 3/4 Zoll Durchmesser). Er ist zerklüftet und nimmt im Allgemeinen keine so gute Politur an wie der Augit, vielleicht weil er schon etwas zersetzt ist.
+
+Der Augit ist olivengrün, auf der polirten Fläche ganz schwarz und glänzend, in sehr dünnen Splittern aber doch mit grünlichweissem Licht durchsichtig; er ist deutlich spaltbar nach den Flächen des vertikalen Prismas und seiner Quer- und Längsfläche, und so vollkommen, dass sich die Spaltungsflächen ziemlich genau messen lassen. Nickeleisen, sowie in geringer Menge Magnetkies kommen im ÄAugit und Olivin gewöhnlich in sehr feinen Theilen eingemengt vor, was besonders auf Schliffllächen mit der Lupe deutlich zu erkennen ist. Magnetkies in grösseren Körnern fehlt.
+
+Auf dem Bruch sieht man mehre 1/4-1/2 Zoll grosse rundliche Vertiefungen, als wären hier noch kleinere Knollen und Kugeln eingemengt gewesen, wie dies ja auch bei Hainholz der Fall ist. Tröpfchen von Eisenchlorid zeigen sich bis jetzt auf der Oberfläche nicht.
+
+Nach Domeykos Angabe besteht das eingemengte metallische Eisen aus:
+
+Fe 88,5  
+Ni 11,5.
+
+Das Ergebniss weiterer analytischer Untersuchungen wird mitzutheilen versprochen.
+
+Literatur: G. Rose Berl. Akad. Ber. 1863, Jan. 15.
+
+4\. Eisenmeteoriten. Ihre Fallzeit ist allermeist unbekannt.
+
+Sie sind nach der Zeit ihres Auffindens oder Wissenschaftlichen bekanntwerdens geordnet.
+
+Hraschina bei Agram, Croatien, Oesterreich.
+
+1751, Mai 26, Abends 6 Uhr.
+
+Einer der seltenen, wohl beobachteten Fälle von Meteoreisen aus einer Feuerkugel. Mehrere Urkunden und gerichtliche Zeugenverhöre geben genauen Aufschluss über das ganze Ereigniss. Dass die Feuerkugel auch in Hannover gesehen worden, beruht auf einem Irrthum. Sie zog von West nach Ost, detonirte heftig, verbreitete einen starken Rauch, und dann sah man unter stärkstem Krachen und einer Erschütterung wie bei einem Erdbeben zwei Massen niederfallen, die 2000 Fuss von einander in die Erde einschlugen. Die kleinere von etwa 9 K. wurde zerstückelt, vertheilt, zum Theil verschmiedet und ging verloren; die grössere von über 40 K. kam in die k. k. Schatzkammer, 1777 in das k. k. Hof-Naturaliencabinet und befindet sich zum grössten Theil noch in der Wiener Sammlung (39 K. 265,372, 7 St., der grösste 39 K. 200,840). Kleinere Abschnitte sind in London (284,37 Gr.), Berlin (28,155 Gr.), Göttingen (23,38 Gr., 4 St.), Paris, Zürich, Würzburg und Marburg, so wie in den Privatsanımlungen von v. Reichenbach, Teyler in Harlem (39,8 Gr.), Shepard und Greg (4 Gr.).
+
+Specifisches Gewicht:  
+7,73-7,80 v. Schreibers,  
+7,785 Wehrle,  
+7,824 Rumler.
+
+Die Rinde ist auf der einen Seite ein feines, ziemlich glattes, zartes, ganz schwarzes Häutchen, das sich nicht abblättert und ziemlich fest am Eisen hängt; auf der anderen Seite mit weniger, aber grösseren Vertiefungen ist sie viel deutlicher und dicker.
+
+Die ganze Masse ist ein dichtes, derbes, da und. dort mit Magnetkies gemengtes gediegenes Eisen, an welchem 1808 v. Widmannstätten zuerst die merkwürdige Entdeckung machte, dass bei Anlaufen durch Erhitzen und durch Aetzen mit einer Säure bestimmte, nach ihm genannte Figuren entstehen, die für das hohe krystallinische Gefüge solcher meteorischer. Eisenmassen zeugen. Die Widmannstätten'schen Figuren des Agram-Eisens stellen meist gleichseitige Dreiecke dar und treten zum Theil schon bei feinstem Poliren ohne Aetzung hervor, besonders beim Anhauchen.
+
 ...
