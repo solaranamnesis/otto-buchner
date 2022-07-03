@@ -4555,4 +4555,70 @@ Die Rinde ist auf der einen Seite ein feines, ziemlich glattes, zartes, ganz sch
 
 Die ganze Masse ist ein dichtes, derbes, da und. dort mit Magnetkies gemengtes gediegenes Eisen, an welchem 1808 v. Widmannstätten zuerst die merkwürdige Entdeckung machte, dass bei Anlaufen durch Erhitzen und durch Aetzen mit einer Säure bestimmte, nach ihm genannte Figuren entstehen, die für das hohe krystallinische Gefüge solcher meteorischer. Eisenmassen zeugen. Die Widmannstätten'schen Figuren des Agram-Eisens stellen meist gleichseitige Dreiecke dar und treten zum Theil schon bei feinstem Poliren ohne Aetzung hervor, besonders beim Anhauchen.
 
+Die Analyse von Klaproth 1. war die erste, welche überhaupt in Deutschland von einer meteorischen Masse ausgeführt wurde; auch Wehrle 2. und v. Holger 3. analysirten das Agram-Eisen.
+
+Fe. Ni. Co. Mn. Si. Ca. Mg. Al. Sa.  
+1\. 96,50. 3,50. -,-. -,-. -,-. -,-. -,-. -,-. 100,00.  
+2\. 89,784. 8,886. 0,667. -,-. -,-. -,-. -,-. -,-. 99,337.  
+3\. 83,29. 11,84. 1,26. 0,64. 0,68. 0,43. 0,48. 1,38. 100,00.
+
+Die Literatur über dieses Eisen ist sehr ausgedehnt. Haidinger hat in Wien. Akad. Ber. 35, 361. 39, 519 drei Urkunden über das Ereigniss veröffentlicht und interessante Betrachtungen daran geknüpft; v. Schreibers (Stein- und Metallmassen 1820. p. 1.) beschreibt ausführlich die grosse Eisenmasse und bildet sie gut ab. Partsch gibt p. 103 ausser der Beschreibung auch ältere Citate, ebenso Chladni (Feuermeteore p. 116, 245.). Klaproth Gilb. Ann. 13, 339. Wehrle Baumg. Zeitschr. 3, 225. v. Holger ebd. 7, 138.
+
+Senegal, besonders im Lande Siratik und Bambouk, Afrika.
+
+Nicht weit vom rechten Ufer des Senegal finden sich bedeutende Eisenmassen, die schon seit 1763 bekannt sind; die Neger verschmieden sie. Stücke davon finden sich in Wien (514,621 Gr.), Paris, Ecole des Mines (197 Gr.), Berlin (74,303 Gr.), London (10,14 Gr.), Göttingen (1,44 Gr.), so wie in den Privatsammlungen von v. Reichenbach, Shepard, Neumann, Greg und Nevill.
+
+Das Eisen ist derb und dicht, mit wenig fremden Einschlüssen und ohne Höhlungen. Polirte Flächen zeigen heim Actzen keine deutlichen Widmannstätten'sche Figuren, sondern nur kurze feine, nach mehreren Richtungen gekehrte Striche, die sich zuweilen berühren und schneiden und gestrickte oder federartige Zeichnungen bilden. Bei stärkerem Aetzen erhält die Masse ein gekörntes Ansehen und nach verschiedenen Richtungen gekehrte Einschnitte, ist demnach dem Tucumaneisen verwandt.
+
+Literatur: Notizen aus Reisebeschreibungen finden sich in Chladni Feuermet. 333, die Beschreibung bei Partsch 130.
+
+Tucuman, 15 Meilen von Otumpa, in einer öden Kreideebene
+der Provinz Chaco im Gebiet von S. Iago del Estero, unweit des Parunaflusses, Rio de la Plata, Süd-Amerika.
+
+Nur wenige Indianer besuchen diese öde, von Wasser und Nah-
+rungsmitteln ganz entblösste Gegend, wo auf 100 Meilen umher keine
+Eisenerze, keine Berge, selbst nicht Steine angetroffen werden. Nicht
+lange vor 1783 wurde von Indianern daselbst der Block entdeckt und
+
+
+von diesen ein Stück dem Vicekönig von Peru übergeben. Die Regierung beauftragte darauf Don Rubin de Celis mit der nähern Untersuchung und unter gehöriger Bedeckung machte er dahin 1783 eine eigene Reise. »Fünfzehn Meilen von dem berühmten Otumpa«, erzählt er, »in 27°28' südl.Br. fand sich die Masse fast ganz in reiner Asche und Kreide eingescharrt. Auswendig glich sie vollkommen gediegenem Eisen, nicht aber im Inneren, denn als ich Stücke abschlug, entdeckte ich eine Menge Höhlungen, als wenn das Ganze zuerst flüssig gewesen wäre. Diese Vermuthung wurde durch die auf der Oberfläche wahrgenommenen Eindrücke von menschlichen riesigen Händen und Füssen und von Krallen grosser, in der dortigen Gegend gewöhnlicher Vögel bestätigt. Obgleich diese Eindrücke ganz vollständig und überaus deutlich sich zeigten, so halte ich sie doch für ein blosses Spiel der Natur, oder sie befanden sich schon zuvor auf dem Erdboden und theilten sich der herabfallenden flüssigen Eisenmasse mit. Sie hatte die grösste Aehnlichkeit mit einem von Händen und Füssen gekneteten Taig, der mit dem Finger eingedrückt, hernach aber in Eisen verwandelt wurde. Ich schlug mit dem Meissel ein Stück von 12-15 K. ab, verdarb aber dabei über 70 Meissel. Ich liess meine Begleiter rings herum die Erde aufgraben und fand den unteren Theil mit einer 4-6 Zoll dicken Rinde überzogen. Ohne Zweifel war sie durch die Feuchtigkeit entstanden, denn der obere Theil war blank und rein. Die von Erde entblösste Masse liess ich mit Hebebäumen halb umwenden und das alte Lager in einer beträchtlichen Tiefe ausgraben. Die angestellte Untersuchung ergab eine vollkommene Gleichheit zwischen der Erde in der Tiefe und den oberen Schichten. Die Masse selbst, wenn ich auf ihren kubischen Inhalt und das specifische Gewicht des Eisens Rücksicht nehme, muss über 15000 K. schwer sein.« Stücke dieser Masse sind in einigen Sammlungen, das grösste in London (635 K. 628), kleinere in Copenhagen (2 K. 226), Wien (439,148 Gr.), Berlin (193,022 Gr.), Paris (Mus. Hist. nat.), Göttingen, so wie in den Privatsammlungen von de Luynes in Dampierre (616 Gr.), Zeidler in Prag (306 Gr.), Greg (46,5 Gr.), v. Reichenbach und Shepard. Der grössere Theil der Masse mag wohl noch an seinem Platz liegen. Nach Rubin de Celis soll sich nach Versicherung der Eingeborenen in einer der fast undurchdringlichen Waldungen der dortigen Gegend noch eine ähnliche Masse von ästiger Gestalt befinden, die vielleicht Bougainville gesehen hat.
+
+Specifisches Gewicht:  
+7,60-7,65 v. Schreibers,  
+7,64 v. Widmannstätten,  
+7,595 Rumler.
+
+Das Eisen ist derb und dicht, schr dehnbar, leicht zu hämmern und zu feilen und enthält oft grössere und kleinere Höhlungen, die zuweilen ganz oder theilweise mit Schwefeleisen ausgefüllt sind. Am grossen Eisenblock in London sind 7 bis 8 grössere und kleinere röhrenförmige Vertiefungen über denselben zerstreut, an welchen eine parallele Lage nicht deutlich zu erkennen ist; stellenweise enthalten sie auch Reste von Magnetkies. Dieser ist auch in kleineren Partien durch die Masse zerstreut; de Dree will unter dem Mikroskop auch olivinartige Körner gesehen haben. Auf den Bruchflächen zeigt sich krystallinische Structur, parallel den Flächen des Octaeders; auf polirten Flächen erscheinen kurze, nach verschiedenen Richtungen gekehrte, linienförmige Einschnitte. Bei schwachem Aetzen polirter Flächen erscheinen keine eigentlichen Widmannstätten'schen Figuren, sondern nur kurze, etwas erhöhte Linien, die nach mehreren Richtungen gekehrt sind, sich auch berühren und gegenseitig schneiden und dem Ganzen ein gestricktes oder federartiges Ansehen verleihen, je nachdem sich die Striche unter rechten oder schiefen Winkeln berühren oder schneiden. Bei starkem Aetzen wird die Oberfläche körnig und ist von tiefen Einschnitten nach verschiedenen Richtungen durchkreuzt.
+
+Am meisten scheint es mit dem Eisen von Senegal verwandt.
+
+Howard analysirte dieses Eisen zuerst und fand einen Nickelgehalt von 10%. Auch Proust bestätigte die Gegenwart von Nickel. Doch wäre eine genauere Analyse sehr wünschenswerth. Stromeyer analysirte einen Olivin angeblich aus diesem Eisen, doch liegt hier ein Irrthum vor, denn das Otumpaeisen ist nicht eine » der Pallasischen sehr ähnliche ästige Eisenmasse.« Seine Analyse stimmt mit der des Pallasolivins fast genau überein und wird er letzteres Mineral zweimal, aber einmal unter falschem Namen, analysirt haben.
+
+Literatur: Rubin de Celis Philos. Transact. 78, 1788, P. 1. p. 37. Howard Gilb. Ann. 13, 319. Proust Journ. de Phys. 6, 148. de Dree Gilb. Ann. 50, 266. v. Reichenbach Pogg. Ann. 115, 629. Stromeyer ebd. A, 195.
+
+Sierra blanca, drei Meilen von Villa nueva de Huajuquillo und zwölf Meilen von dem Dorfe San Bartolome, Mexiko.
+
+Schon 1784/5 erwähnt die Gazeta de Mexico das Vorkommen von Eisen in der Gegend. Burkart hat vier Orte in der Nähe der Sierra blanca als Fundpunkte von Meteoreisen bezeichnet; der eine ist nach der Gaz. de Mex. beiHuajuquillo, der zweite nach Barlett auf dem Landgut Goncepcion, der dritte nach Weidner am südwestlichen Rande des Bolson de Mapimi und der vierte nach Berlandier auf dem Landgut Venagas, alle in der Richtung des Weges von Durango nach Chihuahua. An demselben Wege soll nach Weidner am Rande des Bolson de Mapimi auf deın Landgut Rio Florido eine Eisenmasse sich finden, und Hardy erwähnt eine solche im Städtchen San Gregorio. Von letzterer Masse sollen von einem Italiener etwa 1 1/2 K. mit ungeheurer Mühe und grossem Kostenaufwand abgelöst worden sein. Ueber die geographische Lage dieser Orte, mit Ausnahme der Hacienda Venagas, gibt Burkart Auskunft. Es scheint nur ein Stückchen seinen Weg in die Sammlungen gefunden zu haben; Berlin besitzt ein solches (175,263 Gr.), das früher in der Bergemann'schen Sammlung war. Es soll von Villa nueva de Huajuquillo stammen und zeigt deutliche Figuren beim Aetzen.
+
+Die von Barlett beschriebene Masse der Hacienda Concepcion, etwa 2 Meilen von Zapata (Zapote?), im Staat von Chihuahua hat eine unregelmässige Gestalt und soll etwa 1900 K. wiegen. Auf der einen Seite sind meist runde, tiefe Höhlungen, auf der anderen ist es weniger rauh, aber ebenso unregelmässig. An seinem unteren Ende ragt eine Stelle armartig vor. In Wien ist ein Splitter davon.
+
+Literatur: Burkart N. Jahrb. Mineralogie 1856, 278. 1858, 770. Smith Sillim. Amer. Journ. (2) 19, 163. Die Abb. daselbst vielfach, auch bei Burkart l. c. copirt.
+
+Xiquipilco im Thal von Toluca, in der Jurisdiction von Istlahuaca, Mexiko.
+
+Das Eisen von da ist seit langer Zeit bekannt und findet sich unter sehr verschiedenen Namen in den Sammlungen (Ocatitlan, Hocotitlan, Tejupilco, Tepetitlan, Mayorazgo, Gavia, Bata, Mani, Sizipilec ausser den oben angeführten Namen, die am richtigsten sind).
+
+Schon die älteren Nachrichten (1784) erwähnen, dass das Eisen von Xiquipilco in einzelnen Massen von verschiedener Grösse und Schwere auf den Fluren des genannten Dorfes sich finde und dort von den Indianern aufgesucht und zu Ackerbau - und anderem Geräthe verschmiedet werde. Obgleich auf diese Weise jedenfalls viel dieses merkwürdigen Minerals verschwand, viel auch im Laufe der Zeit in wissenschaftliche Hände überging, so konnten doch, als Krantz 1856 das Tolucathal nach Eisen durchsuchen liess, noch 69 Stücke im Gewicht von 49 1/4 K. aufgefunden werden. Es entspann sich vielfach Dehatte darüber, ob diese vielen und grossen Eisenmassen von einem und demselben Fall herrührten; besonders erklärte sich Bergemann gegen diese Ansicht, weil die verschiedenen Massen verschiedene Zusammensetzung haben; doch hält Wöhler es für sicher, dass alle Meteoreisen unter den angeführten verschiedenen Namen von Xiquipilco und von demselben Falle abstammen. Jedenfalls muss ein ungemein reicher Schauer von Eisen gefallen sein, doch über die Zeit hat man nicht einmal Andeutungen. Die Massen fanden sich über einen ziemlich grossen Raum verbreitet, auf fast 3 Meilen in der Länge von NW. nach SO., theils in der Dammerde der Gehänge, theils unter dem Gerölle der Schluchten, doch kann nicht angenommen werden, dass deren geringe Wassermenge die schweren Blöcke etwa fortgerollt hätten. Die ersten grösseren Massen daher kamen im Herbst 1853 nach Europa an Krantz; jetzt finden sich Stücke fast in allen Sammlungen, namentlich in Göttingen (6 K. 414), Darmstadt (etwa 5 K.), London (4 K. 501), Berlin (4 K. 272), Freiberg (3 K. 020), Basel (2 K. 750), Harlem, Gesellsch der Wissensch. (1 K. 356), München (1 K. 277), Wien (1 K. 169,8) und kleinere in Paris (Mus. Hist. nat. und Ecole d. Mines), Upsala, Heidelberg, Copenhagen, Giessen (Realsch.), Clausthal, Tübingen, Hudson und Bonn.
+
+Von Privaten besitzen wohl die grössten Stücke: G. Stein in Darmstadt (fast 100 K.), Vaux in Philadelphia (etwa 5 K.), Greg (3 K. 850), v. Reichenbach, Shepard, Jordan in Saarbrücken (2 K. 478), de Luynes (1 K. 888) ; kleinere finden sich in den Sammlungen von Zeidler, Neumann in Prag, Ferber in Gera, Nevill, Wiser in Zürich, Zimmermann in Hamburg, v. Babo in Freiburg im Breisgau, Phoebus in Giessen.
+
+Specifisches Gewicht:  
+7,07-7,38 Burkart,  
+7,60-7,67 v. Schreibers,  
+7,728 Rumler.
+
+Die Oberfläche ist meist mit einer ziemlich dicken Rostrinde, ähnlich dichtem Brauneisenstein und theilweise Brauneisenocker, bedeckt; auf einem Stück in München hat sich Limonit gebildet; Krantz fand an einigen Stücken, die er erhielt, Magneteisen theils derb, theil in scharfen glänzenden Octaedern und Dodecaedern in drusenartigen Vertiefungen; jedenfalls hat sich auch dieser Körper erst beim Liegen auf der Erde gebildet.
+
+G. Rose bemerkte in der Rostrinde einen ganzen Quarzkrystall von 1/3 Linie Länge (das erste Auftreten von Quarz bei Meteoriten) und noch ein Bruchstück eines solchen; dass es wirklich Quarz war, wies er nicht nur durch Winkelmessung, sondern auch durch Schmelzen mit Soda nach; nach dem Ablösen derselben blieb ein glattflächiger Eindruck auf der Rostrinde. Auf anderen Stücken suchte Rose vergebens nach Quarz, doch nimmt er ihn als darin ursprünglich eingewachsen an. An einem faustgrossen Stück seiner Sammlung fand v. Reichenbach auf der einen Seite angehäufte Brandrindensubstanz, ähnlich Frischschlacke; sie ritzt Glas, ist hell durchsichtig, nelkenbraun und enthält hier und da Flitter von Eisenfadenkrystallen. An manchen Stücken sind auf der Oberfläche auch Tröpfchen von Eisenchlorid bemerkt worden, so wie ziemlich grosse Blättchen von metallglänzendem, gelblichweissem Schreibersit und Einfachschwefeleisen in graulichgelben oder tombakbraunen Partien.
+
 ...
