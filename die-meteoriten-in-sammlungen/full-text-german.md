@@ -4621,4 +4621,202 @@ Die Oberfläche ist meist mit einer ziemlich dicken Rostrinde, ähnlich dichtem 
 
 G. Rose bemerkte in der Rostrinde einen ganzen Quarzkrystall von 1/3 Linie Länge (das erste Auftreten von Quarz bei Meteoriten) und noch ein Bruchstück eines solchen; dass es wirklich Quarz war, wies er nicht nur durch Winkelmessung, sondern auch durch Schmelzen mit Soda nach; nach dem Ablösen derselben blieb ein glattflächiger Eindruck auf der Rostrinde. Auf anderen Stücken suchte Rose vergebens nach Quarz, doch nimmt er ihn als darin ursprünglich eingewachsen an. An einem faustgrossen Stück seiner Sammlung fand v. Reichenbach auf der einen Seite angehäufte Brandrindensubstanz, ähnlich Frischschlacke; sie ritzt Glas, ist hell durchsichtig, nelkenbraun und enthält hier und da Flitter von Eisenfadenkrystallen. An manchen Stücken sind auf der Oberfläche auch Tröpfchen von Eisenchlorid bemerkt worden, so wie ziemlich grosse Blättchen von metallglänzendem, gelblichweissem Schreibersit und Einfachschwefeleisen in graulichgelben oder tombakbraunen Partien.
 
+Das Innere zeigt keine Höhlungen. Auf den grossblättrig-krystallinischen Bruchflächen zeigt das Eisen octaedrische Spaltbarkeit und ist zinnweiss; Magnetkies, steinige Körper, unreine Olivine von Mohnkornbis Bohnengrösse und Knollen von Graphit sind darin eingelagert; letzterer tritt in derben Partien und stets mit Schwefeleisen zusammen auf und dringt tief in das Innere der Masse ein. Ein von Taylor untersuchtes Stück enthielt eine kleine Kugel von Magnetkies, wie wenn sie in das erweichte Eisen eingedrückt worden wäre; sie war zum Theil zersetzt und hinterliess in Salzsäure dünne Blättchen von Schreibersit und eine geringe Menge von Chromeisen.
+
+Ein Stück in der Berliner Sammlung zeigt das regelmässige Gefüge schon ohne alle Aetzung auf seiner wie gehackt aussehenden Oberfläche. Die Widmannstätten'schen Figuren erscheinen beim Aetzen sehr schön und deutlich; ihre Linien durchkreuzen sich in drei vorherrschenden Richtungen; charakteristisch sind feine Linien einer blassgelblichen, metallischen Substanz von besonderem Glanz, die auch schon auf der ungeätzten polirten Fläche deutlich sichtbar sind. Es ist dies Schreibersit.
+
+An einer anderen über fussgrossen Platte sind viele grosse Einschlüsse von Magnetkies oder von Einfachschwefeleisen (FeS), so wie von Graphit sichtbar, die alle mit einer speisgelben metallischglänzenden Hülle umgeben sind, die v. Reichenbach irriger Weise für Schwefelkies hält, der aber in den Meteoriten sehr wahrscheinlich gar nicht vorkommt. Das Eisen ist nicht passiv.
+
+Analysen wurden mehrfach geliefert. John 1. untersuchte ein Meteoreisen aus Mexiko, ohne genauere Angabe des Fundortes, vielleicht aus dem Tolucathal. Klaproth 2. und Berthier 3. bestimmten nur den Nickelgehalt. Taylor lieferte zwei Analysen 4., 5. Bergemann untersuchte ein Eisen angeblich von Ocatitlan 6. Böcking solche von Xiquipilco 7., Istlahuaca 8. und Tejupilco 9., Pugh Theile der etwa 110 K. schweren 10., 11., so wie der fast 10 K. schweren 12., 13., 14. bekannten Massen von Gust. Stein; Uricoechea 15. benutzte Sägespäne; v. Babo 16. untersuchte ein Stück angeblich von Sizipilec im Tolucathal, und Nason 17. eins von Xiquipilco.
+
+Fe. Ni. Co. X. P. S. Cu. +. Mn. Si.  
+1\. 91,5. 6,5. 2,0. -,-. -,-. -,-. -,-. -,-. -,-. -,-.  
+2\. 96,75. 3,25. -,-. -,-. -,-. -,-. -,-. -,-. -,-. -,-.  
+3\. 91,83. 8,62. -,-. -,-. -,-. -,-. -,-. -,-. -,-. -,-.  
+4\. 90,72. 8,49. 0,44. 0,38. 0,18. -,-. -,-. -,-. -,-. 0,25.  
+5\. 90,37. 8,79. -,-. 0,91. -,-. -,-. -,-. -,-. -,-. -,-.  
+6\. 85,49. 8,17. 0,56. -,-. Sp. -,-. Sp. 5,00. -,-. -,-.  
+7\. 86,07. 9,02. 0,77. 1,01. -,-. 0,39. Sp. 0,97. Sp. -,-.  
+8\. 89,07. 7,29. 0,98. 0,97. -,-. 0,86. Sp. 0,04. Sp. -,-.  
+9\. 87,09. 9,80. 0,77. 0,73. -,-. 0,79. 0,01. 0,02. -,-. -,-.  
+10\. 90,43. 7,62. 0,72. 0,56. 0,15. 0,03. 0,03.* 0,34. -,-. -,-.  
+11\. 90,08. 7,10. -,-. -,-. -,-. -,-. -,-. 1,24. -,-. -,-.  
+12\. 87,89.++ 9,06. 1,07. 0,34. 0,62. -,-. Sp.* 0,22.+* 0,20. -,-.  
+13\. 88,28. 8,90. 1,04. 0,34. 0,78. -,-. -,-. 0,22.+* 0,20. -,-.  
+14\. 87,88. 8,86. 0,89. -,-. 0,86. -,-. -,-. 0,24.+* 0,20. -,-.  
+15\. 90,40. 5,02. 0,04. 2,99. 0,16. Sp. Sp. 1,11.+++ Sp. -,-.  
+16\. 91,89. 6,32. 1,58. -,-. -,-. -,-. -,-. -,-. Sp. -,-.  
+17\. 90,13. 7,24. Sp. -,-. 0,37. Sp. -,-. 0,22. -,-. -,-.
+
+X. = Schreibersit.  
++ Unlösliches.  
+* Mit Sn und O.  
+++ Mit Spuren von Cu und Sn.  
++* Graphit und Mineralarten.  
++++ Mineralarten.
+
+Spuren von Cr in 1., 3. und 7.; von Mg in 6. und von Sn in 15.
+
+Taylor 4., 5. betrachtet den durch Salzsäure unzersetzten Theil als Magnetkies (FeS): specifisches Gewicht 4,822; Zusammensetzung:
+
+S. Fe. Ni. Co. Si. P.  
+33,76. 57,95. 6,70. 0,56. 0,05. 0,25.
+
+Nach Bergemann 6. besteht das Unlösliche aus:
+
+Schreibersit und eisenhaltiger Kohle.  
+4,93. 0,07.
+
+(P 0,17. Ni 0,46. Fe 4,22.)
+
+Bei 7. bestand nach Böcking das Unlösliche aus weissen und hellgelben, in's Röthliche übergehenden Mineralsubstanzen ohne alle Graphitblättchen; bei 8. aus einem gelblichen Mineral, wahrscheinlich Olivin, und Graphitblättchen; bei 9. grösstentheils aus kleinen gelben Krystallfragmenten und sehr wenig Graphitblättchen.
+
+Pugh 11. fand bei 1,24 Unlöslichem auch Schreibersit und Graphit. Die Rinde bestand nach seiner Analyse aus:
+
+Fe2O3. HO. (Ni, Co)O. FeO. Fe. Silikate.  
+32,75. 13,27. 5,751. 19,309. 18,717. 10,203.
+
+so wie Spuren von Graphit, Kalk, Chlor und Ammoniak.
+
+Pugh erhielt beim Lösen der Proben des zweiten Stücks 12-14. in Salzsäure keinen Schwefelwasserstoff; es blieb 0,568-1,58%, eines schwarzen unlöslichen Rückstandes aus Schreibersit, Graphit und durchscheinenden Körnchen von einem farblosen, einem rubinrothen und einem grünlichen Mineral.
+
+Uricoechea 15. fand das unlösliche Mineral unter dem Mikroskop aus farblosen, grünlichen, rubinrothen und himmelblauen Körnchen bestehend, ähnlich wie bei dem Eisen von Rasgata.
+
+Nach v. Babo 16. ist die Spur Mangan kaum nachweisbar.
+
+Aus den Analysen geht hervor, dass das Tolucaeisen sehr ungleich gemengt ist; da nur sehr kleine Mengen der Analyse unterworfen werden, so können die Resultate nicht übereinstimmen.
+
+Literatur: Burkart N. Jahrb. Min. 1856, 297. Bergemann Poggend. Ann. 100, 245. Krantz ebd. 101, 252. v. Reichenbach ebd. 102, 621. 103, 643. 111, 363. G. Rose ebd. 113, 184. Wöhler Wien. Akad. Ber. 20, 217. Uricoechea Ann. Chem. Pharm. 91, 249. Jordan ebd. 101, 356. Taylor Sillim. Amer. Journ. (2) 22, 374. v. Babo Verh. Freiburg. naturforsch. Gesellsch. 1858, 1, 256.
+
+Flüsschen Bemdego, nördlich von Monte Santo, Capitanie Bahia, Brasilien.
+
+Diese berühmteste Eisenmasse Südamerikas wurde 1784 von Domingos da Mota Botelho in einer ausgedehnten Ebene entdeckt, welche ohne Abwechselung mit dürren eintönigen Waldungen bedeckt ist; man hielt sie anfangs für Silber, legte sie nach dem Ausgraben mit unendlicher Mühe auf eine Seite und lud sie gegen Ende des Jahres 1785 auf einen besonderen niederen Wagen, vor welchen 140 Ochsen gespannt wurden. So brachte man ihn 150 Schritte weit bis zum ausgetrockneten Bette des Baches (Riacho) von Bemdegö, wo ihn im Januar 1811 Mornay noch auf dem Wagen liegend fand. Auch Spix und Martius fanden den Block noch da liegend, und unterdess hat ihn Niemand fortgetragen. Er ist 80 Par. Zoll lang, 43 1/2 Par. Zoll breit, 34 Par. Zoll dick und wiegt nach der Schätzung von Mornay über 6300 K., nach der von Martius über 9600 K. Es wurden viele vergebliche Versuche gemacht, Stücke davon abzuschlagen. Das Arbeiten mit Sägen, Meisseln und Hämmern war umsonst. Vorher schon hatte ein Handwerker alle hervorragenden Theile abgeschlagen und sie verarbeitet. Martius konnte nur nach der ausserordentlichsten Anstrengung der Arbeiter ein paar Stücke von einigen Kilo erhalten. Diese, so wie die von Mornay erworbenen Stücke sind jetzt hauptsächlich in folgenden Sammlungen: München (3 K. 675, das grösste 3 K. 115), London (2 K. 491), Wien (2 K. 317,7, das grösste 1 K. 933,79), Göttingen (315 Gr.), Petersburg, Akad. der Wissensch. (25 Gr.), Berlin (19,992 Gr.), Erlangen (18,312 Gr.), Copenhagen, Univ. (5 Gr.), so wie bei v. Reichenbach, Shepard, Greg (46 Gr.), Ferber in Gera (16,7 Gr.) und Neumann in Prag (10,15 Gr.).
+
+Specifisches Gewicht:  
+7,73 v. Martius,  
+7,731 Fickentscher,  
+7,488 Rumler.
+
+Auf der Oberfläche, die mit einer Rostrinde bedeckt ist, sind Gruben und Löcher, in welche Quarzstücke eingekeilt sein sollen. Das Eisen selbst hat eine weissere Farbe und lebhafteren Glanz als das von Elbogen, ist nicht so zäh, spröder und springt in Körnern mit mehreren spiegelartig glänzenden Flächen. Schon Wallaston, dem Mornay ein Stück schickte, bemerkte, dass es nach octaedrischen und tetraedrischen Flächen spaltbar ist. Obgleich der ganze Block magnetische Pole zeigt, so sind die Bruchstücke doch nicht polarmagnetisch. Bei feuchter Luft schwitzen Tröpfchen von Eisenchlorid aus.
+
+Das Eisen schliesst stellenweise Magnetkies auch in deutlichen Kegeln ein, so wie wahrscheinlich auch, wenn auch selten, das schwarze graphitartige Mineral, das sich auch im Bohumilitzeisen findet; auch die beim Aetzen auftretenden Figuren sind denen bei Bohumilitz ähnlich, die Zwischenfelder sind aber noch seltener vorhanden, die feinen Linien auf den breiten Streifen weniger regelmässig und auch die Einfassungsleisten weniger deutlich; die Felder, die den metallischen Schimmer zeigen, sind bei Bemdego grösser als bei Bohumilitz.
+
+Die Analyse von Wollaston 1. ist sehr ungenau, besser die von Fickentscher 2., der auch annähernd genau das Unlösliche analysirte 3. Auch die für Rindensubstanz gehaltene Kruste oder Schale wurde von Wollaston 4. und Fickentscher 5. untersucht.
+
+Fe. Ni. Unlösl. Verl.  
+1\. 95,1. 3,9. -,-. -,-.  
+2\. 91,90. 5,71. 0,46. 1,93.  
+
+Fe. Ni. Unlösl. Verl. Si. C.  
+3\. 0,16. 0,14. -,-. -,-. 0,06. 0,10. = 0,46. Unlösl.  
+
+Fe2O3. NiO. Mn2O3. SO3. SiO3. Al2O3. Verl.  
+4\. 95,9. 3,1. -,-. -,-. -,-. -,-. 1,0.  
+5\. 87,60. 3,8. Sp. 0,28. 1,03. Sp. 8,62.*
+
+*) Der Verlust war Wasser, das beim Glühen entwichen war.
+
+John fand ausser von Mangan auch von Kupfer Spuren.
+
+Literatur: Mornay und Wollaston Gilb. Ann. 56, 355. John ebd. 68, 343. v. Martius Reise in Brasilien, München 1828. 2, 376. Daselbst auch Fickentschers Analyse und eine Abb. der ganzen Masse.
+
+Zacatecas, Mexiko.
+
+Diese Eisenmasse soll »seit undenklichen Zeiten «in einer Strasse von Zacatecas liegen. Sonneschmid machte zuerst 1792 darauf aufmerksam. Der Volkssage nach soll sie „aus dem Norden« nach Zacatecas gebracht worden sein; doch kann sie, wie Burkart nachweist, nicht wie das Eisen von Charcas von San Jose del Sitio stammen; beide Eisen sind verschieden. Das von Zacatecas ist 4 1/2 Fuss lang, 2 1/4' breit und im Mittel etwa 3/4 Zoll dick und wiegt etwa 1000-1200 K. Die eine Seite ist erhaben, auf der anderen sind einige Vertiefungen. Stücke davon sind in ziemlich vielen Sammlungen, besonders in London (3 K. 714), Berlin (2 K. 419), Heidelberg (1 K. 875), Wien (576,965 Gr.), München (376,3 Gr.), Paris, Mus. Hist. nat. (154 Gr.) und kleinere in Göttingen, Calcutta, Stuttgart, Mannheim und Copenhagen; ferner in Privatsammlungen: Brice Wright in London (etwa 9 K.), v. Reichenbach (etwa 6 K.), Greg (748 Gr.), Erzh. Stephan auf Schaumburg (etwa 200 Gr.), Shepard (147 Gr.), Zimmermann in Hamburg (128 Gr.) und kleinere bei Ulex in Hamburg, Rössler in Hanau, de Luynes in Dampierre, NevizL in London.
+
+Specifisches Gewicht:  
+7,2-7,625 Sonneschmid,  
+7,550 Rumler,  
+7,48 Bergemann,  
+7,5 Burkart.
+
+Das Eisen ist derb und dicht, weich, zäh, schwer zu brechen, auf dem Bruch blätterig, hackig oder feinkörnig; besonders ausgezeichnet ist es durch die ungewöhnlich reichen Einlagen von durch die ganze Masse zerstreuten runden, linsen- oder wurmförmigen Partien von dunkelbroncefarbigem Schwefeleisen. Dieses bildet in grösseren Stücken ein unvollkommenes netzförmiges Geflechte. Die grösseren Partien sind überall mit v. Reichenbachs Balkeneisen rundum eingehüllt, dessen äussere, vom Kern abgerundete Seite in allen möglichen Wulsten und Ausbuchtungen sich zeigt. Partsch nimmt an, dass zwei verschiedene Eisenkiese auftreten, weil an grösseren polirten Kiesflecken eine doppelte Farbenverschiedenheit und Dichtigkeit zu unterscheiden ist und diese auch mit verschiedenen Farben anlaufen. Das Eisen durchziehen zickzackförmige Sprünge, und auf gut polirten Flächen werden in dem Eisen feine, etwas vertiefte Linien sichtbar, die, nach verschiedenen Richtungen ziehend, sich oft berühren und schneiden. Diese treten noch deutlicher beim Aetzen hervor; dabei entstehn keine eigentlichen oder nur undeutliche Widmannstätten'sche Figuren, die ganz verschieden sind von denen in anderen mexikanischen Meteoreisen und eher dem Moire metallique bei Zinn ähnlich sind. Zwischen den geraden und langen Linien von Schreibersit, die zum Theil parallel laufen, entstehen viereckige Felder mit feinen Punkten und Strichelchen, die unter sich selten parallel sind und meist nach allen Richtungen und oft fast strahlenförmig auseinander laufen.
+
+Das Eisen ist nicht passiv.
+
+Analysen liegen vor von Bergemann und Müller, die, wie bei der Natur des Eisens nicht anders zu erwarten ist, von einander abweichen.
+
+Bergemann fand in zwei Analysen:
+
+Fe. Ni. Co. Mn. Cu. +. Mg. S. C.  
+85,094. 9,895. 0,668. Sp. 0,03. 1,482. 0,187. 0,845. {0,334.* 0,164.**}  
+85,42. 9,73. 0,44. Schreibersit 1,05. -,-. -,-. -,-. -,-.
+
++ Chromeisenstein.  
+* Eisenhaltig.  
+** Eisenfrei (Graphit).
+
+Unlöslich sind 1,649 Phosphornickeleisen. Danach wäre das Eisen zusammengesetzt aus:
+
+Nickeleisen, Magnetkies, Chromeisen, Schreibersit und Kohle.  
+93,77. 2,27. 1,48. 1,65. 0,49.
+
+Müller fand bei drei Analysen:
+
+Fe. Ni. Co. P. S. SiO3. Cu. Mg. X.  
+89,84. 5,96. 0,62. -,-. 0,13. -,-. -,-. -,-. 3,08.  
+91,30. 5,82. 0,41. 0,25. -,-. -,-. Sp. Sp. 2,19.  
+90,91. 5,65. 0,42. 0,23. 0,07. 0,50. -,-. -,-. 2,17.
+
+X. Unlöslich in verdünnter Salzsäure.
+
+Chrom, Arsen und Mangan konnten nicht nachgewiesen werden. In dem Unlöslichen liess sich ein hellglänzender Körper erkennen, der unter dem Mikroskope keine bestimmte Form zeigte und alle Eigenschaften des Schreibersit hatte. Dieser und ein leichterer, schwarzer, flockiger Körper folgten dem Magnet. Die schwarze flockige Masse löste sich vollständig in concentrirter Salzsäure, und es wurde nachgewiesen, dass in dem untersuchten Stück keine Spur von Graphit oder gebundenem Kohlenstoff enthalten seien. Der Schreibersit wurde analysirt und bestand aus:
+
+Fe. Ni. P.  
+75,02. 14,52. 10,23.
+
+Müllers Analyse erscheint zuverlässiger, als die von Bergemann. Auch v. Reichenbach bezweifelt die Gegenwart von Kohlenstoff und hält ihn für wohl zufällige Beimengung.
+
+Literatur: Burkart N. Jahrb. Min. 1856, 288. Sitzungsber. Niederrhein. Gesellsch. Bonn, 16, 1859, 86. Partsch Meteoriten 122. v. Reichenbach Poggend. Ann. 111, 364. 114, 125. Bergemann ebd. 100, 245. Müller Chem. Soc. Quart. Journ. 11, 236 (da auch gute Abb. einer geätzten Fläche in Naturselbstdruck).
+
+Bergemann und Burkart stritten dabei um die Frage, ob das von Manross untersuchte Meteoreisen von unbekanntem Fundort von Zacatecas sei oder nicht. Dieses Eisen (etwa 6 Gr.) kam aus Stromeyers Nachlass an Wöhler; es zeigt keine eigentlichen Widmannstätten'schen Figuren, sondern nur einige Gruppen von parallelen Linien, welche bei zurückgeworfenem Licht einen besonderen Glanz erzeugen. Manross fand darin:
+
+Fe. Ni, Co. Sn. Schreibersit.  
+92,33. 7,38. 0,03. 0,43.
+
+Literatur: Wöhler Nachr. k. Gesellsch. der Wissensch. Göttingen 1852, No. 1, Jan. 26.
+
+Cap der guten Hoffnung, zwischen Sonntags- und Boschemansfluss, Süd-Afrika.
+
+Diese Eisenmasse wurde 1793 in einer wüsten Gegend, von zwei Fuss Dammerde bedeckt, gefunden und seit 1801 durch Barrow, v.Dankelmann Und van Marum bekannt. Sie kam nach Harlem in das Museum der holländischen Gesellschaft der Wissenschaften und wiegt etwa 85 K., doch wird sie dort irrthümlich nicht für meteorisch gehalten! Vorher aber wurde schon viel abgeschlagen und verschmiedet, so dass man das ursprüngliche Gewicht wohl auf 175 K. anschlagen kann. Sowerby liess aus einem von Barrow nach England gebrachten Stück für den Kaiser Alexander von Russland einen Degen schmieden. Stücke dieses Eisens finden sich besonders in Wien (765,091 Gr., das grösste 600 Gr.), London (469 Gr.) und kleinere Stücke in Göttingen, Heidelberg, Trier, und den Privatsammlungen von Greg (60 Gr.), v. Reichenbach, Shepard und Nevill.
+
+Specifisches Gewicht:  
+7,604 van Marum,  
+7,708 v. Dankelmann,  
+6,635-7,944 Rumler,  
+7,665 Wehrle,  
+7,318 v. Widmannstätten,  
+der weisse Antheil: 7,633-7,877 v. Schreibers,  
+der graue Antheil: 6,655-6,926 v. Schreibers.
+
+Das Eisen war auswendig mit einer braungelben Rostrinde bedeckt und hat seiner Hauptmasse nach die Gestalt einer wenig dioken Platte, ist flach, wie hingegassen, auf den beiden Oberflächen ungleich, wellig, rauh und es sieht aus, als wenn sie ein Theil einer grösseren Schicht gewesen wäre. Hauptsächlich dieser Gestalt wegen, die doch einigermassen mit der des Agrameisens (p. 135) übereinkommt, wird das Capeisen von van Breda in Harlem nicht für meteorisch angesehen.
+
+Das Eisen ist derb und dicht, mit wenig und meist fein eingesprengtem Magnetkies. Eigentliche Widmannstätten'sche Figuren entstehen beim Aetzen nicht; man sieht nur, wenn die Fläche in bestimmter Weise das Licht zurückwirft, über die graue, sehr fein gekörnte Fläche schmalere und breitere, gerade und gekrümmte breite Bänder hinziehen; einige Stellen nehmen beim Paliren weniger Glanz an und erscheinen dann als Streifen, die von der Oberfläche ausgehen und als verzweigte, fast dendritische Zeichnungen in das Innere sich ziehen. Durch starkes Aetzen kommen manchmal vertiefte, etwas gekrümmte Streifen, an anderen Stellen auch kleine sternförmige Erhöhyngen zum Vorschein. v. Reichenbach, der bei der genauen Untersuchung der Meteoreisen auch aufs Bestimmteste Andeutungen von Figuren beim Aetzen wahrnahm, bemerkte auch parallele Schattirungsverschiedenheiten von Grau in Grau, die dunkleren Partien nach innen, so dass eine Art Schichtung dadurch angedeutet wird.
+
+Die verschiedenen Analysen zeigen, dass dieses Eisen sehr wenig fremde Einschlüsse enthält. Stromeyer, der nur qualitativ untersuchte, fand Eisen, Nickel, Kobalt und wies darin zuerst Chrom nach. Quantitative Analysen wurden veröffentlicht von v. Holger 1., Wehrle 2., Uricoechea 3. von Feilspänen nicht ganz sicherer Abstammung, und von Böcking 4., der ein ganzes Stückchen untersuchte:
+
+Fe. Ni. Co. Mn. Ca Mg Al. Verl.  
+1\. 78,90. 15,28. 1,00. 1,76. 1,4l. 0,15. 0,16, 1,34.  
+2\. 85,61. 12,27. 0,88. -,-. -,-. -,-. -,-. 1,24.
+
+Fe. Ni. Co. P. Unlösl. Cu, Sn, S. Verl.  
+3\. 81,20. 15,09. 2,56. 0,09. 0,95. Spur. 0,11.  
+4\. 81,30. 15,23. 2,01. 0,08. 0,88. Spur. 0,50.
+
+v. Holger fand noch 1,34% Kohleneisen. Das Unlösliche in 3 und 4 ist Phosphornickeleisen (Schreibersit). S. Tennant fand 0,1% Nickel und eine nicht angegebene Menge Graphit.
+
+Literatur: Barrow Travels into the Interior of S. Africa. Lond. 1801, 226. v. Marum Verh. Bataafsche Maatschappij d. Wetensch. Harlem. II. 2, 1804, 257. v. Dankelmann Voigt Magaz. 10, 8. Wehrle Baumgart. Zeitschr. 3, 225. v. Holger ebd. 8, 288. Tennant Tilloch Phil. Mag. 25, 182. Stromeyer Gilb. Ann. 56, 191. Uricoechea Ann. Chem. Pharmac. 91, 252. Böcking ebd, 96, 246.
+
+Wahrscheinlich gehören die grossen Eisenmassen, die Capt. Alexander am grossen Fischfluss in der Capcolonie über eine grosse Strecke Landes zerstreut fand, ebenfalls hierher. Es scheint nur sehr wenig davon nach Europa gebracht worden zu sein. Herschel fand darin 4,64% Nickel. In den grösseren Sammlungen scheint es zu fehlen. Von Untersuchungen über das Verhalten polirter Flächen beim Aetzen ist nichts bekannt geworden.
+
+Literatur: Poggend. Ann. 46, 166.
+
+In der Misteca im Staat von Oaxaca, Mexiko.
+
+Schon 1804 wird dieses Eisen von per Rıo erwähnt, ohne dass unterdess etwas Genaueres darüber bekannt geworden wäre. 1834 kam ein ganz kleines Stückchen davon durch v. Karawinsky nach Wien; es wurde von einem Klumpen abgemeisselt, der in einem Indianerdorf der Misteca liegt. Durch das Hämmern ist es verändert worden und zeigt beim Aetzen nur feine gekrümmte Streifen. Ob Karawinsky den Block selbst gesehen, findet sich nirgends angegeben. Burkart erhielt 1855 auch ein Stück davon, kann aber auch nichts über die Lage der Masse, ihre Grösse etc. mittheilen. Stücke davon sind in Wien (1 K. 540) und Berlin (1 K. 435,8); ein Stück behielt Burkart. Auch Shepard besitzt etwas von dieser Localität.
+
+Specifisches Gewicht: 7,200-7,620 Burkart.
+
+Auf frischem Bruch zeigt dieses Eisen eine fast silberweisse Farbe, ein körnig-blättriges Gefüge und sehr deutliche krystallinische Textur, während es an den übrigen Stellen der natürlichen Oberfläche eisenschwarz und mit hasel- bis wallnussgrossen blasenförmigen drusenartigen Höhlungen bedeckt ist, welche mit einer dünnen, festen, brauneisensteinartigen Masse bekleidet sind. Innen. ist die Masse gleichartig, ohne Risse und Sprünge und ohne sichtliche Einmengung von Schwefeleisen oder sonstigen fremden Körpern, indem das Schwefeleisen erst nach dem Aetzen bemerkbar wird. Beim Aetzen treten sehr schöne Widmannstätten'sche Figuren auf, wobei auch die Einmengung von Schwefeleisen und Phosphornickeleisen sichtbar wird, ersteres in feinen runden Theilchen und wie es scheint seltener, als bei den Eisen von Zacatecas und Xiquipilco. Die Streifen der Figuren sind 1/4-1 Linie breit, mit feinen, ihre Richtung diagonal kreuzenden Linien schraffirt und zugleich mit feinen weissen Flecken auf grauem Grunde punktirt. Diese Streifen sind von schmalen, hellmessinggelben, metallisch glänzenden Leisten von einander getrennt, welche auch theilweise, aber nicht in durchlaufenden, sondern abgesetzten, unterbrochenen Linien in den Mittelfeldern auftreten und wohl aus Schreibersit bestehen. Am deutlichsten erscheinen diese Leisten auf den angelaufenen Flächen auf dem hellbraunen oder blauen Grunde durch ihre schöne gelbe Farbe, wo man auch weit deutlicher die Mittelfelder von solchen Leisten umgrenzt und in abgebrochenen, oft nur punktirten Linien schraflirt sieht, welche da und dort wieder so nahe zusammentreten, dass das ganze Mittelfeld gelb erscheint.
+
 ...
