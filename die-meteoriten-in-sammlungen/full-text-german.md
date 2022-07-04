@@ -5118,4 +5118,426 @@ Ausser einigen amerikanischen Sammlungen scheint in Europa nur London etwas (3,9
 
 Literatur: Shepard Sillim. Amer. Journ. 17, 1830, 140. Report 9, 31.
 
+Am Brazosfluss, nahe an dessen Ursprung, 34° Br. 100° L., Texas.
+
+Dieses schöne Meteoreisen war schon lange bei den Gomanches bekannt und als heilkräftig verehrt. Schon die Spanier versuchten die etwa 147 K. schwere Masse auf Mauleseln fortzuschafien, aber vergebens. Auch die Comanches machten Versuche, es durch umgesetztes Feuer zu schmelzen, und da es nicht gelang, es zu zerschlagen, was auch nicht ging. 1836 wurde es einem Agenten der Vereinigten Staaten überlassen und nach St. Antonio, 1859 aber erst nach Austin gebracht, wo es ım geologischen Staatscabinet aufbewahrt ist; etwa 2 K. können davon abgesägt sein. Die Masse hat eine flache oder stumpf pyramidale Gestalt mit mehr oder weniger abgerundeten Kanten und mit flachen Eindrücken. Die Oberfläche ist dunkel und nur stellenweise dünn oxydirt. Das Eisen ist sehr zäh, die Schnittfläche glänzend silbergrau.
+
+Riddell analysirte es 1860 und fand:
+
+Fe. Ni. Co.  
+89,993. 10,007. Spur.
+
+Literatur: Shumard St. Louis Acad. Transact. I. No. 4. p. 622. 1860.
+
+Claiborne, am Lime Creek, Clarke County, Alabama, Nord-Amerika.
+
+1834 wurde das Eisen gefunden und 1838 durch Jackson bekannt gemacht. Danach wog es noch nicht 19 K. und doch besitzt v. Reichenbach (Poggend. Ann. 103, 638) über 48 K. und nach einer anderen Angabe (ebd. 114, 119) etwa 50 K. Dazu kommen etwa 24 K. bei L. Smith in Louisville, über 22 K. inLondon, so wie kleine Stücke in Berlin (154,938 Gr.), Wien (9,296 Gr.), und bei Greg (10 Gr.), so dass jedenfalls ausser der ersten Masse noch weitere gefunden worden sein müssen.
+
+Specifisches Gewicht:  
+5,75-6,40-6,50 Jackson,  
+6,82 Rumler.
+
+Das Eisen ist sehr zäh und hämmerbar; der Bruch ist rauh und hackig mit durchziehenden silberglänzenden Streifen und tief grünlich und braun ausgefressenen Flächen, auf welchen sich an feuchter Luft ein grüne Flüssigkeit ansammelt. Auf einer frisch gefeilten Fläche erscheinen schon nach wenigen Tagen grasgrüne Tropfen von Eisenchlorür mit Nickel. Selbst mit der grössten Sorgfalt konnte eine polirte Fläche nicht einmal wenige Tage glänzend erhalten werden. Magnetkies ist in Körnern und Linien theils in höchst feinen Pünktchen höchst gleichförmig durch die ganze Masse eingemengt. Diese treten besonders beim Aetzen hervor, welches beim ersten Blick keine Figuren erzeugt, sondern nur eine wirre Zeichnung von eingesprengten Körnern, Strichen, trüben und schimmernden Flecken und glänzenden Punkten. Aber in den zartesten Zügen erscheint ein Hauch von feinsten geraden parallelen Linien; am Rande sind Stellen, wo sich das Eisen in der Richtung dieser Linien abblättert, wodurch diese Masse denen mit Widmannstätten'schen Figuren wieder näher gerückt wird.
+
+Jackson besteht darauf, dass das Chlor im Eisen ursprünglich enthalten war. Er fand in den Tröpfchen:
+
+Eisen- und Nickeloxydul, Salzsäure und Wasser.  
+27,62. 17,09. 14,09. 41,20.
+
+Jackson 1. und Hayes 2. analysirten das Eisen:
+
+Fe. Ni. Mn. S. Cl.  
+1\. 66,560. 24,708. 3,240. 4,000. 1,480.  
+2\. 83,572. 12,665. -,-. 2,395.* 0,907.
+
+*) als FeS2.
+
+Literatur: Jackson Sillim. Amer. Journ. 34, 332. Jackson und Hayes ebd. 48, 145-156. v. Reichenbach Poggend. Ann. 114, 119.
+
+Putnam County, Georgia, Nord-Amerika.
+
+Nach Willet wurde 1839 eine grosse Eisenmasse in bebautem Felde gefunden, die nach der Schmiede gebracht wurde, aber nicht zu bearbeiten war. Ihre Gestalt war etwa die einer dreiseitigen Pyramide mit unregelmässigen Flächen. Die grössten Stücke scheinen bei L. Smith in Louisville (fast 35 K.), der Mercer-Universität, Georgia (etwa 30 K.) und bei Suerarp (über 17 K.) zu sein. Bescheidenere Bruchstücke oder von unbekanntem Gewicht finden sich besonders in London (113,165 Gr.), Wien (87,5 Gr.), Göttingen (33,5 Gr.), Berlin (24,656 Gr.), Paris, Mus. Hist. nat., so wie bei Greg (55 Gr.), de Luynes (48 Gr.), Auerbach (23 Gr.), v. Reichenbach und Nevill.
+
+Specifisches Gewicht: 7,69 Shepard.
+
+Die Rinde ist sehr dick, aber durch das Hämmern meist abgefallen. Das Eisen selbst ist zäh und fest, rostet rasch und auch frische Flächen schwitzen Eisenchlorid aus. Durch seine Zerklüftung spaltet es leicht in tetraedrische und rhomboedrische Bruchstücke. Es ist fast frei von Schwefeleisen. Beim Aetzen entstehen deutliche Widmannstätten'sche Figuren.
+
+Kupfer wird durch dieses Eisen aus neutraler Lösung nicht niedergeschlagen. Die Analyse von Shepard gab:
+
+Fe. Ni, Spur Co. Sn, P, S, Mg, Ca.  
+89,52. 8,82. 1,66.
+
+Literatur: Sillim. Amer. Journ. (2) 17, 331.
+
+Asheville, Bairds Pflanzung nahe am French Broad River, 6 engl. Meilen nördlich von Asheville, Buncombe County, Nord-Carolina, Nord-Amerika.
+
+Dieses Eisen, das 1839 durch Shepard bekannt wurde, ist nicht zu verwechseln mit dem von Black Mountains, ebenfalls Buncombe County. Es war eine Masse in der Grösse eines Menschenkopfes, die lose in der Erde lag und sollen sich da noch weitere Stücke finden. Es sind davon in den Sammlungen von Wien (271,8 Gr.), London (84,11 Gr.), Berlin (13,66 Gr.), Göttingen, Calcutta, Upsala, Stuttgart, sowie bei de Luynes (317 Gr.), v. Reichenbach, Greg (8 Gr.), Neumann und Zimmermann.
+
+Specifisches Gewicht:  
+6,5-8,0 Shepard,  
+7,90 Rumler.
+
+Das Eisen ist derb und dicht, aber höchst ausgezeichnet blättrig, so dass es bei der fortschreitenden Oxydation parallel den octaedrischen Theilungsflächen zerklüftet und endlich in Octaeder und Tetraeder zerfallt. Magnetkies ist in Körnern und Streifen eingesprengt. Beim Aetzen entstehen sehr ausgezeichnete feinstreifige Widmannstätten'sche Figuren.
+
+Nach Shepards Untersuchungen enthält es Nickel bis zu 5%, dann Kobalt, Magnesium und Phosphor; der Kieselsäuregehalt bleibt weit unter 0,5%.
+
+Literatur: Shepard Sillim. Amer. Journ. 36, 81. Report 24.
+
+Goldseife Petropawlowsk, Sibirien.
+
+Im Jahr 1840 wurde 9,5 Meter tief in der untersten Schicht der goldführenden Trümmerformation des Mrassk'er Bezirks ein rundlicher Klumpen ziemlich festen Eisens gefunden; schon früher waren daselbst Stückchen gediegenen Eisens zugleich mit dem sehr reichlich auftretenden Brauneisenstein gefunden worden. Doch kann dieses Eisen nicht zufällig in solche Tiefe gekommen sein, da die Gegend vor dem Goldwaschen vollkommen unbewohnt war. Die Hauptmasse, die jetzt im Museum des Berginstituts zu Petersburg sich befindet, ist ein unregelmässig dreiflächiger Klumpen mit abgerundeten Ecken und Kanten und einer bis 1 Linie dicken Rostrinde. Auch in Wien ist ein Stück (118,125 Gr.).
+
+Specifisches Gewicht: 7,76.
+
+Seine Härte steht zwischen Eisen und Stahl. Beim Aetzen erscheinen schwache, aber deutliche Widmannstätten'sche Figuren. Olivin und andere Beimengungen, auch C und S fehlen. Beim Lösen in schwacher Salzsäure bleibt ein geringer schwarzer Rückstand, der in Königswasser sich löst.
+
+Sokolowskij 1. und Iwanow 2., 3. fanden bei der Analyse:
+
+1. 2. 3.  
+Eisen 97,29. 93,03. 94,12.  
+Nickel 2,07. 7,00. 6,96.
+
+Bei der ausserordentlich tiefen Fundstelle wurde die meteorische Natur vielfach bezweifelt. Das gelehrte Comite für Bergwerksangelegenheiten zuPetersburg entschied daher: »Es ist bekannt, dass das Meteoreisen sich von dem gewöhnlichen auf hüttenmännischem Wege gewonnenen Eisen dadurch unterscheidet, dass es mehr oder weniger Nickel und gar keinen Kohlenstoff (!?) enthält. Da aber in der Eisenmasse von der Petro-Pawlowsker Goldseife sowohl durch die von Hrn. Sokolowskij in Barnaul ausgeführte Analyse, als auch durch die zwei übereinstimmenden von Hrn. Iwanow in St. Petersburg ein bedeutender Nickelgehalt und keine Spur von Kohle nachgewiesen sind, so geht daraus hervor, dass diese Eisenmasse nicht hüttenmännischen, sondern meteorischen Ursprungs sein muss.«
+
+Literatur: Erman Journ. 1, 314. 725.
+
+Cosbys Creek, Cocke County, Sevier County, Tennessee, Nord-Amerika.
+
+1840 beschrieb Troost zuerst dieses Eisen. Es fanden sich zwei Massen von 1000 K. und 56 K. Da erstere nicht zerschlagen werden konnte, so wurde sie auf einem Scheiterhaufen erhitzt, dann in Bruchstücke zerschlagen und in einer Schmiede in Sevier County verarbeitet. Der Rest fiel in die Hände von Troost, der etwa 32 K. davon besitzt. Stücke davon sind in vielen Sammlungen, besonders in Wien (642 Gr.), Berlin (436,8 Gr.) und unter 100 Gr. oder von unbekanntem Gewicht London, Hudson (Reserve College), Göttingen, Calcutta, München, Bologna, Dublin, Gotha, Kiel, Upsala, Tübingen, Copenhagen, Knoxville (Univ.), so wie bei Sarrırn (738 Gr.), Greg (436 Gr.), v. Reichenbach, Neumann, Fürst Lobkowitz, Zimmermann und de Luynes.
+
+Specifisches Gewicht:  
+7,26 Rumler,  
+6,222 Shepard,  
+Schwefeleisen: 4,454 Shepard.
+
+Es wird darüber gestritten, ob das Eisen von Cocke County und Sevier County, beide in Tennessee und nicht weit von einander gefunden, übereinstimmten oder verschieden seien. v. Reichenbach findet sie ganz verschieden, G. Rose trennt beide auch im Berliner Meteoriten-Catalog, in Wien und London dagegen und in den amerikanischen Originalmittheilungen werden diese Unterschiede nicht gemacht. So lange diese nicht entschieden festgestellt sind, ist man berechtigt, beide zusammenzufassen. - Die dicke Rostrinde gleicht leicht zerbröckelndem Brauneisenstein; darin finden sich häufig zum Theil ziemlich grosse, gelblich weisse, völlig metallisch glänzende und biegsame Blätter von Schreibersit. Das Metall selbst ist sehr weiss und besteht zum Theil aus grossen und vollkommenen octaedrischen Gestalten. Bei der Masse von Troost fand Shepard regelmässigen krystallinischen Bruch; die reine Oberfläche war unterbrochen von glänzendem Schwefeleisen von 1/4-1/16 Zoll Dicke. Dabei traten rhombische und Dreiecksflächen vor, die durch den Kohlenstoff zwischen den Platten des Eisens meist schwarz waren. Doch tritt das Schwefeleisen nicht nur in Adern und Platten, sondern auch in Kugeln und mandelförmigen Massen auf, die manchmal 1/2 Zoll dick sind. Dieser Bestandtheil macht nach Shepard etwa 1/6 der ganzen Masse aus, ist concentrisch blättrig und die Blättchen oft durch Eisen und Kohle von einander getrennt.
+
+Auch enthält es bis wallnussgrosse Knollen von Graphit ausser den dünnen Krusten dieser Substanz zwischen den Blättern des Eisens.
+
+Nach Troost ist das Eisen ein eigenthümliches Gemenge von Meteoreisen, Kohleneisen oder Graphit, Schwefeleisen und gelbem und braunem Eisenrost, die stellenweise alle fast gleichartig gemengt sind. Danach soll Nickeleisen 99% ausmachen, zum Theil krystallinische Structur haben, zum Theil aus Körnern und Kügelchen von verschiedener Grösse und Form bestehen, die unter einander ganz verkittet sind oder durch ein dünnes, biegsames, hochpolirbares Häutchen von Graphit (?) getrennt werden. Der krystallinische Theil besteht aus Blättchen von verschiedener Dicke in Gestalt gleichseitiger Dreiecke, die auch durch solche biegsame Häutchen getrennt sind. Durch Spaltung lassen sich regelmässige Tetraeder erhalten und gewann Troost ein solches von 1 Zoll Höhe. Das Eisen ist hämmerbar., aber härter und weisser als gewöhnliches Schmiedeeisen. Der Graphit ist dem irdischen sehr ähnlich, enthält aber Eisen, das zum Theil durch den Magnet ausgezogen werden kann. Das Schwefeleisen ist nach Troost in geringster Menge vorhanden, nicht magnetisch und so weich, dass es mit dem Messer geschnitten werden kann.
+
+Die Masse, die Shepard von der Knoxville-Universität erhielt, war verschieden von der, die Troost beschrieben, grobkrystallinisch und fast frei von graphitischen und pyritischen Einschlüssen. Nach v. Reichenbach enthält aber auch Sevier- wie Cosby-Eisen Knollen von Graphit, also auch hier sind die Widersprüche nicht gelöst.
+
+Widmannstätten'sche Figuren sind nach v. Reichenbach auch bei den von ihm unterschiedenen Eisen schon auf dem rohen Bruch zu erkennen und treten als ausgezeichnet feinlinige parallele Streifungen auf. Werden Schnitte in der Richtung der Spaltungsflächen polirt und geätzt, so entstehen nur kleine Rinnen und wellenförmige Linien, die glänzend am Grunde und matt am oberen Ende sind; sie sind so klein und unregelmässig, dass sie nur mit dem Mikroskop wahrnehmbar sind. Bei einem Schnitt aber, der die Spaltungsflächen kreuzt, entstehen beim Aetzen feme silberweisse Linien. v. Reichenbach bei seinen Untersuchungen über die verschiedenen ven ihm unterschiedenen Eisensorten, durch welche die Figuren entstehen, bespricht vielfach auch das Verhalten dieser Eisenmassen, doch sind auch diese Beobachtungen nicht hinreichend, zwei verschiedene Localitäten (Cosby und Sevier) annehmen zu müssen.
+
+Troost fand bei der Analyse:
+
+Fe. Ni. Co. Verl.  
+87. 12. 0,5. 0,5.
+
+und für die graphitischen Kugeln:
+
+Fe. C.  
+3. 96,5.
+
+In diesen zeigen sich beim Poliren noch kleine Körnchen von Schwefeleisen. Shepard wies darin noch Zinn, Silicium, Magnesium und Spuren von Aluminium nach.
+
+Zwei Analysen von diesem ergaben:
+
+Fe. Ni. Unlösl.  
+1\. 93,80. 4,66. 0,10.  
+2\. 94,033. 4,444. 0,10.
+
+Das Unlösliche erscheint unter dem Mikroskop als weiche schwarze Körnchen mit sehr wenigen glänzenden Blättchen von Graphit (?), die alle durch einen Eisengehalt vom Magnet angezogen werden.
+
+Jor analysirte dieses Eisen auch. Er fand 3,21% in Salzsäure Unlösliches, bestehend aus Schreibersit, Graphit und Quarz (?). Das Gesammtergebniss war:
+
+Fe. Ni. Co. P. Cu, Sn. Mn. Graph. Quarz. S.  
+91,65. 5,846. 0,809. 0,195. 0,219. 0,092. 0,798. 0,079. ?
+
+Bergemann fand bei der Analyse:
+
+Fe. Ni. Co. P. Unlösl.  
+90,096. 6,521. 0,332. 0,021. 2,228.
+
+und für diesen in Salzsäure unlöslichen Rückstand:
+
+C. Fe. Ni. P.  
+0,175. 1,802. 0,183. 0,068.
+
+oder in 100: 7,9. 80,8. 8,2. 3,0.
+
+Literatur: Troost Sillim. Amer. Journ. 38, 4840, 250. (Nur als Eisen von Tennessee beschrieben.) Shepard ebd. 43, 1842, 354. (2) 4, 1847, 83. Report 29. v. Reichenbach Poggend. Ann. 111, 363. 114, 128. u. v. a. St. Jor. Ann. Chem. Pharm. 86, 39. Bergemann Poggend. Aun. 100, 245.
+
+Scriba, Oswego County, New-York, Nord-Amerika.
+
+1834 wurde dieses Eisen von einem Kohlenlieferanten in der Nähe eines Meilers gefunden und an einen Grobschmied gegeben. Shepard, der es 1841 beschrieb, scheint den grössten Theil zu besitzen; andere Sammlungen weisen nur kleine Stücke auf, so besonders London (104 Gr.), Wien (83 Gr.), Göttingen (17,42 Gr.), so wie Greg (76 Gr.), Auerbach (28 Gr.) und Nevill.
+
+Specifisches Gewicht: 7,5 Shepard.
+
+Es hat eine glatte Oberfläche und schwarze Rinde, in deren Fugen Magneteisen sich findet. Das Eisen ist sehr zäh; es enthält ein graphitartiges Mineral mit der Härte von 5-5,5 und dem spec, Gew. 5,2-5,4; es ist spröde, dunkeleisenschwarz und hat unvollkommenen Metallglanz. Obgleich es keine regelmässige krystallinische Structur zeigt, so entstehen beim Aetzen eigenthümliche fleckige Zeichnungen, wie Metallmohr, aber keine Figuren.
+
+Shepard fand bei der Analyse:
+
+Fe. SiO3. CaO, Al2O3.  
+99,68. 0,20. 0,09.
+
+aber kein Nickel und Kobalt. Prof. Heddle in Edinburg dagegen wies neuerlich Nickel darin nach. Er fand ausser Eisen und Nickel noch Aluminium, Calcium, Kalium, so wie Spuren von Natrium, Silicium, Schwefel, Kohle und vielleicht auch Phosphor und Zinn, nicht aber Kobalt, Chrom und Mangan. Da dieses Eisen auch in seinen anderen Eigenschaften Tucuman ähnlich ist, so kann an seiner meteorischen Natur nicht mehr gezweifelt werden, obgleich es Shepard selbst zu den Pseudometeoriten zählte.
+
+Literatur: SHepard Sillim. Amer. Journ. 40, 1841, 336. (2) 4, 75. Greg Philos. Magaz. Suppl. for Jan. 1863.
+
+Guilford County, Nord-Carolina, Nord-Amerika.
+
+Shepard beschrieb dieses schon 1820 gefundene Eisen zuerst als tellurisches und erkannte erst 1841 seine meteorische Natur. Es wog ursprünglich 12 1/2 K., wurde aber bis auf 200 Gr. verschmiedet. Der grösste Theil dieses Restes ist in New-Haven, Yale College, und nur kleine Stückchen sind in London (14,8 Gr.), Göttingen und Wien (8 Gr.), so wie bei Gree (1,5 Gr.), v. Reichenbach und Nevill.
+
+Specifisches Gewicht: 7,67 Rumler.
+
+Aehnlich Asheville (p. 163) spaltet sich dieses Eisen sehr leicht in tetraedrische, octaedrische und rhomboidische Bruchstücke und zeigt dasselbe blättrige Gefüge. Beim Poliren und Aetzen erscheinen sehr schöne und deutliche Figuren.
+
+Nach Shepard besteht es aus:
+
+Fe. Ni. FeS.  
+92,750. 3,145. 0,750.
+
+Literatur: Shepard Sillim. Amer. Journ. 17, 140. 40, 369. Partsch Met. 114.
+
+Grayson County, Virginia, Nord-Amerika.
+
+Von dieser schweren Eisenmasse, welche 1842 zuerst erwähnt wird, scheint nichts nach Europa gekommen zu sein. Sie enthält nach Rocers 6,15% Nickel und eine geringe Spur von Chlor.
+
+Literatur: Sillim. Amer. Journ. 43, 169.
+
+Eaufromont bei Epinal, Vogesen, Frankreich.
+
+1842, Dec. 5, 5 1/2 Uhr Morgens zerplatzte eine grosse Feuerkugel. Es wurde lange nach den Stücken gesucht, aber erst im Sommer 1851, also fast neun Jahre später, fand man eine Eisenmasse von 843 Gr., die alle Eigenschaften von Meteoreisen besitzt; einige Theile sind schwer mit dem Meissel zu bearbeiten, andere enthalten Höhlungen. Das specifische Gewicht = 5,23 scheint so niedrig wegen der Rostrinde und der Erde in den Höhlungen. Genaueres ist nicht über die Masse bekannt geworden. Sie scheint in einer der Pariser Sammlungen zu sein.
+
+Literatur: Compt. rend. 35, 289.
+
+Arva. Bei dem Dorf Szlanicza, am Fuss der Magura, im Arvaer Comitat, Ungarn.
+
+Dieses Eisen wurde 1840 offenbar in sehr beträchtlicher Menge gefunden, jedoch die Thatsache, selbst die Fundstelle äusserst geheim gehalten. Erst 1844 drang davon in die Oeffentlichkeit und Haidinger erwähnte dieses Eisens zuerst in der Wiener Zeitung. Unterdess waren aber wohl 32 Centner heimlich eingeschmolzen worden. Nur etwa 2 Centner wurden gerettet. So war der Bergingenieur Weiss in Arva durch sein Geheimhalten die Ursache, dass einer der merkwürdigsten Schätze Oesterreichs bis auf eine Kleinigkeit verloren ging.
+
+Diese Localität findet sich in vielen Sammlungen: Wien (18 St., 30 K. 353,954, der grösste 10 K. 64), London (4 K. 628), Berlin (1 K. 035), Göttingen (641 Gr.), Upsala (499,5 Gr.), Copenhagen (358 Gr.), Erlangen (256 Gr.), Freiberg (352 Gr.), München (332 Gr.), Breslau, schles. Gesellsch. (172 Gr.), Krakau (162 Gr.), Stockholm (124 Gr.), Clausthal, Würzburg, Heidelberg, Tübingen, Calcutta. Auerbach in Moskau, v. Reichenbach in Wien, Erzh. Steruan auf Schaumburg (über 6 1/2 K.), Zeidler in Prag (1 K. 120), Greg in Manchester (436 Gr.), Ferber in Gera (357,5 Gr.), Fürst Lobkowitz in Bilin (359 Gr.), de Luynes in Dampierre (303 Gr.), Shepard in New-Haven (188 Gr.), v. Henikstein in Gratz, Neumann in Prag (95,7 Gr.), Jordan in Saarbrücken (67 Gr.), Fischer in Hamburg (19,4 Gr.), Wiser in Zürich (12,95 Gr.).
+
+Specifisches Gewicht:  
+7,814 Patera,  
+6,827-7,580 Petz.
+
+Das Eisen, das augenscheinlich lange der Einwirkung der Atmosphäre ausgesetzt war, ist im Grossen länglich-körnig zusammengesetzt; die einzelnen Individuen bestehen erst aus homogenem Eisen, sind mit braunem Eisenoxydhydrat überzogen, und zwischen denselben liegen lichtstahlgraue metallische Blättchen, zum Theil dreiseitig, mit glänzender, nicht oxydirter Oberfläche. Haidinger und Patera nannten diesen Bestandtheil Schreibersit, ein Name, den zwar Shepard schon einem Bestandtheil des Bishopville-Steines beigelegt hatte, der aber dann auch von Shepard angenommen wurde; in neuerer Zeit hat v. Reichenbach gegen den Namen Schreibersit polemisirt und einen anderen vorgeschlagen. In der Rostrinde bemerkte Haidinger kleine Krystalle von Vivianit, offenbar sehr neuen Ursprungs. Nach v. Kobell sieht die zur Verwitterung geneigte Masse auf der Oberfläche dem Limonit ähnlich. Die Umrisse der octaedrischen und tetraedrischen Fragmente treten nicht nur auf einer schwach geätzten Fläche in Widmannstätten'schen Figuren hervor, sondern zeigen sich selbst schon auf dem Bruch der stellenweise durch Oxydation ziemlich leicht trennbaren Theile. Schwefeleisen tritt in meist kleineren derben Massen auf, die sich durch Farbe und Sprödigkeit unterscheiden lassen. Nach v. Reichenbach schliesst das Eisen auch Knollen von Graphit ein.
+
+Chemische Analysen liegen vor von Patera 1-4., Löwe 5-7. und Bergemann 8., 9.:
+
+Fe. Ni.  
+1\. 89,42. 8,91. Si- und C-halt. Rückstand 1,41.  
+2\. 93,13. 5,94. Si- und C-halt. Rückstand 1,41.  
+3\. 94,12. 5,43.  Si- und C-halt. Rückstand 1,41.  
+im Mittel 4\. 92,22. 6,76. Si- und C-halt. Rückstand 1,41.  
+5\. 90,47. 7,32. Co. C. SiO3. Rückst. im Mittel aus 2 Anal. 1,17.  
+6\. 91,36. 7,32. Co. C. SiO3. Rückst. im Mittel aus 2 Anal. 1,17.  
+im Mittel 7\. 90,92. 7,32. Co. C. SiO3. Rückst. im Mittel aus 2 Anal. 1,17.  
+
+Fe. Ni. Co. S. P. {Fe. Ni. P.}* Kohle. Graph.  
+8\. 75,18. 4,14. 0,21. 15,36. 0,19. 3,01. 0,59. 0,26. 0,90. 1,17.  
+9\. 82,11. 7,11. 0,36. -,-. 0,34. 5,14. 1,01. 0,40. 1,53. 2,00.
+
+*) Schreibersit.
+
+Nach Patera enthält das Eisen eine Spur Kobalt und Kupfer. In der oxydirten Oberfläche fand er Schwefel, Kohle, Silicium, Phosphor und Kalium.
+
+Nach Löwe besteht der Rückstand aus metallischen Flitterchen von gelber Farbe, die biegsam sind und stark auf den Magnet wirken. Härte 6,5. Specifisches Gewicht 7,01-7,22. Sie bestehen im Mittel aus 3 Analysen aus:
+
+P. Fe. Ni. (Schreibersit.)  
+7,26. 87,20. 4,24.
+
+und etwas, aber nicht genauer bestimmter Kohle.
+
+Nach Bergemann bleibt Phosphornickeleisen (Schreibersit) mit Kohle und Graphit in Salzsäure ungelöst zurück.
+
+Nach Partsch ist der Schreibersit in leicht trennbaren Blättchen, Nadeln, und kleinen nierenförmigen oder eckigen Stückchen in dem Eisen eingeschlossen. - Boor analysirte nur qualitativ.
+
+Literatur: Haidinger Wien. Zeitg. 1844, Apr. 17. Poggend. Ann. 61, 675. Weiss Wien. Zeitg. 1845, No. 88, März 30. Patera Jahrb. Mineralogie 1848, 698. 1849, 199. Löwe Haidinger Berichte 3, 62. 70. 282. 303. Bergemann Poggend. Ann. 100, 245. Partsch Wien. Akad. Ber. 8, 1852, 500. v. Reichenbach Poggend. Ann. 111, 363. Mikecz, Petz u. Boor in Sadler A kiralyi magyar termeszettudomanyi tarsulat evkönyvei. 1, 1841-1845. 52. Haidinger Wien. Akad. Ber. 46, 1862, Juli 24, mit sehr schönen Abb.
+
+Burlington, Otsego County, New-York, Nord-Amerika.
+
+Silliman jun. beschrieb dieses. 1819 gefundene Eisen erst 1844. Als es ausgepflügt wurde, wog es 68 K.; doch wurde es bis auf einen Rest von etwa 6 K. verschmiedet. Shepard scheint die Hauptmasse zu besitzen (2 K. 097). Ausserdem finden sich Stücke in London (291,265 Gr.), Berlin (119,452 Gr.), Göttingen (62,5 Gr.), Copenhagen (30,3 Gr.), Wien (29,532 Gr.) und Dublin, sa wie bei Greg (198 Gr.), v. Reichenbach und Nevill.
+
+Specifisches Gewicht:  
+7,728 CLark,  
+7,501 Rockwell.
+
+Auf der Bruchfläche ist es grob krystallinisch. Die polirte Oberfläche ist fast so weiss wie Neusilber; unter gewissen Winkeln gehalten sieht man die krystallinischen Zeichnungen, die beim Aetzen noch deutlicher erscheinen; diese Widmannstätten''schen Figuren zeigen hauptsächlich kurze, parallele, glänzende Linien in verschiedenen Richtungen; der sehr schmale Raum zwischen denselben ist überall fein gefleckt, ähnlich Metallmohr. Magnetkies tritt in Kegelform auf. Beim Abschneiden einer Scheibe fand Shepard eine einzelne, sehr regelmässig tropfenförmige Höhlung von mehr als einem halben Zoll Durchmesser, die durch eine kleine Oeffnung mit der Oberfläche in Verbindung stand. Die innere Wandung war fast ganz und mit einem bräunlichschwarzen Pulver bedeckt, das nicht weiter untersucht wurde.
+
+Analysen lieferten Rockwell 1., Shepard 2. und Clark 3.:
+
+Fe. Ni. Co. X. S u. Verl.  
+1\. 92,291. 8,146. -,-. -,-. -,-.  
+2\. 95,200. 2,125. -,-. 0,500. 2,175.  
+3\. 89,752. 8,897. 0,625. 0,703. -,-.
+
+X. = Schreibersit.
+
+Clark fand noch Spuren von Kupfer und Mangan; ersteres mag von den Werkzeugen stammen, mit denen die Späne gewonnen wurden.
+
+Literatur: Sillim. Amer. Journ. 46, 1844, 401. (2) 4, 77. Clark Dissert. on met. Met. 61. Wien. Akad. Ber. 42, 1860, 512 Abbildung der Figuren; die Abbildung in Sillim. Amer. Journ. (2) 4, 77 ist nicht gut.
+
+Madagascar, St. Augustines Bai.
+
+1845 wurde bekannt, dass Meteoreisen auf Madagascar vorkommen soll und, wie man sagt, in ungeheurer Menge; doch ist bis jetzt nichts Genaueres darüber bekannt geworden. Shepard besitzt davon ein Stückchen und in Wien ist ein Stück einer Pfeilspitze (2,2 Gr.). Es scheint überhaupt bis jetzt nur in Theilen von Waffen der Eingeborenen bekannt geworden zu sein. Das Eisen zeigt keine Widmannstätten'schen Figuren, doch fand Shepard Nickel darin.
+
+Literatur: Shepard Sillim. Amer. Journ. (2) 15, 22 erwähnt die Proceed. Amer. Assoc. of the Geologists at New-Haven, Apr. 1845, p. 40.
+
+De Kalb County, Caryfort, Tennessee, Nord-Amerika.
+
+Etwa 1840 wurde diese ursprünglich über 16 K. schwere Eisenmasse ausgepflügt; dech muss sie viel schwerer gewesen sein. Troost kaufte und beschrieb dieselbe 1845. Ein grosses Stück besitzt auch v. Reichenbach; in grossen Öffentlichen Sammlungen scheint diese Localität zu fehlen; Greg besitzt 26 Gr.
+
+Schon ohne Aetzen treten auf der polirten Schnittfläche die Widmannstätten'schen Figuren hervor: Blättchen, die in eine Metallmasse eingebettet sind ; diese ist fast silberweiss, härter und daher beim Poliren glänzender. Wird. das Eisen parallel mit diesen Blättchen geschnitten oder nahezu parallel, se erscheinen nur unregelmässige Flecken; wird aber quer geschnitten, so erscheint eine regelmässige Anordnung der Figuren, wodurch octaedrische Krystallisation angezeigt wird. Die Blätter lassen sich aus der Masse auslösen; sie haben Farbe und Glanz wie polirtes Silber und laufen selbst in 5-6 Jahren nicht an der Luft an. Grosse Kiese und Knollen von Graphit sind reichlich eingelagert.
+
+Literatur: Troost Sillim. Amer. Journ. (1) 49, 341.
+
+Siebenbürgen.
+
+Es soll 1845 gefallen sein.
+
+Ein an 2 Seiten angeschnittenes Stück dieses Eisens von 78,7 Gr. kam 1846 aus der früher Leuchtenberg'schen Sammlung nach München. Genaueres ist vollständig unbekannt und wurde diese Localität noch nie gedruckt erwähnt. Solange die meteorische Natur nicht erwiesen ist, muss sie als zweifelhaft angesehen werden.
+
+Babbs Mühle, 10 engl. Meil. nördlich von Greenville, Green County, Tennessee, Nord-Amerika.
+
+1842 wurden zwei Massen ausgepflügt, von welchen die eine 5-6 K., die andere etwa 3 K. wog. Erstere wurde durch Erhitzen und Bearbeiten verletzt. Troost beschrieb sie zuerst 1845. Die Gestalt war sehr unregelmässig; aussen war eine starke Rostrinde. Die Hauptmassen scheinen Shepard zu besitzen (2 K. 583), so wie Troost in Mobile (etwa 2 K.) und London (2 K. 129); kleinere Stücke sind besonders in Göttingen (93,82 Gr.), Edinburg (67,3 Gr.), Wien (21,328 Gr.), Berlin (5,664 Gr.), so wie bei Greg (64 Gr.) und Nevill.
+
+Specifisches Gewicht: 17,548 Shepard.
+
+Das Eisen ist sehr feinkörnig und vollkommen dicht, beim Poliren sehr weiss und glänzend; beim Aetzen erscheinen keine Figuren, nur kleine weissliche glänzende Pünktchen, die in der dunkelgrauen matten Hauptmasse ohne Ordnung zerstreut sind. Der Bruch ist feinkörnig und silberglänzend, weisser als reines Eisen.
+
+Analysen lieferten Troost 1., Shepard 2. und Clark 3.
+
+Fe. Ni. Co. X.  
+1\. 87,58. 12,42. -,-. -,-.  
+2\. 85,30. 14,70. -,-. -,-.  
+3\. 80,594. 17,104. 2,037. 0,124.
+
+Bei 1. glaubte Troost einen zu grossen Nickelgehalt gefunden zu haben.
+
+Bei 2. fand Shepard noch Spuren von Calcium, Magnesium und Aluminium.
+
+Bei 3. war X = unlöslichen Phosphormetallen; Clark fand noch Spuren von Mangan, Silicium und Magnesium.
+
+Literatur: Troost Sillim. Amer. Journ. 49, 342. Shepard ebd. (2) 4, 76 mit Abb. der kleineren Masse. Clark Ann. Chem. Pharmac. 1852, H. 6.
+
+Walker County, Alabama, Nord-Amerika.
+
+Im Herbst 1832 wurde diese Masse gefunden, aber erst 1845 von Troost beschrieben. Sie hatte eine unregelmässige birnartige Gestalt, stak mit dem breiteren Ende im Boden und nur das dünnere Ende ragte über denselben hervor. Das Gewicht betrug fast 75 K. Scharfe Hervorragungen oder Eindrücke fehlten. Troost in Mobile besitzt 4 K., in anderen amerikanischen Sammlungen werden auch grössere Stücke sein; in europäischen sind nur kleine, so besonders in Wien (70 Gr.), London (57,52 Gr.) und Dublin.
+
+Specifisches Gewicht: 7,265 Shepard.
+
+Die Masse ist zum Theil mit einer Rostrinde, zum Theil aber auch mit einer glatten, schwarzen Brandrinde bedeckt. Sie ist sehr fest; auf dem sehr krystallinischen Bruch zeigen sich dreieckige Blättchen, deren einige 4 Linien lang sind. Beim Durchsägen wurde ein Knollen einer nicht weiter beschriebenen Masse gefunden, der 2 1/2 Zoll lang, 2 Zoll breit und 1 1/2 Zoll dick war. Von der Hauptmasse war er durch einige dünne Häutchen eines weissen glänzenden Metalls getrennt, wie beim De Kalb-Eisen (p. 171), und liess sich leicht herausschlagen. Beim Aetzen entstehen keine Widmannstätten'schen Figuren, sondern nur kleine glänzende Flecken, oder eckige Stellen von der Grösse feinkörnigen Schiesspulvers, die zum Theil mit glänzenden Linien und Fasern untermischt sind.
+
+Bei feuchtem Wetter bilden sich an der Grenze des Eisens und der Rostrinde Tröpfchen von Eisenchlorid. Doch ist das Eisen selbst frei von Chlor. Shepard fand auch kein Nickel, sondern 99,89% Eisen mit Spuren von Calcium, Magnesium und Aluminium, der Menge nach in der Reihe, wie sie genannt sind.
+
+Literatur: Troost Sillim: Amer. Journ. 49, 344. Shepard ebd. (2) 4, 74; daselbst auch eine Abbildung der Masse.
+
+Cambria bei Lockport, Niagara County, New-York, Nord-Amerika.
+
+1818 wurde diese über 16 K. schwere Eisenmasse ausgepflügt und 1845 von Silliman jun. beschrieben. Die grösste Masse scheint in London zu sein (5 K. 436). Kleine Stücke sind in Wien (150,944 Gr.), Edinburg (101,7 Gr.) und Dublin; ferner sind Stücke in den Privatsammlungen von Shepard (2 K. 558), Greg (120 Gr.), de Luynes (83 Gr.), v. Reichenbach, Auerbach, Zimmermann und Nevill.
+
+Specifisches Gewicht: 7,5257 Olmsted.
+
+Die Gestalt war unregelmässig länglich, 18 Zoll lang und mit 5 1/2 Zoll Durchmesser. Auf der Oberfläche waren Vertiefungen und eine ziemlich dicke Rostrinde. Der Bruch ist hackig, silberweiss und besonders ausgezeichnet durch krystallinisches Gefüge. Harte Massen, weisse und gelbe mandelartige Kerne von Schwefeleisen sind reichlich eingelagert. Sie sind umgeben von einem Ring amorphen metallischen Eisens (?). Nach v. Reichenbach finden sich auch Knollen von Graphit darin. Beim Aetzen entstehen sehr schöne Widmannstätten'sche Figuren.
+
+Die Analysen von Olmsted 1. und Silliman und Hunt 2. sind mangelhaft.
+
+Fe. Ni. Cu, As. Unlösl.  
+1\. 95,54. 5,037. -,-. -,-.  
+2\. 92,583. 5,708. Spur. 1,4.
+
+Schwefel wurde in 1. gar nicht berücksichtigt, in 2. nicht quantitativ bestimmt. Der in Salzsäure unlösliche Rückstand bei 2. wurde in Königswasser gelöst; es blieb ein braunes Pulver zurück, in dem Silicium vermuthet wurde. Die Analyse ergab:
+
+Fe. Ni. P. Si?  
+44,1. 24,5. 11,4. 10,0.
+
+Das Fehlende wurde als Sauerstoff betrachtet, der mit dem Eisen zu Magneteisen verbunden ist.
+
+Kobalt wurde dabei vergebens gesucht, aber von Shepard später doch nachgewiesen.
+
+Die Einschlüsse ven Schwefeleisen sind noch nicht untersucht. Olmsted suchte in denselben vergebens nach Zinn, Kobalt, Kupfer, Blei und Arsen.
+
+Literatur: Olmsted Sillim. Amer. Journ. 48, 388. Silliman und Hunt ebd. (2) 2, 376. Daselbst auch Abbildung der geätzten Fläche.
+
+Smithland, Livingston County, Kentucky, Nord-Amerika.
+
+Wahrscheinlich 1840 oder 1841 wurden, wie es scheint verschiedene Eisenmassen gefunden. Prof. Troost bekam zu verschiedenen Malen Proben davon zugestellt, um ihren Silbergehalt zu ermitteln, Genaueres aber konnte er nicht erfahren. Erst 1846 gelang es ihm, das einzige noch ganze Stück von etwa 4 1/2 K. sich zu verschaffen und zu beschreiben. Das Uebrige war verschmiedet worden. Die Hauptmassen sind in London (2 K. 565) und bei Troost (2 K.), kleine Stückchen in Wien (13,125 Gr.), sowie bei v. Reichenbach, Greg und Nevill.
+
+Das Eisen ist sehr feinkörnig und enthält sehr wenig fremde Einschlüsse. Beim Aetzen entstehen keine Figuren, auch keine Spur krystallinischen Gefüges, sondern nur kleine glänzende Flecken, die in ziemlich regelmässigen Zwischenräumen nahe bei einander liegen.
+
+Nach einer annähernden Analyse von Troost besteht es aus 90% Eisen und 10% vorzugsweise Nickel. Auch Prof. Roscog in Manchester bestätigte jüngst den grossen Nickelgehalt.
+
+Literatur: Troost Silim. Amer. Journ. (2) 2, 857. Greg Phil. Magaz. Suppl. for Jan. 1863.
+
+Carthago, Smith County, Tennessee, Nord-Amerika.
+
+Troost beschrieb diese ursprünglich 127 K. schwere Eisenmasse im Jahr 1846. Den Haupttheil scheint ein Herr Morgan in Nashville zu besitzen; Troost in Mobile besass etwa 25 K., das britische Museum in London hat 24 K. 576. Sonst sind nur kleinere Stücke in Sammlungen, so besonders in Berlin (806,877 Gr.), Wien (570,95 Gr.), Göttingen, Kiel, Breslau (schles. Gesellsch.), Calcutta (alle nicht über 25 Gr.), sowie bei Auerbach (215 Gr.), Shepard (100 Gr.), Greg (206 Gr.), v. Reichenbach und Nevill.
+
+Zuerst war es unmöglich, von dem Entdecker und Besitzer Genaueres über die Masse zu erfahren, da sie für Silber gehalten wurde. Octaedrische Krystalle zum Theil von mehr als Zollhöhe stehen auf der Oberfläche; auch das Innere ist hochkrystallinisch und zeigt schon beim Poliren die schönsten Widmannstätten'schen Figuren. Die dreieckigen und rhombischen Flächen haben oft einen Zoll oder mehr im Durchmesser. Fremde Beimengungen fehlen. Nickel ist reichlich darin. Das Eisen ist sehr zäh und hämmerbar.
+
+Literatur: Troost Sillim. Amer. Journ. (2) 2, 356.
+
+Jackson County, Tennessee, Nord-Amerika.
+
+1846 beschrieb Troost dieses Eisen, von dem er 425 Gr. erhielt. Geschichte, Grösse und Fundort sind noch Geheimniss, weil es von den Findern für Silber gehalten wird. In London sind 110,8 Gr.; auch Nevill besitzt etwas davon.
+
+Dieses Eisen ist weich und schmiedbar und eine Zusammenhäufung von octaedrischen und tetraedrischen Krystallen. Genaueres wurde bis jetzt nicht darüber bekannt.
+
+Literatur: Troost Sillim. Amer. Journ. (2) 2, 357.
+
+Hommoney Creek, nahe am Fuss des Pisgahberges, 10 engl. Meil. westl. von Asheville, Buncombe County, Nord-Carolina.
+
+1845 wurde dieses Eisen im Feld gefunden und 1847 von Shepard beschrieben; es weg über 12 K. und hatte eine unregelmässige tafelartige Gestalt. Es hatte lange Zeit als Unterlage für das Feuer auf dem Herd eines Farmers gedient und kann dadurch etwas geändert worden sein. Die Hauptmasse besitzt Shepard. In anderen Sammlungen scheinen nur kleine Stücke zu sein, so besonders in London (431,73 Gr.), Göttingen (195 Gr.), Hudson (Reserve College), bei v. Reichenbach und Nevill.
+
+Specifisches Gewicht: 7,32 Shepard.
+
+Das Eisen ist hämmerbar, doch lassen sich dünnere Stücke und Hervorragungen mit dem Hammer abschlagen. Die Oberfläche ist knollig und zackig; die Farbe wechselt von braun bis schwarz. An einer Stelle bemerkte Shepard wenige Körner von dunklem, gelblichem und grauem Olivin, ähnlich dem im Bitburgeisen (p. 126). An einigen Stellen nahe der Oberfläche ist das Eisen ausserordentlich zellig oder blasig; die Hohlräume haben von 1/4-1/20 Zoll Durchmesser; sie sind um so kleiner und weiter von einander entfernt, je tiefer sie unter der Oberfläche liegen. Der frische Bruch hat Farbe und Glanz wie zwischen Stahl und Magnetkies. Geätzte Flächen, wenn sie nicht zu blasig sind, zeigen die feinsten Widmannstätten'schen Figuren, welche aus sehr kleinen, aber reichlichen Dreiecken bestehen, die deutlich genug sind, um mit blossen Augen gesehen zu werden, aber unter dem Mikroskop ausserordentlich schön sind ; sie sind denFiguren beim Bitburgeisen ähnlich. An anderen Stellen zeigen sich beim Aetzen nur wenige glänzende Punkte auf mattem grauem Felde. Die Härte wechselt sehr und ist am grössten da, wo die Figuren sich zeigen.
+
+Analysen lieferten Shepard 1. und Clark 2.:
+
+Fe. Ni. Co. Cu, Sn. Mn. Si. Me. P. S. X. Cr.  
+1\. 98,19. 0,23. -,-. -,-. -,-. -,-. -,-. -,-. -,-. 1,58. Sp.  
+2\. 93,225. 0,236. 0,099. Sp. 0,501. Sp. Sp. 0,543. 4,765. -,-.
+
+X. = Unlösliches, bestehend aus Graphit und Schreibersit. Nach Clark behielt dasselbe die Gestalt des ursprünglichen Stücks bei und bestand aus glänzenden Blättchen von Graphit, einer schwarzen, flockigen Masse und einem magnetischen Theil, der unter dem Mikroskop als ein Netzwerk von krystallinischen Tafeln erschien, die sich unter Winkeln von etwa 60° und 120° schnitten und genau den Figuren glichen, die an dieser Stelle beim Aetzen entstanden waren. Ausserdem wurden noch bräunliche Körnchen, härter wie Glas, beim Unlöslichen gefunden; sie glichen sehr dem Olivin von Atacama. Nach Shepard besteht diese Masse aus Kieselsäure, Kalk, Magnesia und Eisenoxyd.
+
+Literatur: Shepard Sillim. Amer. Journ. (2) 4, 80; daselbst auch Abbildung der Eisenmasse. Clark Annal. Chem. Pharmac. 1852, 6, 367.
+
+Braunau (Hauptmannsdorf und Ziegelschlag), Böhmen.
+
+1847, Juli 14, 3 3/4 Uhr Morgens.
+
+Dieses ist eines der wenigen Beispiele, wo das Niederfallen einer Eisenmasse beobachtet und die Ereignisse dabei genau und sicher festgestellt wurden.
+
+Durch zwei heftige Detonationen und ein heftiges, andauerndes Sausen und Brausen aufmerksam gemacht, bemerkten Viele eine kleine schwarze Wolke, die sich während ihres Hin- und Hertreibens in einen horizontalen Streifen formte. Sie erglühte plötzlich und gleichzeitig schienen zwei Feuerstreifen von ihr aus zur Erde zu fahren. Dann war die Wolke aschgrau, von rosettenartiger Form und verschwand allmählich.
+
+Ein Augenzeuge sah dabei eine Masse in einen Ackerrain drei Fuss tief einschlagen; es war eine Eisenmasse von 23 K. 625 und noch sechs Stunden nach dem Fall so heiss, dass man sie nicht angreifen konnte. Eine zweite Eisenmasse von 17 K. 080 hatte das Dach eines Häuschens durchschlagen und die Wand einer Kammer zertrümmert; unter dem Schutt fand sich der Meteorit erst nach langem Suchen. Beide Massen mit ihren zellenartig eckigen Vertiefungen finden sich vielfach abgebildet. Stücke finden sich in vielen Sammlungen, besonders in Wien (2 K. 438, das grösste 2 K. 126,293), Berlin (1 K. 613,621), Breslau, schles. Gesellsch. (1 K. 125), London (594,4 Gr.), München (590 Gr.), Prag (böhm. Nationalmuseum), Göttingen (162 Gr.), Giessen, Univers. (76,65 Gr.), Freiberg (32 Gr.), Leipzig (26,425 Gr.) und kleinere oder von unbekanntem Gewicht in Harlem, Heidelberg, Calcutta, Copenhagen, Tübingen; ferner in den Privatsammlungen, besonders von Abt Zeipıer in Prag (1 K. 120), Greg (67,5 Gr.), v. Reichenbach, Shepard, Auerbach (218 Gr.), Zimmermann in Hamburg, Fürst Lobkowitz in Bilin, Ferber in Gera, Neumann in Prag und Jordan in Saarbrücken.
+
+Specifisches Gewicht: 7,7142 Beinert.
+
+Die Rinde ist bei beiden Massen eisengrau, schwarz, glanzlos, geadert oder gestrichelt und erscheint unter der Lupe fein gekörnt, chagrinartig und lässt sich leicht abschaben und zwischen den Fingern zerreiben. Das Eisen im Inneren ist durchaus dicht, ohne alle Blasenräume und erdige Einschlüsse, dagegen findet sich Magnetkies in grösseren und kleineren Partien innig damit verwachsen.
+
+Dabei ist das Eisen vollkommen und durch und durch krystallinisch und parallel den drei Richtungen des Würfels fast so leicht spaltbar wie Bleiglanz. Die ganze Masse scheint demnach aus einem einzigen Krystallindividuum zu bestehen. Beim Aetzen erscheinen nicht die gewöhnlichen Widmannstätten'schen Figuren, sondern nur zahllose parallele, sehr feine, gerade Schraffirungslinien über die ganze Aetzfläche, die sich der grossen Mehrzahl nach unter ziemlich spitzen Winkeln schneiden und in ununterbrochener Fortsetzung das ganze Stück durchziehen. Die ganze Masse wird aus dünnen Schichten zusammengesetzt, die den Flächen eines Würfelzwillings parallel liegen; die leichter und schwerer auflöslichen Schichten durchschneiden sich in jenen Richtungen, die den Richtungen von sechs anderen Würfeln entsprechen, welche zu je drei mit einem der Würfel des ersten Zwillings zu neuen Zwillingen verbunden sein können. Die dem Octaeder entsprechenden Trennungsflächen haben mehr den Charakter von Krystallschalen, als von wirklichen Theilungsflächen.
+
+Nach der Analyse von Duflos und Fischer besteht das Eisen aus:
+
+Fe. Ni. Co. X.  
+91,882. 5,517. 0,529. 2,072.
+
+X. = Kupfer, Mangan, Arsen, Calcium, Magnesium, Silicium, Chlor, Kohlenstoff, Schwefel.
+
+Ausser dem eingewachsenen Magnetkies findet sich Schreibersit in weissen glänzenden Metallblättchen, Flitterchen und Schüppchen überall in der Masse verbreitet.
+
+Die bei der Behandlung mit Salzsäure rückbleibende Substanz ergab:
+
+Fe. Ni. P. Cr. C. SiO3. Sa.  
+56,430. 25,015. 11,722. 2,850. 1,156. 0,985. 98,158.
+
+Literatur: Beinert Der Meteorit von Braunau. Breslau 1848. Auszüge davon in vielen Zeitschriften. Glocker Poggend. Ann. 73, 332. Neumann Jahrb. f. Min. 1848, 825. Haidinger Berichte 3, 302. 378. 493. 4, 86. Duflos und Fischer Poggend. Ann. 72, 170. 475. 73, 590. v. Reichenbach ebd. 114, 116.
+
+Seeläsgen, Kreis Schwiebus, Reg.-Bezirk Frankfurt a. O., Brandenburg, Preussen.
+
+Diese Eisenmasse von 102 K. wurde 7 Ellen unter dem Boden in einer Wiese gefunden. Sie hatte eine unregelmässige und rundliche Form mit stumpfer Spitze und breiter Basis, viele flache und tiefe Gruben und zuweilen sehr stark hervortretende Buckeln auf der Oberfläche und mass im grössten Umfange über drei Fuss. Nachdem dieses Eisen eine Zeit lang unter anderen Steinen vor dem Hause eines Bauern gelegen, wurde es 1847 als meteorisch erkannt. Ueber die Hälfte erhielt Krantz in Bonn, der sie stückweise verkaufte. Am meisten scheint London zu besitzen (9 K. 713) und Berlin (4 K. 471), kleinere Stücke Wien (1 K. 997), Breslau, schles. Gesellsch. (1 K. 812), Harlem, Akademie der Wissenschaften (998,7 Gr.), Tübingen (529 Gr.), Copenhagen (341,5 Gr.), Upsala (231,7 Gr.), Stockholm (203 Gr.), Göttingen (147,77 Gr.), Marburg (145,8 Gr.) und kleinere oder von unbekanntem Gewicht Calcutta, Cassel, Freiberg, Freiburg im Breisg., Giessen (Univers.), Stuttgart; ferner die Privatsammlungen von Greg (2 K. 230), Abt Zeidler (744 Gr.), Ferber in Gera (664 Gr.), Shepard (357 Gr.), Fürst Lobkowitz (275 Gr.), Neumann in Prag (257 Gr.), de Luynes (193 Gr.), Fischer in Hamburg (143 Gr.), Keller sen. in Freiburg im Breisg. (130 Gr.), Jordan in Saarbrücken (107 Gr.), sowie kleinere oder von unbekanntem Gewicht v. Reichenbach, Erzh. Stephan auf Schaumburg, Zimmermann und Ulex in Hamburg, Auerbach in Moskau und Wiser in Zürich.
+
+Specifisches Gewicht:  
+7,59 Partsch,  
+7,63-7,71 Duflos,  
+7,734 Rammelsberg,  
+Schwefeleisen darin: 4,787 Rammelsberg.
+
+Das Eisen war bedeckt mit einer schwarzbraunen Rostrinde von 1/4-3/4 Linien Dicke. Das Innere ist ein gleichartiges, schmiedbares, sehr weiches Metall von hell stahlgrauer Farbe mit gelblichem Schimmer und durchzogen von feinen zickzackförmigen Sprüngen, welche sich manchmal zu Höhlungen erweitern, deren Oberfläche schlackig und rauh ist und die mit einer schwärzlichbraunen erdigen Substanz ausgefüllt sind. Diese Zellen enthalten auch zahlreiche Kügelchen von Schwefeleisen und kleine isolirte Massen von Metall. Wo sich die Zellen an der Oberfläche der Masse öffnen, bemerkt man zahlreiche baumartige metallische Punkte und das schwarze erdige Mineral ist in Eisenoxyd-Hydrat umgewandelt. Der Bruch ist schlackenartig zackig oder fein-
+
 ...
