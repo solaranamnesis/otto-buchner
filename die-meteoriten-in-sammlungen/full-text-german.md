@@ -874,9 +874,7 @@ b\. Feinkörnig (Nobleborough, Little Pinney).
 
 *) Nicht meteorisch.
 
-I\. Steinmeteoriten,
-
-Deren Fallzeit bekannt ist.
+## I\. Steinmeteoriten, deren Fallzeit bekannt ist.
 
 Sie sind nach der Fallzeit geordnet.
 
