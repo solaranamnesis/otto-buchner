@@ -1440,7 +1440,9 @@ Literatur: Gilb. Ann. 71, 361. Partsch 26. v. Reichenbach 111, 368. 372.
 
 ### Asco
 
-Asco, Insel Corsika. 1805, November.
+Asco, Insel Corsika.
+
+1805, November.
 
 Ueber das Ereigniss selbst ist nichts bekannt geworden; der Stein soll in einer Kirche auf Corsika aufbewahrt werden. Stückchen davon befinden sich nur in den Sammlungen von Wien (18,59 Gr.), Berlin (6,664 Gr.) und v. Reichenbach.
 
@@ -1593,7 +1595,11 @@ Das Schwefeleisen fand er wenig nickelhaltig. Vauquelin wies in der Steinmasse 0
 
 Literatur: Gilb. Ann. 29, 210. 33, 198.
 
-Stannern (Langenpiernitz), Iglauer Kreis, Mähren. 1808, Mai 22, gegen 6 Uhr Morgens.
+### Stannern
+
+Stannern (Langenpiernitz), Iglauer Kreis, Mähren.
+
+1808, Mai 22, gegen 6 Uhr Morgens.
 
 Nicht nur die Steine sind höchst merkwürdig, sondern auch der Fall selbst vortrefflich beobachtet, die Thatsachen durch gerichtliche und wissenschaftliche Untersuchungen festgestellt und die Steine in reichlicher Menge sorgfältig gesammelt; von keinem Ereigniss dieser Art sind so viele Steine in derselben Sammlung, so dass ein genaues Studium, ein Vergleichen und eine folgerichtige Zusammenstellung derselben möglich ist, wie gerade hier.
 
@@ -1640,6 +1646,8 @@ Das Fehlen von Eisen und Nickel wird durch alle Analysen bestätist. Das Eisen, 
 
 Die Literatur über die Localität ist sehr ausgedehnt. Am wichtigsten ist v. Schreibers Gilb. Ann. 29, 225. v. Moser ebd. 309. 324. v. Scheerer ebd. 31, 1. v. Schreibers ebd. 23. Vauquelin ebd. 33, 202. Klaproth Beiträge 5, 257. Rammelsberg Pogg. Ann. 83, 591. Haidinger Wien. Akad. Ber. 40, 525. v. Schreibers Stein- und Metallmassen 20. 59. 69. 87. Partsch 17. Dabei finden sich mehrfach gute Abbildungen von Steinen. Schafhäutl Münchn. gel. Anz. 24, 1847, 556.
 
+### Lissa
+
 Lissa (zwischen den Dörfern Stratow und Wustra), Bunzlauer Kreis, Böhmen.
 
 1808, Sept. 3, 3 1/2 Uhr Nachmittags.
@@ -1662,7 +1670,11 @@ SiO3. Al2O3. MgO. CaO. Fe. Ni. MnO. S. u. Verl.
 
 Literatur: Gilb. Ann. 30, 358. 32, 126. 50, 254. Klaproth Beiträge 5, 246.
 
-Caswell County, Nord-Carolina, Nord-Amerika. 1810, Januar 30, 2 Uhr Nachmittags.
+### Caswell County
+
+Caswell County, Nord-Carolina, Nord-Amerika.
+
+1810, Januar 30, 2 Uhr Nachmittags.
 
 Unter den gewöhnlichen Umständen fiel ein Stein von über 1 K., der in Besitz des Bischofs Madison in Williamsburg kam. Nach dessen Beschreibung gleicht er den anderen Meteorsteinen, besonders dem von Weston. Doch wird er nicht nur vom Magnet angezogen, er ist auch polarmagnetisch.
 
@@ -1670,7 +1682,11 @@ Ob der Stein noch aufbewahrt wird und wer ihn besitzt wurde so wenig bekannt, al
 
 Literatur: Gilb. Ann. 41, 1812, 449. Chladni Feuermet. 291.
 
-Mooresfort, Grafsch. Tipperary, Irland. 1810, August, ohne genauere Angabe des Tags, um die Mittagszeit.
+### Mooresfort
+
+Mooresfort, Grafsch. Tipperary, Irland.
+
+1810, August, ohne genauere Angabe des Tags, um die Mittagszeit.
 
 Ein fast kubischer Stein, 3 K. 326 schwer, fiel unter den gewöhnlichen Erscheinungen in Gegenwart von Zeugen, konnte aber seiner Hitze wegen erst zwei Stunden nachher mit den Händen berührt werden. Etwa die Hälfte des Steines ist im Irish-Museum in Dublin, kleinere Bruchstücke sind in Wien (278,366 Gr.), London (199 Gr.), Copenhagen, Berlin, Paris (Mus. Hist. nat.), Göttingen, Tübingen und in den Privatsammlungen von Shepard, v. Reichenbach, Nevill, Greg (27,4 Gr.), Auerbach (8 Gr.) und Neumann.
 
@@ -1691,7 +1707,11 @@ SiO3. MgO. Fe. Ni. S. Sa.
 
 Literatur: Gilb. Ann. 60, 236. 63, 22.
 
-Charsonville bei Orleans, Dep. du Loiret, Frankreich. 1810, Nov. 23, 1 1/2 Uhr Nachmittags.
+### Charsonville
+
+Charsonville bei Orleans, Dep. du Loiret, Frankreich.
+
+1810, Nov. 23, 1 1/2 Uhr Nachmittags.
 
 Bei klarem Himmel fielen aus einer Feuerkugel, die von N. nach S. ging, und einen langen Schweif nachzog, unter heftigem Getöse drei Steine nieder, von welchen zwei von 10 und 20 K., der kleinere noch heiss, der grössere aber erst nach 18Stunden gefunden wurden. Im Mus. Hist. nat. zu Paris wird ein Stück von 2 K. aufbewahrt; kleinere Bruchstücke sind in Wien (595,012 Gr., 2 St.), Paris (Ec. des Min. 81,3 Gr.), Berlin (46,318 Gr.), Bern (32,38 Gr.), Upsala (10,4 Gr.) und kleinere in Göttingen, Stockholm, London, Calcutta, Tübingen, Dublin, Stuttgart, Hudson, Bologna. In Privatsammlungen scheint Shepard das grösste Stück zu besitzen (135 Gr.), kleinere v. Reichenbach, de Luynes, Erzh. Stephan, Greg (7,5 Gr.), Nevill und Neumann.
 
@@ -1712,6 +1732,8 @@ SiO3. Fe. MgO. Al2O3. CaO. Cr. Mn. Ni. S. Sa.
 
 Literatur: Gilb. Ann. 37, 349. 40, 83. 41, 450 (hier ist irrthümlich 1811 statt 1810 als Falljahr angegeben).
 
+### Kuleschowka
+
 Kuleschowka (Kuleschowk), Romener Kreis, Gouv. Poltawa. Russland.
 
 1811, 12/13 März, um Mitternacht.
@@ -1725,6 +1747,8 @@ Die Rinde ist dick und matt, oder etwas schimmernd.
 Die Hauptmasse ist hellaschgrau mit äusserst feinen braunen Punkten. Nur auf Schliffflächen sind undeutliche kugelige Einschlüsse erkennbar. Eisen tritt reichlich, theils fein, theils grob eingesprengt auf, sowie ziemlich viel sehr feinkörniger Magnetkies. Nach v. Reichenbach schliesst die Masse auch bohnengrosse genauere Sphäroide ein.
 
 Literatur: Blöde Bull. Ac. Petersb. VI. no. 1, 1848. Eichwald Erman Arch. 5, 177. Partsch 54. v. Reichenbach Pogg. Ann. 111, 360.
+
+### Berlanguillas
 
 Berlanguillas unweit Burgos, Altcastilien, Spanien.
 
@@ -1742,6 +1766,8 @@ Die Masse wurde noch nicht chemisch untersucht.
 
 Literatur: Gilb. Ann. 40, 116. 41, 452.
 
+### Panganoor
+
 Panganoor, Ostindien.
 
 1811, November 23.
@@ -1749,6 +1775,8 @@ Panganoor, Ostindien.
 Bei Panganoor soll eine Eisenmasse gefallen sein, über die aber nichts bekannt wurde. Wahrscheinlich ist es eine Verwechselung mit dem Stein von 4808, der als von Mooradabad und von Panganoor angeführt wird und der mehr Eisen und Nickel enthalten soll, als Steinmasse. Von Calcutta könnte das Dunkel aufgehellt werden.
 
 Literatur: Journ. Asiat. Soc. Bengal. 1844, 13, 885.
+
+### Toulouse
 
 Toulouse, in den Gemeinden le Burgau, Dep. Haute Garonne und Savenes, Dep. Tarne et Garonne, Frankreich.
 
@@ -1771,6 +1799,8 @@ Die dunkelgraue, rostbraun gefleckte Grundmasse ist grobkörnig, matt und erdig,
 Eine chemische Analyse wurde nicht bekannt.
 
 Literatur: Gilb. Ann. 41, 445. 42, 111. 343.
+
+### Erxleben
 
 Erxleben (Niedererxleben, 2 Meil. von Helmstädt, 4 Meil. von Magdeburg, Preussen), Deutschland.
 
@@ -1799,6 +1829,8 @@ Fe. Ni. Cr2O3. MnO. SiO3. MgO. Al2O3. CaO. S. u. Verl.
 2\. 24,415. 1,579. 0,246. 0,704. 36,320. 23,584. 1,605. 1,922. 2,952. 5,574. 0,741. 0,358.
 
 Literatur: Vieth Gilb. Ann. 40, 450. Hausmann ebd. Gilbert ebd. 41, 96. Stromeyer ebd. 42, 105. Klaproth Beitr. 6, 305.
+
+### Chantonnay
 
 Chantonnay, zwischen Nantes und la Rochelle, Dep. de la Vendee, Frankreich.
 
@@ -1833,6 +1865,8 @@ Rammelsberg berechnete daraus 1. als ein Gemenge von Labrador und Hornblende ode
 
 Literatur: Chladni Gilb. Ann. 60, 247. Cavoleau ebd. 63, 228. Berzelius Pogg. Ann. 33, 28. Rammelserg Handwörterb. Suppl. 5, 19. Shepard Rep. 7.
 
+### Limerik
+
 Grafschaft Limerik (Adare, Scagh, Brasky, Faha), Ireland.
 
 1813, Sept. 10, 6 Uhr Morgens.
@@ -1859,6 +1893,8 @@ SiO3. MgO. CaO. FeO. NiO. Cr2O3. Fe. Ni. S. Alkal.
 
 Literatur: Gilb. Ann. 60, 233. Transact. Irish Acad. 18. P. 1. p. 17.
 
+### Luotolaks
+
 Luotolaks [bedeutet Felsenbucht], (nicht Lontalax oder Lontolaks), bei Friedrichsham, Switaipola (Sawotaipola), Gouv. Wiborg, Finnland.
 
 1813, Dec. 13, bei Tag (nicht 1814, Jan. 11, wie Eichwald oder 1814, März, wie Chladni angibt).
@@ -1879,6 +1915,8 @@ SiO3. MgO. FeO. MnO. CuO. Al2O3. KO, NaO. (Olivin).
 Der unlösliche Theil (6,37%) hat die Zusammensetzung wie bei Blansko und Chantonnay mit etwa 1% Chromeisen mit Zinn.
 
 Literatur: Gilb. Ann. 67, 370. Nordenskiöld ebd. 68, 340. 71, 209. Berzelius Poggend. Ann. 33, 30. Greg Philos. Magaz. Suppl. Jan. 1863.
+
+### Bachmut
 
 Bachmut, Gouv. Ekaterinoslaw, Russland.
 
@@ -1909,6 +1947,8 @@ Jedenfalls ist dasFragment Paulowgrad in Wien (11,485 Gr.) und wohl auch das in 
 
 Literatur: Giese in Gilb. Ann. 50, 117. Eichwald in Erman Arch. 5, 178. v. Reichenbach in Poggend. Ann. 111, 372. Haidinger in Wien. Ztg. 1862, Oct. 18, Beil. No. 38. p. 303. Wöhler Nachrichten d. Univ. Göttingen, 1862, 373. Greg Philos. Magaz. Suppl. Jan. 1863.
 
+### Agen
+
 Agen, Dep. Lot et Garonne, Frankreich.
 
 1814, Sept. 5, kurz vor Mittag.
@@ -1930,6 +1970,8 @@ Nach der qualitativen Analyse von Vauquelin fehlt Nickel; der Stein besteht aus 
 
 Literatur: Gilb. Ann. 48, 395. Vauquelin Journ. des Min. 37, 317. Partsch 62.
 
+### Dooralla
+
 Dorf Dooralla, im Territorium von Patyala Raja, 80 Meil. von Lodiana, Ostindien, 30° 8'23 Br. 46.4 östl. L., Greenw.
 
 1815, Febr. 18.
@@ -1939,6 +1981,8 @@ Unter heftigem Knall und Getöse fiel ein etwa 13 K. schwerer Stein nieder, der 
 Die Gestalt ist unförmlich dreieckig, die Rinde ist schwarz und dünn und auf dem Bruch ist deutlich Nickeleisen zu erkennen. Genauere Mittheilungen fehlen.
 
 Literatur: Gilb. Ann. 68, 333. Rep. Brit. Assoc. 1850, 119.
+
+### Chassigny
 
 Chassigny, 4 M. SO. von Langres, Dep. Haute Marne, Frankreich.
 
@@ -1975,6 +2019,8 @@ Damour berechnet daraus die Formel (FeO, 2MgO) SiO3 wie für Hyalosiderit.
 
 Literatur: Pistollet Gilb. Ann. 53, 384. Vauquelin ebd. 58, 171. Calmelet und Gillet de Laumont Ann. des Mines 1, 489, 491. Damour Cpt. rnd. 55, 1862, 591.
 
+### Zaborzika
+
 Zaborzika (Saboryzy, Saborytz nach Eichwald), bei dem Fluss Slutsch, Gouv. Volhynien, Russland.
 
 1818, März 30 (Apr. 10. n. St.).
@@ -1989,6 +2035,8 @@ SiO3. MgO. Al2O3. Fe2O3. CaO. Ni. Cr. S. Sa.
 41. 14,9. 0,75. 45. 2. 1. 0,75. 4. 109,4.
 
 Literatur: Gilb. Ann. 75, 264. Erman Archiv 5, 178. Poggend. Ann. 111, 372.
+
+### Seres
 
 Seres, Macedonien, Türkei.
 
@@ -2031,6 +2079,8 @@ Nach Rammelsberg lassen sich die Mineralbestandtheile aus dieser Analyse nicht b
 
 Literatur: Berzelius Poggend. Ann. 16, 618. Rammelsberg Handwörterb. Suppl. 5, 28.
 
+### Slobodka
+
 Slobodka, Gouv. Smolensk, Russland. (Nach Eichwald im Kreis Juchnow, aber verschieden von Timochin, 1807, März 13, welche Localität auch Juchnow. genannt wird.)
 
 1818, Aug. 10. n. St. (nach Gilb. Ann. 60, 254 unrichtig Juli 11, Juni 29. a. St.)
@@ -2045,7 +2095,9 @@ Die Grundmasse ist hellgrau und rostbraun gefleckt und mit feinen schwarzen Ader
 
 Literatur: Gilb. Ann. 60, 254. Erman Arch. 5, 178. G. Rose Reise Ural 1, 75. Partsch 55.
 
-Sehr wahrscheinlich ist dieser Fall zu streichen, da das in Moskau befindliche Stück, sowie das in Berlin, von welchen die anderen abstammen müssen, nach dem Urtheil der ausgezeichnetsten Kenner (v. Reichenbach, Hörnes, G. Rose etc.), sowie nach Vergleichung mit den reichsten Sammlungen nur ein »>Stannern« ist. Auch Partsch bezweifelt, dass die 3 Stücke der Wiener Sammlung von derselben Localität stammen.
+Sehr wahrscheinlich ist dieser Fall zu streichen, da das in Moskau befindliche Stück, sowie das in Berlin, von welchen die anderen abstammen müssen, nach dem Urtheil der ausgezeichnetsten Kenner (v. Reichenbach, Hörnes, G. Rose etc.), sowie nach Vergleichung mit den reichsten Sammlungen nur ein »Stannern« ist. Auch Partsch bezweifelt, dass die 3 Stücke der Wiener Sammlung von derselben Localität stammen.
+
+### Jonzac
 
 Jonzac (Barbezieux), Dep. de la Charente inferieure, Frankreich.
 
@@ -2069,6 +2121,8 @@ SiO3. MgO. CaO. Fe2O3. Mn2O3. Cr2O3. Al2O3. S. Sa.
 46. 1,6. 7,5. 36. 2,8. 1. 6. 1,5. 102,4.
 
 Literatur: Gilb. Ann. 68, 335.
+
+### Pohlitz
 
 Pohlitz (nicht richtig Köstritz) bei Gera, Fürstenthum Reuss, Deutschland.
 
