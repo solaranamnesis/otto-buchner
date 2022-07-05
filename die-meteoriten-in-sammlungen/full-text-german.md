@@ -22,7 +22,7 @@ Das Recht der Uebersetzung in die englische und französische Sprache hat sich d
 
 #### Gewidmet.
 
-[Vorrede.](#vorrede)
+[Vorrede](#vorrede)
 
 [I. Oeffentliche Sammlungen](#i-oeffentliche-sammlungen)
 
@@ -36,11 +36,25 @@ Das Recht der Uebersetzung in die englische und französische Sprache hat sich d
 
 [System von Shepard](#system-von-shepard)
 
-[I. Steinmeteoriten deren fallzeit bekannt ist.](#i-steinmeteoriten-deren-fallzeit-bekannt-ist)
+[I. Steinmeteoriten deren fallzeit bekannt ist](#i-steinmeteoriten-deren-fallzeit-bekannt-ist)
 
 [Ensisheim](#ensisheim)
 
 [Vago](#vago)
+
+[Schellin](#schellin)
+
+[Plescowitz und Liboschitz](#plescowitz-und-liboschitz)
+
+[Tabor](#tabor)
+
+[Luponnas](#luponnas)
+
+[Alboreto](#alboreto)
+
+[Luce](#luce)
+
+[Mauerkirchen](#mauerkirchen)
 
 ## Vorrede.
 
