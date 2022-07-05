@@ -24,39 +24,39 @@ Das Recht der Uebersetzung in die englische und französische Sprache hat sich d
 
 ***
 
-#### [Vorrede](#vorrede)
+#### [Vorrede](#vorrede-1)
 
-#### [I. Oeffentliche Sammlungen](#i-oeffentliche-sammlungen)
+#### [I. Oeffentliche Sammlungen](#i-oeffentliche-sammlungen-1)
 
-#### [II. Privatsammlungen](#ii-privatsammlungen)
+#### [II. Privatsammlungen](#ii-privatsammlungen-1)
 
-##### [System von P. Partsch](#system-von-p-partsch)
+##### [System von P. Partsch](#system-von-p-partsch-1)
 
-##### [System von G. Rose](#system-von-g-rose)
+##### [System von G. Rose](#system-von-g-rose-1)
 
-##### [System von v. Reichenbach](#system-von-v-reichenbach)
+##### [System von v. Reichenbach](#system-von-v-reichenbach-1)
 
-##### [System von Shepard](#system-von-shepard)
+##### [System von Shepard](#system-von-shepard-1)
 
-#### [I. Steinmeteoriten deren fallzeit bekannt ist](#i-steinmeteoriten-deren-fallzeit-bekannt-ist)
+#### [I. Steinmeteoriten deren fallzeit bekannt ist](#i-steinmeteoriten-deren-fallzeit-bekannt-ist-1)
 
-##### [Ensisheim](#ensisheim)
+##### [Ensisheim](#ensisheim-1)
 
-##### [Vago](#vago)
+##### [Vago](#vago-1)
 
-##### [Schellin](#schellin)
+##### [Schellin](#schellin-1)
 
-##### [Plescowitz und Liboschitz](#plescowitz-und-liboschitz)
+##### [Plescowitz und Liboschitz](#plescowitz-und-liboschitz-1)
 
-##### [Tabor](#tabor)
+##### [Tabor](#tabor-1)
 
-##### [Luponnas](#luponnas)
+##### [Luponnas](#luponnas-1)
 
-##### [Alboreto](#alboreto)
+##### [Alboreto](#alboreto-1)
 
-##### [Luce](#luce)
+##### [Luce](#luce-1)
 
-##### [Mauerkirchen](#mauerkirchen)
+##### [Mauerkirchen](#mauerkirchen-1)
 
 ***
 
