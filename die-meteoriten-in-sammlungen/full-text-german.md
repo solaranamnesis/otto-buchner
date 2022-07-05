@@ -1138,6 +1138,8 @@ Lowitz fand noch eine Spur Chrom.
 
 Literatur: Gilb. Ann. 31, 321. Mem. Ac. Petersb. 6, Hist. 47. Erman Arch. 5, 176.
 
+### Barbotan
+
 Barbotan (Roquefort, Creon, Juillac, Mezin, Eause, Armagnac, Losse, Agen, St. Sever, La Grange), Dep. des Landes, Dep. Lot et Garonne, Dep. du Gers, ehemals Gascogne (danach und wohl auch nach Bordeaux genannt), Frankreich. 1790, Juli 24, nach 9 Uhr Abends.
 
 Ein höchst merkwürdiger und reicher Meteoritenfall, der das grösste Aufsehen erregte und von den Gelehrten Frankreichs mit Hohn als grobe Täuschung und unglaubliche Lüge aufgenommen wurde.
@@ -1154,6 +1156,8 @@ SiO3. MgO. CaO. Fe2O3. NiO. Sa.
 46. 15. 2. 38. 2. 103.
 
 Literatur: Gilb. Ann. 13, 346. 421. 15, 320. 328. 429. 18, 284.
+
+### Siena
 
 Siena in Toscana, Italien. 1794, Juni 16, nach 7 Uhr Abends.
 
@@ -1184,6 +1188,8 @@ SiO3. MgO. FeO. MnO. Fe. Ni. S. NiO.
 
 Literatur: Gilb. Ann. 6, 46. 13, 296. 312. 18, 285. Pogg. Ann. 24, 222. 105, 441. 111, 355. 371. Chladni Feuermet. 261. Partsch 31.
 
+### Wold Cottage
+
 Wold Cottage, Yorkshire, England. 1795, Dec. 13, 3 1/2 Uhr Nachmittags.
 
 Dieser Steinfall ist für die Geschichte der Meteoriten von Wichtigkeit, indem die genau beobachteten und von Capitän Topuam, bei dessen Wohnung das Ereigniss stattfand, zusammengestellten und veröffentlichten Thatsachen wenigstens in England, wenn auch noch nicht in Frankreich, die Zweifel an die Möglichkeit eines solchen Ereignisses vernichteten. Bournon und Howarp wurden durch diesen Steinfall wesentlich zu ihrer trefflichen Arbeit angeregt, die nachher epochemachend wurde.
@@ -1209,6 +1215,8 @@ I\. 86,66. 13,34.
 
 Literatur. Gilb. Ann. 15, 318.
 
+### Belaja-Zerkwa
+
 Belaja-Zerkwa (Bjelaja-Zerkow nach Eichwald), ehemals Ukraine, Polen, jetzt Gouvernement Kiew, Russland. 1796, Dec. 23. a. St. 1797, Jan. 4. n. St.
 
 In Gegenwart vieler Zeugen fiel unter den gewöhnlichen Umständen ein beträchtlich grosser Stein, der geschmolzen gewesen und erst nach einigen Stunden fest geworden sein soll. Die akademische Sammlung in Kiew (früher in Wilna) besitzt die Hauptmasse. Ausserhalb Russland scheint nur Neumann in Prag ein Stückchen (0,405 Gr.) zu besitzen.
@@ -1216,6 +1224,8 @@ In Gegenwart vieler Zeugen fiel unter den gewöhnlichen Umständen ein beträcht
 Ueber die Beschaffenheit des Steins ist nichts bekannt geworden.
 
 Literatur: Gilb. Ann. 31, 1809, 307.
+
+### Sales
 
 Sales, bei Villefranche, Dep. du Rhone, Frankreich. 1798, März 8 oder 12, 6 Uhr Abends.
 
