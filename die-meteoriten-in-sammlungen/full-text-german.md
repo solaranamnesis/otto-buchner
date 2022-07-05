@@ -904,7 +904,9 @@ Sie sind nach der Fallzeit geordnet.
 
 ### Ensisheim
 
-Ensisheim, Elsass, jetzt Dep. du Haut Rhin, Frankreich. 1492, Nov. 16 (Nov. 7 a. St.), zwischen 11 und 12 Uhr Vormittag.
+Ensisheim, Elsass, jetzt Dep. du Haut Rhin, Frankreich.
+
+1492, Nov. 16 (Nov. 7 a. St.), zwischen 11 und 12 Uhr Vormittag.
 
 Ein Stein von 127 K. 270 fiel unter heftigem Getöse; wahrscheinlich wurde dabei auch eine Feuererscheinung beobachtet. Man sah den Stein in ein Weizenfeld fallen; er wurde bis auf zwei abgeschlagene Stücke auf Befehl Kaiser Maximilians I. in der Kirche zu Ensisheim aufgehängt, wo er bis zur französischen Revolution blieb; er wurde übel zerschlagen, so dass jetzt nur 40-50 K. wieder an der alten Stelle hängen. ‚Von Sammlungen besitzt das Mus. Hist. nat. in Paris ein Stück von über 9 K. Kleinere Fragmente finden sich in den meisten Sammlungen.
 
@@ -930,7 +932,9 @@ Viele Chroniken und Urkunden gedenken des Ereignisses (Chladni Feuermet. 205). B
 
 ### Vago
 
-Dorf Vago unweit Caldiero, Territorium von Verona, Italien. 1668, Juni 19 nach Montanari, oder 21 nach Valisnieri; nach Mitternacht.
+Dorf Vago unweit Caldiero, Territorium von Verona, Italien.
+
+1668, Juni 19 nach Montanari, oder 21 nach Valisnieri; nach Mitternacht.
 
 Obgleich jedenfalls ein, wahrscheinlich aber zwei sehr grosse Steine fielen und ausführliche Mittheilungen darüber erhalten sind, auch Bruchstücke an die Akademie zuVerona und viele Gelehrte Italiens und Frankreichs geschickt, selbst ein grosses Stück an Ketten in einer Kirche aufgehängt wurde, so scheint doch jetzt aus den Sammlungen fast jede Spur verschwunden zu sein. Laugier besass 1818 ein kleines Stückchen; er wies zuerst Chrom darin nach (1%). Chladni sah diesen Rest und fand ihn Barbotan, Tabor und andern ähnlich. Wo ist er hingekommen? Catullo beschreibt die schwarze Rinde und vergleicht das Innere mit dem der Steine von Toulouse (1812), nur scheine es mehr metallische Theile zu enthalten. Er sah ein Bruchstück in dem früher berühmten Museo Moscardo in Verona, das in den Besitz der Familie Miniscalchi in Verona überging; da findet sich vielleicht noch ein Bruchstück; die Reste des Museum Moscardo sind jetzt in einer Dachstube des Miniscalchi'schen Hauses wer weiss in welchem Zustande.
 
@@ -938,7 +942,9 @@ Literatur: Gilb. Ann. 24, 383. Chladni Feuermet. 233. Catullo Geogn. delle prov.
 
 ### Schellin
 
-Schellin (weniger richtig Garz) bei Stargard in Pommern. 1715, April 11, 4 Uhr Nachmittag.
+Schellin (weniger richtig Garz) bei Stargard in Pommern.
+
+1715, April 11, 4 Uhr Nachmittag.
 
 Nach einem Getöse, das von SO. nach NW. gehört wurde, fielen miehre Steine, einer von ca. 7% K., der zweite kleiner. Der Fall wurde erst 4822 durch GiLsert bekannt. Es haben sich nur sehr wenige kleine Bruchstücke erhalten (in Berlin, Wien, London und den Privatsammlungen von v. REICHENBACH und KranTz); auch soll ein Gutsbesitzer in Pommern ein Fragment besitzen. Das, welches Prof. GiLgert besass, scheint verloren zu sein.
 
@@ -952,7 +958,9 @@ Literatur: Gilbert Annalen 71, 213.
 
 ### Plescowitz und Liboschitz
 
-Plescowitz und Liboschitz, einige Meilen von Reichstadt, Bunzlauer Kreis, Böhmen. 1723, Juni 22.
+Plescowitz und Liboschitz, einige Meilen von Reichstadt, Bunzlauer Kreis, Böhmen.
+
+1723, Juni 22.
 
 Man sah bei heiterem Himmel eine einzelne kleine Wolke und hörte darin ein starkes Krachen und Knallen, worauf bei Liboschitz 25 und auf anderen herrschaftlich Plescowitz'schen Dörfern unter Funkensprühen 8 grosse und kleine Steine fielen, die nach Schwefel rochen, auswendig schwarz und inwendig metallisch waren.
 
@@ -962,7 +970,9 @@ Literatur: Poggend. Ann. 116, 640.
 
 ### Tabor
 
-Tabor. Hof Krawin bei Strkow, südl. von Plan und Tabor. 1753, Juli 3, 8 Uhr Abends.
+Tabor. Hof Krawin bei Strkow, südl. von Plan und Tabor.
+
+1753, Juli 3, 8 Uhr Abends.
 
 Nach einer Feuererscheinung erfolgte eine heftige Detonation; dann fielen mehre Steine herab, was von zwei Schäfern an verschiedenen Stellen beobachtet wurde. Ein ganzer Stein, der erste, der unverletzt in Sammlungen aufbewahrt wurde, ist in Wien und wiegt 2 K. 782,5; ausserdem werden daselbst noch 6 St. aufbewahrt (im Ganzen 4 K. 119,69). Kleinere Bruchstücke finden sich in London (164 Gr.), Berlin (77,802 Gr.), Prag (böhm. Nat.-Mus.), Pesth (Univ.-Mus.) und den Privatsammlungen des Fürsten Loskowırz (Bilin, 2 St. 777 Gr.), v. Reichenbach (Wien), v. Henikstein (Gratz, 2 St.), Neumann (Prag, 3 St. 74,39 Gr.), Shepard (N. Haven).
 
@@ -1011,7 +1021,9 @@ Literatur: Izarn 56 ausführlicher als Bigot de Morogues 101. Gilb. Ann. 13, 343
 
 ### Alboreto
 
-Alboreto, unweit Modena, Italien. 1766, Mitte Juli, 5 Uhr Abends.
+Alboreto, unweit Modena, Italien.
+
+1766, Mitte Juli, 5 Uhr Abends.
 
 Unter heftiger Detonation fiel ein sehr grosser Stein nieder; ob eine Feuerkugel vorher bemerkt wurde, ist zweifelhaft. Der Stein wurde noch heiss ausgegraben. Ein Stück von unbekannter Grösse ist im Mineraliencabinet zu Bologna. Grössere Sammlungen besitzen nichts davon. Daher sind auch die Beschreibungen sehr mangelhaft und beschränken sich auf die Angaben der Zeitgenossen des Falls. Die Oberfläche war mit einer dunkeln Rinde überzogen, das Innere war sandsteinartig und enthielt zahlreiche Eisentheilchen. Das specifische Gewicht wird jedenfalls unrichtig als 1,33 angegeben.
 
@@ -1021,7 +1033,9 @@ Literatur: v. Ende Massen und Steine 44. Chladni Feuermet. 250.
 
 ### Luce
 
-Luce, Maine, jetzt Dep. de la Sarthe, Frankreich. 1768, Sept. 13, 4 1/2 Uhr Nachmittag.
+Luce, Maine, jetzt Dep. de la Sarthe, Frankreich.
+
+1768, Sept. 13, 4 1/2 Uhr Nachmittag.
 
 Ohne dass eine Feuererscheinung wahrgenommen wurde, fiel nach heftiger Detonation aus einer dunkeln Wolke in gekrümmter Linie ein Stein von fast 4 K. nieder, der so heiss war, dass man ihn nicht angreifen konnte. Er zerbarst beim Auffallen. Bruchstücke sind nur in wenigen Sammlungen: Wien besitzt 3 St. (166,797 Gr.), Berlin (22,657 Gr. aus Chladnis Sammlung, nach Partsch verschieden von den Wiener Stücken), Zürich (Universität und Polytechnikum 14,5 Gr.), Freiberg (10 Gr.) und die Privatsammlungen von v. Reichenbach, Shepard und Greg. Der grösste Stein war früher in der Sammlung des Ministers Trudaine in Montigny.
 
@@ -1046,7 +1060,9 @@ Literatur: Das Geschichtliche bei Izarn Lithologie 61, 192, 301 ausführlicher, 
 
 ### Mauerkirchen
 
-Mauerkirchen, damals in Bayern, jetzt im Innviertel, Oesterreich ob der Enns. 1768, Nov. 20, nach 4 Uhr Nachmittag.
+Mauerkirchen, damals in Bayern, jetzt im Innviertel, Oesterreich ob der Enns.
+
+1768, Nov. 20, nach 4 Uhr Nachmittag.
 
 Man hörte ein heftiges Sausen und Brausen, dann fiel ein Stein, der aber erst am folgenden Morgen gefunden wurde; er wog 19 K. und war in zwei Stücke zerbrochen. Das grösste, auf vier Seiten mit wohlerhaltener Rinde bedeckte Fragment von 8 K. 802 ist in München; ferner besitzen Wien (2 St. 581,887 Gr.), London (322 Gr.), Berlin (229,741 Gr.), Copenhagen (70 Gr.), Kiel (50 Gr.), Gotha (41 Gr.), Harlem (Teylers Mus. 33,8 Gr.), Göttingen (26 Gr.), Tübingen (17,5 Gr.), Darmstadt (15 Gr.), Paris (15 Gr.), Stuttgart und Zürich (klein) und in den Privatsammlungen von Neumann (2 St. 51 Gr.), v. Reichenbach, Shepard, Greg und Kessler.
 
@@ -1068,7 +1084,9 @@ Literatur: Imhof Gilb. Ann. 15, 316. 18, 328.
 
 ### Sena
 
-Dorf Sena, Bezirk Sigena, Aragonien, Spanien. 1773, Nov. 17, um Mittag.
+Dorf Sena, Bezirk Sigena, Aragonien, Spanien.
+
+1773, Nov. 17, um Mittag.
 
 Ein Stein von etwa 4 1/2 K. fiel unter den gewöhnlichen Umständen und wurde noch heiss gefunden. Die Hauptmasse befand sich im k. Naturaliencabinet zu Madrid, wo sie aber jetzt nicht mehr vorhanden sein soll. Ausserdem sind Bruchstücke in Paris (Mus. Hist. nat. 58 Gr.), Wien (3,828 Gr.) und in v. Reichenbachs Sammlung.
 
@@ -1096,7 +1114,9 @@ Literatur: Proust Journ. de Phys. 60, 185. Gilb. Ann. 24, 261. Chladni Feuermet.
 
 ### Eichstädt
 
-Eichstädt (im Wittmess, einer Waldgegend etwa 2 St. v. Eichstädt). 1785, Febr. 19, nach 12 Uhr Mittags.
+Eichstädt (im Wittmess, einer Waldgegend etwa 2 St. v. Eichstädt).
+
+1785, Febr. 19, nach 12 Uhr Mittags.
 
 Ein Bauerknecht, durch das Getöse aufmerksam gemacht, beobachtete den Fall des Steins, der heiss war und den Schnee schmolz. Er wog fast 3 K. und hatte ungefähr 1 Fuss Durchm.; doch scheinen noch mehre gefallen zu sein. München besitzt 3 St. (611,25 Gr.). Kleinere Stücke sind in Zürich (293 Gr.), Wien (2 St. 127,97 Gr.), Göttingen (25,87 Gr.), Berlin (15,993 Gr.), London (2,275 Gr.), und bei v. Reichenbach.
 
@@ -1118,7 +1138,9 @@ Literatur: Klaproth Beiträge 6, 296. Gilb. Ann. 13, 338. Partsch Meteoriten 78.
 
 ### Charkow
 
-Gouvernement Charkow. (Auf einem Felde der Slobode Jigalowka, 10 Werst von dem Dorf Bobrik im Sumschen Kreis. Auch bei Lebedin sollen Steine gefallen sein.) 1787, Oct. 1. a. St. Oct. 13. n. St. 3 Uhr Nachmittag.
+Gouvernement Charkow. (Auf einem Felde der Slobode Jigalowka, 10 Werst von dem Dorf Bobrik im Sumschen Kreis. Auch bei Lebedin sollen Steine gefallen sein.)
+
+1787, Oct. 1. a. St. Oct. 13. n. St. 3 Uhr Nachmittag.
 
 Nach einem Getöse, das unzweifelhaft unrichtig als mehre Stunden dauernd angegeben wird, fielen einige Steine, die noch warm ausgegraben wurden. Die Hauptmasse besitzt die Universität Charkow. Kleinere Stücke sind in Petersburg (Akad. d. Wiss.), London (493,9 Gr.), Göttingen (44,18 Gr., 2 St.), Berlin (2,499 Gr.), Wien (1,64 Gr.), Freiburg im Breisgrau (3 kl. Stückchen) und in den Privatsammlungen von v. Reichenbach und Greg.
 
@@ -1140,7 +1162,9 @@ Literatur: Gilb. Ann. 31, 321. Mem. Ac. Petersb. 6, Hist. 47. Erman Arch. 5, 176
 
 ### Barbotan
 
-Barbotan (Roquefort, Creon, Juillac, Mezin, Eause, Armagnac, Losse, Agen, St. Sever, La Grange), Dep. des Landes, Dep. Lot et Garonne, Dep. du Gers, ehemals Gascogne (danach und wohl auch nach Bordeaux genannt), Frankreich. 1790, Juli 24, nach 9 Uhr Abends.
+Barbotan (Roquefort, Creon, Juillac, Mezin, Eause, Armagnac, Losse, Agen, St. Sever, La Grange), Dep. des Landes, Dep. Lot et Garonne, Dep. du Gers, ehemals Gascogne (danach und wohl auch nach Bordeaux genannt), Frankreich.
+
+1790, Juli 24, nach 9 Uhr Abends.
 
 Ein höchst merkwürdiger und reicher Meteoritenfall, der das grösste Aufsehen erregte und von den Gelehrten Frankreichs mit Hohn als grobe Täuschung und unglaubliche Lüge aufgenommen wurde.
 
@@ -1159,7 +1183,9 @@ Literatur: Gilb. Ann. 13, 346. 421. 15, 320. 328. 429. 18, 284.
 
 ### Siena
 
-Siena in Toscana, Italien. 1794, Juni 16, nach 7 Uhr Abends.
+Siena in Toscana, Italien.
+
+1794, Juni 16, nach 7 Uhr Abends.
 
 Unter heftigen Detonationen fielen aus einer kleinen feurigen Wolke viele Steine; dieses Wölkchen kam von Norden her, nach anderen Angaben zog es von Ost nach West, rauchte wie ein Schmelzofen und sprühte Funken wie eine Rakete. Es fielen viele, aber kleine Steine, welche sich auf 3 bis 4 ital. Meilen zerstreuten; ein kleiner schlug durch den Hut eines Knaben und versengte ihn. Der grösste scheint fast 3 1/2 K. gewogen zu haben.
 
@@ -1190,7 +1216,9 @@ Literatur: Gilb. Ann. 6, 46. 13, 296. 312. 18, 285. Pogg. Ann. 24, 222. 105, 441
 
 ### Wold Cottage
 
-Wold Cottage, Yorkshire, England. 1795, Dec. 13, 3 1/2 Uhr Nachmittags.
+Wold Cottage, Yorkshire, England.
+
+1795, Dec. 13, 3 1/2 Uhr Nachmittags.
 
 Dieser Steinfall ist für die Geschichte der Meteoriten von Wichtigkeit, indem die genau beobachteten und von Capitän Topuam, bei dessen Wohnung das Ereigniss stattfand, zusammengestellten und veröffentlichten Thatsachen wenigstens in England, wenn auch noch nicht in Frankreich, die Zweifel an die Möglichkeit eines solchen Ereignisses vernichteten. Bournon und Howarp wurden durch diesen Steinfall wesentlich zu ihrer trefflichen Arbeit angeregt, die nachher epochemachend wurde.
 
@@ -1217,7 +1245,9 @@ Literatur. Gilb. Ann. 15, 318.
 
 ### Belaja-Zerkwa
 
-Belaja-Zerkwa (Bjelaja-Zerkow nach Eichwald), ehemals Ukraine, Polen, jetzt Gouvernement Kiew, Russland. 1796, Dec. 23. a. St. 1797, Jan. 4. n. St.
+Belaja-Zerkwa (Bjelaja-Zerkow nach Eichwald), ehemals Ukraine, Polen, jetzt Gouvernement Kiew, Russland.
+
+1796, Dec. 23. a. St. 1797, Jan. 4. n. St.
 
 In Gegenwart vieler Zeugen fiel unter den gewöhnlichen Umständen ein beträchtlich grosser Stein, der geschmolzen gewesen und erst nach einigen Stunden fest geworden sein soll. Die akademische Sammlung in Kiew (früher in Wilna) besitzt die Hauptmasse. Ausserhalb Russland scheint nur Neumann in Prag ein Stückchen (0,405 Gr.) zu besitzen.
 
@@ -1227,7 +1257,9 @@ Literatur: Gilb. Ann. 31, 1809, 307.
 
 ### Sales
 
-Sales, bei Villefranche, Dep. du Rhone, Frankreich. 1798, März 8 oder 12, 6 Uhr Abends.
+Sales, bei Villefranche, Dep. du Rhone, Frankreich.
+
+1798, März 8 oder 12, 6 Uhr Abends.
 
 Eine leuchtende Feuerkugel zog von O. nach W. unter furchtbarem Heulen und Prasseln und Funkensprühen. Der Stein, dessen Fall mehre Zeugen in der Nähe beobachteten, wurde erst am folgenden Morgen ausgegraben; er war nicht mehr heiss, roch aber schwefelig und hatte an mehren Stelle Risse: er wog etwa 10 K., doch wurde er zerschlagen. Ueber die Zeit des Falles finden sich verschiedene Angaben. De Dree, der dem Ereigniss am genauesten nachging, aber erst 1802, nennt den 12. März als Falltag. Pictet in Genf sah aber um dieselbe Abendzeit am 8. März eine Feuerkugel von Ost nach West ziehen, so dass dieser Tag vielleicht der richtige ist. — Sage, der in der Zeit des Unglaubens gleich nach dem Fall ein grosses Stück erhielt, liess es in Gestalt einer Vase abdrehen. Existirt wohl noch dieses Stück gelehrter Barbarei? Das grösste Bruchstück ist in Wien (292 Gr., im Ganzen 334,14 Gr.); kleinere sind in London (191,94 Gr.), Paris (38 Gr.), Berlin (15,993 Gr.), Stuttgart (3 Gr.), Göttingen (0,92 Gr.) und in den Privatsammlungen von v. Reichenbach, Shepard, Nevill und Greg.
 
@@ -1247,7 +1279,11 @@ SiO3. Fe2O3. MgO. Ni. CaO. Sa.
 
 Literatur: Sage Journ. de Phys. 1803. Avr. p. 314. De Dree Gilb. Ann. 15, 274. 18, 269. Vauquelin ebd. 33, 200.
 
-Bei Benares, besonders bei dem Dorf Krakhut und mehren umliegenden Dörfern. Bengalen, Ostindien. 1798, Dec. 13, 8 Uhr Abends.
+### Benares
+
+Bei Benares, besonders bei dem Dorf Krakhut und mehren umliegenden Dörfern. Bengalen, Ostindien.
+
+1798, Dec. 13, 8 Uhr Abends.
 
 Dieser Meteoritenfall ist für die Geschichte der Wissenschaft wesentlich dadurch von Wichtigkeit, dass er die Frage über die physische Möglichkeit solcher Ereignisse wieder in den Vordergrund schob. Aus einer grossen Feuerkugel fielen nach heftiger Detonation viele Steine auf einen Umkreis von etwa 2 Meilen. Einer von 1 K. schlug durch das Dach einer Hütte. Viele englische und indische Beamte waren Zeugen des Falles.
 
@@ -1274,7 +1310,11 @@ SiO3. MgO. Fe2O3. NiO. Fe. Ni. S. Sa.
 
 Literatur: Gilb. Ann. 13, 291. 15, 423. 41, 453. Chladni Feuermet. 266. v. Schreibers Beiträge 62. Partsch 43.
 
-l’Aigle (la Vassolerie, Fontenil, la Metonnerie, S. Michel-de Sommaire, St. Nicolas-de Sommaire, Bas Vernet, Mesle, Belangere, la Barne, Bois laville, Corboyer etc.), Normandie, Dep. de l’Orne, Frankreich. 1803, April 26, 1 Uhr Nachmittags.
+### l’Aigle
+
+l’Aigle (la Vassolerie, Fontenil, la Metonnerie, S. Michel-de Sommaire, St. Nicolas-de Sommaire, Bas Vernet, Mesle, Belangere, la Barne, Bois laville, Corboyer etc.), Normandie, Dep. de l’Orne, Frankreich.
+
+1803, April 26, 1 Uhr Nachmittags.
 
 Dieser Steinfall gehört zu den interessantesten und historischmerkwürdigsten, da er nicht nur der reichste aller bekannten Meteoritenfälle ist, sondern auch mit ihm alles Läugnen der Thatsache selbst und der Widerstand, den CGuıpnt’s Behauptungen im grössten Theile der wissenschaftlichen Welt fanden, ein Ende hatten. Eine hellleuchtende Feuerkugel war nur in grösserer Entfernung, z. B. in Caen, Falaise, St. Rieux, Pont-Audemer, Verneuil etc. gesehen worden; an den Orten des Steinregens selbst bemerkte man ein kleines, fast unbewegtes, dunkles Wölkchen, aus welchem die Detonationen erschallten, die 30 Meilen in der Runde gehört wurden. Dann fielen sehr viele Steine nieder, man nimmt 2000 bis 3000 an, die sich auf einer elliptischen Fläche von 2 1/2, Ml. Länge und 1 Ml. Breite ausstreuten. Fast alle Bewohner von 20 Dörfern dieses Bezirks waren Augenzeugen. In mehren Orten fielen die Steine hageldicht nieder; alle waren heiss und verbreiteten starken Schwefelgeruch. Die grosse Axe der elliptischen Fallfläche war von SO. bis NW. gerichtet; die grössten Steine fielen am SO.-Ende, die kleinsten am entgegengesetzten. Der schwerste wog 8 K. 065.
 
@@ -1302,7 +1342,11 @@ Laugier wies noch 0,01%, Chromoxyd nach.
 
 Literatur: Biot Gilb. Ann. 15, 74. Thenard u. A. ebd. 16, 44. 70. Vauquelin u. A. 18, 310. 318. Laugier ebd. 24, 383.
 
-Saurette bei Apt, Dep. Vaucluse, Frankreich. 1803, Oct. 8, 10 Uhr Vormittag.
+### Saurette
+
+Saurette bei Apt, Dep. Vaucluse, Frankreich.
+
+1803, Oct. 8, 10 Uhr Vormittag.
 
 Unter hefligem, in weitem Umkreis hörbarem Krachen fiel ein Stein von etwa 4 K., wovon das grösste Stück (1 K.) im Mus. Hist. nat. zu Paris aufbewahrt wird. Kleinere Stücke sind in Wien (324,845 Gr., 2 St., das grösste 287,663 Gr.), Berlin (15,993 Gr.), Gotha (5,65 Gr.) und in den Privatsammlungen von v. Reichenbach, de Luynes (9,5 Gr.), Greg und Shepard.
 
@@ -1319,7 +1363,11 @@ SiO3. MgO. FeO. MnO. NiO. Cr2O3. S. Verl. u. Wasser (?)
 
 Literatur: Gilb. Ann. 16, 72. 18, 321.
 
-Mässing (St. Nicolas) bei Altötting, Landger. Eggenfeld in Bayern. 1803, Dec. 13, zwischen 10 und 11 Uhr Vormittag.
+### Mässing
+
+Mässing (St. Nicolas) bei Altötting, Landger. Eggenfeld in Bayern.
+
+1803, Dec. 13, zwischen 10 und 11 Uhr Vormittag.
 
 Durch heftige Detonationen aufgeschreokt, sah ein Bauer das Niederfallen des Steins, der durch das Dach eines Schuppens schlug und noch ganz heiss aufgenommen wurde. Er wog etwa 1 K. 600 Gr. Es ist nur noch wenig davon vorhanden. Die grössten Bruchstücke sind in Berlin (23,823 Gr.), Paris (22 Gr.), München (16,2 Gr.). Ferner sind in Wien (3,25 Gr.), Zürich (2,8 Gr.) und in den Sammlungen von v. Reichenbach, Neumann (0,25 Gr.) und Greg.
 
@@ -1341,7 +1389,11 @@ Im Verlust von 10,06% sind Schwefel, Chrom etc. enthalten.
 
 Literatur: Gilb. Ann. 18, 330. Schafhäutl Münchn. Gel. Anz. 1847, 24, 558.
 
-Dorf High-Possil bei Glasgow, Schottland. 1804, Apr. 5, Vormittags.
+### High-Possil
+
+Dorf High-Possil bei Glasgow, Schottland.
+
+1804, Apr. 5, Vormittags.
 
 Nach heftigem Getöse, das von West nach Ost zog und unter den gewöhnlichen Schallerscheinungen, wobei man eine Rauchwolke, aber kein Feuermeteor beobachtete, fiel ein Stein, der in zwei Stücke gebrochen, wieder weggeworfen und später wieder gesucht wurde; er wurde zum Theil gefunden und sind Bruchstücke nur in London (91,91 Gr.), Wien (15,313 Gr.) und in Gregs Sammlung (24 Gr.).
 
@@ -1351,7 +1403,11 @@ Die Rinde ist schwarz und matt, das Innere hellgrau, rostbraun gefleckt, auch sc
 
 Literatur: Gilb. Ann. 24, 369.
 
-Doroninsk, Gouv. Irkutsk, Sibirien. 1805, März 25, nach Eichwald Apr. 10. n. St. 5 Uhr Abends.
+### Doroninsk
+
+Doroninsk, Gouv. Irkutsk, Sibirien.
+
+1805, März 25, nach Eichwald Apr. 10. n. St. 5 Uhr Abends.
 
 Unter heftigem, weithin hörbarem Getöse fielen aus einer von Westen kommenden dunkeln Wolke mehre Steine, von welchen zwei gefunden wurden; der erste von fast 3 K. war noch nach 1/2 Stunde zu heiss, um ihu zu halten; der zweite wog etwa 1 K. Das grösste Bruchstück scheint Prof. Auerbach in Moskau zu besitzen (179 Gr. mit viel Rinde), Wien hat 61,250 Gr., Berlin 52,312 Gr., Shepard 115 Gr., und Greg 14 Gr.
 
@@ -1368,7 +1424,11 @@ SiO3. MgO. CaO. MnO. Cr203. Al2O3. Fe. Ni. S. Sa.
 
 Literatur: Scheerer Mem. Ac. Petersb. 6. Hist. 46. Stoikowitz Gilb. Ann. 29, 212. 31, 308.
 
-Constantinopel, Türkei. 1805, im Juni.
+### Constantinopel
+
+Constantinopel, Türkei.
+
+1805, im Juni.
 
 Am hellen Tage fielen auf dem Fleischplatz mitten in der Stadt mit grosser Heftigkeit mehre Steine nieder. Die Griechen, denen man bei diesem Ereigniss die Schuld gab, wurden desshalb angefeindet. Aber der Schwefelgeruch und die schwarze Rinde überzeugten vom meteorischen Ursprung. Ein Bruchstück (7,656 Gr.) befindet sich nur in der Wiener Sammlung und ein kleines Stückchen bei v. Reichenbach.
 
@@ -1377,6 +1437,8 @@ Specifisches Gewicht: 3,17 Rumler.
 Die Rinde ist schwarz, schwach glänzend, das Innere grau, gleichartig gemengt, stellenweise von dünnen schwarzen Adern durchzogen. v. Reichenbach analysirte mikroskopisch ein eingeschlossenes Fleckchen.
 
 Literatur: Gilb. Ann. 71, 361. Partsch 26. v. Reichenbach 111, 368. 372.
+
+### Asco
 
 Asco, Insel Corsika. 1805, November.
 
@@ -1388,7 +1450,11 @@ Die Grundmasse ist lichtgrau, mit Rostflecken und kleinen undeutlichen kugeligen
 
 Literatur: Pogg. Ann. Ergb. 4, 11. 441, Partsch 64.
 
-Alais, eigentlich bei den Dörfern St. Etienne de Lolm und Valence, Dep. du Gard, Frankreich. 1806, März 15, 5 1/2 Uhr Abends.
+### Alais
+
+Alais, eigentlich bei den Dörfern St. Etienne de Lolm und Valence, Dep. du Gard, Frankreich.
+
+1806, März 15, 5 1/2 Uhr Abends.
 
 Unter den gewöhnlichen Erscheinungen fielen zwei Steine von 4 und 2 K., die beim Aufschlagen in Stücke zerbrachen. Zeugen beobachteten den Fall und nahmen noch heisse Stücke auf. In Sammlungen finden sich nur kleine Fragmente (Paris, Wien, Berlin, London, Stockholm, Zürich und in den Privatsammlungen von Neumann (Prag), v. Reichenbach, Shepard, Greg, de Luynes und Auerbach.
 
@@ -1430,7 +1496,11 @@ III\. 31,22. 22,21. 29,03. 0,26 (MnO). 1,38. 0,63* -,-. -,-. 2,36. 0,32. 0,80. 8
 
 Literatur: Pages Journ. de Phys. 62, 440. Gilb. Ann. 24, 189. Thenard, Fourcroy etc. ebd. 24, 202. Berzelius Poggend. Ann. 33, 113. Partsch 13.
 
-Timochin, Kreis Juchnow, Gouv. Smolensk, Russland (Timoschin nach Blöde, Timschino nach Eichwald). 1807, März 13. a. St. März 25. n. St. Nachmittags.
+### Timochin
+
+Timochin, Kreis Juchnow, Gouv. Smolensk, Russland (Timoschin nach Blöde, Timschino nach Eichwald).
+
+1807, März 13. a. St. März 25. n. St. Nachmittags.
 
 Ohne dass eine Feuerkugel bemerkt wurde, fiel unter donnerartigem Getöse und Krachen ein grosser Stein von ca. 70 K. unweit zweier Bauern nieder. Die Hauptmasse von etwa 41 K. besitzt die Akademie der Wissenschaften zu Petersburg. Kleinere Bruchstücke sind in vielen Sammlungen: Berlin (437,158 Gr.), Wien (140 Gr., 2 St., der grösste 83,126 Gr.), Charkow (Bull. Ac. Petersb. 5, 198), London (56,87 Gr.), Göttingen (15,4 Gr., 2 St.), Darmstadt (9,3 Gr.) und noch kleinere Stücke in Zürich und Kiel; dann in den Privatsammlungen von v. Reichenbach, Erzh. Stephan (55 Gr.), Shepard, Greg und Auerbach.
 
@@ -1455,7 +1525,11 @@ Wahrscheinlich ist der Stein von Kikina, Wjasemsker Kreis, Gouv. Smolensk, Russl
 
 Literatur: Eichwald Erman Arch. 5, 177.
 
-Weston, Connecticut, Nordamerika. 1807, Dec. 14, 6 1/2 Uhr Morgens.
+### Weston
+
+Weston, Connecticut, Nordamerika.
+
+1807, Dec. 14, 6 1/2 Uhr Morgens.
 
 Eine von N. kommende, sich schlangenartig bewegende Feuerkugel, welche Funken sprühte und einen langen Schweif nachzog, detonirte dreimal und machte jedesmal einen Sprung dabei. Darauf folgten die gewöhnlichen Explosionserscheinungen und der Steinfall an 6 verschiedenen Orten in der Richtung der Meteorbahn: die ersten fielen mehr nach N., die letzten weiter nach S. Der letzte muss wohl 100 K. gewogen haben, war aber beim Auffallen zerborsten; der grösste ganze Stein wog fast 16 K., wurde aber zerschlagen. Anfangs waren die Steine weich, wurden aber beim Liegen an der Luft härter.
 
@@ -1479,7 +1553,11 @@ II\. 41. 30.* 16. -,-. 2,3. 3. 1. 2,3. 1,3. 97.
 
 Literatur: Gilb. Ann. 29, 353. 42, 210. Sill. Am. Journ. (2) 6, 410.
 
-Mooradabad, Indien. 1808.
+### Mooradabad
+
+Mooradabad, Indien.
+
+1808.
 
 Ueber das Ereigniss des Steinfalls ist nichts Genaueres bekannt geworden. Calcutta besitzt 3 Stücke (70,87 Gr.). In Europa scheint nur London ein Bruchstück zu besitzen (17,39 Gr.).
 
@@ -1489,7 +1567,11 @@ Die Masse ist ziemlich zerreiblich und enthält Nickel und Chrom. Der Stein sche
 
 Literatur: Poggend. Ann. 24, 223.
 
-Borgo San Donino, Casignano, bei Parma, Italien. 1808, Apr. 19, zwischen 12 und 1 Uhr Mittags.
+### Borgo San Donino
+
+Borgo San Donino, Casignano, bei Parma, Italien.
+
+1808, Apr. 19, zwischen 12 und 1 Uhr Mittags.
 
 Eine Feuererscheinung wurde nicht deutlich wahrgenommen; die Detonation war sehr heftig und ein Stein wurde sofort noch ganz heiss aufgefunden. Doch fielen viele Steine auf eine Fläche von etwa 9 Kilometer Umfang. Der grösste war oder ist noch in der Sammlung des verstorbenen Grafen Lınatı in Parma; ausserdem besitzen Bruchstücke die Sammlungen in Paris (428 Gr.), Wien (80,391 Gr., 2 St.), Berlin (15,327 Gr.), London (10,465 Gr.), Göttingen (0,65 Gr.) und die Privatsammlungen von v. Reichenbach, Shepard, de Luynes (2,6 Gr.), Greg (2 Gr.), Neumann (1,7 Gr.).
 
