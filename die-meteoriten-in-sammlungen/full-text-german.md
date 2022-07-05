@@ -3832,6 +3832,8 @@ Das Datum 1853 März 6 im Münchener Katalog stimmt genau mit dem von Segowlee (
 
 Literatur: Greg Phil. Mag. Suppl. Jan. 1863. In den Abhandl. der Münchener Akademie soll etwas über diesen Stein stehn, doch war trotz vielseitigen Nachsuchens nichts zu finden.
 
+### Linum
+
 Linum bei Fehrbellin, Provinz Brandenburg, Preussen.
 
 1854, Sept. 5, kurz vor 8 Uhr Morgens.
@@ -3841,6 +3843,8 @@ Bei klarer Luft, stillem Wetter und wolkenlosem Himmel wurde unter heftiger Deto
 Die Rinde ist schwarz, matt, etwas rauh, schwach aufgerissen und ziemlich dick; die Innenmasse ist graulichweiss, feinkörnig mit meist feinen Körnchen von Eisen; das Ganze ist ähnlich den Steinen von Gütersloh (p. 80) und Mauerkirchen (p. 8).
 
 Literatur: G. Rose Poggend. Ann. 94, 169.
+
+### Oesel
 
 Insel Oesel, Gesinde Kaande, 1 M. von Piddul, deutsch-russische Provinz Livland, Russland.
 
@@ -3879,6 +3883,8 @@ Phosphoreisen|0,23.
 
 Literatur: Göbel Poggend. Ann. 99, 642.
 
+### Bremervörde
+
 Bremervörde, bei dem Dorf Gnarrenburg, Landdrostei Stade, Königreich Hannover.
 
 1855, Mai 13, gegen 5 Uhr Nachmittags.
@@ -3902,6 +3908,8 @@ und Spuren von Co, P, S, CaO und MnO.
 
 Literatur: Wönter Poggend. Ann. 96, 626. Hausuann ebd. 98, 609.
 
+### St. Denis Westrem
+
 St. Denis Westrem, 1 Stunde von Gent, Ostflandern, Belgien.
 
 1855, Juni 7, 7 3/4, Uhr Abends.
@@ -3915,6 +3923,8 @@ Specifisches Gewicht: 3,293 Duprez.
 Der grösste Theil der Rinde ist hart, schwarzbraun, eben und gleichmässig abgerundet, nur die flachere Stelle ist höchst uneben. Das Innere ist weissgrau, braunfleckig, sehr porös, körnig und zerreiblich; Eisen und Magnetkies sind fein eingesprengt. Kleine kugelige etwas krystallinische Einschlüsse hinterlassen beim Herausfallen aus der mürben Masse einen Eindruck.
 
 Literatur: Duprez Poggend. Ann. 99, 63. Haidinger Wien. Akad. Ber. 42, 1860, 9.
+
+### Petersburg
 
 Petersburg, 15 engl. Meilen von Fayetteville, Lincoln County, Tennessee, Nord-Amerika.
 
@@ -3943,6 +3953,8 @@ Doch wird diese Analyse sehr verschieden gedeutet; Smith unterschied in der Mass
 v. Reichenbach bestätigt das Auftreten gediegenen Schwefels in diesem Stein.
 
 Literatur: Smith u. Shepard Sillim. Amer. Journ. (2) 24, 134. (2) 31, 264. v. Reichenbach Pogg. Ann. 115, 620.
+
+### Trenzano
 
 Nahe bei dem Dorf Trenzano, 8 ital. Meil. südwestl. von Brescia, Italien.
 
@@ -3974,6 +3986,8 @@ Nach Haidinger hat der Stein grosse Aehnlichkeit mit Quenggouk (1857), nach Curi
 
 Literatur: Curioni Atti Instit. Lomb. di Scienze. Milano 1860, I. Haidinger Wien. Akad. Ber. 41, 1860, 568.
 
+### Parnallee
+
 Parnallee, 16 engl. Meilen von Madura, Ostindien.
 
 1857, Febr. 28, um die Mittagszeit.
@@ -3991,6 +4005,8 @@ Der Steinist sehr ähnlich Bremervörde (p. 88). Die Oberfläche zeigt die rundl
 In der grau und braun gefleckten Grundmasse bemerkt man zahlreiche hellgraue, zum Theil weissliche, grösstentheils runde Einschlüsse; unter der Lupe tritt aber erst die Mengung aus ungleichartigen Theilchen besonders auf polirten Flächen bis ins Kleinste hervor. Geschiebeartig liegen weisslichgraue bis 1/4 Zoll grosse Einschlüsse neben eckigen dichten schwarzen, glanzlosen von ähnlicher Grösse, und dann zeigen sich wieder metallische dichte oder ganz feinkörnige mehr eckige Massen eines Eisenkieses in dem Gemenge, die nicht auf die Magnetnadel einwirken. Auch feine Theilchen von metallischem Eisen sind vorhanden, aber in wenig beträchtlicher Menge. Zu den merkwürdigsten Gemengtheilen gehören aber hellere und dunklere, gelbe und braune, oft innen gelbe und aussen dunkelbraune, stark abgerundete Einschlüsse, welche von glänzenden metallischen Ringen auf den polirten Flächen eingefasst erscheinen. Diese Einfassung besteht aus der eisenkiesartigen gelben Metallmasse; Eisen tritt nur in Spuren in der Ueberrindung auf, findet sich aber auch in kleinen Theilchen in den grösserenMassen vonSchwefeleisen. Diese mannichfaltigen Bestandtheile geben dem Stein ein marmorirtes Aussehen. Cassels will deutliche Krystalle von Nickeleisen gefunden haben. Die Farbe des Pulvers ist olivengrün. Scott fand bei der qualitativen Analyse Eisen, Nickel, Spuren von Kobalt und Chrom, Schwefel, Kieselsäure, Thonerde, Eisenoxyd, Magnesia und Kalk. Nach Cassels liessen sich 21,151% mit dem Magnet ausziehen. Die Analyse ergab Kieselsäure, Kalk, Natron, Kali, Eisenoxyd, Schwefeleisen, Chromoxyd, Manganoxydul, Eisen, Nickel, Kobalt, Kupfer, Schwefel und Phosphor (keine Magnesia?!). Bunsen wies darin zuerst Lithion spectralanalytisch nach.
 
 Literatur: Cassels Sillim. Amer. Journ. (2) 32, 401. Haidinger Wien. Akad. Ber. 43, Feb. 7. 44, Juli 4.
+
+### Stauropol
 
 Stauropol, auf der Nordseite des Kaukasus, Russland.
 
@@ -4038,6 +4054,8 @@ Abich berechnet daraus folgende Bestandtheile:
 Doch kann diese Deutung nicht ganz richtig sein, da diese Mineralien in concentrirter Salzsäure löslich sind.
 
 Literatur: Abich Bull. Acad. Petersb. II, 439.
+
+### Heredia
 
 Nördlich von Heredia, etwa 5 Meil. von San Jose, Costa Rica, Central-Amerika.
 
@@ -4095,6 +4113,8 @@ wozu noch Magnetkies und eine Phosphorverbindung, ferner Chromeisenstein nicht �
 Die Analyse stimmt nahe mit den von Blansko (p. 56) und Chateau-Renard (p. 66).
 
 Literatur: Harris Dissertat. on Meteorites. p. 99. Domeyko Annales de la Univ. de Chile 1859, 325. v. Reichenbach führt in seinem Verzeichniss noch Costa Rica als zweite, besondere Localität auf, doch ist über dieselbe nichts bekannt.
+
+### Kaba
 
 Kaba, südwestlich von Debreczin, Ungarn.
 
