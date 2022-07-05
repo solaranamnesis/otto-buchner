@@ -878,7 +878,9 @@ b\. Feinkörnig (Nobleborough, Little Pinney).
 
 Sie sind nach der Fallzeit geordnet.
 
-### Ensisheim, Elsass, jetzt Dep. du Haut Rhin, Frankreich. 1492, Nov. 16 (Nov. 7 a. St.), zwischen 11 und 12 Uhr Vormittag.
+### Ensisheim
+
+Ensisheim, Elsass, jetzt Dep. du Haut Rhin, Frankreich. 1492, Nov. 16 (Nov. 7 a. St.), zwischen 11 und 12 Uhr Vormittag.
 
 Ein Stein von 127 K. 270 fiel unter heftigem Getöse; wahrscheinlich wurde dabei auch eine Feuererscheinung beobachtet. Man sah den Stein in ein Weizenfeld fallen; er wurde bis auf zwei abgeschlagene Stücke auf Befehl Kaiser Maximilians I. in der Kirche zu Ensisheim aufgehängt, wo er bis zur französischen Revolution blieb; er wurde übel zerschlagen, so dass jetzt nur 40-50 K. wieder an der alten Stelle hängen. ‚Von Sammlungen besitzt das Mus. Hist. nat. in Paris ein Stück von über 9 K. Kleinere Fragmente finden sich in den meisten Sammlungen.
 
@@ -901,6 +903,8 @@ SiO3. MgO. CaO. FeO. Fe. NiO.
 1\. von Barthold, 2\. von Fourcroy und Vauquelin. Klaproth wies noch 1,5% Thonerde und Laugier 0,01% Chromoxyd nach. Schafhäutl fand eine Verbindung von Schwefeleisen mit Schwefelkupfer, die sich erst in kochender Salzsäure löste.
 
 Viele Chroniken und Urkunden gedenken des Ereignisses (Chladni Feuermet. 205). Barthold Journ. de Phys. 2, 1773, 251. Fourcroy und Vauquelin Gilb. Ann. 13, 295. 18, 280. 319. Laugier ebd. 24, 383. Klaproth ebd. 33, 211. Beiträge 5, 256. Partsch 32. Shepard Report 8. Schafhäutl Münchner gel. Anz. 1847, 24, 556.
+
+### Vago
 
 Dorf Vago unweit Caldiero, Territorium von Verona, Italien. 1668, Juni 19 nach Montanari, oder 21 nach Valisnieri; nach Mitternacht.
 
