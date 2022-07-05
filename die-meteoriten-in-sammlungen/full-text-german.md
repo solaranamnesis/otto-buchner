@@ -22,39 +22,39 @@ Das Recht der Uebersetzung in die englische und französische Sprache hat sich d
 
 #### Gewidmet.
 
-[Vorrede](#vorrede)
+#### [Vorrede](#vorrede)
 
-[I. Oeffentliche Sammlungen](#i-oeffentliche-sammlungen)
+#### [I. Oeffentliche Sammlungen](#i-oeffentliche-sammlungen)
 
-[II. Privatsammlungen](#ii-privatsammlungen)
+#### [II. Privatsammlungen](#ii-privatsammlungen)
 
-[System von P. Partsch](#system-von-p-partsch)
+##### [System von P. Partsch](#system-von-p-partsch)
 
-[System von G. Rose](#system-von-g-rose)
+##### [System von G. Rose](#system-von-g-rose)
 
-[System von v. Reichenbach](#system-von-v-reichenbach)
+##### [System von v. Reichenbach](#system-von-v-reichenbach)
 
-[System von Shepard](#system-von-shepard)
+##### [System von Shepard](#system-von-shepard)
 
-[I. Steinmeteoriten deren fallzeit bekannt ist](#i-steinmeteoriten-deren-fallzeit-bekannt-ist)
+#### [I. Steinmeteoriten deren fallzeit bekannt ist](#i-steinmeteoriten-deren-fallzeit-bekannt-ist)
 
-[Ensisheim](#ensisheim)
+#### [Ensisheim](#ensisheim)
 
-[Vago](#vago)
+#### [Vago](#vago)
 
-[Schellin](#schellin)
+#### [Schellin](#schellin)
 
-[Plescowitz und Liboschitz](#plescowitz-und-liboschitz)
+#### [Plescowitz und Liboschitz](#plescowitz-und-liboschitz)
 
-[Tabor](#tabor)
+#### [Tabor](#tabor)
 
-[Luponnas](#luponnas)
+#### [Luponnas](#luponnas)
 
-[Alboreto](#alboreto)
+#### [Alboreto](#alboreto)
 
-[Luce](#luce)
+#### [Luce](#luce)
 
-[Mauerkirchen](#mauerkirchen)
+#### [Mauerkirchen](#mauerkirchen)
 
 ## Vorrede.
 
