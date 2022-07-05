@@ -918,7 +918,9 @@ Obgleich jedenfalls ein, wahrscheinlich aber zwei sehr grosse Steine fielen und 
 
 Literatur: Gilb. Ann. 24, 383. Chladni Feuermet. 233. Catullo Geogn. delle prov. Venete 435.
 
-### Schellin (weniger richtig Garz) bei Stargard in Pommern. 1715, April 11, 4 Uhr Nachmittag.
+### Schellin
+
+Schellin (weniger richtig Garz) bei Stargard in Pommern. 1715, April 11, 4 Uhr Nachmittag.
 
 Nach einem Getöse, das von SO. nach NW. gehört wurde, fielen miehre Steine, einer von ca. 7% K., der zweite kleiner. Der Fall wurde erst 4822 durch GiLsert bekannt. Es haben sich nur sehr wenige kleine Bruchstücke erhalten (in Berlin, Wien, London und den Privatsammlungen von v. REICHENBACH und KranTz); auch soll ein Gutsbesitzer in Pommern ein Fragment besitzen. Das, welches Prof. GiLgert besass, scheint verloren zu sein.
 
@@ -930,7 +932,9 @@ Der Stein ist noch nicht analysirt worden.
 
 Literatur: Gilbert Annalen 71, 213.
 
-### Plescowitz und Liboschitz, einige Meilen von Reichstadt, Bunzlauer Kreis, Böhmen. 1723, Juni 22.
+### Plescowitz und Liboschitz
+
+Plescowitz und Liboschitz, einige Meilen von Reichstadt, Bunzlauer Kreis, Böhmen. 1723, Juni 22.
 
 Man sah bei heiterem Himmel eine einzelne kleine Wolke und hörte darin ein starkes Krachen und Knallen, worauf bei Liboschitz 25 und auf anderen herrschaftlich Plescowitz'schen Dörfern unter Funkensprühen 8 grosse und kleine Steine fielen, die nach Schwefel rochen, auswendig schwarz und inwendig metallisch waren.
 
@@ -938,7 +942,9 @@ Das britische Museum behauptet einen solchen Stein zu besitzen; sonst fehlt er j
 
 Literatur: Poggend. Ann. 116, 640.
 
-### Tabor. Hof Krawin bei Strkow, südl. von Plan und Tabor. 1753, Juli 3, 8 Uhr Abends.
+### Tabor
+
+Tabor. Hof Krawin bei Strkow, südl. von Plan und Tabor. 1753, Juli 3, 8 Uhr Abends.
 
 Nach einer Feuererscheinung erfolgte eine heftige Detonation; dann fielen mehre Steine herab, was von zwei Schäfern an verschiedenen Stellen beobachtet wurde. Ein ganzer Stein, der erste, der unverletzt in Sammlungen aufbewahrt wurde, ist in Wien und wiegt 2 K. 782,5; ausserdem werden daselbst noch 6 St. aufbewahrt (im Ganzen 4 K. 119,69). Kleinere Bruchstücke finden sich in London (164 Gr.), Berlin (77,802 Gr.), Prag (böhm. Nat.-Mus.), Pesth (Univ.-Mus.) und den Privatsammlungen des Fürsten Loskowırz (Bilin, 2 St. 777 Gr.), v. Reichenbach (Wien), v. Henikstein (Gratz, 2 St.), Neumann (Prag, 3 St. 74,39 Gr.), Shepard (N. Haven).
 
@@ -967,7 +973,9 @@ Meyer hat den Stein nicht selbst analysirt, sondern nur die Procentberechnung de
 
 Literatur: Howard Phil. Trans. 1802. Voigt Magaz. 10, 220. Chladni Feuermet. 246.
 
-### Luponnas (nach dem Dict. des Postes de l'Empire, nicht Liponas oder Laponas) bei Pont-de-Vesle und Bourg-en-Bresse, Dep. de l'Ain, Frankreich.
+### Luponnas
+
+Luponnas (nach dem Dict. des Postes de l'Empire, nicht Liponas oder Laponas) bei Pont-de-Vesle und Bourg-en-Bresse, Dep. de l'Ain, Frankreich.
 
 1753, Sept. 7, 1 Uhr Nachmittag.
 
@@ -983,6 +991,8 @@ Eine Analyse wurde nicht bekannt.
 
 Literatur: Izarn 56 ausführlicher als Bigot de Morogues 101. Gilb. Ann. 13, 343.
 
+### Alboreto
+
 Alboreto, unweit Modena, Italien. 1766, Mitte Juli, 5 Uhr Abends.
 
 Unter heftiger Detonation fiel ein sehr grosser Stein nieder; ob eine Feuerkugel vorher bemerkt wurde, ist zweifelhaft. Der Stein wurde noch heiss ausgegraben. Ein Stück von unbekannter Grösse ist im Mineraliencabinet zu Bologna. Grössere Sammlungen besitzen nichts davon. Daher sind auch die Beschreibungen sehr mangelhaft und beschränken sich auf die Angaben der Zeitgenossen des Falls. Die Oberfläche war mit einer dunkeln Rinde überzogen, das Innere war sandsteinartig und enthielt zahlreiche Eisentheilchen. Das specifische Gewicht wird jedenfalls unrichtig als 1,33 angegeben.
@@ -990,6 +1000,8 @@ Unter heftiger Detonation fiel ein sehr grosser Stein nieder; ob eine Feuerkugel
 Chiodelli analysirte den Stein und fand, dass er aus halbverbranntem Eisen verbunden mit einer scharfen arsenikalischen Substanz bestehe, die beide sich zufällig mit fetter und sandiger Erde vermischt hätten. Diese Analyse ist gar nichts werth.
 
 Literatur: v. Ende Massen und Steine 44. Chladni Feuermet. 250.
+
+### Luce
 
 Luce, Maine, jetzt Dep. de la Sarthe, Frankreich. 1768, Sept. 13, 4 1/2 Uhr Nachmittag.
 
@@ -1013,6 +1025,8 @@ Verglasbare Erde 55,5
 Die Commission schloss daraus, dass der Stein weder durch den Donner entstanden, noch vom Himmel gefallen sei; am wahrscheinlichsten schien es ihr, er habe unter demRasen gelegen und sei durch einen Blitz oberflächlich geschmolzen und herausgeschleudert worden.
 
 Literatur: Das Geschichtliche bei Izarn Lithologie 61, 192, 301 ausführlicher, als bei Bigot de Morogues 105. Lavoisier und Cadet Mem. Ac. Paris 1769. Journ. de Phys. 1772.
+
+### Mauerkirchen
 
 Mauerkirchen, damals in Bayern, jetzt im Innviertel, Oesterreich ob der Enns. 1768, Nov. 20, nach 4 Uhr Nachmittag.
 
