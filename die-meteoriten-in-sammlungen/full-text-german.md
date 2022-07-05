@@ -1182,7 +1182,7 @@ b\. Feinkörnig (Nobleborough, Little Pinney).
 
 *) Nicht meteorisch.
 
-## I\. Steinmeteoriten, deren Fallzeit bekannt ist.
+## 1\. Steinmeteoriten, deren Fallzeit bekannt ist.
 
 Sie sind nach der Fallzeit geordnet.
 
@@ -4840,11 +4840,15 @@ Literatur: Poggend. Ann. 117, 637 stellt einige Zeitungsnachrichten zusammen.
 
 Sie sind nach der Zeit ihres Bekanntwerdens geordnet.
 
+### Quivira und Cicuit
+
 Ebene zwischen Quivira und Cicuit, Nord-Amerika.
 
 Die Zeit des Falles ist unbestimmt. Cardan erwähnt das Ereigniss 1557, und es ist daher wahrscheinlich, dass es in den Beginn des 16. Jahrhunderts zu setzen ist. Auch der Fallort lässt sich nicht mehr genau ermitteln; durch neuere Reisende ist aber soviel festgestellt, dass man den Fundpunkt in der von der Sierra de Jumanes auf der östlichen Seite des Rio grande del Norte gebildeten Hochebene zwischen den Parallelen des 34. und 35.° nördl. Br. suchen darf. Obgleich nach A. v. Humboldt die Namen Quivira und Cicuit an die Fabeln vom Eldorado Mittel-Amerikas erinnern, so scheinen doch Steine als von dieser Localität stammend in der einen oder der anderen Sammlung aufbewahrt zu werden. Doch ist nichts Genaueres über mineralogische Charaktere bekannt.
 
 Literatur: Carpants De rerum varietate I. XVII. Humboldt Essai politique IV. 107. ed. 8°. Burkart N. Jahrb. Mineral. 1856, 273.
+
+### Im Darmstädtischen
 
 Im Darmstädtischen (nach der Etikette 1815 bei Darmstadt gefallen, aber jedenfalls irrthümlich).
 
@@ -4858,6 +4862,8 @@ Eine chemische Analyse existirt nicht.
 
 Literatur: Suckow Mineralogie 2, 649. Blum Verh. naturhistor. medic. Verein Heidelberg. B. 2, 164.
 
+### Poltawa
+
 Gouvernement Poltawa, nach Eichwald im Romensker Kreis, Russland.
 
 Ueber Geschichte und Zeit des Falles, sowie über den genaueren Ort desselben ist nichts bekannt. Blöde nennt den 13. März 1807, verwechselt aber mit Timochin (p. 21) und hält den Stein für identisch mit Kuleschowka (p. 29), beides fälschlich.
@@ -4870,6 +4876,8 @@ Nur stellenweise findet sich eine schwarze, dünne, matte, löcherige Rinde; wo 
 
 Literatur: Eichwald Erman Arch. 5, 180. Blöde Bull. Acad. Petersb. VI. No. 1. 1848. Partsch 44.
 
+### Kursk
+
 Gouvernement Kursk, Russland.
 
 Weder über Fallort, noch Fallzeit ist etwas bekannt geworden. In der Sammlung der Akademie der Wissenschaften zu Petersburg ist ein fast ganzer Stein von unregelmässig rhomboidaler Gestalt und 3 Zoll im Querschnitt (609 Gr.). Von demselben scheint nur Wien ein Bruchstückchen (3,281 Gr.) zu besitzen.
@@ -4879,6 +4887,8 @@ Specifisches Gewicht: 3,55 Rumler.
 Die meist schwarze, dünne, iwatte Rinde wird an einer Seite, die zugleich durch die Vertiefungen darin sich auszeichnet, durch einen bräunlichen Ueberzug ersetzt. Die dunkelaschfarbene, feinkörnige Grundmasse enthält theils hellere, theils dunklere, stellenweise fast schwarze rundliche Einschlüsse, sowie meist sehr fein und nicht häufig eingesprengtes Eisen und ebenso Magnetkies.
 
 Literatur: Blöde Bull. Acad. Petersb. 6, 1848, No. 1. Eichwald Erman Arch. 5, 180.
+
+### Simbirsk
 
 Gouvernement Simbirsk, Russland.
 
@@ -4892,11 +4902,15 @@ Die derbe und dichte dunkelgraue Grundmasse zeigt angeschliffen feine dunkelgrü
 
 Literatur: Eichwald Erman Arch. 5, 180. Blöde Bull. Ac. Petersb. VI. 1848. No. 1. v. Reichenbach Poggend. Ann. 111, 362. Partsch 46.
 
+### Czartorya
+
 Czartorya, Polen.
 
 v. Reichenbach erwähnt diese Localität seiner Sammlung mehrfach und gibt eine mikroskopische Analyse eines kleinen Einschlusses. Sonst findet sich nirgends die geringste Notiz über den Fall und die weiteren Eigenschaften des Steines.
 
 Literatur: Poggend. Ann. 107, 161. 111, 360. 372. Abb.
+
+### Assam
 
 Assam, Asien.
 
@@ -4911,6 +4925,8 @@ Die sehr dünne Rinde ist dunkelgraulichschwarz, stellenweise mit einer Spur beg
 Der Stein ist sehr fest und dicht, ähnlich Seres, Barbotan etc. In der dunkelgrauen Grundmasse liegen bis nahe halbzöllige, unregelmässig abgerundete Bruchstücke von hellerem Grau, dann zahlreiche mehr oder weniger kugelige Theile, kleine ganz schwarze, aber auch kleine und grössere bis zu hellaschgrau. Auch in den eingeschlossenen heller grauen Theilen liegen wieder kleinere braune, auch metallische, weisse und gelbe, ebenfalls wieder mit dem Ansehen wahrer Bruchstücke. Durch die helleren und dunkleren Theile hindurch ist metallisches Eisen, grösstentheils nur in feinen Theilchen, doch auch stellenweise in etwas grösseren Körnchen, bis 1/4 Linie in jeder Richtung vertheilt, sowie Magnetkies in nahezu gleicher Menge. Stellenweise haben sich die Eisentheilchen als Einfassung um die kugeligen Einschlüsse gelagert. - Der allgemeine Eindruck, den der Stein macht, ist der des Marmorirten.
 
 Literatur: Haidinger Wien. Akad. Ber. 41, 1860, 752.
+
+### Mainz
 
 Mainz, Grossherzogthum Hessen, Deutschland.
 
@@ -4939,15 +4955,19 @@ sowie Spuren von Kupfer, Zinn, Mangan und Kalk.
 
 Literatur: Jahrb. Verein. Naturk. Nassau. 1857, H. 12. Poggend. Ann. 107, 173. 111, 363.
 
+### Crawford County
+
 Crawford County, Nord-Amerika.
 
 Edw. T. Cox in Van Buren erhielt ein Mineral, das sich als Bruchstück eines Meteoriten auswies. Es wog 638 Gr. Beim ersten Anblick scheint es ein vulkanisches Gestein zu sein, doch sind bei genauerer Betrachtung Theilchen von gediegenem Eisen erkemntlich, die aus der Grundmasse hervorstehn und sich scharf anfühlen. Die qualitative Analyse ergab Eisen, Nickel, Thonerde, Kalk, Magnesia (nicht auch Kieselsäure?). Ausser dem hämmerbaren Eisen und Nickel sind Nephelin und Olivin von blass- und dunkelgrüner Farbe darin. - Ist von Crawford County 1859 (p. 102) verschieden.
 
 Literatur: Owen 2th. Rep. Geol. Reconnoiss. of Arkansas. 1859 und 1860. Philadelphia 1860. p. 408.
 
-### 3\. Uebergangsstufe von den Stein- zu den Eisenmeteoriten.
+## 3\. Uebergangsstufe von den Stein- zu den Eisenmeteoriten.
 
 Sie sind nach der Zeit ihres Bekanntwerdens geordnet.
+
+### Krasnojarsk
 
 Zwischen Krasnojarsk und Ahakarsk oder zwischen den Flüssen Ubei und Sisin in Sibirien, nach dem wissenschaftlichen Entdecker gewöhnlich auch Pallaseisen genannt.
 
@@ -5019,6 +5039,8 @@ Rumler fand im Olivin auch Arsen, Walmstedt Spuren von Kali und Natron.
 
 Literatur: Pallas Reisen 3, 411. Howard Gilb. Ann. 13, 325. Klaproth ebd. 18, 289. Laugier ebd. 58, 184. John ebd. 68, 345. Stromeyer Götting. gel. Anz. 1824, St. 208. 209. Walmstedt Poggend. Ann. 4, 201. Berzelius ebd. 33, 129. Rumler ebd. 49, 391. G. Rose bespricht einen Olivinkrystall und bildet ihn ab ebd. 4, 186. Tb. 2.
 
+### Steinbach, Rittersgrün, Sachsen
+
 Steinbach, zwischen Johanngeorgenstadt und Eibenstock bei Schwarzenberg, Sachsen.
 
 Rittersgrün bei Schwarzenberg, Sachsen.
@@ -5064,6 +5086,8 @@ Fe. Ni. Co. MgO. CaO. P. SiO3.
 
 Literatur: Chladni Feuermeteore p. 324-326 erwähnt die verschiedenen Eisenmassen unter verschiedenen Namen, die Partsch p. 91 als von derselben Localität stammend bestimmt. Stromeyer Poggend. Ann. 4, 196. Breithaupt Ztschr. deutsch. Geol. Gesellsch. 13, 148. Rube Berg- und Hüttenmänn. Ztg. 1862, 72.
 
+### Bitburg
+
 Bitburg, Provinz Niederrhein, Preussen.
 
 Gefunden 1802, bekannt seit 1814.
@@ -5087,6 +5111,8 @@ Fe. Ni. Co. Mn. Si. S. SiO3.
 Jonn fand noch Al2O3 und Fe203; er will auch Spuren von Selen entdeckt haben.
 
 Literatur: Gilb. Ann. 60, 243. 68, 342. Bischoff Schweigg. Journ. 43, 44, 46, 385. 392.
+
+### Atacama
 
 Provinz Atacama bei dem Dorf San Pedro; Imilac; nach Field 100 Leguas von der Küste von Bolivia, 20 Leguas nördlich vom Hafen von Cobiza, an der Grenze von Chili, Süd-Amerika.
 
@@ -5132,6 +5158,8 @@ Schmid 7. lässt die Anwesenheit von Nickel und Arsen zweifelhaft. Nach ihm stim
 
 Literatur: Philippi Petermann Mittheilgn. 1856, 64. Turner Poggend. Ann. 11, 470. Frapoli Jahrb. Mineralogie 1857, 264. Field Journ. pract. Chem. 69, 250. Julien Institut 1839, No. 8. Morren Chron. scientif. I. annee, No. 8. v. Kobell Corresp.-bl. zool. min. Vereins Regensburg 5, 1851, 112. Schmid Poggend. Ann. 84, 501.
 
+### Brahin
+
 Brahin, Gouvernement Minsk, Russland.
 
 Die Fallzeit ist unbekannt. Gefunden wurde das Eisen 1810 (nach Eichwald 1820), bekannt erst 1822 durch Sniadecki. Es waren 2 Stücke, die zusammen etwa 100 K. wogen: der grösste Theil befindet sich jetzt in der Sammlung der Universität zu Kiew (früher in Wilna). Kleinere Fragmente sind in Berlin (454,15 Gr.), London (80,79 Gr.), Wien (18,594 Gr.), Paris (Mus. Hist. nat.) und in den Privatsımmlungen von Ferber in Gera (65,7 Gr.), v. Reichenbach in Wien, Greg in Manchester (28,3 Gr.), de Luynes in Dampierre (11,4 Gr.), Zimmermann in Hamburg (5,58 Gr.) und Neumann in Prag (0,75 Gr.).
@@ -5150,6 +5178,8 @@ II\. 91,5. 1,5. Spur. 1,0. 3,0. 2,0. 1,00.
 
 Literatur: Laugier Gilb. Ann. 75, 267. Erman Archiv 5, 183. Partsch Meteoriten 90.
 
+### Singhur
+
 Singhur bei Poona, Dekkan, Ostindien.
 
 Dieses sehr zähe dehnbare Eisen wurde 1847 gefunden und wog über 15 K. Es enthält erbsengrosse erdige Einwüchse, daher das specifische Gewicht nur 4,72-4,90 beträgt. Es scheint nur in indischen Sammlungen etwas davon zu sein, die Hauptmasse bei der geographischen Gesellschaft zu Bombay (etwa 15 K.).
@@ -5160,6 +5190,8 @@ Erdige Silikate, Eisen, Nickel.
 19,53. 69,16. 4,24.
 
 Literatur: Edinb. N. Phil. Journ. 47, 53.
+
+### Hainholz
 
 Hainholz, nördlich von Borgholz, SO. von Paderborn, Westphalen, Preussen.
 
@@ -5174,6 +5206,8 @@ Eine Analyse ist noch nicht geliefert worden.
 
 Literatur: Wöhler Poggend. Ana. 110, 342. v. Reichenbach ebd. 101, 311. 102, 618. Haidinger Wien. Akad. Ber. 42, 516.
 
+### Forsyth
+
 Forsyth, Tanae County, Missouri, Nord-Amerika.
 
 Shepard hat dieses Eisen bekannt gemacht; es ist wie bei Krasnojarsk mit Olivin gemengt und herrscht dieser vor. Es sollen zwei Massen gefunden worden sein, die aber verborgen gehalten werden, weil man. sie für Silber hält. Shepard besitzt etwas davon. Fragmente wurden an einen Probirer in Ducktown, Tenn. und an Prof Swallow in St. Louis zur Untersuchung geschickt.
@@ -5183,6 +5217,8 @@ Specifisches Gewicht: 4,46.
 Das Eisen ist sehr weiss, der Olivin schön grün und deutlich krystallisirt. Weiteres ist noch nicht darüber bekannt geworden.
 
 Literatur: Shepard Sillim. Amer. Journ. (2) 30, 205.
+
+### Rogue River Mountains
 
 Rogue River Mountains, Oregon, Nord-Amerika, etwa 42° 35' nördl. Breite, 123°-124° westl. Länge.
 
@@ -5196,6 +5232,8 @@ Fe. Ni. Sn. und etwas SiO,.
 89. 40,29. 0,729.
 
 Literatur: Boston Soc. Nat. Hist. 7, 161. 174. 175. 279. 289. Haidinger Wien. Akad. Ber. 41, 1860, 572. 44, 1861, Juni 6.
+
+### Sierra de Chaco
 
 Sierra de Chaco, in der Wüste Atacama, nördl. von Chili.
 
@@ -5220,9 +5258,11 @@ Das Ergebniss weiterer analytischer Untersuchungen wird mitzutheilen versprochen
 
 Literatur: G. Rose Berl. Akad. Ber. 1863, Jan. 15.
 
-4\. Eisenmeteoriten. Ihre Fallzeit ist allermeist unbekannt.
+## 4\. Eisenmeteoriten. Ihre Fallzeit ist allermeist unbekannt.
 
 Sie sind nach der Zeit ihres Auffindens oder Wissenschaftlichen bekanntwerdens geordnet.
+
+### Hraschina
 
 Hraschina bei Agram, Croatien, Oesterreich.
 
@@ -5248,6 +5288,8 @@ Fe. Ni. Co. Mn. Si. Ca. Mg. Al. Sa.
 
 Die Literatur über dieses Eisen ist sehr ausgedehnt. Haidinger hat in Wien. Akad. Ber. 35, 361. 39, 519 drei Urkunden über das Ereigniss veröffentlicht und interessante Betrachtungen daran geknüpft; v. Schreibers (Stein- und Metallmassen 1820. p. 1.) beschreibt ausführlich die grosse Eisenmasse und bildet sie gut ab. Partsch gibt p. 103 ausser der Beschreibung auch ältere Citate, ebenso Chladni (Feuermeteore p. 116, 245.). Klaproth Gilb. Ann. 13, 339. Wehrle Baumg. Zeitschr. 3, 225. v. Holger ebd. 7, 138.
 
+### Senegal
+
 Senegal, besonders im Lande Siratik und Bambouk, Afrika.
 
 Nicht weit vom rechten Ufer des Senegal finden sich bedeutende Eisenmassen, die schon seit 1763 bekannt sind; die Neger verschmieden sie. Stücke davon finden sich in Wien (514,621 Gr.), Paris, Ecole des Mines (197 Gr.), Berlin (74,303 Gr.), London (10,14 Gr.), Göttingen (1,44 Gr.), so wie in den Privatsammlungen von v. Reichenbach, Shepard, Neumann, Greg und Nevill.
@@ -5255,6 +5297,8 @@ Nicht weit vom rechten Ufer des Senegal finden sich bedeutende Eisenmassen, die 
 Das Eisen ist derb und dicht, mit wenig fremden Einschlüssen und ohne Höhlungen. Polirte Flächen zeigen heim Actzen keine deutlichen Widmannstätten'sche Figuren, sondern nur kurze feine, nach mehreren Richtungen gekehrte Striche, die sich zuweilen berühren und schneiden und gestrickte oder federartige Zeichnungen bilden. Bei stärkerem Aetzen erhält die Masse ein gekörntes Ansehen und nach verschiedenen Richtungen gekehrte Einschnitte, ist demnach dem Tucumaneisen verwandt.
 
 Literatur: Notizen aus Reisebeschreibungen finden sich in Chladni Feuermet. 333, die Beschreibung bei Partsch 130.
+
+### Tucuman
 
 Tucuman, 15 Meilen von Otumpa, in einer öden Kreideebene
 der Provinz Chaco im Gebiet von S. Iago del Estero, unweit des Parunaflusses, Rio de la Plata, Süd-Amerika.
@@ -5280,6 +5324,8 @@ Howard analysirte dieses Eisen zuerst und fand einen Nickelgehalt von 10%. Auch 
 
 Literatur: Rubin de Celis Philos. Transact. 78, 1788, P. 1. p. 37. Howard Gilb. Ann. 13, 319. Proust Journ. de Phys. 6, 148. de Dree Gilb. Ann. 50, 266. v. Reichenbach Pogg. Ann. 115, 629. Stromeyer ebd. A, 195.
 
+### Sierra blanca
+
 Sierra blanca, drei Meilen von Villa nueva de Huajuquillo und zwölf Meilen von dem Dorfe San Bartolome, Mexiko.
 
 Schon 1784/5 erwähnt die Gazeta de Mexico das Vorkommen von Eisen in der Gegend. Burkart hat vier Orte in der Nähe der Sierra blanca als Fundpunkte von Meteoreisen bezeichnet; der eine ist nach der Gaz. de Mex. beiHuajuquillo, der zweite nach Barlett auf dem Landgut Goncepcion, der dritte nach Weidner am südwestlichen Rande des Bolson de Mapimi und der vierte nach Berlandier auf dem Landgut Venagas, alle in der Richtung des Weges von Durango nach Chihuahua. An demselben Wege soll nach Weidner am Rande des Bolson de Mapimi auf deın Landgut Rio Florido eine Eisenmasse sich finden, und Hardy erwähnt eine solche im Städtchen San Gregorio. Von letzterer Masse sollen von einem Italiener etwa 1 1/2 K. mit ungeheurer Mühe und grossem Kostenaufwand abgelöst worden sein. Ueber die geographische Lage dieser Orte, mit Ausnahme der Hacienda Venagas, gibt Burkart Auskunft. Es scheint nur ein Stückchen seinen Weg in die Sammlungen gefunden zu haben; Berlin besitzt ein solches (175,263 Gr.), das früher in der Bergemann'schen Sammlung war. Es soll von Villa nueva de Huajuquillo stammen und zeigt deutliche Figuren beim Aetzen.
@@ -5287,6 +5333,8 @@ Schon 1784/5 erwähnt die Gazeta de Mexico das Vorkommen von Eisen in der Gegend
 Die von Barlett beschriebene Masse der Hacienda Concepcion, etwa 2 Meilen von Zapata (Zapote?), im Staat von Chihuahua hat eine unregelmässige Gestalt und soll etwa 1900 K. wiegen. Auf der einen Seite sind meist runde, tiefe Höhlungen, auf der anderen ist es weniger rauh, aber ebenso unregelmässig. An seinem unteren Ende ragt eine Stelle armartig vor. In Wien ist ein Splitter davon.
 
 Literatur: Burkart N. Jahrb. Mineralogie 1856, 278. 1858, 770. Smith Sillim. Amer. Journ. (2) 19, 163. Die Abb. daselbst vielfach, auch bei Burkart l. c. copirt.
+
+### Xiquipilco
 
 Xiquipilco im Thal von Toluca, in der Jurisdiction von Istlahuaca, Mexiko.
 
