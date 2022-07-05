@@ -4330,6 +4330,8 @@ Obgleich Wöhler in der unbekannten Materie nach ihrem Verhalten sogleich eine o
 
 Literatur: Hörnes Wien. Akad. Ber. 31, 347. Wöhler ebd. 33, 205. 34, 7. Török Poggend. Ann. 105, 329 gibt die Grundmasse wohl durch einen Druckfehler als dunkelgrün statt dunkelggau an.
 
+### Pilot Grove
+
 Pilot Grove, Independence County, Iowa, Nord-Amerika.
 
 1857, im Sommer (August ?).
@@ -4338,6 +4340,8 @@ Der Stein soll in der Akademie der Wissenschaften zu Chicago gezeigt worden sein
 
 Literatur: Shepard Sillim. Amer. Journ. (2) 30, 208.
 
+### Des Ormes
+
 Gemeinde des Ormes, Arondissement Joigny, Canton Aillant-sur Tholon, Dep. Yonne, Frankreich.
 
 1857, Oct. 1, 4 3/4 Uhr Abends.
@@ -4345,6 +4349,8 @@ Gemeinde des Ormes, Arondissement Joigny, Canton Aillant-sur Tholon, Dep. Yonne,
 Der Steinfall selbst wurde von einem Maurer beobachtet, der gerade auf einem Gerüst stand. Der Stein fiel unter heftiger Detonation nahe bei ihm. Das Gewicht des Steins wird nicht angegeben. Wahrscheinlich fielen noch weitere. Ein Bruchstück von 125 Gr., schwärzlich innen, graulich aussen, kam am 2. Nov. 1857 an das Instit. de France zu Paris und dieses ernannte eine Commission zur Untersuchung und Analyse des Steines. Seitdem hat man nichts mehr davon gehört. - Keine französische Sammlung besitzt ein Bruchstück; im brit. Museum sind 15,79 Gr. davon im Katalog aufgeführt; es scheint aber, dass die Localität mindestens zweifelhaft ist.
 
 Literatur: Instit. 1857, 363.
+
+### Ohaba
 
 Ohaba, Blasendorfer Bezirk, Siebenbürgen.
 
@@ -4378,6 +4384,8 @@ und Schwefeleisen|13,14
 
 Literatur: Hörnes Wien. Akad. Ber. 31, 79.
 
+### Quenggouk
+
 Quenggouk in Pegu, nordöstlich von Bassein, Hinterindien.
 
 1857, Dec. 27, 2 Uhr 25 Min. Morgens.
@@ -4389,6 +4397,8 @@ Specifisches Gewicht: 3,737 Haidinger.
 Die Rinde ist graulichschwarz insBraune, eglanzlos, dünn; die innere graue, etwas bläuliche Masse besteht ganz aus einzelnen runden, wie in weissen Sand eingebetteten Körnern oder Kügelchen, die sich leicht trennen. Das Ganze ist zerreiblich. Geschliffen treten die kugeligen Einschlüsse deutlicher hervor, theils ganz rund, theils eckig, graulichweiss bis dunkelrauchgrau in allen Schattirungen, höchstens 1 Linie im Durchmesser. Eisen ist gleichmässig und fein, Schwefeleisen äusserst fein eingesprengt. Letzterer Bestandtheil, der Farbe nach Magnetkies, durchsetzt die Steinmasse plattenförmig in der Art eines Ganges, der an der stärksten Stelle etwa 1/2 Linie dick ist.
 
 Literatur: Haidinger Wien. Akad. Ber. 41, 750. 42, 301. 44, 637; bei 2 eine Kartenskizze, bei 3 die Erscheinung des Meteors in Farbendruck.
+
+### Kakowa
 
 Kakowa, nordwestl. von Oravitza, Temeser Banat, Oesterreich.
 
@@ -4416,6 +4426,8 @@ Fe. Ni. Co. P. Cu. Chromeisen.
 1\. ist Olivin, 2. könnte Wollastonit und Anorthit sein, wenn diese nicht leicht durch Salzsäure zersetzbar wären.
 
 Literatur: Haidinger Wien. Akad. Ber. 34, 11. Wöhler ebd. 34, 8. Dabei auch 2 gute Abbildungen des Steines.
+
+### Aussun und Clarac
 
 Aussun und Clarac, Canton Montrejeau, Dep. de la Haute Garonne, Frankreich.
 
@@ -4528,6 +4540,8 @@ KO|-,-
 
 Literatur: Petit Cpt. rend. 47, 1053. 48, 16. Filhol u. Leymerie ebd. 48, 193. 348. 446. Chancel u. Moitessier ebd. 48, 267. 479. Laroque u. Bianchi ebd. 48, 578. 798. 920. Damour ebd. 49, 31. Leymerie ebd. 49, 247. Haidinger Wien. Akad. Ber. 34, 265. Harris Annal. Chem. Pharmac. 110, 181.
 
+### Harrison County
+
 Harrison County, Kentucky, Nord-Amerika.
 
 1859, März 28, 4 Uhr Nachmittags.
@@ -4556,6 +4570,8 @@ und einer Spur Manganoxydul. Smith berechnet daraus als Bestandteile dieses Mete
 
 Literatur: Smith Sillim. Amer. Journ. (2) 28, 409.
 
+### Crawford County
+
 Crawford County, Nord-Amerika.
 
 1859, Juli 4, gegen Mittag.
@@ -4565,6 +4581,8 @@ Im Nordwesttheil der Crawford County soll der Stein unter lautem Getöse gefalle
 Dieser Steinfall ist von einem zweiten in derselben County verschieden.
 
 Literatur: Owen 2th. Report geol. Reconnoiss. of Arkansas. Philadelphia 1860, p. 408.
+
+### Bethlehem
 
 Bethlehem bei Albany, Troy, New-York, Nord-Amerika.
 
@@ -4579,6 +4597,8 @@ Die Rinde ist dick, vollkommen schwarz, rauh. Innen ist die Masse hellgrau, fein
 In der Farbe kommt der Stein Kleinwenden (p. 73) am nächsten, doch ist er grobkörniger und lockerer im Gefüge.
 
 Literatur: Shepard Sillim. Amer. Journ. (2) 30, 205.
+
+### Alessandria
 
 Alessandria, S. Giuliano vecchio, Piemont.
 
@@ -4609,6 +4629,8 @@ Ein Stein findet sich in der Universitätssammlung su Bologna, sowie in Wien (78
 
 Literatur: Vielleicht ist schon in italienischen Schriften etwas über diesen Steinfall gedruckt worden, so wahrscheinlich Nuovo Cimento (Pisa) Anfang 1861.
 
+### Kheragur
+
 Kheragur, Agra, Indien.
 
 1860, März 28.
@@ -4618,6 +4640,8 @@ Ueber den Fall ist bis jetzt nichts bekannt geworden.
 Die lichtgraue Grundmasse enthält braune und dunkelbläulichgraue Flecken mit grob eingesprengtem Eisen und fein vertheiltem Magnetkies. In seinen Eigenschaften steht der Stein zwischen denen von Sigena (1773) und Barbotan (1790). Die Hauptmasse ist in Calcutta; kleine Bruchstücke besitzen Wien (24 Gr.) und London.
 
 Eine gedruckte Erwähnung hat diese Localität noch nicht gefunden.
+
+### New-Concord
 
 New-Concord unweit Zanesville, Guernsey County und Muskingum County, Ohio, Nord-Amerika.
 
@@ -4671,6 +4695,8 @@ Shepard nimmt an, dass 2/3 der Masse aus Peridot bestehe und dass die eingestreu
 
 Literatur: Sehr ausführliche Berichte nebst Kartenskizzen und Abbildungen von Steinen finden sich in Sillim. Amer. Journ. (2) 30, 103. 106. 109. 111. 207. 31, 87. Madelung Dissertat. Göttingen. 1862.
 
+### Dhurmsala
+
 Dhurmsala, Dharam Sal, District von Kangra, NO. von Punjab, 31° 55' nördlicher Breite, 77°, östlicher Länge von Greenw., Ostindien.
 
 1860, Juli 14, 2 1/4 Uhr Nachmittags.
@@ -4697,6 +4723,8 @@ Phosphorsäure|nicht gewogen
 
 Literatur: Haidinger Wien. Akad. Ber. 42, 305. 44, 285. Jackson Proceed. Boston Soc. Nat. Hist. 8, 233.
 
+### Tocane St. Apre
+
 Tocane St. Apre, Dordogne, Frankreich.
 
 1861, Febr. 14.
@@ -4704,6 +4732,8 @@ Tocane St. Apre, Dordogne, Frankreich.
 Unter Feuererscheinung und Regen soll auf dem Marktplatz der Stadt ein Stein von 7 Gr. niedergefallen sein, der jetzt im Museum des Dep. Dordogne sich befindet. Weiteres wurde nicht bekannt und ist fast anzunehmen, dass hier wieder ein sehr zweifelhaft richtiger Fall vorliegt.
 
 Literatur: Cosmos 1861, Avril 26.
+
+### Goruckpur-District
 
 Im Goruckpur-District unweit Butsura; bei Piprassi, Bulloah, Qutahar Bazar, Chireya, vier Stellen, wo Steine fielen, auf der rechten Seite des Gundukflusses. (Nicht weit von Segowlee, wo 1853, März 6, ein Steinfall sich ereignete.) Östindien.
 
@@ -4742,6 +4772,8 @@ Alle Stücke wurden an das britische Museum nach London geschickt, um daselbst a
 
 Literatur: Haidinger Wien. Akad. Ber. 1862, 45, Mai 15. Maskelyne Philos. Magaz. Jan. 1863. Daselbst auch zwei Abbildungen der 5 verschiedenen wiedervereinigten Steine.
 
+### Canellas
+
 Canellas, Villa nova bei Barcelona, Spanien.
 
 1861, Mai 14, 1 Uhr Nachmittags.
@@ -4751,6 +4783,8 @@ Die Lichterscheinung und die erschreckliche Detonation scheinen nicht von den ge
 Weiteres ist noch nicht bekannt geworden.
 
 Literatur: Philos. Magaz. 1861, Aug. 107.
+
+### Meno
 
 Meno in der Nähe von Fürstenberg, Alt-Strelitz, Mecklenburg.
 
@@ -4766,7 +4800,7 @@ Specifisches Gewicht: 4,1.
 
 Literatur: Poggend. Ann. 117, 637 stellt einige Zeitungsnachrichten zusammen.
 
-### 2\. Steinmeteoriten, deren Fallzeit unbekannt ist.
+## 2\. Steinmeteoriten, deren Fallzeit unbekannt ist.
 
 Sie sind nach der Zeit ihres Bekanntwerdens geordnet.
 
