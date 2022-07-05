@@ -2950,6 +2950,8 @@ Engelbach wies auch spectralanalytisch Lithion und Strontian in dem Stein nach.
 
 Literatur: Philos. Transact. 1839, I, 83-88. Faraday Poggend. Ann. 47, 384. Wöhler und Haidinger Wien. Akad. Ber. 35, 1859, 5. 41, 1860, 565. Einzelheiten des Falles sind in vielen, besonders englischen Zeitschriften angeführt.
 
+### Pine Bluff
+
 Pine Bluff bei Little Piney (37° 55 N. B. 92° 5 W. L.), Missouri, Nord-Amerika.
 
 1839, Febr. 13, zwischen 3 und 4 Uhr Nachmittags.
@@ -2964,6 +2966,8 @@ Nach Shepards Untersuchung besteht der Stein aus Olivinoid 40%, Howardit 40%, Me
 
 Literatur: Sill. Amer. Journ. 37, 385. 39, 254. (2) 6, 407.
 
+### Kirgisensteppe
+
 Kirgisensteppe, nahe am Fluss Karokol, diesseits des Flusses Irtisch im Bezirk von Ajagus, im Lande der Kirgisenhorde, nördlich vom kaspischen Meer, Asien.
 
 1840, Apr. 27. a. St. Mai 9. n. St. gegen Mittag.
@@ -2975,6 +2979,8 @@ Die Akademie der Wissenschaften in Petersburg besitzt den vollkommen ganzen Stei
 Der Stein ist mattschwarz überrindet und voll länglicher bedeutender Vertiefungen,. die auf der Grundfläche des abgestumpften Kegels grösser und unregelmässiger sind. Innen ist er lichtaschgrau, sehr feinkörnig und fest, sehr rostfleckig und enthält viel fein eingesprengten Magnetkies, aber weniger Eisen.
 
 Literatur: Blöde Bull Ac. Petersb. 6. 1848. No. 1. Eichwald Erman Arch. 5, 180.
+
+### Uden
 
 Gemeinde Uden, Provinz Nordbrabant, Holland.
 
@@ -3016,6 +3022,8 @@ Das lösliche Silikat ist Olivin, das unlösliche wohl eine Feldspathsubstanz vi
 
 Literatur: v. Baumhauer u. Seelheim Poggend. Ann. 116. 184.
 
+### Cereseto
+
 Cereseto bei Offiglia, Prov. Casale, ehemals Montferrat, Piemont, Königr. Italien.
 
 1840, Juli 17, gegen 7 1/2 Uhr Morgens.
@@ -3027,6 +3035,8 @@ Specifisches Gewicht: 3,790 Lavini.
 Die Rinde ist matt und bräunlichschwarz, die Grundmasse dunkelaschgrau, mit kugeligen Einschlüssen einer olivinarligen Substanz. Eisen ist häufig, von Magnetkies aber nur sehr wenig eingesprengt.
 
 Literatur: Lavini Mem. Acad. Torino (2) 3, 1841. 265.
+
+### Concord
 
 Concord, New-Hampshire, Nord-Amerika.
 
@@ -3047,6 +3057,8 @@ Im Ganzen muss dieser Stein noch als zweifelhaft meteorisch betrachtet werden.
 
 Literatur: Sillim. Amer. Journ. (2) 4, 354.
 
+### Grüneberg
+
 Grüneberg. Seifersholz bei Heinrichsau, Regierungsbezirk Liegnitz, Prov. Schlesien, Preussen.
 
 1841, März 22, 3 1/2 Uhr Nachmittags.
@@ -3063,7 +3075,9 @@ Die Rinde ist sehr schwach glänzend oder nur schimmernd, unrein graulichschwarz
 
 Literatur: Weimann u. Glocker Poggend. Ann. 53, 172.
 
-Chäteau-Renard, südöstl. von Montargis, Champ de la Bourgonniere, zwischen den Höfen von Thezars und Petits-Marteaux, Gemeinde Trigueres, Dep. du Loiret, Frankreich.
+### Chateau-Renard
+
+Chateau-Renard, südöstl. von Montargis, Champ de la Bourgonniere, zwischen den Höfen von Thezars und Petits-Marteaux, Gemeinde Trigueres, Dep. du Loiret, Frankreich.
 
 1841, Juni 12, 1 1/2 Uhr Nachmittags.
 
@@ -3101,6 +3115,8 @@ Labrador|16,2.
 
 Literatur: Dufresnoy Poggend. Ann. 53, 411. Rammelsberg Handwörterb. Suppl. 2, 92.
 
+### Bourbon-Vendee
+
 Bourbon-Vendee, Roche Serviere, Dep. de la Vendee, Frankreich.
 
 1841, Nov. 5.
@@ -3110,6 +3126,8 @@ Ueber den Stein, der etwa 5 1/2 K. wog, erhob sich ein Process zwischen dem Find
 In wissenschaftlicher Beziehung ist über diesen Stein gar nichts bekannt.
 
 Literatur: Echo du Monde sav. 1842, No. 683, Nov. 24.
+
+### Milena
 
 Milena (ungarisch Milyana). Dorf Pusinsko Selo, 1 Meile südlich von Milena, Warasdiner Comitat, Croatien (an der steiermärkischen Grenze bei Windischlandsberg).
 
@@ -3132,6 +3150,8 @@ NiS. FeS2. FeO Fe2O3. Al2O3. MgO. SiO3. MnO Mn2O3.
 
 Literatur: Kocevar Poggend. Ann. 56, 349. Rosthorn Leonh. u. Bronn N. Jahrb. 1843, 79. Nenprvica in Sadler A kiralyi magyar termeszettudomanyi tarsulat evkönyvei. 1, 1841-1845. Pesten. 33.
 
+### Aumieres
+
 Aumieres, Dep. de la Lozere, Frankreich.
 
 1842, Juni 4.
@@ -3144,6 +3164,8 @@ Der Stein hat die grösste Aehnlichkeit mit Bachmut und Pohlitz.
 
 Literatur: Boisse Recherches sur l’histoire et la nature des Aerolithes, Rodez 1851 war unmöglich zu erhalten.
 
+### Logrono
+
 Logrono, Spanien.
 
 1842, Juli 4.
@@ -3151,6 +3173,8 @@ Logrono, Spanien.
 Es ist nichts als die Thatsache eines Steinfalls bekannt geworden; der Stein befindet sich jetzt in Madrid.
 
 Literatur: Phil. Mag. (4) 8. 460.
+
+### Myhee-Counta
 
 Myhee-Counta (Khoonbeer), NO. von Ahmedabad, Ostindien.
 
@@ -3163,6 +3187,8 @@ Specifisches Gewicht: 3,360.
 Nach Giraud soll der Stein bestehn aus erdigen Substanzen, Schwefel, Eisen und Nickel, was allerdings sehr wahrscheinlich ist, wodurch aber die Natur des Steines nicht klarer wird.
 
 Literatur: Edinb. N. Phil. Journ. 47, 53.
+
+### Bishopville
 
 Bishopville, N. des Sumter-Districts, Süd-Carolina, Nord-Amerika.
 
@@ -3205,6 +3231,8 @@ X. Glühverlust.
 Rammelsberg erkennt darin ein Gemenge von Silikaten, wonach Shepards Chladnit unhaltbar ist.
 
 Literatur: Shepard Sillim. Amer. Journ. (2) 2, 392. (2) 6, 411. Sartorius v. Waltershausen Ann. Chem. Pharm. 79, 369. v. Reichenbach Pogg. Ann. 107, 166. 111, 359. 115, 620. Rammelsberg Berlin. Acad. Ber. 1861, 895.
+
+### Utrecht
 
 Utrecht, in der Gemeinde Blaauw-Kapel. 5 Kilometer von Utrecht und 3 Kilometer von dieser Stelle bei dem Dorf Loevenhoutje, Holland.
 
@@ -3252,6 +3280,8 @@ Danach besteht der nicht magnetische Theil aus Schwefeleisen 7,51-7,62%; Olivin 
 
 Literatur: v. Baumhauer Poggend. Ann. 59, 348. 66, 465. Rammelsberg Handwörterb. Suppl. 2, 97. 5, 26.
 
+### Manegaon
+
 Manegaon bei Eidulabad in Khandeish, Ostindien.
 
 1843, Juli 26, 3 1/2 Uhr Nachmittags.
@@ -3263,6 +3293,8 @@ Specifisches Gewicht: 4-4,5 nach einer Schätzung von Piddington.
 Der Stein ist äusserlich schwarz und glasartig, innen gelblichgrau, leicht zerreiblich; darin eingebettet sind häufig hellgrüne glänzende Krystalle von Olivin, entweder einzeln oder in Nestern. Auch Schwefeleisen ist darin.
 
 Literatur: Abbot Journ. Asiat. Soc. Bengal. 1844, 155, 880. Rep. Brit. Assoc. 1850, 122. Poggend. Ann. Ergb. 4, 370.
+
+### Kleinwenden
 
 Kleinwenden bei Nordhausen, Regierungsbezirk Erfurt, Preussen.
 
@@ -3354,6 +3386,8 @@ Die 42,34% bestehn aus:
 
 Literatur: Rammelsberg Poggend. Ann. 62, 449.
 
+### Werchne Tschirskaja Stanitza
+
 Werchne Tschirskaja Stanitza am Don im Lande der donischen Kosacken, Russland.
 
 1843, Oct. 30. a. St. Nov. 12. n. St. um Mittag.
@@ -3367,6 +3401,8 @@ Die dünne Rinde ist schwarz, matt, chagrinartig, Glas ritzend, spröde und an e
 Das Innere ist trachytartig, groberdig, hellgrau, matt, mehr glashart, von feinen Adern durchzogen, die von einer schwärzlichen Masse gebildet werden. Ausser Eisen und Schwefeleisen (mit Salzsäure entwickelt sich Schwefelwasserstoff) enthält die Masse kaum wahrnehmbare unregelmässige Körner, ähnlich Orthoklas und glänzende schwärzliche Kügelchen von Stecknadelkopfgrösse, die vom Magnet angezogen werden.
 
 Literatur: Eichwald Erman Arch. 5, 181. Borissiac Bull. Ac. Petersb. 5, 196.
+
+### Killeter
 
 Killeter bei Castlederg, County Tyrone, Ireland.
 
@@ -3403,6 +3439,8 @@ Konnte durch einen Zufall nicht analysirt werden.
 
 Literatur: Poggend. Ann. 113, 1861, 508.
 
+### Favars
+
 Weiler Favars, Canton Laissac, 28 Kilom. östlich von Rhodez, Dep. Aveyron, Frankreich.
 
 1844, Oct. 21, zwischen 6 1/2 und 7 Uhr Morgens.
@@ -3415,6 +3453,8 @@ Ueber den Stein ist sonst nichts bekannt geworden; doch soll in Boisse Recherche
 
 Literatur: l’Instit. 1844, No. 570.
 
+### Monte Milone
+
 Dorf Monte Milone, am Fluss Potenza, 8 ital. Meil. von Macerata, Mark Ancona, Italien.
 
 1846, Mai 8, 9 1/4 Uhr Vormittags.
@@ -3424,6 +3464,8 @@ Ohne dass eine Feuerkugel bemerkt wurde, fielen nach heftiger Detonation wie es 
 Die Rinde ist schwarz, das Innere feinkörnig und halb krystallinisch, aschgrau, fast weisslich, mit kleinen metallischen Punkten und Adern. Das Ganze hat Aehnlichkeit mit den Steinen von Kleinwenden (1843).
 
 Literatur: l’Instit. 1846, Oct. 7, No. 666.
+
+### Schönenberg
 
 Schönenberg im Mindelthal, Prov. Schwaben, Bayern.
 
@@ -3440,6 +3482,8 @@ Die Annahme Schafhäutls, der Stein sei weich niedergefallen, weil er Eindrücke
 Solange der Stein von Schönenberg nicht genauer untersucht, durchschnitten und analysirt wird, ist es ein für die Wissenschaft nur entdeckter, nicht gehobener Schatz.
 
 Literatur: Schafhäutl Münchn. Gel. Anz. 24, 1847. 564.
+
+### Linn County
 
 Linn County (Hartford), Iowa, Nord-Amerika.
 
@@ -3471,6 +3515,8 @@ An einem Stein von etwa 10 K., der vor dem Auffinden lange im Boden gelegen hatt
 
 Literatur: Sillim. Amer. Journ. (2) 4, 288. 429. (2) 6, 251. 280. (2) 11, 38. (2) 15, 6. Poggend. Ann. 111, 368.
 
+### Dharwar
+
 Dharwar, Dorf Negloor einige engl. Meilen von der Vereinigung der Flüsse Wurda und Toombooda, Ostindien.
 
 1848, Febr. 15, 1 Uhr Mittags.
@@ -3491,6 +3537,8 @@ Schwefel 2,5
 
 Literatur: Edinb. N. Phil. Journ. 1849, Juli, No. 93. 47, p. 53.
 
+### Castine
+
 Castine, Maine, Nord-Amerika.
 
 1848, Mai 20, 4 1/4 Uhr Morgens.
@@ -3509,11 +3557,15 @@ Die erdigen Bestandtheile hält Smerarn für Howardit, ein Trisilikat von Magnes
 
 Literatur: Shepard Sillim. Amer. Journ. (2) 6, 281.
 
+### Marmande
+
 Marmande, Dep. Aveyron, Frankreich.
 
 1848, Juli 4.
 
 Weder über das Ereigniss, noch über die Steine, die reich gefallen sein sollen, ist das Geringste bekannt geworden. Bruchstücke sind im britischen Museum (6,37 Gr.) und bei Greg.
+
+### Schie
 
 Schie, Amt Akershuus, Norwegen (der Name Dalsplads ist ganz falsch; der Finder des Steins hiess Ole Brynoldsen Dalsplads).
 
@@ -3559,6 +3611,8 @@ Die Abwesenheit von C, P, As und FeS2 wurde nachgewiesen.
 
 Literatur: Ditten Journ. pract. Chem. 64, 122. Poggend. Ann. 96, 341.
 
+### Cabarras County
+
 Cabarras County, unweit Charlottetown, Nord-Carolina, Nord-Amerika.
 
 1849, Oct. 31.
@@ -3577,6 +3631,8 @@ SiO3. FeO. MgO. Al2O3. CaO. {Fe. Ni. Cr.} FeS. {K. Na. Verl.}
 Am verwandtesten scheint der Stein mit Tabor zu sein.
 
 Literatur: Sillim. Amer. Journ. (2) 9, 143. 10, 127.
+
+### Shalka
 
 Shalka in Bancoorah (Sulker bei Bissempore), Bengalen, Ostindien.
 
@@ -3602,6 +3658,8 @@ Haidinger schlägt für das eigenthümliche Mineral, das die Hauptmasse des Stei
 
 Literatur: Haidinger Wien. Akad. Ber. 41, 251.
 
+### Gütersloh
+
 Gütersloh bei Minden in Westphalen, Preussen.
 
 1851, April 17, 8 Uhr Abends.
@@ -3611,6 +3669,8 @@ Eine sehr helle Feuerkugel mit ebensolchem Schweif zog von O. nach SW. und zerst
 Die Rinde ist schwarz und glanzlos; die eine Seite des Steins ist etwas rundlich und fast glatt, die anderen Flächen haben rundliche Vertiefungen. Auf dem Bruch ist der Stein licht graulichweiss und aschgrau; beide Farben sind scharf getrennt. Die ganze Masse ist matt mit kleinen kugeligen Partien; Eisen tritt in sehr feinen Körnern, aber auch bis zu Stecknadelkopfgrösse auf.
 
 Literatur: Dove u. G. Rose Poggend. Ann. 83, 465. 87, 500.
+
+### Nulles und Vilabella
 
 Zwischen Nulles und Vilabella, 16 Lieues SW. von Barcelona, 4 Lieues von Tarragona in Catalonien, Spanien.
 
@@ -3651,6 +3711,8 @@ Balcells will auch Spuren von Arsen gefunden haben.
 
 Literatur: Barceııs Lithologia meteorica. Barcellona 1854. Die Abb. sind schlecht, der Text ein Auszug hauptsächlich aus Chladni, das Ganze nicht wissenschaftlich. Greg Phil. Mag. Suppl. Jan. 1863.
 
+### Yatoor
+
 Yatoor bei Nellore, Ostindien.
 
 1852, Jan. 23, 4 1/2 Uhr Nachmittags.
@@ -3660,6 +3722,8 @@ Durch die Detonation aufgeschreckt waren Mehre Augenzeugen des Falles. Ein Stüc
 Die Rinde ist schwarz, der Stein weiss. Genaueres wurde noch nicht darüber bekannt.
 
 Literatur: Haidinger Wien. Akad. Ber. 44, 73.
+
+### Mezö-Madaras
 
 Mezö-Madaras (Weiler Fekete und Teich Istento), Siebenbürgen.
 
@@ -3681,7 +3745,9 @@ Chromoxyd wurde nicht gewogen.
 
 Literatur: Partsch (Knöpfler) Wien. Akad. Ber. 11, 674. Wöhler ebd. 17, 284.
 
-Borküt an der schwarzen Theiss, Marmaroscher Comitat, Ungarn.
+### Borkut
+
+Borkut an der schwarzen Theiss, Marmaroscher Comitat, Ungarn.
 
 1852, October 13, 3 Uhr Nachmittags.
 
@@ -3712,6 +3778,8 @@ Leydolt berechnet daraus für 2. 0,82 Einfachschwefeleisen, 13,09 Nickeleisen un
 
 Literatur: Leydolt Wien. Akad. Ber. 20, 398. (m. Abb.)
 
+### Busti, Goruckpore
+
 Busti, Goruckpore, Ostindien.
 
 1852, December 2.
@@ -3719,6 +3787,8 @@ Busti, Goruckpore, Ostindien.
 Entweder ein neu bekannt gewordener Meteoritenfall oder eine Verwechselung mit einem anderen durch unrichtiges Datum. Er soll ein neues Mineral, ein Mehrfachschwefelcalcium enthalten, welches Oldhamit genannt wurde. Die Bestätigung ist abzuwarten. Ein Stück scheint in London zu sein.
 
 Gedruckt wurde dieses Falles noch nirgends Erwähnung gethan.
+
+### Girgenti
 
 Girgenti, Sicilien.
 
@@ -3729,6 +3799,8 @@ Der Stein wog 3-4 K. Die Hauptmasse in der Grösse einer Mannsfaust ist im Besit
 Es ist ein dichter, feinkörniger Stein, der sehr feine silberweisse Eisentheilchen enthält.
 
 Literatur: Gemmellaro soll in einem sicilischen wissenschaftlichen Journal den Stein beschrieben haben. Greg Phil. Mag. Suppl. Jan. 1863.
+
+### Segowlee
 
 Segowlee (auch Soojoulee), Bengalen, Ostindien.
 
@@ -3745,6 +3817,8 @@ Die Rinde ist sehr dünn, dunkelröthlichbraun, grösstentheils matt, nur stelle
 Der Stein im britischen Museum, der von Segowlee sein soll, ist weiss und dem von Bishopville (1843) sehr ähnlich.
 
 Literatur: Haidinger Wien. Akad. Ber. 41, 1860, 754. Daselbst auch die Abbildung eines Steins mit Betrachtungen über die Richtung des Falles.
+
+### Turuma
 
 Turuma (Duruma), Wanikaland, nach dem Münchener Katalog etwa zwei Tagreisen westlich von Mombas in Ostafrika.
 
