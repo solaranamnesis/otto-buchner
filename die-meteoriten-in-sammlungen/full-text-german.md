@@ -1066,6 +1066,8 @@ Fe. Ni. Fe2O3. CaO. SiO3. S u. Verl.
 
 Literatur: Imhof Gilb. Ann. 15, 316. 18, 328.
 
+### Sena
+
 Dorf Sena, Bezirk Sigena, Aragonien, Spanien. 1773, Nov. 17, um Mittag.
 
 Ein Stein von etwa 4 1/2 K. fiel unter den gewöhnlichen Umständen und wurde noch heiss gefunden. Die Hauptmasse befand sich im k. Naturaliencabinet zu Madrid, wo sie aber jetzt nicht mehr vorhanden sein soll. Ausserdem sind Bruchstücke in Paris (Mus. Hist. nat. 58 Gr.), Wien (3,828 Gr.) und in v. Reichenbachs Sammlung.
@@ -1092,6 +1094,8 @@ FeO. SiO3. MgO. CaO, MnO. Fe-Ni. S. Sa.
 
 Literatur: Proust Journ. de Phys. 60, 185. Gilb. Ann. 24, 261. Chladni Feuermet. 253. Partsch 76.
 
+### Eichstädt
+
 Eichstädt (im Wittmess, einer Waldgegend etwa 2 St. v. Eichstädt). 1785, Febr. 19, nach 12 Uhr Mittags.
 
 Ein Bauerknecht, durch das Getöse aufmerksam gemacht, beobachtete den Fall des Steins, der heiss war und den Schnee schmolz. Er wog fast 3 K. und hatte ungefähr 1 Fuss Durchm.; doch scheinen noch mehre gefallen zu sein. München besitzt 3 St. (611,25 Gr.). Kleinere Stücke sind in Zürich (293 Gr.), Wien (2 St. 127,97 Gr.), Göttingen (25,87 Gr.), Berlin (15,993 Gr.), London (2,275 Gr.), und bei v. Reichenbach.
@@ -1111,6 +1115,8 @@ SiO3. MgO. Fe2O3. Fe. Ni. S. u. Verl.
 37,0. 21,50. 16,50. 19. 1,50. 4,50.
 
 Literatur: Klaproth Beiträge 6, 296. Gilb. Ann. 13, 338. Partsch Meteoriten 78.
+
+### Charkow
 
 Gouvernement Charkow. (Auf einem Felde der Slobode Jigalowka, 10 Werst von dem Dorf Bobrik im Sumschen Kreis. Auch bei Lebedin sollen Steine gefallen sein.) 1787, Oct. 1. a. St. Oct. 13. n. St. 3 Uhr Nachmittag.
 
