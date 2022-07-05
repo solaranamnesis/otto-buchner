@@ -22,6 +22,8 @@ Das Recht der Uebersetzung in die englische und französische Sprache hat sich d
 
 #### Gewidmet.
 
+***
+
 #### [Vorrede](#vorrede)
 
 #### [I. Oeffentliche Sammlungen](#i-oeffentliche-sammlungen)
@@ -38,23 +40,25 @@ Das Recht der Uebersetzung in die englische und französische Sprache hat sich d
 
 #### [I. Steinmeteoriten deren fallzeit bekannt ist](#i-steinmeteoriten-deren-fallzeit-bekannt-ist)
 
-#### [Ensisheim](#ensisheim)
+##### [Ensisheim](#ensisheim)
 
-#### [Vago](#vago)
+##### [Vago](#vago)
 
-#### [Schellin](#schellin)
+##### [Schellin](#schellin)
 
-#### [Plescowitz und Liboschitz](#plescowitz-und-liboschitz)
+##### [Plescowitz und Liboschitz](#plescowitz-und-liboschitz)
 
-#### [Tabor](#tabor)
+##### [Tabor](#tabor)
 
-#### [Luponnas](#luponnas)
+##### [Luponnas](#luponnas)
 
-#### [Alboreto](#alboreto)
+##### [Alboreto](#alboreto)
 
-#### [Luce](#luce)
+##### [Luce](#luce)
 
-#### [Mauerkirchen](#mauerkirchen)
+##### [Mauerkirchen](#mauerkirchen)
+
+***
 
 ## Vorrede.
 
