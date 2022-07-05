@@ -58,6 +58,36 @@ Das Recht der Uebersetzung in die englische und französische Sprache hat sich d
 
 ##### [Mauerkirchen](#mauerkirchen-1)
 
+##### [Sena](#sena-1)
+
+##### [Eichstädt](#eichstädt-1)
+
+##### [Charkow](#charkow-1)
+
+##### [Barbotan](#barbotan-1)
+
+##### [Wold Cottage](#wold-cottage-1)
+
+##### [Belaja-Zerkwa](#belaja-zerkwa-1)
+
+##### [Sales](#sales-1)
+
+##### [Benares](#benares-1)
+
+##### [l’Aigle](#laigle-1)
+
+##### [Saurette](#saurette-1)
+
+##### [Mässing](#mässing-1)
+
+##### [High-Possil](#high-possil-1)
+
+##### [Doroninsk](#doroninsk-1)
+
+##### [Constantinopel](#constantinopel-1)
+
+##### [Asco](#asco-1)
+
 ***
 
 ## Vorrede.
