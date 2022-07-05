@@ -2152,6 +2152,8 @@ SiO3. MgO. Al2O3. FeO. MnO. Cr2O3.
 
 Literatur: Gilb. Ann. 63, 217. 451. 68, 336. Eine Zusammenstellung des Geschichtlichen, namentlich auch der Protokolle und Zeugenaussagen findet sich im 3. Jahresber. der Gesellsch. von Freunden der Naturwiss. in Gera. 1860.
 
+### Lixna
+
 Gut Lixna (Liksen nach Eichwald), bei dem Dorf Lasdany (Forst Lasdany), 1 1/2 Meil. von Dünaburg, Gouv. Witebsk, Russland.
 
 1820, Juli 12. n. St., zwischen 5 und 6 Uhr Abends.
@@ -2180,6 +2182,8 @@ SiO3. Fe. MgO. S. Ni. Cr. CaO. Mn,Cu. FeO. Al2O3.
 Nach I. lässt sich 1/4, mit dem Magnet ausziehen. Grortnuss hält die helleren nicht magnetischen Körner für Anorthit oder Labrador, die gelblichbraunen für Olivin oder Granat, und die schwarzen, die viel grösser und seltner sind, für Augit. Unter den metallischen Körnern sind sehr kleine körnige Krystalle von Magnetkies, und dicht gedrängte und stark glänzende Körner von Nickeleisen, welches auch in dünnen Blättchen gleichsam als Skelet auftritt.
 
 Literatur: Gilb. Ann. 67, 337. (Abb.) Laugier Bull. Soc. Phil. 1823, Juni. Gilb. Ann. 75, 264. Eichwald u. Grothuss in Erman Arch. 5, 179. Poggend. Ann. 85, 574.
+
+### Juvinas
 
 Juvinas (weniger richtig Juvenas) bei Libonnez, Dep. de l’Ardeche, Languedoc, Frankreich.
 
@@ -2221,6 +2225,8 @@ Kupfer fand Rammelsberg nicht; Nickel wurde bei keiner Analyse gefunden. Dagegen
 
 Literatur: Vaquelin Gilb. Ann. 71, 202. Laugier ebd. 71, 208. G. Rose Poggend. Ann. 4, 174. Rammelsberg ebd. 73. 585. Wöhler Ann. Chem. Pharm. Nov. 1861, 253.
 
+### Angers
+
 Angers, Dep. Maine et Loire, Frankreich.
 
 1822, Juni 3, nach 8 Uhr Abends.
@@ -2230,6 +2236,8 @@ Aus einer Feuerkugel, die in NNW. erschien und heftig detonirte, fielen wahrsche
 Ueber die Beschaffenheit des unregelmässig eckigen Steins, der seiner Hauptmasse nach in Paris (77 Gr.) und ausserdem vielleicht nur in v. Reichenbach’s Sammlung vertreten ist, wurde nur sehr wenig bekannt. Die Rinde ist gleichförmig braunschwarz und zeigt an einer Stelle eine Blase. Das Innere ist den Steinen von l’Aigle ähnlich und ein Gemenge eines weissen und eines röthlichen Bestandtheils.
 
 Literatur: Gilb. Ann. 71, 345. 361.
+
+### Epinal
 
 Epinal, Gemeinde la Baffe, Dep. des Vosges, Frankreich.
 
@@ -2249,6 +2257,8 @@ SiO3. Fe2O3. Fe. S. Cr2O3. NiO. MsO. CaO, KO. Sa.
 35. 31,37. 22. 2,25. 0,25. 0,50. 4,25. 1,25. 96,82.
 
 Literatur: Gilb. Ann. 72, 323. 75, 231. 258.
+
+### Futtehpore
 
 Futtehpore, Orte Rourpore, 72 engl. Meil. NO. von Allahabad, Bittoor (Bithur) und Shahpore (Shapur), 75 engl. Meil. NW. von Allahabad, Ostindien.
 
@@ -2274,8 +2284,9 @@ Literatur: Shepard Sillim. Amer. Journ. 2. 11, 367. Haidinger Wien. Acad. Ber. 4
 
 Es ist möglich, dass noch ein zweiter Steinfall in demselben Jahr 1822 am 7. August Nachts zu Kadonah, Agra stattfand. Ein grösserer Theil des Steins oder einer der Steine war in der Royal Institution in London 1853 oder 1854 ausgestellt, wird aber jetzt vermisst. Ein Theil desselben ist jetzt wahrscheinlich im britischen Museum und ganz verschieden von dem Futtehporesteine. Nevill soll vor Jahren auch ein Stück davon, aber mit dem Datum 30. Nov. gehabt haben und Lettom in London hatte ein ähnliches Stück, aber mit dem Datum 7. August.
 
+### Nobleborough
 
-Nobleborough (Nobleboro’) Maine, Nord-Amerika.
+Nobleborough (Nobleboro') Maine, Nord-Amerika.
 
 1823, August 7, zwischen 4 und 5 Uhr Nachmittags.
 
@@ -2296,6 +2307,8 @@ SiO3. Al2O3. CaO. MgO. Fe. Ni. S. Cr.
 Diese Analyse ist jedenfalls nur höchst zweifelhaft richtig, denn der Schwefel- und Chromgehalt ist gewiss, und der Gehalt an Eisen und Nickel wahrscheinlich auch zu hoch angegeben. Shepard fand weder Nickeleisen noch Magnetkies.
 
 Literatur: Poggend. Ann. 2, 153. Ergb. 4, 23. Sillim. Am. Journ. 2. 6, 407.
+
+### Renazzo
 
 Renazzo (Arenazzo), nördlich von Cento, Prov. Ferrara, Italien.
 
@@ -2320,6 +2333,8 @@ Um das Eisenoxyd als Eisen in Rechnung zu bringen, zieht er 9,2 Sauerstoff ab un
 
 Literatur: Poggend. Ann. 18, 181. Laugier u. Cordier Ann. de Chim. 24, 132. Poggend. Ann. Ergb. 4, 23. v. Reichenbach ebd. 111, 370.
 
+### Tounkin
+
 Festung Tounkin, 210 Werst von Irkutsk, Sibirien; Tunga (bei v. Reichenbach), Russland.
 
 1824, Febr. 18, 7 Uhr Abends.
@@ -2329,6 +2344,8 @@ Nach der gewöhnlichen Detonation fiel ein Stein von 2 1/2 K., der noch sehr hei
 Er ist aussen schwarz, innen hellgrau ; auf dem ganzen Stein erkennt man stahlfarbene Punkte und Adern.
 
 Literatur: Poggend. Ann. 24, 224. EıchwaLp führt diesen russischen Fall nicht in Erm. Arch. 5 an.
+
+### Zebrak
 
 Zebrak, Prascoles bei Horzowitz, Berauner Kreis, Böhmen.
 
@@ -2351,6 +2368,8 @@ Nach v. Martius besteht der Stein aus:
 
 Literatur: Poggend. Ann. 6, 28. Karstner Arch. f. d. gesammte Naturlehre 5, 418.
 
+### Oriang
+
 Lager Oriang in Malwate, im westlichen Theil von Ostindien.
 
 1825, Jan. 16, Abends.
@@ -2360,6 +2379,8 @@ Eine grosse Feuerkugel soll eine Strecke weit auf der Erde hingerollt und dann z
 Bruchstücke scheinen nicht nach Europa gekommen zu sein; in Calcutta sind auch keine. Auch wurde nichts Genaueres über die Steine selbst bekannt.
 
 Literatur: Asiat. Journ. 1825, 486. Poggend. Ann. 6, 32.
+
+### Nanjemoy
 
 Nanjemoy, Maryland, Nord-Amerika.
 
@@ -2387,6 +2408,8 @@ Nach Shepard ist die Hauptmasse Howardit; mit dem Mikroskop erkennt man etwa 15%
 
 Literatur: Ann. de Chim. 30, 422. Sillim. Amer. Journ. 9, 351. 10, 131. 2. 6, 406. Poggend. Ann. 8, 47. 18, 184.
 
+### Honolulu
+
 Honolulu auf Owahu (O’Wahu, Wahu, Woahoo), Sandwichinseln, Australien.
 
 1825, Sept. 14, zwischen 10 und 11 Uhr Morgens.
@@ -2401,6 +2424,8 @@ Die graulichweisse Grundmasse, die sich mit dem Messer ritzen lässt, ist durch 
 
 Literatur: E. Hoffmann Geogn. Beobachtungen gesammelt auf einer Reise um die Welt in O. v. Kotzedue’s 2. Reise um die Welt. Weimar 1830. 2 B. Pogg. Ann. 18, 184, 624. 24, 225. Sill. Am. Journ. 49, 407. G. Rose Reise Ural I, 32.
 
+### Mhow
+
 Mhow, Ghazeepore, District Azim-Gesch (Azim-Gur), NO. von Benares, Ostindien.
 
 1827, Febr. 16, 3 Uhr Nachmittags.
@@ -2412,6 +2437,8 @@ Specifisches Gewicht: 3,5.
 Lichtgraue Grundmasse mit dunkelgrauen kugeligen Einschlüssen, ziemlich viel eingesprengtem Eisen und Magnetkies. — Die Steine sind denen von Parnallee und Dhurmsala zum Verwechseln ähnlich.
 
 Literatur: Poggend. Ann. 24, 226.
+
+### Drake Creek
 
 Drake Creek, 18 engl. Meil. von Nashville, Sumner Cty, Tennessee, Nord-Amerika.
 
@@ -2453,6 +2480,8 @@ Nach v. Baumhauer ist der durch Säure zersetzbare Theil Olivin. Das nicht Zerse
 
 Literatur: Seybert Sillim. Am. Journ. 17, 326. 18, 200. Poggend. Ann. 24, 227. v. Baumhauer ebd. 66, 498.
 
+### Bialistock
+
 Gouvernement Bialistock bei dem Dorfe Knasti (nach Eichwald Knasta), früher Polen, jetzt Russland.
 
 1827, Oct. 5 (oder 8), a. St., 17. n. St., zwischen 9 und 10 Uhr Morgens.
@@ -2464,6 +2493,8 @@ Specifisches Gewicht; 3,1756 Rumler.
 Das grosse Stück in der Sammlung der Akademie zu Petersburg lässt nach BLöpe auf einen 4—5 Zoll hohen Stein schliessen; die Rinde ist schwarz, glänzend, wulstig und porös. Die graulich weisse, zerreibliche Grundmasse enthält ziemlich häufig kleinere und grössere Körner von klarem bernsteingelbem bis grünem Olivin, hier und da einzelne weisse feldspathähnliche Körner oder deutlichere Flecken (nach G. Rose vielleicht Anorthit), sowie einzelne grössere Körner und rundliche Partien einer grauschwarzen Beimischung, wodurch das Ganze ein breccienartiges Aussehen erhält. Schwefeleisen ist nur in sehr geringer Menge und fein eingesprengt; Nickeleisen fehlt wahrscheinlich. Die Masse ist sehr ähnlich Luotolaks.
 
 Literatur: Blöde Bull. Acad. Petersb. T. 6, 1848, No. 1. G. Rose Reise Ural 1, 77. Eichwald Erman Arch. 5, 179.
+
+### Richmond
 
 Richmond (7 engl. Meil. westl. davon), Chesterfield County, Virginia, Nord-Amerika.
 
@@ -2490,6 +2521,8 @@ Fe. Ni.
 93,9. 6,1.
 
 Literatur: Sillim. Amer. Journ: 15, 195. 16, 191. 42, 102. (2) 6, 411.
+
+### Forsyth
 
 Forsyth, Georgia, Nord-Amerika.
 
@@ -2523,6 +2556,8 @@ Apatit. Spur.
 
 Literatur: Shepard Sillim. Amer. Journ. 18, 388. (2) 6, 406.
 
+### Deal
+
 Deal, bei Long-Branch, New-Yersey, Nord-Amerika.
 
 1829, August 14, gegen Mitternacht.
@@ -2530,6 +2565,8 @@ Deal, bei Long-Branch, New-Yersey, Nord-Amerika.
 Aus einem leuchtenden Meteor fielen unter Funkensprühen und Detonation mehre Steine, die äusserlich uneben und schwarz, innen lichtgrau und voll von metallisch glänzenden Körnern waren. Bruchstücke finden sich wohl nur in einigen amerikanischen Sammlungen, besonders in der von Shepard.
 
 Literatur: Poggend. Ann. 24, 228.
+
+### Krasnoy-Ugol
 
 Krasnoy-Ugol, Gouv. Räsan (Rjäsan), Russland.
 
@@ -2545,6 +2582,8 @@ Nach der Untersuchung von KuprrEr und Hesse soll der Stein nichts von anderen Ab
 
 Literatur: Eichwald Erman Arch. 5, 179. G. Rose Reise Ural 1, 76. Poggend. Ann. 24, 228. 54, 291.
 
+### Launton
+
 Launton bei Bicester, Oxfordshire, England.
 
 1830, Febr. 15, 7 1/2 Uhr Morgens.
@@ -2559,11 +2598,15 @@ Turner konnte in einem sehr kleinen untersuchten Stückchen Chrom und Nickel nic
 
 Literatur: Poggend. Ann. 54, 291. Thomson Meteorology 1849, 326.
 
+### North Inch of Perth
+
 North Inch of Perth, Schottland.
 
 1830, Mai 17, 12 1/2 Uhr Nachmittags.
 
 Diese neue und seltene Localität findet sich im britischen Museum in London und stammt aus Dr. Thomsons Sammlung von einem 7 Zoll langen Stein; er ist geschnitten und polirt: Maskelyne beschrieb ihn bei der Versammlung der British-Association 1862 und zeigte mikroskopische Schnitte vor. Gedruckt ist aber noch nichts über denselben.
+
+### Vouille
 
 Vouille bei Poitiers, Dep. de la Vienne, Frankreich.
 
@@ -2578,6 +2621,8 @@ Die Rinde ist schwachschimmernd, fast matt.
 Die graue Grundmasse ist durch undeutliche kugelige, fest mit derselben verwachsene Einschlüsse schwach gefleckt und enthält zum Theil auch Rostflecken. Eisen ist ziemlich reichlich theils fein, theils grob, Magnetkies sehr fein eingesprengt.
 
 Literatur: Ann. de Chim. 4834, Aug. 442; Nov. Poggend. Ann. 34, 341.
+
+### Wessely
 
 Wessely, Dorf Znorow, Hradischer Kreis, Mähren.
 
@@ -2603,11 +2648,15 @@ v. Reichenbach hat diese durchaus unbrauchbaren Analysen nicht zu ungünstig beu
 
 Literatur: v. Schreibers und v. Holger Baumgartner Zeitschr. f. Phys. 1, 1832, 193. v. Reichenbach Poggend. Ann. 107, 359.
 
+### Umballa
+
 Umballa, Ostindien.
 
 1832 oder 1833.
 
 In London ist ein Stein oder Steinfragment unter diesem Namen eingetragen, doch ist nichts über denselben bekannt.
+
+### Curvello
 
 Curvello, Provinz Minas Geraes, Brasilien.
 
@@ -2618,6 +2667,8 @@ Ein Feuermeteor von scheinbarer Mondgrösse bewegte sich von SSW. nach NNO. und 
 Nach Claussen könnte die Masse für einen Eisenmeteoriten gehalten werden, doch ist wahrscheinlicher, dass es ein eisenhaltiger Steinmeteorit ist.
 
 Literatur: Claussen Bull. Acad. de Bruxelles 8, No. 5.
+
+### Blansko
 
 Blansko, Brünner Kreis, Mähren.
 
@@ -2666,6 +2717,8 @@ Augit|31,36.
 
 Literatur: Jahresber. Schles. Gesellsch. 1834, 10. Berzelius Poggend. Ann. 33, 20. 34, 343. Rammelsberg Handwörterbuch Suppl. 5, 17.
 
+### Okaninach
+
 Dorf Okaninach (Okniny), Kremenetzkischer Kreis, Gouv. Volhynien, Russland.
 
 1833, Dec. 27 (a. St.), Morgens zwischen 9 und 10 Uhr.
@@ -2675,6 +2728,8 @@ Unter den gewöhnlichen Umständen fiel ein Stein von etwa 15 K. nieder. In den 
 Die Rinde ist glänzend braunschwarz, mit Vertiefungen und dendritenartigen Zeichnungen; der Bruch ist splitterig und aschgrau, an einigen Stellen auch strahlig. Die Grundmasse: zeigte kleine eingesprengte Schwefelkieskrystalle (?), Körner gediegenen Eisens und wie es Wtoschetzkii schien, auch Nickelkrystalle (?). Nach v. Reichenbach sind die Einschlüsse in einer fast marmorartig geflossenen Grundmasse.
 
 Literatur: Schriften der k. russ. Gesell. f. gesammt. Min. 1842, p. LXXII. Eichwald führt in seinem Verzeichniss russischer Meteoriten (Erman Arch. 5, 176) diese Localität nicht an.
+
+### Charvallas
 
 Charvallas bei Hissar, 40 engl. Meil. von Delhi, Ostindien.
 
@@ -2690,6 +2745,8 @@ Er enthält 15,07%, Nickeleisen mit Spuren von Schwefel. Der steinige Theil best
 
 Literatur: Sillim. Amer. Journ. (2) 11, No. 31.
 
+### Aldsworth
+
 Aldsworth, Cirencester, England.
 
 1835, August 4, 4 1/2 Uhr Nachmittags.
@@ -2702,12 +2759,13 @@ Der Stein enthält viel Eisen, ist aber nicht magnetisch. Ueber weitere Eigensch
 
 Literatur: Report Brit. Assoc. 1857, 140.
 
+### Macao
+
 Macao, nahe am Ausfluss des Rio Assu ins Meer, Provinz Rio grande do Norte, Brasilien.
 
 1836, Nov. 11, 5 Uhr Morgens (nicht 11. Dec. 11 1/2 Uhr Nachts).
 
 Es wurde ein Feuermeteor von ausserordentlichem Glanz »so gross wie ein grosser Luftballon« gesehen; nach heftiger Detonation fiel eine ungeheure Menge von Steinen von 1/2-40 K., doch meist von der Grösse von Taubeneiern. Sie verbreiteten sich über eine Fläche von mehr als 10 Leguas, die grösste Menge aber fiel an der Mündung des Flusses. Es sollen viele Ochsen durch sie getödtet und einige verletzt worden sein. Trotz des reichen Schauers finden sich Steine und Bruchstücke nur in wenigen Sammlungen, besonders in Wien (605,951 Gr.), Berlin (41,483 Gr.), Göttingen (10,75 Gr.), Paris, Mus. Hist. nat. (9 Gr.), Petersburg, Akad. d. Wiss. (6,24 Gr.), Madrid, Utrecht, und in den Privatsarımlungen von Shepard, v. Reichenbach, Greg (6,3 Gr.).
-
 
 Specifisches Gewicht:  
 3,74 Rumler,  
@@ -2721,6 +2779,8 @@ Die Akademie in Paris übertrug Berraier die Analyse, doch ist sie noch nicht ge
 
 Literatur: Sillim. Amer. Journ. 34, 209. Poggend. Ann. 42, 592.
 
+### Gross-Divina
+
 Zwischen Gross-Divina und Budetin, Trentschiner Comitat, Ungarn.
 
 1837, Juli 24, 11 1/2 Uhr Vormittags.
@@ -2733,9 +2793,9 @@ Die Ueberrindung des Steins ist höchst merkwürdig durch ihre Verschiedenheit a
 
 Die graue rostfleckige Grundmasse enthält eine grosse Menge kleiner dunkelgrauer kugeliger Einschlüsse, die auf Bruchflächen theilweise hervorragen. Eisen ist ziemlich reichlich und fein, Schwefeleisen höchst fein eingesprengt.
 
-Literatur: Zipser Jahrb. Mineralogie 1840, 89. Haidinger Wien. Akad.
-Ber. 40, 1860, 525. (4 Abb.). Die Gestalt findet auch durch Partsch genaue Be-
-schreibung in Sadler A Kiralyi magyar termeszettudomanyi tarsulat evkonyvei 1, 1841-1845. 33.
+Literatur: Zipser Jahrb. Mineralogie 1840, 89. Haidinger Wien. Akad. Ber. 40, 1860, 525. (4 Abb.). Die Gestalt findet auch durch Partsch genaue Beschreibung in Sadler A Kiralyi magyar termeszettudomanyi tarsulat evkonyvei 1, 1841-1845. 33.
+
+### Esnandes
 
 Esnandes (Esnaude weniger richtig), Dep. Charente inferieure, Frankreich.
 
@@ -2747,9 +2807,13 @@ Die feinkörnige lichtaschgraue Grundmasse enthält grünlichweisse Einschlüsse
 
 Literatur: Instit. 1837, No. 220, 334.
 
+### Chandakapoor
+
 Chandakapoor im Thal von Beraar, Ostindien.
 
 1838, Juni 6, 12 Uhr Mittags.
+
+### Akburpoor
 
 Akburpoor, District von Saharunpoor, Ostindien.
 
@@ -2762,6 +2826,8 @@ Chandakapoor hat eine dunkelgraue Grundmasse mit braunen Flecken und gelblichwei
 v. Reichenbach untersuchte verschiedene Einschlüsse mikroskopisch.
 
 Literatur: Poggend. Ann. 111, 369.
+
+### Cold-Bokkeveld
 
 Cold-Bokkeveld, 15 engl. Meil. von Tulbagh, 70 engl. Meil. von der Capstadt, Capland, Südafrika.
 
