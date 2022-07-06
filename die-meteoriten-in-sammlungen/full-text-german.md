@@ -40,7 +40,8 @@ Das Recht der Uebersetzung in die englische und französische Sprache hat sich d
 
 #### [1. Steinmeteoriten deren fallzeit bekannt ist](#1-steinmeteoriten-deren-fallzeit-bekannt-ist-1)
 
-| ...                                 | ...                                         | ...                         |
+|                                                           |                                                                 |                                               |
+|-----------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------|
 | [Ensisheim](#ensisheim-1)                                 | [Manegaon](#manegaon-1)                                         | [Pohlitz](#pohlitz-1)                         |
 | [Vago](#vago-1)                                           | [Kleinwenden](#kleinwenden-1)                                   | [Lixna](#lixna-1)                             |
 | [Schellin](#schellin-1)                                   | [Werchne Tschirskaja Stanitza](#werchne-tschirskaja-stanitza-1) | [Juvinas](#juvinas-1)                         |
@@ -91,6 +92,7 @@ Das Recht der Uebersetzung in die englische und französische Sprache hat sich d
 | [Seres](#seres-1)                                         | [Goruckpur-District](#goruckpur-district-1)                     | [Myhee-Counta](#myhee-counta-1)               |
 | [Slobodka](#slobodka-1)                                   | [Canellas](#canellas-1)                                         | [Bishopville](#bishopville-1)                 |
 | [Jonzac](#jonzac-1)                                       | [Meno](#meno-1)                                                 | [Utrecht](#utrecht-1)                         |
+
 
 
 
