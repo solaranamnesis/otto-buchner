@@ -95,23 +95,11 @@ Das Recht der Uebersetzung in die englische und französische Sprache hat sich d
 
 #### [2. Steinmeteoriten, deren Fallzeit unbekannt ist](#2-steinmeteoriten-deren-fallzeit-unbekannt-ist-1)
 
-[Quivira und Cicuit](#)
-
-[Im Darmstädtischen](#)
-
-[Poltawa](#)
-
-[Kursk](#)
-
-[Simbirsk](#)
-
-[Czartorya](#)
-
-[Assam](#)
-
-[Mainz](#)
-
-[Crawford County](#)
+|                                           |                         |                                     |
+|-------------------------------------------|-------------------------|-------------------------------------|
+| [Quivira und Cicuit](#quivira-und-cicuit) | [Kursk](#kursk)         | [Assam](#assam)                     |
+| [Im Darmstädtischen](#im-darmstädtischen) | [Simbirsk](#simbirsk)   | [Mainz](#mainz)                     |
+| [Poltawa](#poltawa)                       | [Czartorya](#czartorya) | [Crawford County](#crawford-county) |
 
 #### [3. Uebergangsstufe von den Stein- zu den Eisenmeteoriten.](#3-uebergangsstufe-von-den-stein--zu-den-eisenmeteoriten-1)
 
