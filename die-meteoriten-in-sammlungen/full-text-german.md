@@ -1561,13 +1561,13 @@ Specifisches Gewicht:
 1,94 Biot,  
 1,7025 Rumler.
 
-Ganz eigenthümlicher Stein, ähnlich einer erdigen Kohle. Die Rinde ist bräunlichschwarz, matt, das Innere ist ebenso gefärbt, schr weich und zerreiblich, daher in den Sammlungen als Bröckchen oder Pulver; beim Reiben nehmen sie Harzglanz an. In Wasser zerfällt die Masse zu einem graugrünen Brei mit Thongeruch; an der Luft bedeckt sie sich mit weissen Salzausblühungen (nach Berzelius MgOSO3 und NiOSO3). Auch mit der Lupe lassen sich weder kugelige Einschlüsse, noch Eisenkörnchen, und nur schwer und selten Körnchen von gelbem Schwefeleisen unterscheiden. Doch verrathen die starken Rostflecken die Gegenwart von Eisen. Am Feuer verbreitet die Masse schwachen Bitumengeruch; vor dem Löthrohr ist sie schwer schmelzbar. Bei abgehaltener Luft erhitzt verliert sie nach Thenard 17%, dabei CO2.
+Ganz eigenthümlicher Stein, ähnlich einer erdigen Kohle. Die Rinde ist bräunlichschwarz, matt, das Innere ist ebenso gefärbt, schr weich und zerreiblich, daher in den Sammlungen als Bröckchen oder Pulver; beim Reiben nehmen sie Harzglanz an. In Wasser zerfällt die Masse zu einem graugrünen Brei mit Thongeruch; an der Luft bedeckt sie sich mit weissen Salzausblühungen (nach Berzelius MgOSO₃ und NiOSO₃). Auch mit der Lupe lassen sich weder kugelige Einschlüsse, noch Eisenkörnchen, und nur schwer und selten Körnchen von gelbem Schwefeleisen unterscheiden. Doch verrathen die starken Rostflecken die Gegenwart von Eisen. Am Feuer verbreitet die Masse schwachen Bitumengeruch; vor dem Löthrohr ist sie schwer schmelzbar. Bei abgehaltener Luft erhitzt verliert sie nach Thenard 17%, dabei CO₂.
 
 Die Analysen von Tugnarp, der Commission des Institut de France (Monge, Fourcroy, Berthollet und Vauquelin) und von Berzelius lassen zweifelhaft, ob der Stein ursprünglich Wasser enthielt. Entweder wurde der Verlust als Wasser angenommen oder das von Berzelius nachgewiesene Wasser kann auch hygroskopisch aufgenommen worden sein. Am genauesten ist die letzte Analyse. Nach Berzelius lässt sich die Masse beim Behandeln mit Wasser scheiden in
 
 1\. 13,28% mit dem Magnet Ausziehbares; schwarz, glanzlos; vorzugsweise FeOFe₂O₃, Spuren von Fe und FeS.
 
-2\. 11,59% in Wasser Lösliches (MgOSO3, CaOSO3, NaOSO3, KOSO3); Spuren von Ni, NH3, und einer organischen Substanz. Die meisten dieser Verbindungen bildeten sich vielleicht erst im Laufe der Zeit durch die Einwirkung des oxydirten Schwefeleisens auf die Silikate.
+2\. 11,59% in Wasser Lösliches (MgOSO₃, CaOSO₃, NaOSO₃, KOSO₃); Spuren von Ni, NH₃, und einer organischen Substanz. Die meisten dieser Verbindungen bildeten sich vielleicht erst im Laufe der Zeit durch die Einwirkung des oxydirten Schwefeleisens auf die Silikate.
 
 3\. 75,13%, Hauptmasse. Wird diese der trocknen Destillation unterworfen, so zerfällt sie in:
 
@@ -1577,7 +1577,7 @@ b\. 0,944%, graubraunes Sublimat.
 
 c\. 4,328%, Kohlensäure.
 
-d\. 6,582%, Wasser. Die entweichende SO2 wurde nicht besonders bestimmt.
+d\. 6,582%, Wasser. Die entweichende SO₂ wurde nicht besonders bestimmt.
 
 Hier folgen die Analysen von Thenard I., der Commission II. und Berzeuius III.
 
@@ -2307,7 +2307,7 @@ Sehr sorgfältig und maassgebend für viele darauf folgende Analysen war aber di
 
 SiO₃. Al₂O₃. Fe₂O₃. CaO. MgO. NaO. KO. PO5. FeS.  
 1\. 44,38. 33,73. 3,29. 18,07. 0,36. 1,03. 0,33. 0,54. 0,71.  
-SiO₃. Al₂O₃. FeO. CaO. MgO. NaO. TiO2. FeOCr₂O₃.  
+SiO₃. Al₂O₃. FeO. CaO. MgO. NaO. TiO₂. FeOCr₂O₃.  
 2\. 52,07. 0,24. 30,81. 5,68. 9,98. 0,41. 0,16. 2,13.
 
 Danach bestände der Stein aus etwa  
@@ -2422,7 +2422,7 @@ v. Reichenbach untersuchte mikroskopisch einen der vielen runden oder eirunden E
 
 Nach der Analyse von Laugier besteht der Stein aus:
 
-SiO₃. MgO. F2O3,. NiO. Cr₂O₃. S. Sa.  
+SiO₃. MgO. F2O₃,. NiO. Cr₂O₃. S. Sa.  
 41,75. 16. 43. 1,25. 1,50. 1. 104,5.
 
 Um das Eisenoxyd als Eisen in Rechnung zu bringen, zieht er 9,2 Sauerstoff ab und bekommt so die Sa. 95,3. Nach Cordier ist das weisse Magnesiasilikat (15%) eine neue Mineralart; er fand darin mikroskopisch kleine grüne Krystalle, ähnlich dem Olivin; die metallischen Theilchen (8%) treten auch nur mikroskopisch auf und bestehn aus Eisen, Nickel, Chrom und Schwefel.
@@ -4002,7 +4002,7 @@ Magnetischer Theil: 22,78%, = { Fe. 91,60. | Ni. 8,40.
 
 Nicht magnetischer Theil: 77,22%.
 
-FeS. SiO2. Al₂O₃. FeO. CaO. MgO. NaO. KO.  
+FeS. SiO₂. Al₂O₃. FeO. CaO. MgO. NaO. KO.  
 6,42. 41,80. 3,00. 20,12. 2,35. 21,30. 2,38. 1,98.
 
 sowie Spuren von Kupfer und Kohle.
@@ -4920,7 +4920,7 @@ Fe. Ni. Co. Mn. Si. S. SiO₃.
 1\. 81,8. 11,9. 1,0. 0,2. -,-. 5,1. -,-.  
 2\. 78,82. 8,1. 3,0. 4. 0,8. 4,5. 5,5.
 
-Jonn fand noch Al₂O₃ und Fe203; er will auch Spuren von Selen entdeckt haben.
+Jonn fand noch Al₂O₃ und Fe₂O₃; er will auch Spuren von Selen entdeckt haben.
 
 Literatur: Gilb. Ann. 60, 243. 68, 342. Bischoff Schweigg. Journ. 43, 44, 46, 385. 392.
 
@@ -5256,7 +5256,7 @@ Fe. Ni. Unlösl. Verl.
 Fe. Ni. Unlösl. Verl. Si. C.  
 3\. 0,16. 0,14. -,-. -,-. 0,06. 0,10. = 0,46. Unlösl.  
 
-Fe₂O₃. NiO. Mn₂O₃. SO3. SiO₃. Al₂O₃. Verl.  
+Fe₂O₃. NiO. Mn₂O₃. SO₃. SiO₃. Al₂O₃. Verl.  
 4\. 95,9. 3,1. -,-. -,-. -,-. -,-. 1,0.  
 5\. 87,60. 3,8. Sp. 0,28. 1,03. Sp. 8,62.*
 
@@ -6771,7 +6771,7 @@ NaO 0,78.
 99,97.
 
 b\. N. zersetzb. Sil. 12,28%.  
-SiO2 58,89.  
+SiO₂ 58,89.  
 Al₂O₃ 20,96.  
 FeO 9,59.  
 CaO 0,92.  
