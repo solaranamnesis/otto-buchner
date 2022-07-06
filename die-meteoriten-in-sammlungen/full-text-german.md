@@ -1070,7 +1070,7 @@ Tabor. Hof Krawin bei Strkow, südl. von Plan und Tabor.
 
 1753, Juli 3, 8 Uhr Abends.
 
-Nach einer Feuererscheinung erfolgte eine heftige Detonation; dann fielen mehre Steine herab, was von zwei Schäfern an verschiedenen Stellen beobachtet wurde. Ein ganzer Stein, der erste, der unverletzt in Sammlungen aufbewahrt wurde, ist in Wien und wiegt 2 K. 782,5; ausserdem werden daselbst noch 6 St. aufbewahrt (im Ganzen 4 K. 119,69). Kleinere Bruchstücke finden sich in London (164 Gr.), Berlin (77,802 Gr.), Prag (böhm. Nat.-Mus.), Pesth (Univ.-Mus.) und den Privatsammlungen des Fürsten Loskowırz (Bilin, 2 St. 777 Gr.), v. Reichenbach (Wien), v. Henikstein (Gratz, 2 St.), Neumann (Prag, 3 St. 74,39 Gr.), Shepard (N. Haven).
+Nach einer Feuererscheinung erfolgte eine heftige Detonation; dann fielen mehre Steine herab, was von zwei Schäfern an verschiedenen Stellen beobachtet wurde. Ein ganzer Stein, der erste, der unverletzt in Sammlungen aufbewahrt wurde, ist in Wien und wiegt 2 K. 782,5; ausserdem werden daselbst noch 6 St. aufbewahrt (im Ganzen 4 K. 119,69). Kleinere Bruchstücke finden sich in London (164 Gr.), Berlin (77,802 Gr.), Prag (böhm. Nat.-Mus.), Pesth (Univ.-Mus.) und den Privatsammlungen des Fürsten Loskowitz (Bilin, 2 St. 777 Gr.), v. Reichenbach (Wien), v. Henikstein (Gratz, 2 St.), Neumann (Prag, 3 St. 74,39 Gr.), Shepard (N. Haven).
 
 Specifisches Gewicht:
 
@@ -1083,7 +1083,7 @@ Die Rinde ist matt, schwarz.
 
 In der dunkel-, fast blaulich-grauen, rostbraun gefleckten Grundmasse, die dicht und stark zusammenhängend ist, liegen meist kleine und nicht sehr deutliche Kügelchen, viel fein und grob eingemengtes, zum Theil auch zu Adern und rundlichen, bis bohnengrossen Partien vereinigtes Eisen und sehr fein eingesprengter Magnetkies.
 
-Nach Howırp werden fast 25%, vom Magnet ausgezogen. Nach seiner Analyse besteht der erdige Theil aus:
+Nach Howard werden fast 25%, vom Magnet ausgezogen. Nach seiner Analyse besteht der erdige Theil aus:
 
 SiO3. MgO. Fe2O3. NiO. Sa.  
 45,45. 17,27. 42,72. 2,72. 108,16  
@@ -1299,7 +1299,7 @@ Specifisches Gewicht:
 
 Die Rinde ist zart und fein runzelig-aderig, matt, fast kohlschwarz, zum Theil feinrissig und dadurch weiss geadert.
 
-Die Grundmasse ist sehr feinkörnig, krystallinisch, hellgrau, zum Theil rostbraun gefleckt, mit vielen zum Theil lichtgrünlichen oder bernsteingelben, olivinartigen, zum Theil schwärzlichen, oder dunkelgrauen, wachsglänzenden, selten kugeligen, ıneist eckigen Einschlüssen, so dass das Ganze breccien- oder porphyrartig aussieht. Magnetkies ist fein, zum Theil auch in Körnern, das Eisen aber sehr fein in einzelnen zerstreuten Körnchen und Punkten eingesprengt.
+Die Grundmasse ist sehr feinkörnig, krystallinisch, hellgrau, zum Theil rostbraun gefleckt, mit vielen zum Theil lichtgrünlichen oder bernsteingelben, olivinartigen, zum Theil schwärzlichen, oder dunkelgrauen, wachsglänzenden, selten kugeligen, ineist eckigen Einschlüssen, so dass das Ganze breccien- oder porphyrartig aussieht. Magnetkies ist fein, zum Theil auch in Körnern, das Eisen aber sehr fein in einzelnen zerstreuten Körnchen und Punkten eingesprengt.
 
 Die Analysen von Howard (1 und 2) und Klaproth (3) haben hauptsächlich historische Wichtigkeit.
 
@@ -1412,7 +1412,7 @@ l'Aigle (la Vassolerie, Fontenil, la Metonnerie, S. Michel-de Sommaire, St. Nico
 
 1803, April 26, 1 Uhr Nachmittags.
 
-Dieser Steinfall gehört zu den interessantesten und historischmerkwürdigsten, da er nicht nur der reichste aller bekannten Meteoritenfälle ist, sondern auch mit ihm alles Läugnen der Thatsache selbst und der Widerstand, den CGuıpnt's Behauptungen im grössten Theile der wissenschaftlichen Welt fanden, ein Ende hatten. Eine hellleuchtende Feuerkugel war nur in grösserer Entfernung, z. B. in Caen, Falaise, St. Rieux, Pont-Audemer, Verneuil etc. gesehen worden; an den Orten des Steinregens selbst bemerkte man ein kleines, fast unbewegtes, dunkles Wölkchen, aus welchem die Detonationen erschallten, die 30 Meilen in der Runde gehört wurden. Dann fielen sehr viele Steine nieder, man nimmt 2000 bis 3000 an, die sich auf einer elliptischen Fläche von 2 1/2, Ml. Länge und 1 Ml. Breite ausstreuten. Fast alle Bewohner von 20 Dörfern dieses Bezirks waren Augenzeugen. In mehren Orten fielen die Steine hageldicht nieder; alle waren heiss und verbreiteten starken Schwefelgeruch. Die grosse Axe der elliptischen Fallfläche war von SO. bis NW. gerichtet; die grössten Steine fielen am SO.-Ende, die kleinsten am entgegengesetzten. Der schwerste wog 8 K. 065.
+Dieser Steinfall gehört zu den interessantesten und historischmerkwürdigsten, da er nicht nur der reichste aller bekannten Meteoritenfälle ist, sondern auch mit ihm alles Läugnen der Thatsache selbst und der Widerstand, den Cuipnt's Behauptungen im grössten Theile der wissenschaftlichen Welt fanden, ein Ende hatten. Eine hellleuchtende Feuerkugel war nur in grösserer Entfernung, z. B. in Caen, Falaise, St. Rieux, Pont-Audemer, Verneuil etc. gesehen worden; an den Orten des Steinregens selbst bemerkte man ein kleines, fast unbewegtes, dunkles Wölkchen, aus welchem die Detonationen erschallten, die 30 Meilen in der Runde gehört wurden. Dann fielen sehr viele Steine nieder, man nimmt 2000 bis 3000 an, die sich auf einer elliptischen Fläche von 2 1/2, Ml. Länge und 1 Ml. Breite ausstreuten. Fast alle Bewohner von 20 Dörfern dieses Bezirks waren Augenzeugen. In mehren Orten fielen die Steine hageldicht nieder; alle waren heiss und verbreiteten starken Schwefelgeruch. Die grosse Axe der elliptischen Fallfläche war von SO. bis NW. gerichtet; die grössten Steine fielen am SO.-Ende, die kleinsten am entgegengesetzten. Der schwerste wog 8 K. 065.
 
 Hand- und Bruchstücke finden sich fast in allen Sammlungen; die grössten besitzt Wien (4 K. 059,538; der grösste 1 K. 505), Berlin (2 K. 018,659), London (1 K. 511), Gratz (570 Gr.), Zürich (559 Gr., 5 St.), Freiberg (514 Gr.), Stuttgart (381 Gr., 3 St.), Tübingen (3 St., der grösste 240 Gr.), Göttingen (237,84 Gr., 2 St.), Copenhagen (184 Gr., 4 St.), Leipzig (173,15 Gr., 3 St.), Paris (Ecole des Mines 154,5 Gr.), München (125 Gr.), Paris (Mus. Hist. nat. 74 Gr.) und die Privatsammlungen des Fürsten Lobkowitz (2 K. 154, 3 St.), Shepard (987 Gr.), Greg (371 Gr.), Ferber (248 Gr.), van Breda (172,1 Gr., 2 St.), Neumann (117,27 Gr., 2 St.).
 
@@ -1631,7 +1631,7 @@ Weston, Connecticut, Nordamerika.
 
 Eine von N. kommende, sich schlangenartig bewegende Feuerkugel, welche Funken sprühte und einen langen Schweif nachzog, detonirte dreimal und machte jedesmal einen Sprung dabei. Darauf folgten die gewöhnlichen Explosionserscheinungen und der Steinfall an 6 verschiedenen Orten in der Richtung der Meteorbahn: die ersten fielen mehr nach N., die letzten weiter nach S. Der letzte muss wohl 100 K. gewogen haben, war aber beim Auffallen zerborsten; der grösste ganze Stein wog fast 16 K., wurde aber zerschlagen. Anfangs waren die Steine weich, wurden aber beim Liegen an der Luft härter.
 
-Bruchstücke finden sich in vielen Sammlungen. Surrırp in New-Haven scheint am meisten davon zu besitzen (708,6 Gr.), London und Wien haben gleichviel (184 Gr.). Kleinere Stücke sind in Stockholm (55 Gr.), Paris (Ec. des Mines 31,4 Gr., Mus. Hist. nat. 6 Gr.), Copenhagen (32 Gr.), Berlin (21,158 Gr.), Göttingen (5,23 Gr.), Dublin, Zürich (7,5 Gr.), Stuttgart (1,5 Gr.) und in den Privatsammlungen von v. Reichenbach, de Luynes, Greg (125 Gr.), Neumann, Lobkowitz und Rössler (Hanau).
+Bruchstücke finden sich in vielen Sammlungen. Shepard in New-Haven scheint am meisten davon zu besitzen (708,6 Gr.), London und Wien haben gleichviel (184 Gr.). Kleinere Stücke sind in Stockholm (55 Gr.), Paris (Ec. des Mines 31,4 Gr., Mus. Hist. nat. 6 Gr.), Copenhagen (32 Gr.), Berlin (21,158 Gr.), Göttingen (5,23 Gr.), Dublin, Zürich (7,5 Gr.), Stuttgart (1,5 Gr.) und in den Privatsammlungen von v. Reichenbach, de Luynes, Greg (125 Gr.), Neumann, Lobkowitz und Rössler (Hanau).
 
 Specifisches Gewicht:
 
@@ -1671,7 +1671,7 @@ Borgo San Donino, Casignano, bei Parma, Italien.
 
 1808, Apr. 19, zwischen 12 und 1 Uhr Mittags.
 
-Eine Feuererscheinung wurde nicht deutlich wahrgenommen; die Detonation war sehr heftig und ein Stein wurde sofort noch ganz heiss aufgefunden. Doch fielen viele Steine auf eine Fläche von etwa 9 Kilometer Umfang. Der grösste war oder ist noch in der Sammlung des verstorbenen Grafen Lınatı in Parma; ausserdem besitzen Bruchstücke die Sammlungen in Paris (428 Gr.), Wien (80,391 Gr., 2 St.), Berlin (15,327 Gr.), London (10,465 Gr.), Göttingen (0,65 Gr.) und die Privatsammlungen von v. Reichenbach, Shepard, de Luynes (2,6 Gr.), Greg (2 Gr.), Neumann (1,7 Gr.).
+Eine Feuererscheinung wurde nicht deutlich wahrgenommen; die Detonation war sehr heftig und ein Stein wurde sofort noch ganz heiss aufgefunden. Doch fielen viele Steine auf eine Fläche von etwa 9 Kilometer Umfang. Der grösste war oder ist noch in der Sammlung des verstorbenen Grafen Linati in Parma; ausserdem besitzen Bruchstücke die Sammlungen in Paris (428 Gr.), Wien (80,391 Gr., 2 St.), Berlin (15,327 Gr.), London (10,465 Gr.), Göttingen (0,65 Gr.) und die Privatsammlungen von v. Reichenbach, Shepard, de Luynes (2,6 Gr.), Greg (2 Gr.), Neumann (1,7 Gr.).
 
 Specifisches Gewicht:
 
@@ -2211,7 +2211,7 @@ Die Rinde ist sehr glasig, dünn, durchscheinend, glänzend, aderig.
 
 Im Innern sind 2 Massen zu unterscheiden, eine grünlichgraue oder braune, die fast vorherrscht und in eckigen Kryställchen oder rundlichen Körnchen auftritt, und eine weisse, welche als Grundmasse erscheint und jene einschliesst. Körner von Eisen sind nicht sichtbar. Magnetkies ist nur sehr spärlich und fein darin vertheilt.
 
-Nach der Analyse von Laucıer besteht der Stein aus:
+Nach der Analyse von Laugier besteht der Stein aus:
 
 SiO3. MgO. CaO. Fe2O3. Mn2O3. Cr2O3. Al2O3. S. Sa.  
 46. 1,6. 7,5. 36. 2,8. 1. 6. 1,5. 102,4.
@@ -2439,7 +2439,7 @@ Nach der gewöhnlichen Detonation fiel ein Stein von 2 1/2 K., der noch sehr hei
 
 Er ist aussen schwarz, innen hellgrau ; auf dem ganzen Stein erkennt man stahlfarbene Punkte und Adern.
 
-Literatur: Poggend. Ann. 24, 224. EıchwaLp führt diesen russischen Fall nicht in Erm. Arch. 5 an.
+Literatur: Poggend. Ann. 24, 224. Eichwald führt diesen russischen Fall nicht in Erm. Arch. 5 an.
 
 ### Zebrak
 
@@ -2596,7 +2596,7 @@ Richmond (7 engl. Meil. westl. davon), Chesterfield County, Virginia, Nord-Ameri
 
 1828, Juni 4, gegen 9 Uhr Morgens.
 
-Es fiel nur ein sphäroidisch gestalteter Stein von etwa 2 K. Die Erscheinungen dabei boten nichts Eigenthümliches. Das grösste Bruchstück scheint Surrırn zu besitzen (159 Gr.) ; kleinere sind in Wien (140,55 Gr.), London (113,75 Gr.), Berlin (8,996 Gr.), Göttingen (6,53 Gr.), Paris, Mus. Hist. nat. (1,1 Gr.) und den Privatsammlungen von Greg (5 Gr.), v. Reichenbach und Nevill.
+Es fiel nur ein sphäroidisch gestalteter Stein von etwa 2 K. Die Erscheinungen dabei boten nichts Eigenthümliches. Das grösste Bruchstück scheint Shepard zu besitzen (159 Gr.) ; kleinere sind in Wien (140,55 Gr.), London (113,75 Gr.), Berlin (8,996 Gr.), Göttingen (6,53 Gr.), Paris, Mus. Hist. nat. (1,1 Gr.) und den Privatsammlungen von Greg (5 Gr.), v. Reichenbach und Nevill.
 
 Specifisches Gewicht:  
 3,29-3,31 Shepard,  
@@ -2861,7 +2861,7 @@ Macao, nahe am Ausfluss des Rio Assu ins Meer, Provinz Rio grande do Norte, Bras
 
 1836, Nov. 11, 5 Uhr Morgens (nicht 11. Dec. 11 1/2 Uhr Nachts).
 
-Es wurde ein Feuermeteor von ausserordentlichem Glanz »so gross wie ein grosser Luftballon« gesehen; nach heftiger Detonation fiel eine ungeheure Menge von Steinen von 1/2-40 K., doch meist von der Grösse von Taubeneiern. Sie verbreiteten sich über eine Fläche von mehr als 10 Leguas, die grösste Menge aber fiel an der Mündung des Flusses. Es sollen viele Ochsen durch sie getödtet und einige verletzt worden sein. Trotz des reichen Schauers finden sich Steine und Bruchstücke nur in wenigen Sammlungen, besonders in Wien (605,951 Gr.), Berlin (41,483 Gr.), Göttingen (10,75 Gr.), Paris, Mus. Hist. nat. (9 Gr.), Petersburg, Akad. d. Wiss. (6,24 Gr.), Madrid, Utrecht, und in den Privatsarımlungen von Shepard, v. Reichenbach, Greg (6,3 Gr.).
+Es wurde ein Feuermeteor von ausserordentlichem Glanz »so gross wie ein grosser Luftballon« gesehen; nach heftiger Detonation fiel eine ungeheure Menge von Steinen von 1/2-40 K., doch meist von der Grösse von Taubeneiern. Sie verbreiteten sich über eine Fläche von mehr als 10 Leguas, die grösste Menge aber fiel an der Mündung des Flusses. Es sollen viele Ochsen durch sie getödtet und einige verletzt worden sein. Trotz des reichen Schauers finden sich Steine und Bruchstücke nur in wenigen Sammlungen, besonders in Wien (605,951 Gr.), Berlin (41,483 Gr.), Göttingen (10,75 Gr.), Paris, Mus. Hist. nat. (9 Gr.), Petersburg, Akad. d. Wiss. (6,24 Gr.), Madrid, Utrecht, und in den Privatsammlungen von Shepard, v. Reichenbach, Greg (6,3 Gr.).
 
 Specifisches Gewicht:  
 3,74 Rumler,  
@@ -3186,7 +3186,7 @@ Aumieres, Dep. de la Lozere, Frankreich.
 
 1842, Juni 4.
 
-Ueber diesen Stein und seinen Fall soll Boısse in seinen Recherches Mittheilungen machen. Es finden sich Bruchstücke in Paris (Mus. Hist. nat.), Wien (6,6 Gr.), sowie bei v. Reichenbach und Shepard.
+Ueber diesen Stein und seinen Fall soll Boisse in seinen Recherches Mittheilungen machen. Es finden sich Bruchstücke in Paris (Mus. Hist. nat.), Wien (6,6 Gr.), sowie bei v. Reichenbach und Shepard.
 
 Die lichtaschgraue Grundmasse enthält ziemlich viel fein eingesprengtes Eisen und Magnetkies.
 
@@ -3739,7 +3739,7 @@ Chromeisen|0,59.
 
 Balcells will auch Spuren von Arsen gefunden haben.
 
-Literatur: Barceııs Lithologia meteorica. Barcellona 1854. Die Abb. sind schlecht, der Text ein Auszug hauptsächlich aus Chladni, das Ganze nicht wissenschaftlich. Greg Phil. Mag. Suppl. Jan. 1863.
+Literatur: Barcells Lithologia meteorica. Barcellona 1854. Die Abb. sind schlecht, der Text ein Auszug hauptsächlich aus Chladni, das Ganze nicht wissenschaftlich. Greg Phil. Mag. Suppl. Jan. 1863.
 
 ### Yatoor
 
@@ -3842,7 +3842,7 @@ Die meisten Steine sind in Calcutta (6 K. 173, der grösste 5 K. 436) und Wien (
 
 Specifisches Gewicht: 3,425 Haidinger.
 
-Die Rinde ist sehr dünn, dunkelröthlichbraun, grösstentheils matt, nur stellenweise auf ebnen Theilen und an abgerundeten Kanten dunkler und etwas glänzend. Das Innere kommt der Farbe nach Mainz sehr nahe, ist durch und durch braun, sehr fest, Härte etwa 6, und schliesst kugelige oder eckige, hellere und dunklere Theile von verschiedener Härte ein, sowıe feine Körnchen, selten grössere Körner von metallischem Eisen und Magnetkies. Dazu ist die Masse noch von zahlreichen Trennungen durchzogen, die mehr den Charakter von Ablösungen haben, welche fester zusammenhängende Theile wie Knoten umschliessen.
+Die Rinde ist sehr dünn, dunkelröthlichbraun, grösstentheils matt, nur stellenweise auf ebnen Theilen und an abgerundeten Kanten dunkler und etwas glänzend. Das Innere kommt der Farbe nach Mainz sehr nahe, ist durch und durch braun, sehr fest, Härte etwa 6, und schliesst kugelige oder eckige, hellere und dunklere Theile von verschiedener Härte ein, sowie feine Körnchen, selten grössere Körner von metallischem Eisen und Magnetkies. Dazu ist die Masse noch von zahlreichen Trennungen durchzogen, die mehr den Charakter von Ablösungen haben, welche fester zusammenhängende Theile wie Knoten umschliessen.
 
 Der Stein im britischen Museum, der von Segowlee sein soll, ist weiss und dem von Bishopville (1843) sehr ähnlich.
 
@@ -3880,7 +3880,7 @@ Insel Oesel, Gesinde Kaande, 1 M. von Piddul, deutsch-russische Provinz Livland,
 
 1855 (Apr. 29. a. St.), Mai 11 n. St., zwischen 3 und 4 Uhr Nachmittags.
 
-Der Steinfall erfolgte nach einer Detonation. Näch Göbel wogen die Bruchstücke 6 K., doch sollen mehre Steine gefallen sein, darunter einer von 28 K. Das grösste Bruchstück von 3 1/2 K. besitzt Graf Perowski in St. Petersburg; ausserdem finden sich Stücke in Dorpat (396,4 Gr.), Berlin (21,658 Gr.), Wien (20,781 Gr.), Göttingen (14 Gr.), London (8,7 Gr.) und in den Privatsammhıngen von v. Reichenbach und Greg (10,3 Gr.).
+Der Steinfall erfolgte nach einer Detonation. Näch Göbel wogen die Bruchstücke 6 K., doch sollen mehre Steine gefallen sein, darunter einer von 28 K. Das grösste Bruchstück von 3 1/2 K. besitzt Graf Perowski in St. Petersburg; ausserdem finden sich Stücke in Dorpat (396,4 Gr.), Berlin (21,658 Gr.), Wien (20,781 Gr.), Göttingen (14 Gr.), London (8,7 Gr.) und in den Privatsammlungen von v. Reichenbach und Greg (10,3 Gr.).
 
 Specifisches Gewicht: 3,668 Göbel.
 
@@ -3966,7 +3966,7 @@ Specifisches Gewicht: 3,20-3,28.
 
 Die Rinde ist pechartig glänzend, schwarz und dünn, das Innere asch- bis perlgrau, mit weissen, gelblichen und dunkeln Flecken.
 
-- Nach der Analyse von J. L. Smıtn besteht der Stein aus:
+- Nach der Analyse von J. L. Smith besteht der Stein aus:
 
 SiO3. Al2O3. FeO. CaO. MgO. MnO. Fe. Ni, P. S. NaO. Sa.  
 49,21. 11,05. 20,41. 9,01. 8,13. 0,04. 0,50. Sp. 0,06. 0,83. 99,23.
@@ -4785,7 +4785,7 @@ Zwischen Krasnojarsk und Ahakarsk oder zwischen den Flüssen Ubei und Sisin in S
 
 In allen Beziehungen gehört dieses Eisen zu den merkwürdigsten Meteoritenmassen, die bis jetzt bekannt geworden sind. Pallas hatte sie auf seinen Reisen in Sibirien 1772 gefunden, doch war sie schon 1749 zwischen zwei Nebenflüssen des Jenisei entdeckt worden. Die Tataren betrachteten diese Masse als ein vom Himmel gefallenes Heiligthum. Der erste Entdecker hatte sie weggebracht, um sie zu verarbeiten. So fand sie Pallas, der sie genau beschreibt und schliesslich noch bemerkt, dass auf dem ganzen Berg nicht die Spur von alten Schmelzheerden oder Bergarbeiten gefunden werde. Ursprünglich wog der Block fast 700 K. Er kam nach Petersburg, wo in der Sammlung der Akademie die Hauptmasse (über 519 K.) aufbewahrt wird. Andere Institute in Petersburg, namentlich die medicinisch-chirurgische Akademie, das Berginstitut, die Universität, das Romanzow'sche Museum und die mineralogische Gesellschaft besitzen grössere Bruchstücke.
 
-Durch Chladnis geistreiche Hypothese, die in der ganzen gebildeten Welt Aufsehen erregte und die lebhafteste Besprechung für und gegen fand, wurde man erst recht auf diese merkwürdige Masse aufmerksam, bei der jetzt niemand mehr den geringsten Zweifel hegt, dass sie wirklich meteorisch sei. Als Chladni aber diesen Gedanken 1794 zuerst aussprach, musste noch ein Jahrzehnt hingehn, ehe seine Ansicht zu wissenschaftlicher Geltung gelangte. Seit jener Zeit hat das Pallaseisen seinen Weg fast in alle Sammlungen gefunden. Die grössten Stücke sind in Copenhagen (3 K. 513), Wien (3 K. 457,4), London (3 K. 226,9), Berlin (2 K. 884), Gratz (1 K. 717), Göttingen (1 K. 246), Harlem, Ges. d. Wissensch. (598 Gr.), Upsala (587 Gr.), Edinburg (495 Gr.), München (383 Gr.), Zurich (270 Gr.), Gotha (205 Gr.), Dorpat (223,8 Gr.) Paris, Ec. des Mines (137 Gr.), Leipzig (104,5 Gr.), und kleinere oder von unbekanntem Gewicht Paris (Mus. His. nat.), Levden, Kiel, Pisa, Calcutta, Clausthal, Marburg, Giessen, Moskau, CGassel (Gewerbsch.), Helsingfors, Bologna, Breslau (schles. Gesellsch.), Dublin, Stuttgart (königl. Cabin. die verschiedenen Stücke unter verschiedenen unbekannten Nanıen, z. B. Kadnar und Nemir, und polyt. Schule), Bern, Copenhagen (Thierarzneischule), Basel, Freiberg, Kiel, Hudson, Görlitz (Realschule), Erlangen, Darmstadt, Tübingen, Hamburg (nat. hist. Mus.) und Heidelberg. Von Privaten besitzen grössere Stücke v. Reichenbach, Shepard (488,7 Gr.), Kessler-Gontard in Frankfurt a. M. (439 Gr.), Fürst Lobkowitz in Bilin (394 Gr.), de Luynes in Dampierre (385 Gr.), Greg (308 Gr.), Ferber in Gera (198 Gr.), Neumann in Prag (152 Gr.) und kleinere oder von unbekanntem Gewicht van Breda in Harlem, Dunker in Marburg, Nevill in London, Zeidler in Prag, v. Henikstein in Gratz, Osann in Würzburg, Phoebus in Giessen, Jordan in Saarbrücken, Erzh. Stephan auf Schaumburg, Rössler in Hanau, Zimmermann, Meyer und Dr. Fischer in Hamburg und Keller sen. in Freiburg i. Br.
+Durch Chladnis geistreiche Hypothese, die in der ganzen gebildeten Welt Aufsehen erregte und die lebhafteste Besprechung für und gegen fand, wurde man erst recht auf diese merkwürdige Masse aufmerksam, bei der jetzt niemand mehr den geringsten Zweifel hegt, dass sie wirklich meteorisch sei. Als Chladni aber diesen Gedanken 1794 zuerst aussprach, musste noch ein Jahrzehnt hingehn, ehe seine Ansicht zu wissenschaftlicher Geltung gelangte. Seit jener Zeit hat das Pallaseisen seinen Weg fast in alle Sammlungen gefunden. Die grössten Stücke sind in Copenhagen (3 K. 513), Wien (3 K. 457,4), London (3 K. 226,9), Berlin (2 K. 884), Gratz (1 K. 717), Göttingen (1 K. 246), Harlem, Ges. d. Wissensch. (598 Gr.), Upsala (587 Gr.), Edinburg (495 Gr.), München (383 Gr.), Zurich (270 Gr.), Gotha (205 Gr.), Dorpat (223,8 Gr.) Paris, Ec. des Mines (137 Gr.), Leipzig (104,5 Gr.), und kleinere oder von unbekanntem Gewicht Paris (Mus. His. nat.), Levden, Kiel, Pisa, Calcutta, Clausthal, Marburg, Giessen, Moskau, CGassel (Gewerbsch.), Helsingfors, Bologna, Breslau (schles. Gesellsch.), Dublin, Stuttgart (königl. Cabin. die verschiedenen Stücke unter verschiedenen unbekannten Nahmen, z. B. Kadnar und Nemir, und polyt. Schule), Bern, Copenhagen (Thierarzneischule), Basel, Freiberg, Kiel, Hudson, Görlitz (Realschule), Erlangen, Darmstadt, Tübingen, Hamburg (nat. hist. Mus.) und Heidelberg. Von Privaten besitzen grössere Stücke v. Reichenbach, Shepard (488,7 Gr.), Kessler-Gontard in Frankfurt a. M. (439 Gr.), Fürst Lobkowitz in Bilin (394 Gr.), de Luynes in Dampierre (385 Gr.), Greg (308 Gr.), Ferber in Gera (198 Gr.), Neumann in Prag (152 Gr.) und kleinere oder von unbekanntem Gewicht van Breda in Harlem, Dunker in Marburg, Nevill in London, Zeidler in Prag, v. Henikstein in Gratz, Osann in Würzburg, Phoebus in Giessen, Jordan in Saarbrücken, Erzh. Stephan auf Schaumburg, Rössler in Hanau, Zimmermann, Meyer und Dr. Fischer in Hamburg und Keller sen. in Freiburg i. Br.
 
 Specifisches Gewicht des Eisens:  
 6,487 Howard,  
@@ -4974,7 +4974,7 @@ Literatur: Philippi Petermann Mittheilgn. 1856, 64. Turner Poggend. Ann. 11, 470
 
 Brahin, Gouvernement Minsk, Russland.
 
-Die Fallzeit ist unbekannt. Gefunden wurde das Eisen 1810 (nach Eichwald 1820), bekannt erst 1822 durch Sniadecki. Es waren 2 Stücke, die zusammen etwa 100 K. wogen: der grösste Theil befindet sich jetzt in der Sammlung der Universität zu Kiew (früher in Wilna). Kleinere Fragmente sind in Berlin (454,15 Gr.), London (80,79 Gr.), Wien (18,594 Gr.), Paris (Mus. Hist. nat.) und in den Privatsımmlungen von Ferber in Gera (65,7 Gr.), v. Reichenbach in Wien, Greg in Manchester (28,3 Gr.), de Luynes in Dampierre (11,4 Gr.), Zimmermann in Hamburg (5,58 Gr.) und Neumann in Prag (0,75 Gr.).
+Die Fallzeit ist unbekannt. Gefunden wurde das Eisen 1810 (nach Eichwald 1820), bekannt erst 1822 durch Sniadecki. Es waren 2 Stücke, die zusammen etwa 100 K. wogen: der grösste Theil befindet sich jetzt in der Sammlung der Universität zu Kiew (früher in Wilna). Kleinere Fragmente sind in Berlin (454,15 Gr.), London (80,79 Gr.), Wien (18,594 Gr.), Paris (Mus. Hist. nat.) und in den Privatsammlungen von Ferber in Gera (65,7 Gr.), v. Reichenbach in Wien, Greg in Manchester (28,3 Gr.), de Luynes in Dampierre (11,4 Gr.), Zimmermann in Hamburg (5,58 Gr.) und Neumann in Prag (0,75 Gr.).
 
 Specifisches Gewicht:  
 6,2 Drzewinski,  
@@ -5080,7 +5080,7 @@ Hraschina bei Agram, Croatien, Oesterreich.
 
 1751, Mai 26, Abends 6 Uhr.
 
-Einer der seltenen, wohl beobachteten Fälle von Meteoreisen aus einer Feuerkugel. Mehrere Urkunden und gerichtliche Zeugenverhöre geben genauen Aufschluss über das ganze Ereigniss. Dass die Feuerkugel auch in Hannover gesehen worden, beruht auf einem Irrthum. Sie zog von West nach Ost, detonirte heftig, verbreitete einen starken Rauch, und dann sah man unter stärkstem Krachen und einer Erschütterung wie bei einem Erdbeben zwei Massen niederfallen, die 2000 Fuss von einander in die Erde einschlugen. Die kleinere von etwa 9 K. wurde zerstückelt, vertheilt, zum Theil verschmiedet und ging verloren; die grössere von über 40 K. kam in die k. k. Schatzkammer, 1777 in das k. k. Hof-Naturaliencabinet und befindet sich zum grössten Theil noch in der Wiener Sammlung (39 K. 265,372, 7 St., der grösste 39 K. 200,840). Kleinere Abschnitte sind in London (284,37 Gr.), Berlin (28,155 Gr.), Göttingen (23,38 Gr., 4 St.), Paris, Zürich, Würzburg und Marburg, so wie in den Privatsanımlungen von v. Reichenbach, Teyler in Harlem (39,8 Gr.), Shepard und Greg (4 Gr.).
+Einer der seltenen, wohl beobachteten Fälle von Meteoreisen aus einer Feuerkugel. Mehrere Urkunden und gerichtliche Zeugenverhöre geben genauen Aufschluss über das ganze Ereigniss. Dass die Feuerkugel auch in Hannover gesehen worden, beruht auf einem Irrthum. Sie zog von West nach Ost, detonirte heftig, verbreitete einen starken Rauch, und dann sah man unter stärkstem Krachen und einer Erschütterung wie bei einem Erdbeben zwei Massen niederfallen, die 2000 Fuss von einander in die Erde einschlugen. Die kleinere von etwa 9 K. wurde zerstückelt, vertheilt, zum Theil verschmiedet und ging verloren; die grössere von über 40 K. kam in die k. k. Schatzkammer, 1777 in das k. k. Hof-Naturaliencabinet und befindet sich zum grössten Theil noch in der Wiener Sammlung (39 K. 265,372, 7 St., der grösste 39 K. 200,840). Kleinere Abschnitte sind in London (284,37 Gr.), Berlin (28,155 Gr.), Göttingen (23,38 Gr., 4 St.), Paris, Zürich, Würzburg und Marburg, so wie in den Privatsammlungen von v. Reichenbach, Teyler in Harlem (39,8 Gr.), Shepard und Greg (4 Gr.).
 
 Specifisches Gewicht:  
 7,73-7,80 v. Schreibers,  
@@ -5140,7 +5140,7 @@ Literatur: Rubin de Celis Philos. Transact. 78, 1788, P. 1. p. 37. Howard Gilb. 
 
 Sierra blanca, drei Meilen von Villa nueva de Huajuquillo und zwölf Meilen von dem Dorfe San Bartolome, Mexiko.
 
-Schon 1784/5 erwähnt die Gazeta de Mexico das Vorkommen von Eisen in der Gegend. Burkart hat vier Orte in der Nähe der Sierra blanca als Fundpunkte von Meteoreisen bezeichnet; der eine ist nach der Gaz. de Mex. beiHuajuquillo, der zweite nach Barlett auf dem Landgut Goncepcion, der dritte nach Weidner am südwestlichen Rande des Bolson de Mapimi und der vierte nach Berlandier auf dem Landgut Venagas, alle in der Richtung des Weges von Durango nach Chihuahua. An demselben Wege soll nach Weidner am Rande des Bolson de Mapimi auf deın Landgut Rio Florido eine Eisenmasse sich finden, und Hardy erwähnt eine solche im Städtchen San Gregorio. Von letzterer Masse sollen von einem Italiener etwa 1 1/2 K. mit ungeheurer Mühe und grossem Kostenaufwand abgelöst worden sein. Ueber die geographische Lage dieser Orte, mit Ausnahme der Hacienda Venagas, gibt Burkart Auskunft. Es scheint nur ein Stückchen seinen Weg in die Sammlungen gefunden zu haben; Berlin besitzt ein solches (175,263 Gr.), das früher in der Bergemann'schen Sammlung war. Es soll von Villa nueva de Huajuquillo stammen und zeigt deutliche Figuren beim Aetzen.
+Schon 1784/5 erwähnt die Gazeta de Mexico das Vorkommen von Eisen in der Gegend. Burkart hat vier Orte in der Nähe der Sierra blanca als Fundpunkte von Meteoreisen bezeichnet; der eine ist nach der Gaz. de Mex. beiHuajuquillo, der zweite nach Barlett auf dem Landgut Goncepcion, der dritte nach Weidner am südwestlichen Rande des Bolson de Mapimi und der vierte nach Berlandier auf dem Landgut Venagas, alle in der Richtung des Weges von Durango nach Chihuahua. An demselben Wege soll nach Weidner am Rande des Bolson de Mapimi auf dein Landgut Rio Florido eine Eisenmasse sich finden, und Hardy erwähnt eine solche im Städtchen San Gregorio. Von letzterer Masse sollen von einem Italiener etwa 1 1/2 K. mit ungeheurer Mühe und grossem Kostenaufwand abgelöst worden sein. Ueber die geographische Lage dieser Orte, mit Ausnahme der Hacienda Venagas, gibt Burkart Auskunft. Es scheint nur ein Stückchen seinen Weg in die Sammlungen gefunden zu haben; Berlin besitzt ein solches (175,263 Gr.), das früher in der Bergemann'schen Sammlung war. Es soll von Villa nueva de Huajuquillo stammen und zeigt deutliche Figuren beim Aetzen.
 
 Die von Barlett beschriebene Masse der Hacienda Concepcion, etwa 2 Meilen von Zapata (Zapote?), im Staat von Chihuahua hat eine unregelmässige Gestalt und soll etwa 1900 K. wiegen. Auf der einen Seite sind meist runde, tiefe Höhlungen, auf der anderen ist es weniger rauh, aber ebenso unregelmässig. An seinem unteren Ende ragt eine Stelle armartig vor. In Wien ist ein Splitter davon.
 
@@ -5365,7 +5365,7 @@ Literatur: Poggend. Ann. 46, 166.
 
 In der Misteca im Staat von Oaxaca, Mexiko.
 
-Schon 1804 wird dieses Eisen von per Rıo erwähnt, ohne dass unterdess etwas Genaueres darüber bekannt geworden wäre. 1834 kam ein ganz kleines Stückchen davon durch v. Karawinsky nach Wien; es wurde von einem Klumpen abgemeisselt, der in einem Indianerdorf der Misteca liegt. Durch das Hämmern ist es verändert worden und zeigt beim Aetzen nur feine gekrümmte Streifen. Ob Karawinsky den Block selbst gesehen, findet sich nirgends angegeben. Burkart erhielt 1855 auch ein Stück davon, kann aber auch nichts über die Lage der Masse, ihre Grösse etc. mittheilen. Stücke davon sind in Wien (1 K. 540) und Berlin (1 K. 435,8); ein Stück behielt Burkart. Auch Shepard besitzt etwas von dieser Localität.
+Schon 1804 wird dieses Eisen von per Rio erwähnt, ohne dass unterdess etwas Genaueres darüber bekannt geworden wäre. 1834 kam ein ganz kleines Stückchen davon durch v. Karawinsky nach Wien; es wurde von einem Klumpen abgemeisselt, der in einem Indianerdorf der Misteca liegt. Durch das Hämmern ist es verändert worden und zeigt beim Aetzen nur feine gekrümmte Streifen. Ob Karawinsky den Block selbst gesehen, findet sich nirgends angegeben. Burkart erhielt 1855 auch ein Stück davon, kann aber auch nichts über die Lage der Masse, ihre Grösse etc. mittheilen. Stücke davon sind in Wien (1 K. 540) und Berlin (1 K. 435,8); ein Stück behielt Burkart. Auch Shepard besitzt etwas von dieser Localität.
 
 Specifisches Gewicht: 7,200-7,620 Burkart.
 
@@ -5486,7 +5486,7 @@ Literatur: Neumann Gilb. Ann. 42, 197. v. Schreibers Beiträge p. 72 beschreibt 
 
 Lenarto, Saroser Comitat, Ungarn, an der galizischen Grenze.
 
-1814 zu Ende October wurde diese Eisenmasse im Walde Lenartuwka in der Nähe von Bartfeld von einem Schäfer neben einer Quelle unter Schlamm und faulenden Aesten aufgefunden. 1815 wurde sie von Sennowitz zuerst beschrieben. Sie wog 108 K. 640 und ist jetzt ihrer Hauptmasse nach im ungarischen National-Museum in Pesth (74 K. 760). Stücke davon sind in vielen Sammlungen, besonders in Wien (3 K. 292,8), London (1 K. 829), Paris, Ecole des Mines (1 K. 250), Berlin (446,154 Gr.), Harlem, Teylers Mus. (130 Gr.), Paris, Mus. Hist. nat. (116 Gr.), Göttingen (102 Gr.) und kleinere in Bern, Bologna, Breslau, Calcutta, Gopenhagen, Gotha, Petersburg, Trier, Upsala, Utrecht, so wie bei Fürst Loskowırz in Bilin (2 K. 990), Greg (259 Gr.), de Luynes in Dampierre (148 Gr.) und kleinere oder von unbekanntem Gewichte bei v. Reichenbach, Shepard, Auerbach, Nevill, Fischer in Hamburg, Erzh. Stephan auf Schaumburg, Ferber in Gera, Neumann in Prag, v. Henikstein in Gratz, Kessler in Frankfurt a. M.; Baron v. Brudern besass nach v. Schreibers ein Stück von fast 21 K.
+1814 zu Ende October wurde diese Eisenmasse im Walde Lenartuwka in der Nähe von Bartfeld von einem Schäfer neben einer Quelle unter Schlamm und faulenden Aesten aufgefunden. 1815 wurde sie von Sennowitz zuerst beschrieben. Sie wog 108 K. 640 und ist jetzt ihrer Hauptmasse nach im ungarischen National-Museum in Pesth (74 K. 760). Stücke davon sind in vielen Sammlungen, besonders in Wien (3 K. 292,8), London (1 K. 829), Paris, Ecole des Mines (1 K. 250), Berlin (446,154 Gr.), Harlem, Teylers Mus. (130 Gr.), Paris, Mus. Hist. nat. (116 Gr.), Göttingen (102 Gr.) und kleinere in Bern, Bologna, Breslau, Calcutta, Gopenhagen, Gotha, Petersburg, Trier, Upsala, Utrecht, so wie bei Fürst Loskowitz in Bilin (2 K. 990), Greg (259 Gr.), de Luynes in Dampierre (148 Gr.) und kleinere oder von unbekanntem Gewichte bei v. Reichenbach, Shepard, Auerbach, Nevill, Fischer in Hamburg, Erzh. Stephan auf Schaumburg, Ferber in Gera, Neumann in Prag, v. Henikstein in Gratz, Kessler in Frankfurt a. M.; Baron v. Brudern besass nach v. Schreibers ein Stück von fast 21 K.
 
 Specifisches Gewicht:  
 7,798 Wehrle,  
@@ -5706,7 +5706,7 @@ Literatur: Shepard Sillim. Amer. Journ. 17, 1830, 140. Report 9, 31.
 
 Am Brazosfluss, nahe an dessen Ursprung, 34° Br. 100° L., Texas.
 
-Dieses schöne Meteoreisen war schon lange bei den Gomanches bekannt und als heilkräftig verehrt. Schon die Spanier versuchten die etwa 147 K. schwere Masse auf Mauleseln fortzuschafien, aber vergebens. Auch die Comanches machten Versuche, es durch umgesetztes Feuer zu schmelzen, und da es nicht gelang, es zu zerschlagen, was auch nicht ging. 1836 wurde es einem Agenten der Vereinigten Staaten überlassen und nach St. Antonio, 1859 aber erst nach Austin gebracht, wo es ım geologischen Staatscabinet aufbewahrt ist; etwa 2 K. können davon abgesägt sein. Die Masse hat eine flache oder stumpf pyramidale Gestalt mit mehr oder weniger abgerundeten Kanten und mit flachen Eindrücken. Die Oberfläche ist dunkel und nur stellenweise dünn oxydirt. Das Eisen ist sehr zäh, die Schnittfläche glänzend silbergrau.
+Dieses schöne Meteoreisen war schon lange bei den Gomanches bekannt und als heilkräftig verehrt. Schon die Spanier versuchten die etwa 147 K. schwere Masse auf Mauleseln fortzuschafien, aber vergebens. Auch die Comanches machten Versuche, es durch umgesetztes Feuer zu schmelzen, und da es nicht gelang, es zu zerschlagen, was auch nicht ging. 1836 wurde es einem Agenten der Vereinigten Staaten überlassen und nach St. Antonio, 1859 aber erst nach Austin gebracht, wo es im geologischen Staatscabinet aufbewahrt ist; etwa 2 K. können davon abgesägt sein. Die Masse hat eine flache oder stumpf pyramidale Gestalt mit mehr oder weniger abgerundeten Kanten und mit flachen Eindrücken. Die Oberfläche ist dunkel und nur stellenweise dünn oxydirt. Das Eisen ist sehr zäh, die Schnittfläche glänzend silbergrau.
 
 Riddell analysirte es 1860 und fand:
 
@@ -5799,7 +5799,7 @@ Literatur: Erman Journ. 1, 314. 725.
 
 Cosbys Creek, Cocke County, Sevier County, Tennessee, Nord-Amerika.
 
-1840 beschrieb Troost zuerst dieses Eisen. Es fanden sich zwei Massen von 1000 K. und 56 K. Da erstere nicht zerschlagen werden konnte, so wurde sie auf einem Scheiterhaufen erhitzt, dann in Bruchstücke zerschlagen und in einer Schmiede in Sevier County verarbeitet. Der Rest fiel in die Hände von Troost, der etwa 32 K. davon besitzt. Stücke davon sind in vielen Sammlungen, besonders in Wien (642 Gr.), Berlin (436,8 Gr.) und unter 100 Gr. oder von unbekanntem Gewicht London, Hudson (Reserve College), Göttingen, Calcutta, München, Bologna, Dublin, Gotha, Kiel, Upsala, Tübingen, Copenhagen, Knoxville (Univ.), so wie bei Sarrırn (738 Gr.), Greg (436 Gr.), v. Reichenbach, Neumann, Fürst Lobkowitz, Zimmermann und de Luynes.
+1840 beschrieb Troost zuerst dieses Eisen. Es fanden sich zwei Massen von 1000 K. und 56 K. Da erstere nicht zerschlagen werden konnte, so wurde sie auf einem Scheiterhaufen erhitzt, dann in Bruchstücke zerschlagen und in einer Schmiede in Sevier County verarbeitet. Der Rest fiel in die Hände von Troost, der etwa 32 K. davon besitzt. Stücke davon sind in vielen Sammlungen, besonders in Wien (642 Gr.), Berlin (436,8 Gr.) und unter 100 Gr. oder von unbekanntem Gewicht London, Hudson (Reserve College), Göttingen, Calcutta, München, Bologna, Dublin, Gotha, Kiel, Upsala, Tübingen, Copenhagen, Knoxville (Univ.), so wie bei Shepard (738 Gr.), Greg (436 Gr.), v. Reichenbach, Neumann, Fürst Lobkowitz, Zimmermann und de Luynes.
 
 Specifisches Gewicht:  
 7,26 Rumler,  
@@ -6134,7 +6134,7 @@ Dieses ist eines der wenigen Beispiele, wo das Niederfallen einer Eisenmasse beo
 
 Durch zwei heftige Detonationen und ein heftiges, andauerndes Sausen und Brausen aufmerksam gemacht, bemerkten Viele eine kleine schwarze Wolke, die sich während ihres Hin- und Hertreibens in einen horizontalen Streifen formte. Sie erglühte plötzlich und gleichzeitig schienen zwei Feuerstreifen von ihr aus zur Erde zu fahren. Dann war die Wolke aschgrau, von rosettenartiger Form und verschwand allmählich.
 
-Ein Augenzeuge sah dabei eine Masse in einen Ackerrain drei Fuss tief einschlagen; es war eine Eisenmasse von 23 K. 625 und noch sechs Stunden nach dem Fall so heiss, dass man sie nicht angreifen konnte. Eine zweite Eisenmasse von 17 K. 080 hatte das Dach eines Häuschens durchschlagen und die Wand einer Kammer zertrümmert; unter dem Schutt fand sich der Meteorit erst nach langem Suchen. Beide Massen mit ihren zellenartig eckigen Vertiefungen finden sich vielfach abgebildet. Stücke finden sich in vielen Sammlungen, besonders in Wien (2 K. 438, das grösste 2 K. 126,293), Berlin (1 K. 613,621), Breslau, schles. Gesellsch. (1 K. 125), London (594,4 Gr.), München (590 Gr.), Prag (böhm. Nationalmuseum), Göttingen (162 Gr.), Giessen, Univers. (76,65 Gr.), Freiberg (32 Gr.), Leipzig (26,425 Gr.) und kleinere oder von unbekanntem Gewicht in Harlem, Heidelberg, Calcutta, Copenhagen, Tübingen; ferner in den Privatsammlungen, besonders von Abt Zeipıer in Prag (1 K. 120), Greg (67,5 Gr.), v. Reichenbach, Shepard, Auerbach (218 Gr.), Zimmermann in Hamburg, Fürst Lobkowitz in Bilin, Ferber in Gera, Neumann in Prag und Jordan in Saarbrücken.
+Ein Augenzeuge sah dabei eine Masse in einen Ackerrain drei Fuss tief einschlagen; es war eine Eisenmasse von 23 K. 625 und noch sechs Stunden nach dem Fall so heiss, dass man sie nicht angreifen konnte. Eine zweite Eisenmasse von 17 K. 080 hatte das Dach eines Häuschens durchschlagen und die Wand einer Kammer zertrümmert; unter dem Schutt fand sich der Meteorit erst nach langem Suchen. Beide Massen mit ihren zellenartig eckigen Vertiefungen finden sich vielfach abgebildet. Stücke finden sich in vielen Sammlungen, besonders in Wien (2 K. 438, das grösste 2 K. 126,293), Berlin (1 K. 613,621), Breslau, schles. Gesellsch. (1 K. 125), London (594,4 Gr.), München (590 Gr.), Prag (böhm. Nationalmuseum), Göttingen (162 Gr.), Giessen, Univers. (76,65 Gr.), Freiberg (32 Gr.), Leipzig (26,425 Gr.) und kleinere oder von unbekanntem Gewicht in Harlem, Heidelberg, Calcutta, Copenhagen, Tübingen; ferner in den Privatsammlungen, besonders von Abt Zeidler in Prag (1 K. 120), Greg (67,5 Gr.), v. Reichenbach, Shepard, Auerbach (218 Gr.), Zimmermann in Hamburg, Fürst Lobkowitz in Bilin, Ferber in Gera, Neumann in Prag und Jordan in Saarbrücken.
 
 Specifisches Gewicht: 7,7142 Beinert.
 
@@ -6633,7 +6633,7 @@ Specifisches Gewicht:
 7,6698 Riddell,  
 7,42 Madelung.
 
-Analysen liegen vor von RıppeLL (4) und MupeLung (2):
+Analysen liegen vor von Riddell (4) und Madelung (2):
 
 Fe. Ni. Co. Cu. P. Unlösl. Sa.  
 1\. 94,02. 5,43. Sp. -,-. -,-. 0,33. 99,78.  
@@ -6833,7 +6833,7 @@ Literatur: Transact. Acad. St. Louis I, 1860, 711. Shepard Sillim. Amer. Journ. 
 
 La Grange, Oldham County, Kentucky, Nord-Amerika.
 
-Im October 1860 wurde eine Eisenmasse von 51 K. gefunden. Fast die ganze Masse besitzt Smır# in Louisville; Bruchstücke sind besonders in Wien (402,5 Gr.), London (59,47 Gr.), sowie bei Shepard, v. Reichenbach und Gerg.
+Im October 1860 wurde eine Eisenmasse von 51 K. gefunden. Fast die ganze Masse besitzt Smith in Louisville; Bruchstücke sind besonders in Wien (402,5 Gr.), London (59,47 Gr.), sowie bei Shepard, v. Reichenbach und Gerg.
 
 Specifisches Gewicht: 7,89.
 
