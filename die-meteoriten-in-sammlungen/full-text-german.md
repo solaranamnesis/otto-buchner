@@ -1085,7 +1085,7 @@ In der dunkel-, fast blaulich-grauen, rostbraun gefleckten Grundmasse, die dicht
 
 Nach Howard werden fast 25%, vom Magnet ausgezogen. Nach seiner Analyse besteht der erdige Theil aus:
 
-SiO₃. MgO. Fe2O3. NiO. Sa.  
+SiO₃. MgO. Fe₂O₃. NiO. Sa.  
 45,45. 17,27. 42,72. 2,72. 108,16  
 
 und das hämmerbare Metall aus:
@@ -1173,7 +1173,7 @@ Die Grundmasse ist hellgrau, fast weiss, wenig zusammenhängend, leicht zerreibl
 
 Die Analyse von Imhof ist unvollkommen.
 
-Fe. Ni. Fe2O3. CaO. SiO₃. S u. Verl.  
+Fe. Ni. Fe₂O₃. CaO. SiO₃. S u. Verl.  
 2,33. 1,2. 40,24. 28,75. 25,4. 2,08.
 
 Literatur: Imhof Gilb. Ann. 15, 316. 18, 328.
@@ -1227,7 +1227,7 @@ Das Innere besteht aus einer dunkelgrauen ziemlich grobkörnigen Grundmasse mit 
 
 Klaproth analysirte den Stein und fand:
 
-SiO₃. MgO. Fe2O3. Fe. Ni. S. u. Verl.  
+SiO₃. MgO. Fe₂O₃. Fe. Ni. S. u. Verl.  
 37,0. 21,50. 16,50. 19. 1,50. 4,50.
 
 Literatur: Klaproth Beiträge 6, 296. Gilb. Ann. 13, 338. Partsch Meteoriten 78.
@@ -1248,7 +1248,7 @@ Die lichtaschgraue Grundmasse enthält undeutliche Körner eingemengt, die etwas
 
 Analysen wurden gemacht von Schnaubert und Giese (I) und von Scheerer (II).
 
-SiO₃. MgO. Mn2O3. MnO. Fe. Ni. S. C.  
+SiO₃. MgO. Mn₂O₃. MnO. Fe. Ni. S. C.  
 I\. 48,00. 22,05. 6,00. -,-. 21,78. 1,60. unbest.  
 II\. 51,0. 20,5. -,-. 4,20. 19,8. 1,5. 3,0.
 
@@ -1272,7 +1272,7 @@ Die Rinde ist schwärzlich, matt, ziemlich dick, runzelig.
 
 Die dunkelgraue, stark rostbraun gefleckte, feste Grundmasse enthält sehr wenige kugelige Einschlüsse, stellenweise feine schwarze Adern und meist fein eingesprengtes Eisen, das aber auch in linsen- bis bohnengrossen Körnern, sowie in unvollkommnen Würfeln auftritt. Schwefeleisen ist nur sehr fein eingesprengt, wurde aber von Vauquelin bei der Analyse vernachlässigt. Er fand:
 
-SiO₃. MgO. CaO. Fe2O3. NiO. Sa.  
+SiO₃. MgO. CaO. Fe₂O₃. NiO. Sa.  
 46. 15. 2. 38. 2. 103.
 
 Literatur: Gilb. Ann. 13, 346. 421. 15, 320. 328. 429. 18, 284.
@@ -1370,7 +1370,7 @@ Die Grundmasse ist lichtgrau, etwas ins Dunkle und Braune ziehend, körnig und i
 
 Sage analysirte den Stein, ohne an seine meteorische Natur zu glauben. Er fand Nickel, Eisen, Schwefeleisen, Kieselerde und Magnesia. Ohne von Howards Untersuchungen Kenntniss zu haben, unterwarf auch Vauquelin den Stein einer Analyse und fand, nachdem alles Eisen und Schwefeleisen entfernt waren:
 
-SiO₃. Fe2O3. MgO. Ni. CaO. Sa.  
+SiO₃. Fe₂O₃. MgO. Ni. CaO. Sa.  
 46. 38. 15. 2. 2. 103.
 
 Literatur: Sage Journ. de Phys. 1803. Avr. p. 314. De Dree Gilb. Ann. 15, 274. 18, 269. Vauquelin ebd. 33, 200.
@@ -1397,7 +1397,7 @@ Die hellgraue, sehr weiche Grundmasse ist ganz angefüllt mit theils kugeligen, 
 
 Die erste Analyse machte Howar», der getrennt untersuchte: 1. die erdige Matrix, 2. die runden Einschlüsse, 3. das hämmerbare Eisen und 4. das Schwefeleisen. VaugqukLin analysirte die Masse ebenfalls 5.
 
-SiO₃. MgO. Fe2O3. NiO. Fe. Ni. S. Sa.  
+SiO₃. MgO. Fe₂O₃. NiO. Fe. Ni. S. Sa.  
 1\. 48. 18. 34. 2,5. -,-. -,-. -,-. 102,5 Howard,  
 2\. 50. 15. 34. 2,5. -,-. -,-. -,-. 101,5 Howard,  
 3\. -,-. -,-. -,-. -,-. 73,91. 26,09. -,-. 100,0 Howard,  
@@ -1454,7 +1454,7 @@ Die feinkörnige graue Grundmasse ist rostbraun gefleckt und enthält einzelne, 
 
 Laugier fand bei der Analyse:
 
-SiO₃. MgO. FeO. MnO. NiO. Cr2O3. S. Verl. u. Wasser (?)  
+SiO₃. MgO. FeO. MnO. NiO. Cr₂O₃. S. Verl. u. Wasser (?)  
 34. 14,5. 38,03. 0,83. 0,33. 0,01. 9. 3,31.
 
 Literatur: Gilb. Ann. 16, 72. 18, 321.
@@ -1478,7 +1478,7 @@ Die Grundmasse ist graulichweiss, sehr feinkörnig, ziemlich locker, ähnlich Bi
 
 Die Analyse von Imhof ist mangelhaft:
 
-SiO₃. MgO. Fe2O3. Fe. Ni.  
+SiO₃. MgO. Fe₂O₃. Fe. Ni.  
 31. 23,25. 32,54. 1,8. 1,35.
 
 Im Verlust von 10,06% sind Schwefel, Chrom etc. enthalten.
@@ -1515,7 +1515,7 @@ Im Innern ist die Masse dunkelaschgrau oder bläulich und durch eine Menge Rostf
 
 Die Analyse von Scheerer ist zweifelhaft richtig, gibt auch keinen Aufschluss über die Richtigkeit der Angabe, dass der Stein einen salzigen Geschmack gehabt.
 
-SiO₃. MgO. CaO. MnO. Cr203. Al2O3. Fe. Ni. S. Sa.  
+SiO₃. MgO. CaO. MnO. Cr203. Al₂O₃. Fe. Ni. S. Sa.  
 40,50. 9,00. 6,25. 1,25. 2,00. 3,25. 18,50. 10,00. 8,12. 98.87.
 
 Literatur: Scheerer Mem. Ac. Petersb. 6. Hist. 46. Stoikowitz Gilb. Ann. 29, 212. 31, 308.
@@ -1565,7 +1565,7 @@ Ganz eigenthümlicher Stein, ähnlich einer erdigen Kohle. Die Rinde ist bräunl
 
 Die Analysen von Tugnarp, der Commission des Institut de France (Monge, Fourcroy, Berthollet und Vauquelin) und von Berzelius lassen zweifelhaft, ob der Stein ursprünglich Wasser enthielt. Entweder wurde der Verlust als Wasser angenommen oder das von Berzelius nachgewiesene Wasser kann auch hygroskopisch aufgenommen worden sein. Am genauesten ist die letzte Analyse. Nach Berzelius lässt sich die Masse beim Behandeln mit Wasser scheiden in
 
-1\. 13,28% mit dem Magnet Ausziehbares; schwarz, glanzlos; vorzugsweise FeOFe2O3, Spuren von Fe und FeS.
+1\. 13,28% mit dem Magnet Ausziehbares; schwarz, glanzlos; vorzugsweise FeOFe₂O₃, Spuren von Fe und FeS.
 
 2\. 11,59% in Wasser Lösliches (MgOSO3, CaOSO3, NaOSO3, KOSO3); Spuren von Ni, NH3, und einer organischen Substanz. Die meisten dieser Verbindungen bildeten sich vielleicht erst im Laufe der Zeit durch die Einwirkung des oxydirten Schwefeleisens auf die Silikate.
 
@@ -1581,7 +1581,7 @@ d\. 6,582%, Wasser. Die entweichende SO2 wurde nicht besonders bestimmt.
 
 Hier folgen die Analysen von Thenard I., der Commission II. und Berzeuius III.
 
-SiO₃. MgO. FeO. Mn. NiO. Cr. C. S. Al2O3. CaO. * *  
+SiO₃. MgO. FeO. Mn. NiO. Cr. C. S. Al₂O₃. CaO. * *  
 I\. 21. 9. 40. 2,0. 2,5. 1. 2,5. 3,5. -,-. -,-. -,-. -,-.  
 II\. 30. 11. 38. 2. 2 (Ni). 2. 2,5. -,-. -,-. -,-. -,-. -,-.  
 III\. 31,22. 22,21. 29,03. 0,26 (MnO). 1,38. 0,63* -,-. -,-. 2,36. 0,32. 0,80. 8,69.
@@ -1613,7 +1613,7 @@ Aus der heller oder dunkler aschgrauen, sehr klein-rostfleckigen, erdigen Grundm
 
 Analysen wurden von Scheerer I. und Klaproth II. ausgeführt:
 
-SiO₃. MgO. Fe. Fe2O3. Ni. (MnO. S. Cr. Verl.) Al2O3. CaO.  
+SiO₃. MgO. Fe. Fe₂O₃. Ni. (MnO. S. Cr. Verl.) Al₂O₃. CaO.  
 I\. 39. 20. 17,75. 17,5. 1,25. (4,5.) -,-. -,-.  
 II\. 38. 14,25. 17,6. 25. 0,4. (3.) 1. 0,75.
 
@@ -1643,7 +1643,7 @@ Die Rinde ist braunschwarz, matt und rissig, sehr uneben. Innen herrscht die dun
 
 Analysen lieferten Silliman I. und Warden II.:
 
-SiO₃. Fe2O3. MgO. NiO. S. CaO. Al2O3. Cr2O3. MnO. Sa.  
+SiO₃. Fe₂O₃. MgO. NiO. S. CaO. Al₂O₃. Cr₂O₃. MnO. Sa.  
 I\. 51,5. 38. 13. 1,5. 1. -,-. -,-. -,-. -,-. 104.  
 II\. 41. 30.* 16. -,-. 2,3. 3. 1. 2,3. 1,3. 97.  
 
@@ -1684,7 +1684,7 @@ In der lichtgrauen Grundmasse liegen viele kleine kugelige und eckige Einschlüs
 
 Nach der Analyse von Guiporti besteht der Stein aus
 
-SiO₃. MgO. FeO. MnO. NiO. Cr2O3. S.  
+SiO₃. MgO. FeO. MnO. NiO. Cr₂O₃. S.  
 50,0. 19,0. 28,0. 1,5. 2,5. 1,0. 4.
 
 Das Schwefeleisen fand er wenig nickelhaltig. Vauquelin wies in der Steinmasse 0,15%, Thonerde nach.
@@ -1720,18 +1720,18 @@ Die Grundmasse ist locker und porös und ganz gleichmässig hellgrau bei einem i
 
 Aeltere Analysen existiren von v. Moser 1., Vauquelin 2. und Klaproth 3.
 
-SiO₃. Al2O3. Fe2O3. CaO. MnO. MsO. Cr. S. aq Verl.  
+SiO₃. Al₂O₃. Fe₂O₃. CaO. MnO. MsO. Cr. S. aq Verl.  
 1\. 46,25. 7,12. 27. 12,13. 0,75. 2,50. Spur. 5.  
 
-SiO₃. Al2O3. Fe2O3. CaO. MnO. NiO. S.  
+SiO₃. Al₂O₃. Fe₂O₃. CaO. MnO. NiO. S.  
 2\. 50. 9. 29. 12. 1. Spur. Spur.  
 
-SiO₃. Al2O3. Fe. CaO. MgO. S. MnO. und Verl.  
+SiO₃. Al₂O₃. Fe. CaO. MgO. S. MnO. und Verl.  
 3\. 48,25. 14,50. 23. 9,50. 2. 2,25.
 
 Wissenschaftlicher und genauer ist die von RAMMELSBERG, der ausser derGesammtanalyse 1. die des durch Salzsäure zersetzbaren Theils, 34,98%, 2. und des unzersetzbaren Theils (65,02%) 3. gab.
 
-SiO₃. Al2O3. Fe2O3. FeO. MnO. CaO. MgO. NaO. KO. FeOCr2O3. FeS.  
+SiO₃. Al₂O₃. Fe₂O₃. FeO. MnO. CaO. MgO. NaO. KO. FeOCr₂O₃. FeS.  
 1\. 48,30. 12,65. -,-. 19,32. 0,81. 11,27. 6,87. 0,62. 0,26. 0,54. Sp.  
 2\. 46,19. 31,26. 2,93 -,-. -,-. 16,98. 1,12. 1,14. 0,50. 0,83. -,-.  
 3\. 49,44. 2,64. -,-. 28,31. 1,25. 8,20. 9,97. 0,35. 0,10. -,-. -,-.
@@ -1761,7 +1761,7 @@ Das Innere ist dicht, feinkörnig, lichtaschgrau und an den Kanten hie und da et
 
 Klaproth fand bei der Analyse:
 
-SiO₃. Al2O3. MgO. CaO. Fe. Ni. MnO. S. u. Verl.  
+SiO₃. Al₂O₃. MgO. CaO. Fe. Ni. MnO. S. u. Verl.  
 43. 1,25. 22. 0,50. 29. 0,5. 0,25. 3,5.
 
 Literatur: Gilb. Ann. 30, 358. 32, 126. 50, 254. Klaproth Beiträge 5, 246.
@@ -1823,7 +1823,7 @@ Die Rinde ist schwarz und sehr dünn, matt, etwas schimmernd. Das Innere ist dun
 
 Die Analyse von Vauquelin ergab:
 
-SiO₃. Fe. MgO. Al2O3. CaO. Cr. Mn. Ni. S. Sa.  
+SiO₃. Fe. MgO. Al₂O₃. CaO. Cr. Mn. Ni. S. Sa.  
 38,4. 25,8. 13,6. 3,6. 4,2. 1,5. 0,6. 6. 5. 98,7.
 
 Literatur: Gilb. Ann. 37, 349. 40, 83. 41, 450 (hier ist irrthümlich 1811 statt 1810 als Falljahr angegeben).
@@ -1918,10 +1918,10 @@ Die Grundmasse ist dunkelaschgrau, gleichmässig gemengt und sehr dicht, kleinku
 
 Analysirt wurde der Stein von Klaproth 1. und Stromeyer 2.:
 
-Fe. Ni. Cr. Mn. SiO₃. MgO. Al2O3. CaO. S. u. Verl.  
+Fe. Ni. Cr. Mn. SiO₃. MgO. Al₂O₃. CaO. S. u. Verl.  
 1\. 31. 0,25. 1. 0,25. 39,50. 26,50. 1,25. 0,50. 3,75.
 
-Fe. Ni. Cr2O3. MnO. SiO₃. MgO. Al2O3. CaO. S. u. Verl.  
+Fe. Ni. Cr₂O₃. MnO. SiO₃. MgO. Al₂O₃. CaO. S. u. Verl.  
 2\. 24,415. 1,579. 0,246. 0,704. 36,320. 23,584. 1,605. 1,922. 2,952. 5,574. 0,741. 0,358.
 
 Literatur: Vieth Gilb. Ann. 40, 450. Hausmann ebd. Gilbert ebd. 41, 96. Stromeyer ebd. 42, 105. Klaproth Beitr. 6, 305.
@@ -1951,7 +1951,7 @@ Vauquelins Analyse wurde nicht bekannt. Berzelius veröffentlichte 4832 seine An
 
 2\. durch Säure zersetzbar 51,12%.
 
-SiO₃. MgO. FeO. NiO.* NaO. KO. Al2O3. CaO. MnO. FeOCr203.  
+SiO₃. MgO. FeO. NiO.* NaO. KO. Al₂O₃. CaO. MnO. FeOCr203.  
 1\. 56,252. 20,396. 9,723. 0,138. 1,000. 0,512. 6,025. 3,106. 0,690. 1,100.  
 2\. 32,607. 34,357. 28,801. 0,456. 0,977. 0,977. -,-. -,-. 0,824. -,-.
 
@@ -1983,7 +1983,7 @@ Die Grundmasse ist dunkelaschgrau, rostbraun gefleckt und mit meist undeutlichen
 
 Arsoan analysirte den Stein 1. ohne Scheidung der durch den Magnet ausziehbaren Theile, 2. den Rückstand, nachdem die durch den Magnet ausziehbaren Theile abgeschieden waren.
 
-SiO₃. MgO. CaO. FeO. NiO. Cr2O3. Fe. Ni. S. Alkal.  
+SiO₃. MgO. CaO. FeO. NiO. Cr₂O₃. Fe. Ni. S. Alkal.  
 1\. 39,10. 21,32. 0,26. 8,85. -,-. 2,30. 24,81. 1,14. 1,50. 0,74.  
 2\. 44,12. 31,36. -,-. 18,26. 0,33. -,-. 3,92. -,-. 2,04. -,-.
 
@@ -2005,7 +2005,7 @@ Die Grundmasse ist lichtaschgrau, körnig, wenig zusammenhängend, doch ungleich
 
 Analyse des löslichen Theils von Berzelius:
 
-SiO₃. MgO. FeO. MnO. CuO. Al2O3. KO, NaO. (Olivin).  
+SiO₃. MgO. FeO. MnO. CuO. Al₂O₃. KO, NaO. (Olivin).  
 37,411. 32,922. 28,610. 0,793. Spur. 0,264. Spur.
 
 Der unlösliche Theil (6,37%) hat die Zusammensetzung wie bei Blansko und Chantonnay mit etwa 1% Chromeisen mit Zinn.
@@ -2026,7 +2026,7 @@ Der Stein ist mit einer schimmernden schwarzen Rinde bedeckt; die Grundmasse ist
 
 v. Reichenbach analysirte miskroskopisch einen der kleinen Einschlüsse. - Giese lieferte eine chemische Analyse. Er fand:
 
-SiO₃. MgO. Al2O3. Fe. Ni. Mn. Cr2O3, S.  
+SiO₃. MgO. Al₂O₃. Fe. Ni. Mn. Cr₂O₃, S.  
 44. 18. 3. 21. 2,5. 1. 1.
 
 Nach Wöhlers Analyse besteht der Stein aus:
@@ -2101,12 +2101,12 @@ Wenn schon die oryktognostische Beschreibung dieser Localität von den meisten a
 
 Er fand:
 
-SiO₃. MgO. Fe2O3. Cr.  
+SiO₃. MgO. Fe₂O₃. Cr.  
 33,9. 32,0. 31,0. 2,0.
 
 Damour fand bei der Analyse:
 
-SiO₃. MgO. FeO. MnO. Cr2O3. KO. X.  
+SiO₃. MgO. FeO. MnO. Cr₂O₃. KO. X.  
 35,30. 31,76. 26,70. 0,45. 0,75. 0,66. 3,77.
 
 (X. = Chromeisen und Pyroxen).
@@ -2127,7 +2127,7 @@ Die hellaschfarbene Grundmasse enthält unregelmässig beigemengte graue Körner
 
 Laugier unterwarf den Stein einer Analyse und fand:
 
-SiO₃. MgO. Al2O3. Fe2O3. CaO. Ni. Cr. S. Sa.  
+SiO₃. MgO. Al₂O₃. Fe₂O₃. CaO. Ni. Cr. S. Sa.  
 41. 14,9. 0,75. 45. 2. 1. 0,75. 4. 109,4.
 
 Literatur: Gilb. Ann. 75, 264. Erman Archiv 5, 178. Poggend. Ann. 111, 372.
@@ -2160,13 +2160,13 @@ Fe. Ni. Fe. S.
 47,5% zersetzbar. 52,5%, nicht zersetzbar.
 
 SiO₃. 28,7. 49,83.  
-FeO. 29,6. Fe2O3 9,52.  
+FeO. 29,6. Fe₂O₃ 9,52.  
 MgO. 40,0. 14,48.  
 NaO. 0,9. 1,47.  
 KO. 0,8. 3,22.  
 MnO. -,-. 4,57.  
-Cr2O3. -,-. 0,95.  
-Al2O3. -,-. 5,33.  
+Cr₂O₃. -,-. 0,95.  
+Al₂O₃. -,-. 5,33.  
 CaO. -,-. 3,54.  
 NiO. -,-. 0,19.  
  100,0. 93,10.
@@ -2213,7 +2213,7 @@ Im Innern sind 2 Massen zu unterscheiden, eine grünlichgraue oder braune, die f
 
 Nach der Analyse von Laugier besteht der Stein aus:
 
-SiO₃. MgO. CaO. Fe2O3. Mn2O3. Cr2O3. Al2O3. S. Sa.  
+SiO₃. MgO. CaO. Fe₂O₃. Mn₂O₃. Cr₂O₃. Al₂O₃. S. Sa.  
 46. 1,6. 7,5. 36. 2,8. 1. 6. 1,5. 102,4.
 
 Literatur: Gilb. Ann. 68, 335.
@@ -2243,7 +2243,7 @@ Fe. Ni. S.
 Nickeleisen 14,812 = Fe 13,446. Ni 1,365.  
 Schwefeleisen 6,739 = Fe 4,044. S 2,695.
 
-SiO₃. MgO. Al2O3. FeO. MnO. Cr2O3.  
+SiO₃. MgO. Al₂O₃. FeO. MnO. Cr₂O₃.  
 38,059. 29,93. 3,468. 4,896. 1,146. 0,130.
 
 Literatur: Gilb. Ann. 63, 217. 451. 68, 336. Eine Zusammenstellung des Geschichtlichen, namentlich auch der Protokolle und Zeugenaussagen findet sich im 3. Jahresber. der Gesellsch. von Freunden der Naturwiss. in Gera. 1860.
@@ -2269,10 +2269,10 @@ Die Grundmasse ist licht- bis fast dunkelaschgrau; der Bruch ist erdig, doch kan
 
 Analysen von Laugier 1. und Grothuss 2.:
 
-SiO₃. Fe2O3. MgO. S. Ni. Cr. CaO. Mn,Cu. FeO. Al2O3.  
+SiO₃. Fe₂O₃. MgO. S. Ni. Cr. CaO. Mn,Cu. FeO. Al₂O₃.  
 1\. 34. 40. 17. 6,8. 1,5. 1. 0,5. Spur. -,-. -,-.  
 
-SiO₃. Fe. MgO. S. Ni. Cr. CaO. Mn,Cu. FeO. Al2O3.  
+SiO₃. Fe. MgO. S. Ni. Cr. CaO. Mn,Cu. FeO. Al₂O₃.  
 2\. 33,2. 26. 10,8. 3,5. 2. 0,7. 0,5. -,-. 22. 1,3.
 
 Nach I. lässt sich 1/4, mit dem Magnet ausziehen. Grortnuss hält die helleren nicht magnetischen Körner für Anorthit oder Labrador, die gelblichbraunen für Olivin oder Granat, und die schwarzen, die viel grösser und seltner sind, für Augit. Unter den metallischen Körnern sind sehr kleine körnige Krystalle von Magnetkies, und dicht gedrängte und stark glänzende Körner von Nickeleisen, welches auch in dünnen Blättchen gleichsam als Skelet auftritt.
@@ -2298,16 +2298,16 @@ Das Innere, sehr ähnlich dem Dolerit des Meissner, ist ein körniges, ziemlich 
 
 Die älteren Analysen von Vauquelin 1. und Laugier 2. sind mangelhaft.
 
-SiO₃. Al2O3. Fe, Mn. CaO, MgO. S. Cr. Cu. KO. Sa.  
+SiO₃. Al₂O₃. Fe, Mn. CaO, MgO. S. Cr. Cu. KO. Sa.  
 1\. 40. 13,4. 27. 27. 8. 8. 11,6. 11,6. 11,6. 11,6. 100.  
-SiO₃. Al2O3. Fe2O3. MnO. CaO, MgO. S. Cr. Cu. KO. Sa.  
+SiO₃. Al₂O₃. Fe₂O₃. MnO. CaO, MgO. S. Cr. Cu. KO. Sa.  
 2\. 40. 10,4. 23,5. 6,5. 9,2. 0,8. 0,5. 1. 0,1. 0,2. 92,2.
 
 Sehr sorgfältig und maassgebend für viele darauf folgende Analysen war aber die Rammelsberg's. Sie ergab 36,77%, durch Säuren zersetzbaren Theil 1. und 63,23% nicht zersetzbaren 2.
 
-SiO₃. Al2O3. Fe2O3. CaO. MgO. NaO. KO. PO5. FeS.  
+SiO₃. Al₂O₃. Fe₂O₃. CaO. MgO. NaO. KO. PO5. FeS.  
 1\. 44,38. 33,73. 3,29. 18,07. 0,36. 1,03. 0,33. 0,54. 0,71.  
-SiO₃. Al2O3. FeO. CaO. MgO. NaO. TiO2. FeOCr2O3.  
+SiO₃. Al₂O₃. FeO. CaO. MgO. NaO. TiO2. FeOCr₂O₃.  
 2\. 52,07. 0,24. 30,81. 5,68. 9,98. 0,41. 0,16. 2,13.
 
 Danach bestände der Stein aus etwa  
@@ -2349,7 +2349,7 @@ Die hellgraue, rostbraun gefleckte Grundmasse enthält eine grosse Menge kleiner
 
 Die Analyse von Vauquelin ergab:
 
-SiO₃. Fe2O3. Fe. S. Cr2O3. NiO. MsO. CaO, KO. Sa.  
+SiO₃. Fe₂O₃. Fe. S. Cr₂O₃. NiO. MsO. CaO, KO. Sa.  
 35. 31,37. 22. 2,25. 0,25. 0,50. 4,25. 1,25. 96,82.
 
 Literatur: Gilb. Ann. 72, 323. 75, 231. 258.
@@ -2397,7 +2397,7 @@ Die Rinde ist ein vollkommen geschmolzenes, glänzendes Glas, die Innenmasse ist
 
 Eine Analyse liegt vor von Webster:
 
-SiO₃. Al2O3. CaO. MgO. Fe. Ni. S. Cr.  
+SiO₃. Al₂O₃. CaO. MgO. Fe. Ni. S. Cr.  
 29,6. 4,7. Spur. 24,8. 14,9. 2,3. 18,3. 4.
 
 Diese Analyse ist jedenfalls nur höchst zweifelhaft richtig, denn der Schwefel- und Chromgehalt ist gewiss, und der Gehalt an Eisen und Nickel wahrscheinlich auch zu hoch angegeben. Shepard fand weder Nickeleisen noch Magnetkies.
@@ -2422,7 +2422,7 @@ v. Reichenbach untersuchte mikroskopisch einen der vielen runden oder eirunden E
 
 Nach der Analyse von Laugier besteht der Stein aus:
 
-SiO₃. MgO. F2O3,. NiO. Cr2O3. S. Sa.  
+SiO₃. MgO. F2O3,. NiO. Cr₂O₃. S. Sa.  
 41,75. 16. 43. 1,25. 1,50. 1. 104,5.
 
 Um das Eisenoxyd als Eisen in Rechnung zu bringen, zieht er 9,2 Sauerstoff ab und bekommt so die Sa. 95,3. Nach Cordier ist das weisse Magnesiasilikat (15%) eine neue Mineralart; er fand darin mikroskopisch kleine grüne Krystalle, ähnlich dem Olivin; die metallischen Theilchen (8%) treten auch nur mikroskopisch auf und bestehn aus Eisen, Nickel, Chrom und Schwefel.
@@ -2493,9 +2493,9 @@ Die braune und sehr harte Rinde ist rauh und matt und mit feinen Sprüngen durch
 
 Nach der Analyse von Chilton besteht er aus:
 
-SiO₃. MgO. CaO. Fe2O3. NiO. Al2O3. S. Sa.  
+SiO₃. MgO. CaO. Fe₂O₃. NiO. Al₂O₃. S. Sa.  
 1\. 59,6. 10,4. 7,8. 24,6. 3,2. 0,2. 5,08. 104,88.  
-SiO₃. MgO. CaO. Fe. Ni. NiO. Al2O3. S. Sa.  
+SiO₃. MgO. CaO. Fe. Ni. NiO. Al₂O₃. S. Sa.  
 2\. 13,84. 13,84. 13,84. 96,00. 5,00. -,-. -,-. -,-. 114,84.
 
 1. Nicht magnetischer, 2. magnetischer Theil.
@@ -2561,11 +2561,11 @@ FeO. (z. Th. met.) 12,000. 22,70. 32,10.
 MnO. -,-. 2,08. -,-.  
 MgO. 23,833. 18,50. 1,48.  
 CaO. -,-. 0,30. -,-.  
-Al2O3. 2,466. 0,23. -,-.  
+Al₂O₃. 2,466. 0,23. -,-.  
 NiO (Co). 2,166.* 2,08. 1,85.  
 S. 2,443. 1,80. 2,47.  
-Fe2O3. 12,200. Sn. 0,10. -,-.  
-Cr2O3. 0,833. KO. 0,02. -,-.
+Fe₂O₃. 12,200. Sn. 0,10. -,-.  
+Cr₂O₃. 0,833. KO. 0,02. -,-.
 --. -,-. NaO. 0,35. -,-.
 
 *) entspricht 1,704 Ni.
@@ -2608,7 +2608,7 @@ Das Innere ist dunkelaschgrau, weissgrau gesprenkelt und da und dort mit braunen
 
 Nach Shepard besteht die Hauptmasse des Steins (etwa 90%, der erdigen Masse des Steins), Olivin aus:
 
-SiO₃. MgO. FeO., sowie NaO, Cr2O3. und S.  
+SiO₃. MgO. FeO., sowie NaO, Cr₂O₃. und S.  
 42,3. 31,46. 20,67.
 
 Ferner findet sich darin ein feldspathartiges Mineral, wahrscheinlich Labrador, dann phosphorsaurer Kalk in sehr kleinen Mengen, als kleine gelblichgrüne durchsichtige Körnchen und in kleinen Kugeln und Nieren, Howardit, die weissgrauen Einschlüsse in der dunkeln Grundmasse, ferner Magnetkies, der krystallinische Ueberzug der Höhlungen, sowie Nickeleisen in mittelfein eingesprengten Körnern, welches besteht aus:
@@ -2638,7 +2638,7 @@ Die Rinde ist matt und dick, die feinkörnige Grundmasse grau, rostbraun gefleck
 
 Nach der Analyse von Shepard besteht der Stein seinen Mineralbestandtheilen nach aus:
 
-SiO₃. FeO. MgO. CaO. Al2O3. Sa.  
+SiO₃. FeO. MgO. CaO. Al₂O₃. Sa.  
 50,00. 33,33. 9,30. 5,30. 1,80. 99,73.
 
 Er berechnet die Zusammensetzung des Steins aus:
@@ -2790,7 +2790,7 @@ P|Spur.
 2\. Grundmasse 82,85%  
 a. mit HCl zersetzb. 42,67%|b. nicht zersetzb. 39,43%  
 SiO₃|33,084.|57,012-57,145.  
-Al2O3|0,329.|4,792-5,590.  
+Al₂O₃|0,329.|4,792-5,590.  
 CaO|-,-.|1,437-3,106.  
 MgO|36,143.|24,956-21,843.
 FeO|26,935.|8,362-8,592.
@@ -2798,7 +2798,7 @@ MnO|0,465.|0,557-0,724.
 NiO (Sn u. Cu-haltig)|0,465.|0,0-0,021.  
 NaO|0,857.|0,0-0,931.  
 KO|0,429.|0,0-0,010.  
-FeO Cr2O3|-,-.|1,306-1,533.
+FeO Cr₂O₃|-,-.|1,306-1,533.
 
 Im Ganzen  
 Nickeleisen m. etw. Schwefeleisen|20,14.  
@@ -2943,7 +2943,7 @@ Die ganze Masse des Steines ist schwarz, matt, weich, bolartig und enthält kein
 
 Faraday fand bei der chemischen Analyse:
 
-SiO₃. FeO. MgO. Al2O3. CaO. NiO. Cr2O3. Co, Na.  
+SiO₃. FeO. MgO. Al₂O₃. CaO. NiO. Cr₂O₃. Co, Na.  
 28,9. 33,22. 19,2. 5,22. 1,64. 0,82. 0,7. Spur.
 
 Doch bleibt durch dieselbe vollkommen unentschieden, woher die merkwürdige schwarze Farbe rührt. Harris analysirte daher nochmals und fand, dass die schwarze Farbe von fast 2%, amorpher Kohle herrührt. Ausserdem wies er noch eine organische kohlehaltige Verbindung nach. Das Ergebniss der Untersuchung war:
@@ -3123,7 +3123,7 @@ Die schwarze Rinde ist matt und schimmert nur schwach an einigen Stellen. Die he
 
 Die Analyse ist von Dufresnoy. Er findet im Gesammt:
 
-SiO₃. FeO. MgO. Mn. Al2O3. CaO. Fe. Ni. S. KO. NaO.  
+SiO₃. FeO. MgO. Mn. Al₂O₃. CaO. Fe. Ni. S. KO. NaO.  
 38,13. 29,44. 17,67. Sp. 3,82. 0,14. 7,7. 1,55. 0,39. 0,27. 0,86.
 
 Hiervon sind in Salzsäure leicht zersetzbar 51%.
@@ -3175,7 +3175,7 @@ Die Rinde ist dünn und schwarz, matt oder schwach schimmernd. Die hellgraue, et
 
 Eine Analyse von Nendtvich ergab:
 
-NiS. FeS2. FeO Fe2O3. Al2O3. MgO. SiO₃. MnO Mn2O3.  
+NiS. FeS2. FeO Fe₂O₃. Al₂O₃. MgO. SiO₃. MnO Mn₂O₃.  
 0,79. 3,13. 20,08. 9,02. 26,27. 40,40. 0,07.
 
 Literatur: Kocevar Poggend. Ann. 56, 349. Rosthorn Leonh. u. Bronn N. Jahrb. 1843, 79. Nenprvica in Sadler A kiralyi magyar termeszettudomanyi tarsulat evkönyvei. 1, 1841-1845. Pesten. 33.
@@ -3232,7 +3232,7 @@ Schon die Rinde zeigt viel Abweichendes und Merkwürdiges. Sie ist im Allgemeine
 
 Analysen liegen von Shepard 1. und Sartorius v. Waltershausen 2. 3. vor:
 
-SiO₃. Al2O3. MgO. Fe2O3. CaO. NaO. HO.  
+SiO₃. Al₂O₃. MgO. Fe₂O₃. CaO. NaO. HO.  
 1\. 70,71. -,-. 28,25. -,-. -,-. 1,39. -,-.  
 2\. 67,14. 1,48. 27,11. 1,70. 1,82. -,-. 0,67.  
 3\. 68,35. 1,50. 27,60. -,-. 1,85. -,-. 0,68.
@@ -3253,7 +3253,7 @@ Jedenfalls ist die Hauptmasse kieselsaure Magnesia mit einer kleinen Menge eines
 
 Rammelsberg untersuchte den Stein aufs Neue. Er bemerkte an der weissen Hauptmasse nichts von Krystallen, nur leichte Spaltbarkeit. Seine Analyse ergab:
 
-SiO₃. Al2O3. Fe2O3. MnO. MgO. CaO. NaO. KO. X.  
+SiO₃. Al₂O₃. Fe₂O₃. MnO. MgO. CaO. NaO. KO. X.  
 57,52. 2,72. 1,25. 0,20. 34,80. 0,66. 1,14. 0,70. 0,80.
 
 X. Glühverlust.
@@ -3298,9 +3298,9 @@ CaO|0,205-0,170.|3,002.
 MgO|17,681-17,750.|17,936.  
 MnO Sp.|17,681-17,750.|1,425.  
 NiO|0,326-0,349.|1,425.  
-Al2O3|0,064-0,066.|4,854-4,229.  
+Al₂O₃|0,064-0,066.|4,854-4,229.  
 FeO|10,351-10,130.|11,689-11,090.  
-FeO Cr2O3|10,351-0,226.|2,176.  
+FeO Cr₂O₃|10,351-0,226.|2,176.  
 CuO|0,028-0,023.|0,528-0,610.  
 ZnO|0,028-0,023.|-,-.  
 CoO|Spur.|-,-.  
@@ -3449,7 +3449,7 @@ Haughton fand bei der Analyse:
 1\. In Säure nicht zersetzbar 34,18%.
 
 SiO₃|55,01.  
-Al2O3|5,35.  
+Al₂O₃|5,35.  
 FeO|12,18.  
 CaO|3,41.  
 MgO|24,03.  
@@ -3626,8 +3626,8 @@ Nicht zersetzbar.
 SiO₃|57,10.  
 MgO|19,46.  
 CaO|1,47.  
-Al2O3|5,62.  
-Fe2O3|14,72.  
+Al₂O₃|5,62.  
+Fe₂O₃|14,72.  
 u. Spuren von Chromeisen u. Zinnstein.
 
 Im Ganzen.  
@@ -3655,7 +3655,7 @@ Die Rinde ist dünn, schwarz und sehr zusammenhängend; die Farbe der Grundmasse
 
 Nach der Analyse von Shepard besteht der Stein aus:
 
-SiO₃. FeO. MgO. Al2O3. CaO. {Fe. Ni. Cr.} FeS. {K. Na. Verl.}  
+SiO₃. FeO. MgO. Al₂O₃. CaO. {Fe. Ni. Cr.} FeS. {K. Na. Verl.}  
 56,168. 18,108. 10,406. 1,797. Spur. 6,320. 3,807. 3,394.
 
 Am verwandtesten scheint der Stein mit Tabor zu sein.
@@ -3678,7 +3678,7 @@ Die Rinde ist schwärzlichbraun, matt, sehr dünn; nur stellenweise zeigen sich 
 
 Analysen liegen vor von Piddington 1. und v. Hauer 2.
 
-SiO₃. Fe2O3. FeO. MgO. CaO. Al2O3. Cr2O3. S. HO. As.  
+SiO₃. Fe₂O₃. FeO. MgO. CaO. Al₂O₃. Cr₂O₃. S. HO. As.  
 1\. 68,6. 26,8. -,-. -,-. -,-. 0,5. 2. 0,1. 0,12. Sp.  
 2\. 57,66. -,-. 20,65. 19,00. 1,53. Spur. -,-. -,-. -,-. -,-.
 
@@ -3767,7 +3767,7 @@ Die Rinde ist schwarz, das Innere grau mit schmutzigweissen Flecken; auch sind v
 
 Wöhler und Atkinson haben den Stein analysirt: Ein Hauptbestandtheil ist 18%, Eisen mit 1,45% Nickel und 0,05% Kobalt; auch Phosphor in Spuren wurde nachgewiesen. In noch mehr wechselnder Menge tritt Einfachschwefeleisen auf, das auch mit blossen Augen da und dort zu erkennen ist. 0,25% Graphit wird nach dem Auskochen des Steins mit Salzsäure in glänzenden Blättchen sichtbar. Die dunkle Grundmasse scheint aus durch Säure zersetzbaren Silikaten 1. zu bestehn, die darin sitzenden rundlichen Partien aber hauptsächlich aus unzersetzbaren 2.
 
-MgO. Al2O3. CaO. NaO. KO. SiO₃. FeO. Graphit.  
+MgO. Al₂O₃. CaO. NaO. KO. SiO₃. FeO. Graphit.  
 1\. 37,46. 5,08. 1,70. 3,44. 0,30. 51,84. -,-. -,-.  
 2\. 15,29. 1,85. 3,05. 1,91. 1,13. 60,70. 15,25. 0,82.
 
@@ -3794,10 +3794,10 @@ Nach der Analyse von Nurisany lassen sich 18,26%, mit dem Magnete ausziehen 1. V
 Fe. Ni, Co. Cu, Sn. S. P. Sa.  
 1\. 85,14. 10,06. 0,40. 4,19. 0,18. 99,97.  
 
-SiO₃. Al2O3. Fe. O.* Ni, Mn. CaO. MgO. KO. NaO. S. *  
+SiO₃. Al₂O₃. Fe. O.* Ni, Mn. CaO. MgO. KO. NaO. S. *  
 2\. 30,77. 2,62. 27,29. 4,05. 1,51. 1,02. 30,93. 0,43. 1,08. 0,30. -,-.
 
-SiO₃. Al2O3. Fe. FeO. Ni, Mn. CaO. MgO. KO. NaO. S. *  
+SiO₃. Al₂O₃. Fe. FeO. Ni, Mn. CaO. MgO. KO. NaO. S. *  
 3\. 56,37. 4,13. -,-. 11,89. -,-. -,-. 3,84. 17,39. 1,12. 3,66. -,-. 1,60.
 
 *) O aus dem Verlust bestimmt.
@@ -3929,7 +3929,7 @@ Die Grundmasse ist undeutlich feinkörnig, eine Verbindung von dunkleren und hel
 
 Analyse von Wöhler:
 
-Fe. Ni. SiO₃. MgO. FeO. Al2O3. NaO. KO. X. C.  
+Fe. Ni. SiO₃. MgO. FeO. Al₂O₃. NaO. KO. X. C.  
 21,61. 1,89. 45,40. 22,40. 4,36. 2,34. 1,18. 0,37. 0,31. 0,14.
 
 X. = Chromeisen. C. = Graphit.
@@ -3968,7 +3968,7 @@ Die Rinde ist pechartig glänzend, schwarz und dünn, das Innere asch- bis perlg
 
 - Nach der Analyse von J. L. Smith besteht der Stein aus:
 
-SiO₃. Al2O3. FeO. CaO. MgO. MnO. Fe. Ni, P. S. NaO. Sa.  
+SiO₃. Al₂O₃. FeO. CaO. MgO. MnO. Fe. Ni, P. S. NaO. Sa.  
 49,21. 11,05. 20,41. 9,01. 8,13. 0,04. 0,50. Sp. 0,06. 0,83. 99,23.
 
 Doch wird diese Analyse sehr verschieden gedeutet; Smith unterschied in der Masse Augit als vorherrschenden Bestandtheil, dann Olivin, Orthoklas, Nickeleisen (etwa 1/2%) und ein schwarzes, glänzendes, noch nicht untersuchtes Mineral. Shepard dagegen schliesst aus seinen Untersuchungen, man könne den Stein als zusammengesetzt annehmen aus
@@ -4002,7 +4002,7 @@ Magnetischer Theil: 22,78%, = { Fe. 91,60. | Ni. 8,40.
 
 Nicht magnetischer Theil: 77,22%.
 
-FeS. SiO2. Al2O3. FeO. CaO. MgO. NaO. KO.  
+FeS. SiO2. Al₂O₃. FeO. CaO. MgO. NaO. KO.  
 6,42. 41,80. 3,00. 20,12. 2,35. 21,30. 2,38. 1,98.
 
 sowie Spuren von Kupfer und Kohle.
@@ -4121,7 +4121,7 @@ mit etwas Nickel und Manganoxyd.
 
 b. nicht aufschliessbar:  
 SiO₃|56,7.  
-Al2O3|3,5.  
+Al₂O₃|3,5.  
 FeO|14,5.  
 NaO|2,3.  
 KO|0,1.  
@@ -4212,14 +4212,14 @@ Die Rinde ist schwarz, dünn und matt, die Innenmasse grau mit undeutlichen dunk
 
 Nach der Analyse von Bukeisen unter Wöhlers Leitung besteht der Stein aus:
 
-Fe. Ni. FeS. SiO₃. MgO. FeO. MnO. Al2O3. KO, NaO. CaO. X.  
+Fe. Ni. FeS. SiO₃. MgO. FeO. MnO. Al₂O₃. KO, NaO. CaO. X.  
 21,40. 1,80. 13,14. 36,60. 23,45. 1,75. 0,15. 0,28. 0,98. Sp. 0,56.
 
 X. = Chromeisen.
 
 Er leitet daraus ab die Zusammensetzung des durch Salzsäure zersetzbaren 1. und unzersetzbaren Theils:
 
-SiO₃. MgO. KO. NaO. MnO. FeO. Al2O3.  
+SiO₃. MgO. KO. NaO. MnO. FeO. Al₂O₃.  
 1\. 43. 57. -,-. -,-. -,-. -,-. -,-.  
 2\. 64,10. 29,08. 1,09. 1,09. 0,33. 3,90. 0,62.
 
@@ -4263,7 +4263,7 @@ Harris hat unter Wöhlers Leitung den Stein analysirt und gefunden:
 1\. Durch Säure zersetzbar: 56,7%  
 2\. Durch Säure nicht zersetzbar: 43,3%
 
-SiO₃. MgO. FeO. Ni. CaO. S. Al2O3. NaO, KO.  
+SiO₃. MgO. FeO. Ni. CaO. S. Al₂O₃. NaO, KO.  
 1\. 19,5. 11,2. 24,4. 0,2. 0,7. Sp. -,-. -,-.  
 2\. 21,7. 15,8. -,-. -,-. 0,8. -,-. 2,46. 1,92. 0,26.
 
@@ -4302,7 +4302,7 @@ Eine Commission, bestehend aus Pelouze, Fremy und Delafosse, sollte den Stein un
 
 Analyse von Filhol und Leymerie:
 
-SiO₃. Al2O3. MgO. FeO. Fe2O3. CaO. NaO. S.  
+SiO₃. Al₂O₃. MgO. FeO. Fe₂O₃. CaO. NaO. S.  
 a 64,35. Spur. 12,70. 16,80. 2,00. 0,55. 1,60. 2,00.  
 b 38,83. -,-. 24,65. 35,23. -,-. -,-. 1,29. -,-.  
 c 52,05. 11,40. 18,45. 16,50. -,-. Spur. 1,60. -,-.  
@@ -4351,9 +4351,9 @@ a\. im Ganzen. 91,59%
 SiO₃|42,00  
 MgO|27,39  
 FeO|19,65  
-Al2O3|2,46  
+Al₂O₃|2,46  
 MnO|0,33  
-Cr2O3|0,83  
+Cr₂O₃|0,83  
 NaO|1,23  
 KO|0,20  
 Fe|2,74  
@@ -4368,9 +4368,9 @@ b\. nicht zersetzbar durch HCl 41,30%
 SiO₃|52,90  
 MgO|24,82  
 FeO|10,00  
-Al2O3|5,96  
+Al₂O₃|5,96  
 MnO|0,31  
-Cr2O3|-,-  
+Cr₂O₃|-,-  
 NaO|2,98  
 KO|0,48  
 }Labrador 7,79%
@@ -4380,9 +4380,9 @@ c\. zersetzbar. 52,74%
 SiO₃|38,25  
 MgO|32,48  
 FeO|28,90  
-Al2O3|-,-  
+Al₂O₃|-,-  
 MnO|0,37  
-Cr2O3|-,-  
+Cr₂O₃|-,-  
 NaO|-,-  
 KO|-,-  
 
@@ -4405,7 +4405,7 @@ Fe. Ni. Co. Cu. P. S.
 
 Von der erdigen Masse sind durch Salzsäure zersetzbar 62,94%, nicht zersetzbar 37,51%. Das Ganze besteht aus:
 
-SiO₃. FeO. MgO. Al2O3. CaO. NaO. KO.  
+SiO₃. FeO. MgO. Al₂O₃. CaO. NaO. KO.  
 47,06. 26,05. 27,61. 2,35. 0,81. 0,42. 0,68.
 
 und einer Spur Manganoxydul. Smith berechnet daraus als Bestandteile dieses Meteoriten:
@@ -4505,14 +4505,14 @@ Die Steine haben alle eine eckige Gestalt und sind mit einer matten, schwarzen R
 
 Analysen liegen vor von Johnson 1., Smith 2., 3. und Madelung 4.
 
-SiO₃. FeO. MgO. Al2O3. CaO. Fe. Ni. S. Cr, P. HO. NaO, KO.  
+SiO₃. FeO. MgO. Al₂O₃. CaO. Fe. Ni. S. Cr, P. HO. NaO, KO.  
 1\. 51,25. 25,204. 8,873. 5,325. 0,785. 8,803. 2,360. 1,184. Sp. 0,035. -,-.  
 2\. 47,30. 28,03. 24,53. 0,31. 0,02. -,-. -,-. -,-. -,-. -,-. 1,04.  
 
-SiO₃. FeO. MgO. Al2O3. CaO. Fe. Ni. S. Co. Cu. P.  
+SiO₃. FeO. MgO. Al₂O₃. CaO. Fe. Ni. S. Co. Cu. P.  
 3\. -,-. -,-. -,-. -,-. -,-. 87,011. 12,36. 1,08. 0,42. Sp. 0,012.  
 
-SiO₃. FeO. MgO. Al2O3. CaO. Fe. Ni. Fe2O3. NiO. Mn.  
+SiO₃. FeO. MgO. Al₂O₃. CaO. Fe. Ni. Fe₂O₃. NiO. Mn.  
 4\. 40,391. 18,133. 23,510. 2,300. 2,523. 5,778. 0,235. 5,819. 0,812. Sp.
 
 Bei 2. ist in HCl zersetzbar: 63,7%. nicht zersetzbar: 36,3%.
@@ -4536,7 +4536,7 @@ SiO₃. FeO. MgO. NiO. Sa.
 18,944. 18,133. 15,616. 0,812. 53,505%.
 
 c\. Unlösliche Silikate:  
-SiO₃. Al2O3. Fe2O3. MgO. CaO. Mn2O3. Sa.  
+SiO₃. Al₂O₃. Fe₂O₃. MgO. CaO. Mn₂O₃. Sa.  
 21,447. 2,300. 5,819. 7,800. 2,523. Spur. 39,889%.
 
 Shepard nimmt an, dass 2/3 der Masse aus Peridot bestehe und dass die eingestreuten weissen Flecken Chladnit seien.
@@ -4757,10 +4757,10 @@ Seelheim hat den Stein analysirt: 1. den durch Salzsäure zersetzbaren Theil 52,
 SiO₃. MgO. FeO. NiO.  
 1\. 15,74. 16,12. 18,29. 2,08.
 
-SiO₃. Al2O3. FeO. KO.  
+SiO₃. Al₂O₃. FeO. KO.  
 2\. 20,96. 13,49. 3,60. 1,21.
 
-FeS2 (?). Fe (Ni). Cr2O3. PO5. HO.  
+FeS2 (?). Fe (Ni). Cr₂O₃. PO5. HO.  
 3\. 3,86. 2,13. 0,46. 0,60. 1,51.
 
 sowie Spuren von Kupfer, Zinn, Mangan und Kalk.
@@ -4814,7 +4814,7 @@ Bei 4. war das Eisen nicht frei von Olivin.
 
 Auch die Analysen des Olivins von Howard 1., Klaproth 2., Stromeyer 3. 4. und Walmstedt 5. sind nicht genau:
 
-SiO₃. MgO. Fe2O3. FeO. NiO. MnO. Mn2O3. Al2O3. CaO.  
+SiO₃. MgO. Fe₂O₃. FeO. NiO. MnO. Mn₂O₃. Al₂O₃. CaO.  
 1\. 27. 15,5. 8,5. 0 -,-. 0,5. -,-. -,-. -,-. -,-.  
 2\. 41. 38,5. 18,5. -,-. -,-. -,-. -,-. -,-. -,-.  
 3\. 38,48. 48,42. -,-. 11,19. -,-. -,-. 0,34. 0,18. -,-.  
@@ -4880,7 +4880,7 @@ Nickel 20.
 
 Stromeyer untersuchte den Olivin. Das Ergebniss seiner Analyse war:
 
-SiO₃. FeO. MgO. Mn2O3. Cr,0,. Glühverl. Sa.  
+SiO₃. FeO. MgO. Mn₂O₃. Cr,0,. Glühverl. Sa.  
 61,88. 9,12. 25,83. 9,31. 0,33. 0,45. 97,92.
 
 Der 86 1/2 K. schwere Eisenblock von Rittersgrün bei Schwarzenberg in Sachsen wurde erst 1861 durch Breithaupt bekannt, doch schon 1847 wurde er von einem Bauer beim Ackerroden eine Elle tief im Boden gefunden. Kein Schmied und kein Hammerwerk in der Nähe wollte dieses »alte Eisen« gebrauchen können.
@@ -4920,7 +4920,7 @@ Fe. Ni. Co. Mn. Si. S. SiO₃.
 1\. 81,8. 11,9. 1,0. 0,2. -,-. 5,1. -,-.  
 2\. 78,82. 8,1. 3,0. 4. 0,8. 4,5. 5,5.
 
-Jonn fand noch Al2O3 und Fe203; er will auch Spuren von Selen entdeckt haben.
+Jonn fand noch Al₂O₃ und Fe203; er will auch Spuren von Selen entdeckt haben.
 
 Literatur: Gilb. Ann. 60, 243. 68, 342. Bischoff Schweigg. Journ. 43, 44, 46, 385. 392.
 
@@ -4956,7 +4956,7 @@ Fe. Ni. Co. Mg. Ca. Na. K. P. Unlösl.
 5\. 90,241. 9,759. (Mittel aus 3 Analysen des Potosi-Eisens.)
 
 Olivin { SiO₃, MgO. }  
-SiO₃. MgO. FeO. ALO,. Fe2O3. MnO, Mn2O3. KO.  
+SiO₃. MgO. FeO. ALO,. Fe₂O₃. MnO, Mn₂O₃. KO.  
 6\. 40,79. 47,05. 12,10. 0,02. -,-. -,-. -,-.  
 7\. 36,92. 43,16. -,-. -,-. 17,21. 1,81. 0,59.
 
@@ -5217,7 +5217,7 @@ Bei 7. bestand nach Böcking das Unlösliche aus weissen und hellgelben, in's R�
 
 Pugh 11. fand bei 1,24 Unlöslichem auch Schreibersit und Graphit. Die Rinde bestand nach seiner Analyse aus:
 
-Fe2O3. HO. (Ni, Co)O. FeO. Fe. Silikate.  
+Fe₂O₃. HO. (Ni, Co)O. FeO. Fe. Silikate.  
 32,75. 13,27. 5,751. 19,309. 18,717. 10,203.
 
 so wie Spuren von Graphit, Kalk, Chlor und Ammoniak.
@@ -5256,7 +5256,7 @@ Fe. Ni. Unlösl. Verl.
 Fe. Ni. Unlösl. Verl. Si. C.  
 3\. 0,16. 0,14. -,-. -,-. 0,06. 0,10. = 0,46. Unlösl.  
 
-Fe2O3. NiO. Mn2O3. SO3. SiO₃. Al2O3. Verl.  
+Fe₂O₃. NiO. Mn₂O₃. SO3. SiO₃. Al₂O₃. Verl.  
 4\. 95,9. 3,1. -,-. -,-. -,-. -,-. 1,0.  
 5\. 87,60. 3,8. Sp. 0,28. 1,03. Sp. 8,62.*
 
@@ -5867,7 +5867,7 @@ Es hat eine glatte Oberfläche und schwarze Rinde, in deren Fugen Magneteisen si
 
 Shepard fand bei der Analyse:
 
-Fe. SiO₃. CaO, Al2O3.  
+Fe. SiO₃. CaO, Al₂O₃.  
 99,68. 0,20. 0,09.
 
 aber kein Nickel und Kobalt. Prof. Heddle in Edinburg dagegen wies neuerlich Nickel darin nach. Er fand ausser Eisen und Nickel noch Aluminium, Calcium, Kalium, so wie Spuren von Natrium, Silicium, Schwefel, Kohle und vielleicht auch Phosphor und Zinn, nicht aber Kobalt, Chrom und Mangan. Da dieses Eisen auch in seinen anderen Eigenschaften Tucuman ähnlich ist, so kann an seiner meteorischen Natur nicht mehr gezweifelt werden, obgleich es Shepard selbst zu den Pseudometeoriten zählte.
@@ -6190,7 +6190,7 @@ Rammelsberg unterschied im Rückstand ausser leichtpulveriger Kohle und Graphitb
 
 Seine Analyse des Schwefeleisens ergab:
 
-S. Fe. Ni, Co. Cu. FeO. Cr2O3.  
+S. Fe. Ni, Co. Cu. FeO. Cr₂O₃.  
 28,155. 65,816. 1,371. 0,566. 0,874. 1,858.
 
 Es wird diese Verbindung mit Unrecht Schwefelkies genannt, da sie sich, wenn auch langsam, in Salzsäure löst. Es ist ein Einfachschwefeleisen.
@@ -6340,7 +6340,7 @@ MgO 2,593. 2,030. 2,147.
 CaO 0,436. 0,550. -,-.  
 NaO -,-. -,-. 0,174.  
 KO -,-. -,-. 0,098.  
-Al2O3 -,-. -,-. -,-.  
+Al₂O₃ -,-. -,-. -,-.  
 SiO₃ 2,889. -,-. 4,169.  
 Labrador 1,046. -,-. 4,169.
 
@@ -6350,12 +6350,12 @@ Ni 8,55.
 Co 0,61.  
 Cu 0,03.  
 P 0,12.  
-Cr2O3 0,21.  
+Cr₂O₃ 0,21.  
 MgO 2,04.  
 CaO -,-.  
 NaO -,-.  
 KO -,-.  
-Al2O3 Spur.  
+Al₂O₃ Spur.  
 SiO₃ 3,02.  
 
 Smith berechnet aus seiner Analyse:
@@ -6743,8 +6743,8 @@ Auerbach hat auch die steinigen Einschlüsse des Eisens chemisch untersucht, mit
 
 1\. Magnetischer Theil. 27,13%.  
 a\. In HCl. löslich.  
-Fe2O3 65,5.*  
-Al2O3 7,7.  
+Fe₂O₃ 65,5.*  
+Al₂O₃ 7,7.  
 Ni (Co) 15,4.  
 MgO (CaO) 0,4.  
 99,0.
@@ -6753,8 +6753,8 @@ MgO (CaO) 0,4.
 
 b\. Nicht löslich.  
 SiO₃ 68,7.  
-FeO Cr2O3 21,4.  
-Fe2O3 (Al2O3) 7,3.  
+FeO Cr₂O₃ 21,4.  
+Fe₂O₃ (Al₂O₃) 7,3.  
 CaO 1,2.  
 MgO 1,2.  
 99,8.
@@ -6762,8 +6762,8 @@ MgO 1,2.
 2\. Nicht magnetischer Theil. 72,87%.
 a\. Zersetzb. Silik. 87,72%.
 SiO₃ 33,26.
-Fe2O3 39,14.
-Al2O3 7,98.
+Fe₂O₃ 39,14.
+Al₂O₃ 7,98.
 Ni 0,29.
 CaO 0,73.
 MgO 17,79.
@@ -6772,7 +6772,7 @@ NaO 0,78.
 
 b\. N. zersetzb. Sil. 12,28%.  
 SiO2 58,89.  
-Al2O3 20,96.  
+Al₂O₃ 20,96.  
 FeO 9,59.  
 CaO 0,92.  
 MgO 2,02.  
@@ -6783,7 +6783,7 @@ KO 1,65.
 
 Die durch Säuren zersetzbaren und nicht zersetzbaren Silikate zusammengenommen:
 
-SiO₃. FeO. Al2O3. CaO. MgO. NaO. KO.  
+SiO₃. FeO. Al₂O₃. CaO. MgO. NaO. KO.  
 37,76. 31,64. 9,93. 0,77. 16,63. 1,22. 0,20.
 
 sowie ausserdem noch 2,13 Nickeleisen.
