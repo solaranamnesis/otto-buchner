@@ -6910,6 +6910,8 @@ Höchst auffallend ist der ausserordentlich hohe Nickelgehalt.
 
 Literatur: Taylor Sillim. Amer. Journ. (2) 24, 293.
 
+### Tula
+
 Tula, Dorf Netschaewo, Russland.
 
 1846 wurde von Bauern in zwei Fuss Tiefe an der Moskau-Tulaer Chaussee eine Eisenmasse von 246 K. gefunden, an ein Eisenhüttenwerk verkauft und zum Theil verschmiedet. Auerbach in Moskau erkannte 1857 die meteorische Natur dieses Eisens, aber zu spät, um ansehnlichere Mengen zu retten. Stücke finden sich besonders in Wien (1 K. 075), London (584,2 Gr.), Berlin (382,18 Gr.), Bonn, sowie bei Auerbach (714 Gr.), Greg (198 Gr.), Nevill (177 Gr.) und v. Reichenbach.
@@ -6991,6 +6993,8 @@ Die Untersuchung des letzteren Bestandtheils behält sich Auerbach vor.
 
 Literatur: Haidinger Wien. Akad. Ber. 42, 1860, 507. Daselbst auch drei Abbildungen geätzter Flächen. Auerbach Poggend. Ann. 118, 1863, 363.
 
+### Nebraska
+
 Staat Nebraska, 20 engl. Meilen von Fort Pierre, am rechten Ufer des Missouri, Nord-Amerika.
 
 Diese Eisenmasse wurde 1858 der Akademie der Wissenschaften in St. Louis geschenkt; ursprünglich wog sie fast 16 K., ihr jetziges Gewicht ist 12 K. 230. Stücke davon finden sich in Wien (649,7 Gr.), London (42,96 Gr.), Göttingen (0,49 Gr.), sowie bei Shepard, Greg und v. Reichenbach.
@@ -7013,6 +7017,8 @@ Bei Madelung bestand das Unlösliche aus schwarzen Flocken und wenig gelben glä
 
 Literatur: Transact. Acad. St. Louis I, 1860, 711. Shepard Sillim. Amer. Journ. (2) 30, 204. Haidinger Wien. Akad. Ber. 41, 571. Madelung Dissert. 39.
 
+### La Grange
+
 La Grange, Oldham County, Kentucky, Nord-Amerika.
 
 Im October 1860 wurde eine Eisenmasse von 51 K. gefunden. Fast die ganze Masse besitzt Smır# in Louisville; Bruchstücke sind besonders in Wien (402,5 Gr.), London (59,47 Gr.), sowie bei Shepard, v. Reichenbach und Gerg.
@@ -7026,6 +7032,8 @@ Fe. Ni. Co. Cu. P.
 
 Literatur: Smith Sillim. Amer. Journ. (2) 31, 151. 265.
 
+### Coopertown
+
 Coopertown, Robertson County, Tennessee, Nord-Amerika.
 
 Smith erhielt im December 1860 eine Eisenmasse von fast 17 K. Er besitzt noch etwa die Hälfte davon. In europäischen Sammlungen sind nur kleinere Stücke, so besonders inLondon (53,75 Gr.), Wien (45,938 Gr.), sowie bei Shepard, Auerbach (17 Gr.), Greg und v. Reichenbach.
@@ -7038,6 +7046,8 @@ Fe. Ni. Co. Cu. P.
 89,59. 9,12. 0,35. Spur. 0,04.
 
 Literatur: Smith Sillim. Amer. Journ. (2) 31, 266.
+
+### Cranbourne
 
 Cranbourne, Western Port, Dandenong Ranges, 30 engl. Meilen von Melbourne, Australien.
 
@@ -7056,6 +7066,8 @@ Nickel 3,40, dabei weit unter 1% Kobalt.
 Bei der Lösung in Säure blieb nur ein sehr geringer Rückstand.
 
 Literatur: Haidinger Wien. Akad. Ber. 43, 583. 44, Juni 6. Oct. 17. (p. 378) Nov. 7. (p. 465) mit verschiedenen Abbildungen.
+
+### Heidelberg
 
 Heidelberg, Grossh. Baden. Deutschland.
 
@@ -7079,6 +7091,8 @@ Besonders auffallend ist der geringe Nickelgehalt.
 
 Literatur: Wawnikiewicz Ann. Chem. Pharm. 123, 1862, 252.
 
+### Newstead
+
 Newstead, Roxburghshire, Schottland.
 
 Schon 1827 wurde diese Eisenmasse beim Bau eines Hauses 3-4 Fuss tief in einer Thonschicht gefunden und von einem Maurer nebst Alterthümern und allerlei Raritäten in eine Mauer eingefügt. Erst 1861 wurde Dr. J. A. Smith beim Suchen nach Alterthümern darauf aufmerksam und erkannte ihre meteorische Natur; 1862 machte er sie bekannt.
@@ -7099,6 +7113,8 @@ Nach Mangan, Chrom, Kobalt u. s. w. wurde vergebens gesucht.
 
 Literatur: Smith Edinb. Philos. Journ. N. S. 1862, Juli; daselbst auch Abb. der Masse und ein Abdruck der geätzten Fläche.
 
+### Rokycan
+
 Rokycan (Rokitzau, im Pilsener Kreis?), Böhmen.
 
 Gegen Ende 1862 wurde ein Meteoreisen von dort bekannt, das einige Jahre vorher gefunden worden war. Es wog etwa 2 K. und ist jetzt in der Sammlung des Prälaten Zeidler im Stift Strahow.
@@ -7116,6 +7132,8 @@ Weiteres wurde bis jetzt nicht bekannt.
 
 Literatur: Nickerl Lotos, Ztschr. f. Naturwissensch. Prag. 12, 1862, 244.
 
+### Bruce
+
 Bruce.
 
 v. Reichenbach erwähnt dieses Eisen mehrfach bei seinen Untersuchungen über die Structurverhältnisse des Meteoreisens und seine Bestandtheile. Sein Herkommen ist gänzlich unbekannt. Es kam durch Bruce an Partsch und wurde von diesem an v. Reichenbach als nichtmeteorisch überlassen. Dieser überzeugte sich von seiner eigenthümlichen Meteorität und nannte es nach der letzten Quelle, aus der es herstammt.
@@ -7124,15 +7142,21 @@ Es zeigt Widmannstätten'sche Figuren.
 
 Literatur: Poggend. Ann. 107, 161 u. a. St.
 
-Nachträge.
+## Nachträge.
+
+### Alessandria
 
 Alessandria, Piemont, 1860, Febr. 2.
 
 Seite 103 findet sich das Wesentliche ; weitere Mittheilungen bringt Nuovo Cimento 13, 272, 1861, sowie ein Auszug Poggend. Annalen 118, 316, 1863. Als Zeit des Falles ist 11 Uhr 45 Min. angegeben.
 
+### Angers
+
 Angers, 1822, Juni 3. (s. p. 44.)
 
 Ein Stückchen von etwas über 1 Gr. in Wien gleicht ganz dem Charkowstein (p. 10), nicht dem von Vouille (p. 54), wie Partsch (Meteoriten p. 142) angibt. Die Rinde ist dick, pechschwarz und aussen wie angefressen.
+
+### Grosnja
 
 Meteorstein von Grosnja, Mekenskische Staniza an den Ufern des Terek, Caucasus, Russland.
 
@@ -7146,6 +7170,8 @@ Genauere Mittheilungen sind von Abich in Tiflis zu erwarten.
 
 Literatur: G. Rose Berl. Akad. Ber. 1862. 186.
 
+### Veendam, Roermonde und Bar-le Duc
+
 Meteorstein von Veendam, Roermonde und Bar-le Duc, Grenze von Belgien und Frankreich.
 
 1863, März 4, 7 Uhr Abends.
@@ -7153,6 +7179,8 @@ Meteorstein von Veendam, Roermonde und Bar-le Duc, Grenze von Belgien und Frankr
 Ein hell leuchtendes Meteor, das nicht nur am Niederrhein, sondern auch in London und Manchester, sowie in Erbach im Odenwald gesehen wurde, expledirte und sollen dabei Steine an den genannten Orten niedergefallen sein. Genaueres ist bis jetzt nicht bekannt geworden.
 
 Literatur: Moigno Les Mondes I, 145, März 19, 1863.
+
+### Wilmsdorf
 
 Wilmsdorf, Rittergut bei Dresden.
 
