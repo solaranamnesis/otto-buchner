@@ -38,7 +38,7 @@ Das Recht der Uebersetzung in die englische und französische Sprache hat sich d
 
 ##### [System von Shepard](#system-von-shepard-1)
 
-#### [I. Steinmeteoriten deren fallzeit bekannt ist](#i-steinmeteoriten-deren-fallzeit-bekannt-ist-1)
+#### [1. Steinmeteoriten deren fallzeit bekannt ist](#1-steinmeteoriten-deren-fallzeit-bekannt-ist-1)
 
 ##### [Ensisheim](#ensisheim-1)
 
@@ -340,7 +340,7 @@ Das Recht der Uebersetzung in die englische und französische Sprache hat sich d
 
 ##### [Meno](#meno-1)
 
-#### [II. Steinmeteoriten, deren Fallzeit unbekannt ist](#2-steinmeteoriten-deren-fallzeit-unbekannt-ist-1)
+#### [2. Steinmeteoriten, deren Fallzeit unbekannt ist](#2-steinmeteoriten-deren-fallzeit-unbekannt-ist-1)
 
 ***
 
