@@ -5420,6 +5420,8 @@ Aus den Analysen geht hervor, dass das Tolucaeisen sehr ungleich gemengt ist; da
 
 Literatur: Burkart N. Jahrb. Min. 1856, 297. Bergemann Poggend. Ann. 100, 245. Krantz ebd. 101, 252. v. Reichenbach ebd. 102, 621. 103, 643. 111, 363. G. Rose ebd. 113, 184. Wöhler Wien. Akad. Ber. 20, 217. Uricoechea Ann. Chem. Pharm. 91, 249. Jordan ebd. 101, 356. Taylor Sillim. Amer. Journ. (2) 22, 374. v. Babo Verh. Freiburg. naturforsch. Gesellsch. 1858, 1, 256.
 
+### Bemdego
+
 Flüsschen Bemdego, nördlich von Monte Santo, Capitanie Bahia, Brasilien.
 
 Diese berühmteste Eisenmasse Südamerikas wurde 1784 von Domingos da Mota Botelho in einer ausgedehnten Ebene entdeckt, welche ohne Abwechselung mit dürren eintönigen Waldungen bedeckt ist; man hielt sie anfangs für Silber, legte sie nach dem Ausgraben mit unendlicher Mühe auf eine Seite und lud sie gegen Ende des Jahres 1785 auf einen besonderen niederen Wagen, vor welchen 140 Ochsen gespannt wurden. So brachte man ihn 150 Schritte weit bis zum ausgetrockneten Bette des Baches (Riacho) von Bemdegö, wo ihn im Januar 1811 Mornay noch auf dem Wagen liegend fand. Auch Spix und Martius fanden den Block noch da liegend, und unterdess hat ihn Niemand fortgetragen. Er ist 80 Par. Zoll lang, 43 1/2 Par. Zoll breit, 34 Par. Zoll dick und wiegt nach der Schätzung von Mornay über 6300 K., nach der von Martius über 9600 K. Es wurden viele vergebliche Versuche gemacht, Stücke davon abzuschlagen. Das Arbeiten mit Sägen, Meisseln und Hämmern war umsonst. Vorher schon hatte ein Handwerker alle hervorragenden Theile abgeschlagen und sie verarbeitet. Martius konnte nur nach der ausserordentlichsten Anstrengung der Arbeiter ein paar Stücke von einigen Kilo erhalten. Diese, so wie die von Mornay erworbenen Stücke sind jetzt hauptsächlich in folgenden Sammlungen: München (3 K. 675, das grösste 3 K. 115), London (2 K. 491), Wien (2 K. 317,7, das grösste 1 K. 933,79), Göttingen (315 Gr.), Petersburg, Akad. der Wissensch. (25 Gr.), Berlin (19,992 Gr.), Erlangen (18,312 Gr.), Copenhagen, Univ. (5 Gr.), so wie bei v. Reichenbach, Shepard, Greg (46 Gr.), Ferber in Gera (16,7 Gr.) und Neumann in Prag (10,15 Gr.).
@@ -5451,6 +5453,8 @@ Fe2O3. NiO. Mn2O3. SO3. SiO3. Al2O3. Verl.
 John fand ausser von Mangan auch von Kupfer Spuren.
 
 Literatur: Mornay und Wollaston Gilb. Ann. 56, 355. John ebd. 68, 343. v. Martius Reise in Brasilien, München 1828. 2, 376. Daselbst auch Fickentschers Analyse und eine Abb. der ganzen Masse.
+
+### Zacatecas
 
 Zacatecas, Mexiko.
 
@@ -5508,6 +5512,8 @@ Fe. Ni, Co. Sn. Schreibersit.
 
 Literatur: Wöhler Nachr. k. Gesellsch. der Wissensch. Göttingen 1852, No. 1, Jan. 26.
 
+### Cap der guten Hoffnung
+
 Cap der guten Hoffnung, zwischen Sonntags- und Boschemansfluss, Süd-Afrika.
 
 Diese Eisenmasse wurde 1793 in einer wüsten Gegend, von zwei Fuss Dammerde bedeckt, gefunden und seit 1801 durch Barrow, v.Dankelmann Und van Marum bekannt. Sie kam nach Harlem in das Museum der holländischen Gesellschaft der Wissenschaften und wiegt etwa 85 K., doch wird sie dort irrthümlich nicht für meteorisch gehalten! Vorher aber wurde schon viel abgeschlagen und verschmiedet, so dass man das ursprüngliche Gewicht wohl auf 175 K. anschlagen kann. Sowerby liess aus einem von Barrow nach England gebrachten Stück für den Kaiser Alexander von Russland einen Degen schmieden. Stücke dieses Eisens finden sich besonders in Wien (765,091 Gr., das grösste 600 Gr.), London (469 Gr.) und kleinere Stücke in Göttingen, Heidelberg, Trier, und den Privatsammlungen von Greg (60 Gr.), v. Reichenbach, Shepard und Nevill.
@@ -5543,6 +5549,8 @@ Wahrscheinlich gehören die grossen Eisenmassen, die Capt. Alexander am grossen 
 
 Literatur: Poggend. Ann. 46, 166.
 
+### Misteca
+
 In der Misteca im Staat von Oaxaca, Mexiko.
 
 Schon 1804 wird dieses Eisen von per Rıo erwähnt, ohne dass unterdess etwas Genaueres darüber bekannt geworden wäre. 1834 kam ein ganz kleines Stückchen davon durch v. Karawinsky nach Wien; es wurde von einem Klumpen abgemeisselt, der in einem Indianerdorf der Misteca liegt. Durch das Hämmern ist es verändert worden und zeigt beim Aetzen nur feine gekrümmte Streifen. Ob Karawinsky den Block selbst gesehen, findet sich nirgends angegeben. Burkart erhielt 1855 auch ein Stück davon, kann aber auch nichts über die Lage der Masse, ihre Grösse etc. mittheilen. Stücke davon sind in Wien (1 K. 540) und Berlin (1 K. 435,8); ein Stück behielt Burkart. Auch Shepard besitzt etwas von dieser Localität.
@@ -5569,6 +5577,8 @@ oder in 100: 11,75. 29,27. 58,76.
 
 Literatur: Burkart N. Jahrb. Mineralogie 1856, 305. BerGEmann Poggend. Ann. 100, 245.
 
+### Charcas
+
 Charcas, 10 Meil. S. von Catorze, 23 NO. von Zacatecas; Staat San Luis Potosi, Mexiko.
 
 Sonneschmid erwähnt 1804 diese Eisenmasse zuerst; 1811 wurde sie durch A. v. Humboldt allgemein bekannt. Sie ist an einem Eck der Kirche des Städtchens zum Theil in den Boden eingegraben; ihre Gestalt ist einer unregelmässigen dreiseitigen abgestumpften Doppelpyramide zu vergleichen, wenn man das eingegrabene dem über den Boden hervorragenden Stücke ähnlich annehmen darf. Burkart schätzt den sichtbaren Theil auf 400 bis 500 K. Gewicht. Auf der Oberfläche zeigt dieses Eisen eine grosse Menge kleiner rundlicher Höhlungen und auf der einen Seite eine grössere flache Vertiefung. Bei dem häufigen Klopfen, Reiben und Scheuern ist es nicht zu verwundern, dass keine Rinde vorhanden ist und dass die vorspringenden Ecken und Kanten eine fast silberweisse Farbe zeigen.
@@ -5576,6 +5586,8 @@ Sonneschmid erwähnt 1804 diese Eisenmasse zuerst; 1811 wurde sie durch A. v. Hu
 Ob von diesem Meteoreisen Proben in Sammlungen sind, ist ungewiss; in den grösseren öffentlichen und Privatsammlungen scheint nichts davon zu sein. Ebensowenig scheint etwas von dem Eisen, das durch den Hüttenbesitzer Aquilar von Pablazon auf sein Amalgamirwerk nach Catorze gebracht wurde und das etwa 4000 K. wiegen soll, in wissenschaftliche Hände gelangt zu sein.
 
 Literatur: Burkart N. Jahrb. Mineralogie. 1856, 268.
+
+### Durango
 
 Durango, Mexiko.
 
@@ -5609,12 +5621,16 @@ denfalls ist der Schwefel dabei vernachlässigt.
 
 Literatur. Burkart N. Jahrb. Min. 1856, 281. 1858, 769.
 
+### Panganoor
+
 Panganoor, Ostindien.
 
 1811, November 23.
 
 Eine angebliche Eisenmasse daher wurde schon p. 30 erwähnt.
 Weitere Mittheilungen, Bestätigung oder Verwerfung, sind abzuwarten.
+
+### Elbogen
 
 Elbogen, Böhmen. (Der verwünschte Burggraf.)
 
@@ -5654,6 +5670,8 @@ Fe. Ni. P.
 
 Literatur: Neumann Gilb. Ann. 42, 197. v. Schreibers Beiträge p. 72 beschreibt die Figuren genau und bildet sie trefllich ab (Tb. 9); auch Partsch p. 100 beschreibt ausführlicher die Figuren. Klaproth Gilb. Ann. 42, 202. John ebd. 68, 346. Wehrle Baumgart. Zeitschr. 3, 225. v. Holger ebd. 5, 6. Berzelius Poggend. Ann. 33, 136.
 
+### Lenarto
+
 Lenarto, Saroser Comitat, Ungarn, an der galizischen Grenze.
 
 1814 zu Ende October wurde diese Eisenmasse im Walde Lenartuwka in der Nähe von Bartfeld von einem Schäfer neben einer Quelle unter Schlamm und faulenden Aesten aufgefunden. 1815 wurde sie von Sennowitz zuerst beschrieben. Sie wog 108 K. 640 und ist jetzt ihrer Hauptmasse nach im ungarischen National-Museum in Pesth (74 K. 760). Stücke davon sind in vielen Sammlungen, besonders in Wien (3 K. 292,8), London (1 K. 829), Paris, Ecole des Mines (1 K. 250), Berlin (446,154 Gr.), Harlem, Teylers Mus. (130 Gr.), Paris, Mus. Hist. nat. (116 Gr.), Göttingen (102 Gr.) und kleinere in Bern, Bologna, Breslau, Calcutta, Gopenhagen, Gotha, Petersburg, Trier, Upsala, Utrecht, so wie bei Fürst Loskowırz in Bilin (2 K. 990), Greg (259 Gr.), de Luynes in Dampierre (148 Gr.) und kleinere oder von unbekanntem Gewichte bei v. Reichenbach, Shepard, Auerbach, Nevill, Fischer in Hamburg, Erzh. Stephan auf Schaumburg, Ferber in Gera, Neumann in Prag, v. Henikstein in Gratz, Kessler in Frankfurt a. M.; Baron v. Brudern besass nach v. Schreibers ein Stück von fast 21 K.
@@ -5675,6 +5693,8 @@ Fe. Ni. Co. Mn. Cu. Si. Ca. Mg. Al. Sn. S. X.
 Clark fand noch eine Spur Phosphor. X. = Unlösliches. Boussingault wies noch 0,010% Stickstoff darin nach.
 
 Literatur: Sadler A Kiralyi magyar termeszettudomanyi tarsulat evkonyvei. 1841-1844. 34. Partsch hat ausser der Beschreibung p. 108 einen sehr guten Abdruck der Widmannstätten'schen Figuren; bei v. Schreibers sind sie genau beschrieben, p. 77 aber schlechter abgebildet. tb. 8. v. Holger Baumgart. Zeitschr. 7, 138. Wehrle ebd. 3, 226. Clark Ann. Chem. Pharmac. 1852, 6, 367. Boussingault Ann. Chim. Phys. (3) 58, 336.
+
+### Red River
 
 Red River, Texas, früher Louisiana, Nord-Amerika.
 
@@ -5698,6 +5718,8 @@ Der Rest bei 3. wurde als Sauerstoff im Magneteisen betrachtet. Die wirkliche An
 
 Literatur: Die meisten Notizen finden sich in Sillim. Amer. Journ. 8, 218. 33, 257 und enthalten interessante geschichtliche Mittheilungen; 16, 217. 43, 355 Shepards Analyse, (2) 2, 370 die von Silliman und Hunt, und ebenda (p. 376) einen vortrefllichen Abdruck der Widmannstätten'schen Figuren.
 
+### Grönland
+
 Grönland, an der Baffinsbai.
 
 1819 wurde durch Capt. Ross bekannt, dass mindestens zwei Meteoritenmassen in Grönland vorkommen, die den Eskimos Eisen zu Messern und anderen Werkzeugen liefern. Auch Kane brachte 8-10 Splitter mit, die er von Eskimos erhalten hatte und die von einem grossen Block abstammen sollen. In Copenhagen sind mehre grössere Stücke daher; Dr. Rink brachte von Grönland (Niakornak) eins von 9 K. 700 mit, und durch den Coloniedirector RupoLpa in Upernavik. wurde von Fortunbay auf Disco ein grosses, abgerundetes Stück von 11 K. 844 geschickt. Ausserdem finden sich nur grössere und kleinere Splitter zum Theil verarbeitet in Wien, London, Göttingen, sowie bei v. Reichenbach uud Nevill. Hierher gehört wohl auch das Eisen von der Davisstrasse in London.
@@ -5708,15 +5730,23 @@ Ueber dieses Eisen ist sehr wenig bekannt geworden. Die Rink'sche Masse in Gopen
 
 Literatur: Lond. Journ. of Science a. the Arts. 6, 369.
 
+### Leadhills
+
 Leadhills, Schottland.
 
 Etwa 1820 wurde dieses Eisen von da Costa gefunden; es wog 21,27 Gr., war zuerst in Gregs, dann in Allans Sammlung in Edinburg und ist jetzt im britischen Museum. Es ist sehr hart und hat die Grösse einer Nuss, ist kugelig und aussen oxydirt. Beim Poliren zeigt es kleine dreieckige Widmannstätten'sche Figuren. Es ist noch nicht analysirt, scheint aber wirklich meteorisch zu sein.
 
 Gedruckt wurde dieses Eisen noch nicht erwähnt.
 
+### Rasgata
+
 Rasgata, NO. von S. Fe de Bogota, nahe den Salinen von Zipaquira, Neugranada.
 
+### Santa Rosa
+
 Santa Rosa, Dorf, 20 franz. Meilen NO. von Bogota.
+
+### Tocavita
 
 Tocavita, Hügel nahe bei S. Rosa, alle in Süd-Amerika.
 
@@ -5754,6 +5784,8 @@ Der in Salzsäure unlösliche Rückstand (0,452%) bestand aus einem feinen weiss
 
 Literatur: Partsch und Wöhler Wien. Akad. Ber. 8, 1852, 496 mit Abb. der eigenthümlichen zickzackförmigen Sprünge und unausgefüllten Gänge; einer endet in einen Sack, der theilweise mit porösem Schwefeleisen ausgefüllt ist. G. Rose Berl. Akad. Ber. 1862. Aug. 7.
 
+### Bedford County
+
 Bedford County, Pennsylvanien, Nord-Amerika.
 
 1828 beschrieb B. Silliman dasselbe als gediegenes Eisen mit einem geringen Gehalt an Arsenik und Graphit. Es scheint nur in einigen amerikanischen Sammlungen zu sein.
@@ -5777,6 +5809,8 @@ Wegen seiner Aehnlichkeit mit dem Randolpheisen (p. 160) hält er es für meteor
 
 Literatur: B. Silliman Sillim. Amer. Journ. 14, 183. Shepard Report 32.
 
+### La Caille
+
 La Caille bei Grasse, Dep. du Var, Frankreich.
 
 Jahrhunderte lang lag diese Eisenmasse von 591 K. als Bank vor der Kirche von Caille, aber erst 1828 wurde sie von Brard als meteorisch erkannt. Jetzt ist sie fast ganz im Mus. Hist. nat. zu Paris und nur kleinere Stücke in Wien (231,88 Gr.), Stockholm (60 Gr.), Berlin (4,831 Gr.) und in den Privatsammlungen von Greg (50 Gr.), v. Reichenbach, de Luynes (5 Gr.) und Shepard.
@@ -5799,6 +5833,8 @@ Fe. Ni. Si. Mn. Cu. Co. Cr.
 Rivot suchte vergebens nach Kohle, Arsen, Schwefel und Phosphor.
 
 Literatur: De Luynes Ann. des Mines (4) 5, 161. Rivot ebd. (5) 6, 554. v. Reichenbach Poggend. Ann. 115, 628.
+
+### Bohumilitz
 
 Bohumilitz, Böhmen.
 
@@ -5830,6 +5866,8 @@ Dieses merkwürdige Eisen verdient eine nochmalige Untersuchung.
 
 Literatur: Steinmann Verh. d. Gesellsch. d. vaterl. Museums 1830. Daselbst auch Abb. einer geätzten Fläche. v. Holger Baumgart. Zeitschr. 9, 327. Berzelius Poggend. Ann. 27, 118. 33, 147. Partsch Meteoriten 117.
 
+### Charlotte, Dickson County
+
 Charlotte, Dickson County, Tennessee, Nord-Amerika.
 
 1835, Juli 31 oder August 1, zwischen 2 und 3 Uhr Nachmittags.
@@ -5839,6 +5877,8 @@ Nach heftiger Lichterscheinung, Detonation und furchtbarem Getöse fiel etwas in
 Es ist eine sehr weiche Art hämmerbaren Eisens, das umgeben ist von einer Schicht eines Metalls von weisserer Farbe und grösserer Festigkeit. Schon auf dem Bruch sieht man bei starker Vergrösserung die Widmannstätten''schenFiguren angedeutet, sehr schön aber beim Aetzen, wobei ein Netzwerk von gleichseitigen Dreiecken erscheint, die durch das Kreuzen dünner Platten unter Winkeln von 60 und 120° gebildet werden. Die Rinde auf der Oberfläche ist glänzend und nicht oxydirt.
 
 Literatur: Troost Sillim. Amer. Journ. 49, 337.
+
+### Randolph County
 
 Randolph County, Nord-Carolina, Nord-Amerika.
 
@@ -5850,6 +5890,8 @@ Ausser einigen amerikanischen Sammlungen scheint in Europa nur London etwas (3,9
 
 Literatur: Shepard Sillim. Amer. Journ. 17, 1830, 140. Report 9, 31.
 
+### Brazos
+
 Am Brazosfluss, nahe an dessen Ursprung, 34° Br. 100° L., Texas.
 
 Dieses schöne Meteoreisen war schon lange bei den Gomanches bekannt und als heilkräftig verehrt. Schon die Spanier versuchten die etwa 147 K. schwere Masse auf Mauleseln fortzuschafien, aber vergebens. Auch die Comanches machten Versuche, es durch umgesetztes Feuer zu schmelzen, und da es nicht gelang, es zu zerschlagen, was auch nicht ging. 1836 wurde es einem Agenten der Vereinigten Staaten überlassen und nach St. Antonio, 1859 aber erst nach Austin gebracht, wo es ım geologischen Staatscabinet aufbewahrt ist; etwa 2 K. können davon abgesägt sein. Die Masse hat eine flache oder stumpf pyramidale Gestalt mit mehr oder weniger abgerundeten Kanten und mit flachen Eindrücken. Die Oberfläche ist dunkel und nur stellenweise dünn oxydirt. Das Eisen ist sehr zäh, die Schnittfläche glänzend silbergrau.
@@ -5860,6 +5902,8 @@ Fe. Ni. Co.
 89,993. 10,007. Spur.
 
 Literatur: Shumard St. Louis Acad. Transact. I. No. 4. p. 622. 1860.
+
+### Claiborne
 
 Claiborne, am Lime Creek, Clarke County, Alabama, Nord-Amerika.
 
@@ -5886,6 +5930,8 @@ Fe. Ni. Mn. S. Cl.
 
 Literatur: Jackson Sillim. Amer. Journ. 34, 332. Jackson und Hayes ebd. 48, 145-156. v. Reichenbach Poggend. Ann. 114, 119.
 
+### Putnam County
+
 Putnam County, Georgia, Nord-Amerika.
 
 Nach Willet wurde 1839 eine grosse Eisenmasse in bebautem Felde gefunden, die nach der Schmiede gebracht wurde, aber nicht zu bearbeiten war. Ihre Gestalt war etwa die einer dreiseitigen Pyramide mit unregelmässigen Flächen. Die grössten Stücke scheinen bei L. Smith in Louisville (fast 35 K.), der Mercer-Universität, Georgia (etwa 30 K.) und bei Suerarp (über 17 K.) zu sein. Bescheidenere Bruchstücke oder von unbekanntem Gewicht finden sich besonders in London (113,165 Gr.), Wien (87,5 Gr.), Göttingen (33,5 Gr.), Berlin (24,656 Gr.), Paris, Mus. Hist. nat., so wie bei Greg (55 Gr.), de Luynes (48 Gr.), Auerbach (23 Gr.), v. Reichenbach und Nevill.
@@ -5901,6 +5947,8 @@ Fe. Ni, Spur Co. Sn, P, S, Mg, Ca.
 
 Literatur: Sillim. Amer. Journ. (2) 17, 331.
 
+### Asheville
+
 Asheville, Bairds Pflanzung nahe am French Broad River, 6 engl. Meilen nördlich von Asheville, Buncombe County, Nord-Carolina, Nord-Amerika.
 
 Dieses Eisen, das 1839 durch Shepard bekannt wurde, ist nicht zu verwechseln mit dem von Black Mountains, ebenfalls Buncombe County. Es war eine Masse in der Grösse eines Menschenkopfes, die lose in der Erde lag und sollen sich da noch weitere Stücke finden. Es sind davon in den Sammlungen von Wien (271,8 Gr.), London (84,11 Gr.), Berlin (13,66 Gr.), Göttingen, Calcutta, Upsala, Stuttgart, sowie bei de Luynes (317 Gr.), v. Reichenbach, Greg (8 Gr.), Neumann und Zimmermann.
@@ -5914,6 +5962,8 @@ Das Eisen ist derb und dicht, aber höchst ausgezeichnet blättrig, so dass es b
 Nach Shepards Untersuchungen enthält es Nickel bis zu 5%, dann Kobalt, Magnesium und Phosphor; der Kieselsäuregehalt bleibt weit unter 0,5%.
 
 Literatur: Shepard Sillim. Amer. Journ. 36, 81. Report 24.
+
+### Petropawlowsk
 
 Goldseife Petropawlowsk, Sibirien.
 
@@ -5932,6 +5982,8 @@ Nickel 2,07. 7,00. 6,96.
 Bei der ausserordentlich tiefen Fundstelle wurde die meteorische Natur vielfach bezweifelt. Das gelehrte Comite für Bergwerksangelegenheiten zuPetersburg entschied daher: »Es ist bekannt, dass das Meteoreisen sich von dem gewöhnlichen auf hüttenmännischem Wege gewonnenen Eisen dadurch unterscheidet, dass es mehr oder weniger Nickel und gar keinen Kohlenstoff (!?) enthält. Da aber in der Eisenmasse von der Petro-Pawlowsker Goldseife sowohl durch die von Hrn. Sokolowskij in Barnaul ausgeführte Analyse, als auch durch die zwei übereinstimmenden von Hrn. Iwanow in St. Petersburg ein bedeutender Nickelgehalt und keine Spur von Kohle nachgewiesen sind, so geht daraus hervor, dass diese Eisenmasse nicht hüttenmännischen, sondern meteorischen Ursprungs sein muss.«
 
 Literatur: Erman Journ. 1, 314. 725.
+
+### Cosbys Creek, Cocke County, Sevier County
 
 Cosbys Creek, Cocke County, Sevier County, Tennessee, Nord-Amerika.
 
@@ -5991,6 +6043,8 @@ oder in 100: 7,9. 80,8. 8,2. 3,0.
 
 Literatur: Troost Sillim. Amer. Journ. 38, 4840, 250. (Nur als Eisen von Tennessee beschrieben.) Shepard ebd. 43, 1842, 354. (2) 4, 1847, 83. Report 29. v. Reichenbach Poggend. Ann. 111, 363. 114, 128. u. v. a. St. Jor. Ann. Chem. Pharm. 86, 39. Bergemann Poggend. Aun. 100, 245.
 
+### Scriba
+
 Scriba, Oswego County, New-York, Nord-Amerika.
 
 1834 wurde dieses Eisen von einem Kohlenlieferanten in der Nähe eines Meilers gefunden und an einen Grobschmied gegeben. Shepard, der es 1841 beschrieb, scheint den grössten Theil zu besitzen; andere Sammlungen weisen nur kleine Stücke auf, so besonders London (104 Gr.), Wien (83 Gr.), Göttingen (17,42 Gr.), so wie Greg (76 Gr.), Auerbach (28 Gr.) und Nevill.
@@ -6006,7 +6060,9 @@ Fe. SiO3. CaO, Al2O3.
 
 aber kein Nickel und Kobalt. Prof. Heddle in Edinburg dagegen wies neuerlich Nickel darin nach. Er fand ausser Eisen und Nickel noch Aluminium, Calcium, Kalium, so wie Spuren von Natrium, Silicium, Schwefel, Kohle und vielleicht auch Phosphor und Zinn, nicht aber Kobalt, Chrom und Mangan. Da dieses Eisen auch in seinen anderen Eigenschaften Tucuman ähnlich ist, so kann an seiner meteorischen Natur nicht mehr gezweifelt werden, obgleich es Shepard selbst zu den Pseudometeoriten zählte.
 
-Literatur: SHepard Sillim. Amer. Journ. 40, 1841, 336. (2) 4, 75. Greg Philos. Magaz. Suppl. for Jan. 1863.
+Literatur: Shepard Sillim. Amer. Journ. 40, 1841, 336. (2) 4, 75. Greg Philos. Magaz. Suppl. for Jan. 1863.
+
+### Guilford County
 
 Guilford County, Nord-Carolina, Nord-Amerika.
 
@@ -6023,17 +6079,23 @@ Fe. Ni. FeS.
 
 Literatur: Shepard Sillim. Amer. Journ. 17, 140. 40, 369. Partsch Met. 114.
 
+### Grayson County
+
 Grayson County, Virginia, Nord-Amerika.
 
 Von dieser schweren Eisenmasse, welche 1842 zuerst erwähnt wird, scheint nichts nach Europa gekommen zu sein. Sie enthält nach Rocers 6,15% Nickel und eine geringe Spur von Chlor.
 
 Literatur: Sillim. Amer. Journ. 43, 169.
 
+### Eaufromont
+
 Eaufromont bei Epinal, Vogesen, Frankreich.
 
 1842, Dec. 5, 5 1/2 Uhr Morgens zerplatzte eine grosse Feuerkugel. Es wurde lange nach den Stücken gesucht, aber erst im Sommer 1851, also fast neun Jahre später, fand man eine Eisenmasse von 843 Gr., die alle Eigenschaften von Meteoreisen besitzt; einige Theile sind schwer mit dem Meissel zu bearbeiten, andere enthalten Höhlungen. Das specifische Gewicht = 5,23 scheint so niedrig wegen der Rostrinde und der Erde in den Höhlungen. Genaueres ist nicht über die Masse bekannt geworden. Sie scheint in einer der Pariser Sammlungen zu sein.
 
 Literatur: Compt. rend. 35, 289.
+
+### Arva
 
 Arva. Bei dem Dorf Szlanicza, am Fuss der Magura, im Arvaer Comitat, Ungarn.
 
@@ -6079,6 +6141,8 @@ Nach Partsch ist der Schreibersit in leicht trennbaren Blättchen, Nadeln, und k
 
 Literatur: Haidinger Wien. Zeitg. 1844, Apr. 17. Poggend. Ann. 61, 675. Weiss Wien. Zeitg. 1845, No. 88, März 30. Patera Jahrb. Mineralogie 1848, 698. 1849, 199. Löwe Haidinger Berichte 3, 62. 70. 282. 303. Bergemann Poggend. Ann. 100, 245. Partsch Wien. Akad. Ber. 8, 1852, 500. v. Reichenbach Poggend. Ann. 111, 363. Mikecz, Petz u. Boor in Sadler A kiralyi magyar termeszettudomanyi tarsulat evkönyvei. 1, 1841-1845. 52. Haidinger Wien. Akad. Ber. 46, 1862, Juli 24, mit sehr schönen Abb.
 
+### Burlington
+
 Burlington, Otsego County, New-York, Nord-Amerika.
 
 Silliman jun. beschrieb dieses. 1819 gefundene Eisen erst 1844. Als es ausgepflügt wurde, wog es 68 K.; doch wurde es bis auf einen Rest von etwa 6 K. verschmiedet. Shepard scheint die Hauptmasse zu besitzen (2 K. 097). Ausserdem finden sich Stücke in London (291,265 Gr.), Berlin (119,452 Gr.), Göttingen (62,5 Gr.), Copenhagen (30,3 Gr.), Wien (29,532 Gr.) und Dublin, sa wie bei Greg (198 Gr.), v. Reichenbach und Nevill.
@@ -6102,11 +6166,15 @@ Clark fand noch Spuren von Kupfer und Mangan; ersteres mag von den Werkzeugen st
 
 Literatur: Sillim. Amer. Journ. 46, 1844, 401. (2) 4, 77. Clark Dissert. on met. Met. 61. Wien. Akad. Ber. 42, 1860, 512 Abbildung der Figuren; die Abbildung in Sillim. Amer. Journ. (2) 4, 77 ist nicht gut.
 
+### Madagascar
+
 Madagascar, St. Augustines Bai.
 
 1845 wurde bekannt, dass Meteoreisen auf Madagascar vorkommen soll und, wie man sagt, in ungeheurer Menge; doch ist bis jetzt nichts Genaueres darüber bekannt geworden. Shepard besitzt davon ein Stückchen und in Wien ist ein Stück einer Pfeilspitze (2,2 Gr.). Es scheint überhaupt bis jetzt nur in Theilen von Waffen der Eingeborenen bekannt geworden zu sein. Das Eisen zeigt keine Widmannstätten'schen Figuren, doch fand Shepard Nickel darin.
 
 Literatur: Shepard Sillim. Amer. Journ. (2) 15, 22 erwähnt die Proceed. Amer. Assoc. of the Geologists at New-Haven, Apr. 1845, p. 40.
+
+### De Kalb County
 
 De Kalb County, Caryfort, Tennessee, Nord-Amerika.
 
@@ -6116,11 +6184,15 @@ Schon ohne Aetzen treten auf der polirten Schnittfläche die Widmannstätten'sch
 
 Literatur: Troost Sillim. Amer. Journ. (1) 49, 341.
 
+### Siebenbürgen
+
 Siebenbürgen.
 
 Es soll 1845 gefallen sein.
 
 Ein an 2 Seiten angeschnittenes Stück dieses Eisens von 78,7 Gr. kam 1846 aus der früher Leuchtenberg'schen Sammlung nach München. Genaueres ist vollständig unbekannt und wurde diese Localität noch nie gedruckt erwähnt. Solange die meteorische Natur nicht erwiesen ist, muss sie als zweifelhaft angesehen werden.
+
+### Babbs Mühle
 
 Babbs Mühle, 10 engl. Meil. nördlich von Greenville, Green County, Tennessee, Nord-Amerika.
 
@@ -6145,6 +6217,8 @@ Bei 3. war X = unlöslichen Phosphormetallen; Clark fand noch Spuren von Mangan,
 
 Literatur: Troost Sillim. Amer. Journ. 49, 342. Shepard ebd. (2) 4, 76 mit Abb. der kleineren Masse. Clark Ann. Chem. Pharmac. 1852, H. 6.
 
+### Walker County
+
 Walker County, Alabama, Nord-Amerika.
 
 Im Herbst 1832 wurde diese Masse gefunden, aber erst 1845 von Troost beschrieben. Sie hatte eine unregelmässige birnartige Gestalt, stak mit dem breiteren Ende im Boden und nur das dünnere Ende ragte über denselben hervor. Das Gewicht betrug fast 75 K. Scharfe Hervorragungen oder Eindrücke fehlten. Troost in Mobile besitzt 4 K., in anderen amerikanischen Sammlungen werden auch grössere Stücke sein; in europäischen sind nur kleine, so besonders in Wien (70 Gr.), London (57,52 Gr.) und Dublin.
@@ -6156,6 +6230,8 @@ Die Masse ist zum Theil mit einer Rostrinde, zum Theil aber auch mit einer glatt
 Bei feuchtem Wetter bilden sich an der Grenze des Eisens und der Rostrinde Tröpfchen von Eisenchlorid. Doch ist das Eisen selbst frei von Chlor. Shepard fand auch kein Nickel, sondern 99,89% Eisen mit Spuren von Calcium, Magnesium und Aluminium, der Menge nach in der Reihe, wie sie genannt sind.
 
 Literatur: Troost Sillim: Amer. Journ. 49, 344. Shepard ebd. (2) 4, 74; daselbst auch eine Abbildung der Masse.
+
+### Cambria
 
 Cambria bei Lockport, Niagara County, New-York, Nord-Amerika.
 
@@ -6184,6 +6260,8 @@ Die Einschlüsse ven Schwefeleisen sind noch nicht untersucht. Olmsted suchte in
 
 Literatur: Olmsted Sillim. Amer. Journ. 48, 388. Silliman und Hunt ebd. (2) 2, 376. Daselbst auch Abbildung der geätzten Fläche.
 
+### Smithland
+
 Smithland, Livingston County, Kentucky, Nord-Amerika.
 
 Wahrscheinlich 1840 oder 1841 wurden, wie es scheint verschiedene Eisenmassen gefunden. Prof. Troost bekam zu verschiedenen Malen Proben davon zugestellt, um ihren Silbergehalt zu ermitteln, Genaueres aber konnte er nicht erfahren. Erst 1846 gelang es ihm, das einzige noch ganze Stück von etwa 4 1/2 K. sich zu verschaffen und zu beschreiben. Das Uebrige war verschmiedet worden. Die Hauptmassen sind in London (2 K. 565) und bei Troost (2 K.), kleine Stückchen in Wien (13,125 Gr.), sowie bei v. Reichenbach, Greg und Nevill.
@@ -6194,6 +6272,8 @@ Nach einer annähernden Analyse von Troost besteht es aus 90% Eisen und 10% vorz
 
 Literatur: Troost Silim. Amer. Journ. (2) 2, 857. Greg Phil. Magaz. Suppl. for Jan. 1863.
 
+### Carthago
+
 Carthago, Smith County, Tennessee, Nord-Amerika.
 
 Troost beschrieb diese ursprünglich 127 K. schwere Eisenmasse im Jahr 1846. Den Haupttheil scheint ein Herr Morgan in Nashville zu besitzen; Troost in Mobile besass etwa 25 K., das britische Museum in London hat 24 K. 576. Sonst sind nur kleinere Stücke in Sammlungen, so besonders in Berlin (806,877 Gr.), Wien (570,95 Gr.), Göttingen, Kiel, Breslau (schles. Gesellsch.), Calcutta (alle nicht über 25 Gr.), sowie bei Auerbach (215 Gr.), Shepard (100 Gr.), Greg (206 Gr.), v. Reichenbach und Nevill.
@@ -6202,6 +6282,8 @@ Zuerst war es unmöglich, von dem Entdecker und Besitzer Genaueres über die Mas
 
 Literatur: Troost Sillim. Amer. Journ. (2) 2, 356.
 
+### Jackson County
+
 Jackson County, Tennessee, Nord-Amerika.
 
 1846 beschrieb Troost dieses Eisen, von dem er 425 Gr. erhielt. Geschichte, Grösse und Fundort sind noch Geheimniss, weil es von den Findern für Silber gehalten wird. In London sind 110,8 Gr.; auch Nevill besitzt etwas davon.
@@ -6209,6 +6291,8 @@ Jackson County, Tennessee, Nord-Amerika.
 Dieses Eisen ist weich und schmiedbar und eine Zusammenhäufung von octaedrischen und tetraedrischen Krystallen. Genaueres wurde bis jetzt nicht darüber bekannt.
 
 Literatur: Troost Sillim. Amer. Journ. (2) 2, 357.
+
+### Hommoney Creek
 
 Hommoney Creek, nahe am Fuss des Pisgahberges, 10 engl. Meil. westl. von Asheville, Buncombe County, Nord-Carolina.
 
@@ -6227,6 +6311,8 @@ Fe. Ni. Co. Cu, Sn. Mn. Si. Me. P. S. X. Cr.
 X. = Unlösliches, bestehend aus Graphit und Schreibersit. Nach Clark behielt dasselbe die Gestalt des ursprünglichen Stücks bei und bestand aus glänzenden Blättchen von Graphit, einer schwarzen, flockigen Masse und einem magnetischen Theil, der unter dem Mikroskop als ein Netzwerk von krystallinischen Tafeln erschien, die sich unter Winkeln von etwa 60° und 120° schnitten und genau den Figuren glichen, die an dieser Stelle beim Aetzen entstanden waren. Ausserdem wurden noch bräunliche Körnchen, härter wie Glas, beim Unlöslichen gefunden; sie glichen sehr dem Olivin von Atacama. Nach Shepard besteht diese Masse aus Kieselsäure, Kalk, Magnesia und Eisenoxyd.
 
 Literatur: Shepard Sillim. Amer. Journ. (2) 4, 80; daselbst auch Abbildung der Eisenmasse. Clark Annal. Chem. Pharmac. 1852, 6, 367.
+
+### Braunau
 
 Braunau (Hauptmannsdorf und Ziegelschlag), Böhmen.
 
@@ -6259,6 +6345,8 @@ Fe. Ni. P. Cr. C. SiO3. Sa.
 56,430. 25,015. 11,722. 2,850. 1,156. 0,985. 98,158.
 
 Literatur: Beinert Der Meteorit von Braunau. Breslau 1848. Auszüge davon in vielen Zeitschriften. Glocker Poggend. Ann. 73, 332. Neumann Jahrb. f. Min. 1848, 825. Haidinger Berichte 3, 302. 378. 493. 4, 86. Duflos und Fischer Poggend. Ann. 72, 170. 475. 73, 590. v. Reichenbach ebd. 114, 116.
+
+### Seeläsgen
 
 Seeläsgen, Kreis Schwiebus, Reg.-Bezirk Frankfurt a. O., Brandenburg, Preussen.
 
@@ -6307,6 +6395,8 @@ Arsen war nicht darin nachzuweisen.
 
 Literatur: Göppert in Haidinger Berichte 3, 471. Partsch Wien. Akad. Ber. 1, 153. Schneider Poggend. Ann. 74, 57. Duflos ebd. 61. Rammelsberg ebd. 443.
 
+### Otsego County
+
 Otsego County, New-York, Nord-Amerika.
 
 Ohne genauere Angabe des Ortes, aber verschieden von Burlington, Otsego County.
@@ -6318,6 +6408,8 @@ Zu hart, um es zu sägen, wurde es mit einem schweren Hammer zerschlagen und zei
 In Königswasser löst sich das Eisen schwierig und entwickelt dabei Schwefelwasserstoff. Zurück bleibt Graphit und ein schweres weissliches Pulver, das mit Soda geschmolzen ein Metall gibt, welches Shepard für Zinn hält. Seine Analyse gab 94,57% Eisen und den Rest Kupfer, Nickel, Kobalt, Schwefel, Kohle und vielleicht Zinn und Chrom.
 
 Literatur: Shepard Rep. on Amer. Met. 32.
+
+### Black Mountains
 
 Black Mountains, 15 engl. Meilen östlich von Asheville, am Ursprung des Swannanoahflusses, Buncombe County, Nord-Carolina, Nord-Amerika.
 
@@ -6336,6 +6428,8 @@ Fe. Ni. mit Spur Co. Unlösl. S. u. Verl.
 
 Literatur: Shepard Sillim. Amer. Journ. (2) 4, 82. Report 28.
 
+### Murfreesboro'
+
 Murfreesboro', Rutherford County, Tennessee, Nord-Amerika.
 
 Troost beschrieb 1849 zuerst dieses Eisen. Es war zufällig gefunden worden, war fast unverletzt und wog etwa 8 1/2 K. Es war lange geheim gehalten worden, weil es der hellen Farbe und des grossen Glanzes wegen für silber- und goldhaltig angesehen wurde. Die Gestalt war unregelmässig eiförmig; Troost in Mobile besitzt fast 5 K. Das britische Museum in London 2 K. 787. Kleinere Stücke sind bei Shepard, V. Reichenbach, Greg, Auerbach und Nevill.
@@ -6351,9 +6445,13 @@ und 1,6% nicht untersuchte Substanz.
 
 Literatur: Troost Sillim. Amer. Journ. (2) 5, 351. (2) 15, 6.
 
+### Morgan County
+
 Morgan County, Nord-Amerika.
 
 Mit 1849 soll diese Eisenmasse bekannt sein; trotzdem kann kaum Genaueres darüber mitgetheilt werden, da sich keine gedruckten Notizen gefunden haben. In Wien befindet sich eine quadratische Platte von 70 Gr., die scharf geätzt ist. In Betreff der Schraffirung zeigt dieses Eisen grosse Aehnlichkeit mit Braunau (p. 176); Schreibersit ist häufig erkennbar.
+
+### Chesterville
 
 Chesterville, Chester County, Süd-Carolina, Nord-Amerika.
 
@@ -6372,6 +6470,8 @@ Fe. Ni. Co. Cr.
 
 Literatur: Shepard Sillim. Amer. Journ. (2) 7, 449.
 
+### Schwetz
+
 Schwetz an der Weichsel, Reg.-Bezirk Marienwerder, Provinz Preussen.
 
 Im Frühjahr 1850 wurde beim Abtragen eines sandigen Hügels für die Ostbahn etwa 4 Fuss unter der Oberfläche eine Eisenmasse von der Gestalt eines geraden, an den Kanten ganz abgerundeten rechtwinkeligen Prisma's gefunden. Ihre Dimensionen waren: Höhe 9 Zoll, Seite der Basis 5 1/4 und 4 Zoll, Umfang der Länge nach 24 Zoll, der Breite nach 17 1/2 Zoll, das Gewicht über 20 K. Die Masse wurde von den Arbeitern in mehre Stücke zerschlagen, was schon vorhandene natürliche Klüfte, nach der Beschaffenheit der Oberfläche derselben zu schliessen, erleichterten; ein Theil derselben wurde auch verschmiedet. Es kamen alle Stücke nach Berlin, wo jetzt noch 8 K. 827,37 sind. Die anderen kamen besonders nach London (1 K. 049), Wien (842,206 Gr.), Göttingen (304,5 Gr.), sowie zu Shepard (439 Gr.), Greg (160 Gr.), Auerbach (116 Gr.), Ferber in Gera (70,5 Gr.), v. Reichenbach und Nevill.
@@ -6389,6 +6489,8 @@ Fe. Ni. Cu. Cr. P.
 22,59. 34,77. 4,74. 3,90. 34,13.
 
 Literatur: G. Rose Poggend. Ann. 83, 594. Rammelsberg ebd. 84, 153.
+
+### Tuczon
 
 Tuczon, Sonora, Mexiko. Gefunden in einer Schlucht des Santa Rita Gebirgs, 25-30 Meil. S. von Tuczon und bekannt seit 1850.
 
@@ -6453,6 +6555,8 @@ Olivin 5,06.
 
 Literatur: Genth Sillim. Amer. Journ. (2) 17, 239. (2) 20, 119. Shepard ebd. (2) 18, 369. Smith ebd. (2) 19, 153. (Abb.) J. pract. Chem. 64, 118. 66, 429.
 
+### Ruffs Mountain
+
 Ruffs Mountain, Lexington County, nicht Newberry; Süd-Carolina, Nord-Amerika.
 
 1850 machte Shepard diese Eisenmasse, die 53 K. wog, bekannt. Er besitzt die Hauptmasse (36 K. 115); ausser dem Reserve College in Hudson werden noch andere amerikanische Sammlungen etwas davon besitzen. In europäischen Sammlungen sind Stücke besonders in Wien (183,75 Gr.), London (175,8 Gr.), Berlin (133,779 Gr.), Copenhagen (84,5 Gr.), Göttingen (9,5 Gr.), Paris, Mus. Hist. nat., sowie bei Auerbach in Moskau (138 Gr.), Greg (71 Gr.), de Luynes (65 Gr.), v. Reichenbach, Neumann in Prag (14,16 Gr.) und Nevill.
@@ -6471,6 +6575,8 @@ Fe. Ni. Cr, S, Co, Mg, Cl.
 Später fand er noch ein fixes Alkali, wahrscheinlich kohlensaures Kali und vermuthete, es sei Kalium mit den anderen Metallen legirt.
 
 Literatur: Shepard Sillim. Amer. Journ. (2) 10, 128. (2) 15, 5. Daselbst auch Abbildung.
+
+### Salt River
 
 Salt River, Nebenfluss des Ohio, 20 engl. Meil. unterhalb Louisville, Kentucky, Nord-Amerika.
 
@@ -6492,6 +6598,8 @@ Nach längerem Glühen des Unlöslichen zeigte sich ein Gewichtsverlust, der ein
 
 Literatur: Silliman Proceed. Amer. Assoc. 1850, 36.
 
+### Pittsburg
+
 Bei Pittsburg, Alleghany County, Pennsylvanien, Nord-Amerika.
 
 Diese über 132 K. schwere Eisenmasse wurde beim Pflügen gefunden und 1850 von B. Silliman jun. beschrieben. Sie wurde fast ganz zu einer Stange geschmiedet, und nur ein sehr kleiner Theil blieb erhalten. Stücke sind in Göttingen (104,5 Gr.), sowie bei Shepard, Greg (11 Gr.) und v. Reichenbach.
@@ -6501,6 +6609,8 @@ Specifisches Gewicht: 7,38 Shepard.
 Bei qualitativer chemischer Prüfung ergab sie einen reichen Nickelgehalt und nur einen sehr geringen Bestandtheil von in Säure Unlöslichem.
 
 Literatur: Silliman Proceed. Amer. Assoc. 1850, 37.
+
+### Senecafluss
 
 Senecafluss (Senecafalls), Cayuga County, New-York, Nord-Amerika.
 
@@ -6516,6 +6626,8 @@ Eisen und Nickel,
 sowie Spuren von Chrom, Magnesium, Zinn, Mangan (?) Phosphor und Schwefel.
 
 Literatur: Root Sillim. Amer. Journ. (2) 14, 439. Shepard ebd. (2) 15, 363.
+
+### Löwenfluss
 
 Löwenfluss, grosses Namaqualand, Süd-Afrika.
 
@@ -6534,6 +6646,8 @@ mit Spuren von Phosphor, Schwefel, Zinn und Kalium (?). Kobalt konnte nicht gefu
 
 Literatur: Shepard Sillim. Amer. Journ. (2) 15, 1, wo sich auch eine Abbildung findet.
 
+### Union County
+
 Union County, Georgia, Nord-Amerika.
 
 1854 wurde von Shepard dieses Eisen zuerst beschrieben. Es wog 6 K. 800, wovon das meiste wohl in amerikanischen Sammlungen sich findet; in europäischen scheinen nur kleine Stücke zu sein, so besonders in London (54,79 Gr.) und Wien (15,86 Gr.), sowie bei Greg (32,5 Gr.), v. Reichenbach und Nevill.
@@ -6545,6 +6659,8 @@ An drei Seiten war die Masse mit blättrigem Eisenoxydhydrat überzogen, die bei
 Ein von Magnetkies möglichst freies Stück enthielt nach Shepard 3,32%, Nickel, sowie Spuren von Phosphor, Kobalt, Magnesium, Calcium und reichlich Chrom.
 
 Literatur: Shepard Sillim. Amer. Journ. (2) 17, 325.
+
+### Tazewell
 
 Tazewell, Claiborne County, Tennessee, Nord-Amerika.
 
@@ -6578,6 +6694,8 @@ Nach Shepard löst sich das Eisen sehr langsam unter Schwefelwasserstoffentwickl
 
 Literatur: Shepard Sillim. Amer. Journ. (2) 17, 325. Smith ebd. (2) 19, 153. Smithson. Report 1855, 152.
 
+### Ost-Tennessee
+
 Ost-Tennessee, Nord-Amerika.
 
 Nach Dana ist dieses Eisen wohl 1854 gefunden worden und wog ursprünglich etwa 30 K. In einer Spalte fand er festes Eisenchlorür; auch war es reieh an Phosphornickeleisen. Weiteres wurde versprochen, aber bis jetzt nicht geliefert.
@@ -6588,6 +6706,8 @@ Es findet sich diese Localität wohl nur in wenigen amerikanischen Sammlungen.
 
 Literatur: Dana Sillim. Amer. Journ. (2) 17, 131.
 
+### Haywood County
+
 Haywood County, Nord-Carolina, Nord-Amerika.
 
 Shepard erhielt 1854 aus Haywood ein Stückchen Eisen von nur 3,54 Gr., dessen Ursprung und Fundort unbekannt ist und vielleicht, aber unwahrscheinlich ein Fragment einer schon bekannten Meteormasse ist. Das sehr krystallinische Eisen enthält unregelmässige Adern eines schwarzen Minerals, das von Säuren nicht angegriffen wird und alle Eigenschaften von Magneteisen hat. Der äussere Charakter kommt mit dem des Braunaueisens (p. 176) überein. Beim Aetzen entstehen sehr feine vertiefte Linien und Gruben, die meist rechtwinklig auf einanderstossen.
@@ -6597,6 +6717,8 @@ Specifisches Gewicht: 7,419.
 Beim Lösen in Salzsäure entwickelt sich kein Schwefelwasserstoff. Ausser Eisen enthält es Nickel, Chrom und Phosphor.
 
 Literatur: Sillim. Amer. Journ. (2) 17, 325.
+
+### Tabarz
 
 Tabarz, am Fuss des Inselberges, Thüringen.
 
@@ -6611,6 +6733,8 @@ Fe. Ni. Co. P. Schreibersit.
 
 Literatur: Eberhard Ann. Chem. Pharm. 96, 286.
 
+### Sarepta
+
 Sarepta. In der kalmückischen Steppe auf dem rechten Wolgaufer, 30 Werst von Sarepta, Gouvernement Saratow, Russland.
 
 Diese ursprünglich 14 K. 325 schwere Eisenmasse wurde 1854 gefunden und von Auerbach noch in demselben Jahr der russischen Gesellschaft der Naturforscher in Moskau als meteorisch vorgelegt. Stücke davon sind in Berlin (2 K. 079,5), Wien (1 K. 198,775), Würzburg (716 Gr.), Stuttgart (über 600 Gr.), Moskau (fast 500 Gr.), Nisky bei Görlitz, Min.-Cab. (etwa 400 Gr.), London (316,16 Gr.), sowie in den Privatsammlungen von Glitsch in Sarepta (1 K. 511,586), Kolbing in Herrenhut (600 Gr.), Glitsch in Nisky (450 Gr.), Auerbach (384 Gr.), Skalnik in Marienbad (350 Gr.), Gres (216 Gr.), v. Reichenbach, Nevill (35,4 Gr.), Neumann in Prag (1,57 Gr.).
@@ -6620,6 +6744,8 @@ Die Gestalt war dadurch ausgezeichnet, dass die eine Fläche mehr glatt und gew�
 In seinem Gefüge ist dieses Eisen dem von Arva (p. 168) ausserordentlich ähnlich, ebenso die Widmannstätten'schen Figuren, die sehr schön erscheinen.
 
 Literatur: Bull. Soc. Imp. des Naturalistes de Moscou 1854, No. 4, p. 504. Haidinger Wien. Akad. Ber. 46, 1862, Juli 24. Mit sehr schönen Abbildungen der ganzen Masse und der Widmannstätten'schen Figuren.
+
+### Tarapaca
 
 Wüste Tarapaca, 80 engl. Meil. NO. von Talcahuaxo und 46 Meilen von Hemalga, Chili, Süd-Amerika.
 
@@ -6639,6 +6765,8 @@ X. Phosphormetalle.
 
 Literatur: Greg Philos. Magaz. (4) 10, 12.
 
+### Madoc
+
 Madoc, St. Lorenzstrom, Ober-Canada, Nord-Amerika.
 
 T. S. Hunt erwähnt zuerst diese über 167 K. schwere Eisenmasse, die 1854 gefunden wurde. Die Hauptmasse ist in der Sammlung der Geological Survey; andere Sammlungen besitzen nur kleine Stücke, so besonders Wien (210 Gr.), London (206 Gr.), Paris, Ecole des Mines (189,75 Gr.) und Mus. Hist. nat., sowie Shepard (340 Gr.), Greg (53 Gr.), Auerbach (19,5 Gr.), v. Reichenbach und Nevill.
@@ -6646,6 +6774,8 @@ T. S. Hunt erwähnt zuerst diese über 167 K. schwere Eisenmasse, die 1854 gefun
 Dieser Eisenblock hat eine sehr unregelmässige rechtwinklige Gestalt, ist abgeflacht und hat rundliche Vertiefungen, welche mit einem dünnen Häutchen von Oxyd überzogen sind. Das Eisen ist sehr weich und hämmerbar, scheint grob krystallinisch zu sein und ergab bei einer vorläufigen Untersuchung 6,35% Nickel ohne Kobalt. Beim Aetzen entstehen Widmannstätten'sche Figuren.
 
 Literatur: Sillim. Amer. Journ. (2) 19, 417.
+
+### Campbell County
 
 Campbell County, Tennessee, Nord-Amerika.
 
@@ -6661,6 +6791,8 @@ Fe. Ni. Co. C. P. SiO3. Cu.
 97,54. 0,25. 0,60. 1,50. 0,12. 1,05. Spur.
 
 Literatur: Smith Sillim. Amer. Journ. (2) 19, 153.
+
+### Cohahuila
 
 Cohahuila, Saltillo, Mexiko. (Auch als Santa Rosa angeführt, darf aber dann nicht mit Rasgata, Süd-Amerika [p. 155], verwechselt werden.)
 
@@ -6679,6 +6811,8 @@ welches entsprechen würde einer Zusammensetzung aus 98,45 Nickeleisen und 1,55 
 
 Literatur: Smith Sillim. Amer. Journ. (3) 19, 153 (Abbildung und Analyse).
 
+### Denton County
+
 Denton County, Texas.
 
 Dieses Eisen ist seit 1856 bekannt; es wog ursprünglich wohl 18 K., wurde aber bis auf etwa 6 K. verarbeitet. Dieser Rest ist grössentheils im geologischen Staatscabinet zu Austin. Kleine Mengen besitzen Wien (203,438 Gr.) und Göttingen (26,5 Gr.), sowie die Privatsammlungen von Shepard, Greg und v. Reichenbach.
@@ -6695,6 +6829,8 @@ Fe. Ni. Co. Cu. P. Unlösl. Sa.
 
 Literatur: Haidinger Wien. Akad. Ber. 41, 1860, 572. Madelung Dissertat. Göttgn. 1862. p. 41.
 
+### Nelson County
+
 Nelson County, Kentucky, Nord-Amerika.
 
 1856 wurde eine schwere Eisenmasse ausgepflügt, die fast ganz im Besitz von Smith in Louisville ist (fast 73 K.). Stücke davon sind in Berlin (362,688 Gr.), London (238,94 Gr.), Wien (175 Gr.), sowie bei Shepard, Greg (178 Gr.), v. Reichenbach, Nevill und Auerbach (68 Gr.).
@@ -6709,6 +6845,8 @@ Fe. Ni. Co. P. Cu.
 Chlorverbindungen enthält es nicht.
 
 Literatur: Smith Sillim. Amer. Journ. (2) 30, 240.
+
+### Oranjeflussdistrict
 
 Oranjeflussdistrict, Süd-Afrika.
 
@@ -6725,6 +6863,8 @@ Schreibersit u. Spuren von Chromeisen 0,02.
 
 Literatur: Shepard Sillim. Amer. Journ. (2) 21, 215.
 
+### Jewell Hill
+
 Jewell Hill, Madison County, Nord-Carolina, Nord-Amerika.
 
 Das Eisen, das nahezu 4 K. wog, ist mit einer dicken Rostrinde bedeckt; an vielen Stellen zeigen sich Tröpfchen von Eisenchlorid. Die Hauptmasse ist im Besitz von L. Smith in Louisville; kleine Stücke besitzen London (42,96 Gr.), Wien (41,562 Gr.), Hudson (Western Res. Coll.), sowie Shepard, Greg (13 Gr.), und v. Reichenbach.
@@ -6736,6 +6876,8 @@ Fe. Ni. Co. P. Cu.
 
 Literatur: Smith Sillim. Amer. Journ. (2) 30, 240.
 
+### Marshall County
+
 Marshall County, Kentucky.
 
 1856 machte Smith eine Eisenmasse von fast 7 K. bekannt, von der er wohl den Haupttheil besitzt; Stücke finden sich in London (80,08 Gr.), Wien (74,376 Gr.), Hudson (Reserve College), sowie bei Shepard, Greg (68 Gr.) und v. Reichenbach.
@@ -6746,6 +6888,8 @@ Fe. Ni. Co. P. Cu.
 90,12. 8,72. 0,32. 0,10. Spur.  
 
 Literatur: Smith Sillim. Amer. Journ. (2) 30, 240.
+
+### Oktibbeha County
 
 Oktibbeha County, Mississippi, Nord-Amerika.
 
