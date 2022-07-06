@@ -278,7 +278,7 @@ Das Recht der Uebersetzung in die englische und französische Sprache hat sich d
 
 ##### [Borkut](#borkut-1)
 
-##### [Busti, Goruckpore](#busti,-goruckpore-1)
+##### [Busti, Goruckpore](#busti-goruckpore-1)
 
 ##### [Girgenti](#girgenti-1)
 
