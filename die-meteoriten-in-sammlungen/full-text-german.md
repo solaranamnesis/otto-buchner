@@ -151,7 +151,7 @@ Das Recht der Uebersetzung in die englische und französische Sprache hat sich d
 |                             |                                                                        |
 |-----------------------------|------------------------------------------------------------------------|
 | [Alessandria](#alessandria) | [Veendam, Roermonde und Bar-le Duc](#veendam-roermonde-und-bar-le-duc) |
-| [Angers](#angers)           | [Wilmsdorf](#wilmsdorf)                                                |
+| [Angers](#angers-1)           | [Wilmsdorf](#wilmsdorf)                                                |
 | [Grosnja](#grosnja)         |
 
 ***
