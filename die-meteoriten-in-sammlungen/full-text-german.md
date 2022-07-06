@@ -342,6 +342,9 @@ Das Recht der Uebersetzung in die englische und französische Sprache hat sich d
 
 #### [2. Steinmeteoriten, deren Fallzeit unbekannt ist](#2-steinmeteoriten-deren-fallzeit-unbekannt-ist-1)
 
+
+#### [Nachträge](#nachträge-1)
+
 ***
 
 ## Vorrede.
