@@ -1000,7 +1000,7 @@ Sie sind nach der Fallzeit geordnet.
 
 ### Ensisheim
 
-Ensisheim, Elsass, jetzt Dep. du Haut Rhin, Frankreich.
+Ensisheim, Elsass, jetzt Dép. du Haut Rhin, Frankreich.
 
 1492, Nov. 16 (Nov. 7 a. St.), zwischen 11 und 12 Uhr Vormittag.
 
@@ -1099,7 +1099,7 @@ Literatur: Howard Phil. Trans. 1802. Voigt Magaz. 10, 220. Chladni Feuermet. 246
 
 ### Luponnas
 
-Luponnas (nach dem Dict. des Postes de l'Empire, nicht Liponas oder Laponas) bei Pont-de-Vesle und Bourg-en-Bresse, Dep. de l'Ain, Frankreich.
+Luponnas (nach dem Dict. des Postes de l'Empire, nicht Liponas oder Laponas) bei Pont-de-Vesle und Bourg-en-Bresse, Dép. de l'Ain, Frankreich.
 
 1753, Sept. 7, 1 Uhr Nachmittag.
 
@@ -1129,7 +1129,7 @@ Literatur: v. Ende Massen und Steine 44. Chladni Feuermet. 250.
 
 ### Lucé
 
-Lucé, Maine, jetzt Dep. de la Sarthe, Frankreich.
+Lucé, Maine, jetzt Dép. de la Sarthe, Frankreich.
 
 1768, Sept. 13, 4 1/2 Uhr Nachmittag.
 
@@ -1258,7 +1258,7 @@ Literatur: Gilb. Ann. 31, 321. Mem. Ac. Petersb. 6, Hist. 47. Erman Arch. 5, 176
 
 ### Barbotan
 
-Barbotan (Roquefort, Creon, Juillac, Mezin, Eause, Armagnac, Losse, Agen, St. Sever, La Grange), Dep. des Landes, Dep. Lot et Garonne, Dep. du Gers, ehemals Gascogne (danach und wohl auch nach Bordeaux genannt), Frankreich.
+Barbotan (Roquefort, Creon, Juillac, Mezin, Eause, Armagnac, Losse, Agen, St. Sever, La Grange), Dép. des Landes, Dép. Lot et Garonne, Dép. du Gers, ehemals Gascogne (danach und wohl auch nach Bordeaux genannt), Frankreich.
 
 1790, Juli 24, nach 9 Uhr Abends.
 
@@ -1353,7 +1353,7 @@ Literatur: Gilb. Ann. 31, 1809, 307.
 
 ### Salés
 
-Salés, bei Villefranche, Dep. du Rhone, Frankreich.
+Salés, bei Villefranche, Dép. du Rhone, Frankreich.
 
 1798, März 8 oder 12, 6 Uhr Abends.
 
@@ -1408,7 +1408,7 @@ Literatur: Gilb. Ann. 13, 291. 15, 423. 41, 453. Chladni Feuermet. 266. v. Schre
 
 ### l'Aigle
 
-l'Aigle (la Vassolerie, Fontenil, la Metonnerie, S. Michel-de Sommaire, St. Nicolas-de Sommaire, Bas Vernet, Mesle, Belangere, la Barne, Bois laville, Corboyer etc.), Normandie, Dep. de l'Orne, Frankreich.
+l'Aigle (la Vassolerie, Fontenil, la Metonnerie, S. Michel-de Sommaire, St. Nicolas-de Sommaire, Bas Vernet, Mesle, Belangere, la Barne, Bois laville, Corboyer etc.), Normandie, Dép. de l'Orne, Frankreich.
 
 1803, April 26, 1 Uhr Nachmittags.
 
@@ -1440,7 +1440,7 @@ Literatur: Biot Gilb. Ann. 15, 74. Thenard u. A. ebd. 16, 44. 70. Vauquelin u. A
 
 ### Saurette
 
-Saurette bei Apt, Dep. Vaucluse, Frankreich.
+Saurette bei Apt, Dép. Vaucluse, Frankreich.
 
 1803, Oct. 8, 10 Uhr Vormittag.
 
@@ -1550,7 +1550,7 @@ Literatur: Pogg. Ann. Ergb. 4, 11. 441, Partsch 64.
 
 ### Alais
 
-Alais, eigentlich bei den Dörfern St. Etienne de Lolm und Valence, Dep. du Gard, Frankreich.
+Alais, eigentlich bei den Dörfern St. Etienne de Lolm und Valence, Dép. du Gard, Frankreich.
 
 1806, März 15, 5 1/2 Uhr Abends.
 
@@ -1805,7 +1805,7 @@ Literatur: Gilb. Ann. 60, 236. 63, 22.
 
 ### Charsonville
 
-Charsonville bei Orleans, Dep. du Loiret, Frankreich.
+Charsonville bei Orleans, Dép. du Loiret, Frankreich.
 
 1810, Nov. 23, 1 1/2 Uhr Nachmittags.
 
@@ -1874,7 +1874,7 @@ Literatur: Journ. Asiat. Soc. Bengal. 1844, 13, 885.
 
 ### Toulouse
 
-Toulouse, in den Gemeinden le Burgau, Dep. Haute Garonne und Savenes, Dep. Tarne et Garonne, Frankreich.
+Toulouse, in den Gemeinden le Burgau, Dép. Haute Garonne und Savenes, Dép. Tarne et Garonne, Frankreich.
 
 1812, April 10, 8 1/4 Uhr Abends.
 
@@ -1928,7 +1928,7 @@ Literatur: Vieth Gilb. Ann. 40, 450. Hausmann ebd. Gilbert ebd. 41, 96. Stromeye
 
 ### Chantonnay
 
-Chantonnay, zwischen Nantes und la Rochelle, Dep. de la Vendee, Frankreich.
+Chantonnay, zwischen Nantes und la Rochelle, Dép. de la Vendee, Frankreich.
 
 1812, Aug. 5, Morgens gegen 2 Uhr.
 
@@ -2045,7 +2045,7 @@ Literatur: Giese in Gilb. Ann. 50, 117. Eichwald in Erman Arch. 5, 178. v. Reich
 
 ### Agen
 
-Agen, Dep. Lot et Garonne, Frankreich.
+Agen, Dép. Lot et Garonne, Frankreich.
 
 1814, Sept. 5, kurz vor Mittag.
 
@@ -2080,7 +2080,7 @@ Literatur: Gilb. Ann. 68, 333. Rep. Brit. Assoc. 1850, 119.
 
 ### Chassigny
 
-Chassigny, 4 M. SO. von Langres, Dep. Haute Marne, Frankreich.
+Chassigny, 4 M. SO. von Langres, Dép. Haute Marne, Frankreich.
 
 1815, Oct. 3, 8 Uhr Vormittags.
 
@@ -2195,7 +2195,7 @@ Sehr wahrscheinlich ist dieser Fall zu streichen, da das in Moskau befindliche S
 
 ### Jonzac
 
-Jonzac (Barbezieux), Dep. de la Charente inferieure, Frankreich.
+Jonzac (Barbezieux), Dép. de la Charente inferieure, Frankreich.
 
 1819, Juni 13, 6 Uhr Morgens.
 
@@ -2281,11 +2281,11 @@ Literatur: Gilb. Ann. 67, 337. (Abb.) Laugier Bull. Soc. Phil. 1823, Juni. Gilb.
 
 ### Juvinas
 
-Juvinas (weniger richtig Juvenas) bei Libonnez, Dep. de l'Ardeche, Languedoc, Frankreich.
+Juvinas (weniger richtig Juvenas) bei Libonnez, Dép. de l'Ardeche, Languedoc, Frankreich.
 
 1821, Juni 15, zwischen 3 und 4 Uhr Nachmittags.
 
-Aus einer Feuerkugel fiel bei Gegenwart von Zeugen unter heftigem Getöse ein mächtiger Stein von 110 K. und in der Nähe noch mehre kleinere nieder. Das grösste Bruchstück von 42 K. ist im Mus. Hist. nat. zu Paris; kleinere finden sich in vielen Sammlungen: London (1 K. 027), Berlin (1 K. 023,657), Wien (698,373 Gr., 4 St., das grösste 498,762 Gr.), Leipzig (151,272 Gr.), Göttingen (151 Gr.), Edinburg (120 Gr.), Darmstadt (45,47 Gr.) und noch kleinere in Trier, Hudson, Stuttgart, Stockholm, Calcutta. In Privatsammlungen besitzt davon van Brepa in Harlem (801,3 Gr.), Shepard (312 Gr.), Greg (194 Gr.), v. Reichenbach, de Luynes (32,4 Gr. und ein Stück, etik. Aubenas, Dep. Ardeche, Juli 1821, das wohl hierher gehört und nur später gefunden wurde, von 248 Gr.), Auerbach (unsicher, ob wirklich daher), v. Baumhauer und Neumann.
+Aus einer Feuerkugel fiel bei Gegenwart von Zeugen unter heftigem Getöse ein mächtiger Stein von 110 K. und in der Nähe noch mehre kleinere nieder. Das grösste Bruchstück von 42 K. ist im Mus. Hist. nat. zu Paris; kleinere finden sich in vielen Sammlungen: London (1 K. 027), Berlin (1 K. 023,657), Wien (698,373 Gr., 4 St., das grösste 498,762 Gr.), Leipzig (151,272 Gr.), Göttingen (151 Gr.), Edinburg (120 Gr.), Darmstadt (45,47 Gr.) und noch kleinere in Trier, Hudson, Stuttgart, Stockholm, Calcutta. In Privatsammlungen besitzt davon van Brepa in Harlem (801,3 Gr.), Shepard (312 Gr.), Greg (194 Gr.), v. Reichenbach, de Luynes (32,4 Gr. und ein Stück, etik. Aubenas, Dép. Ardeche, Juli 1821, das wohl hierher gehört und nur später gefunden wurde, von 248 Gr.), Auerbach (unsicher, ob wirklich daher), v. Baumhauer und Neumann.
 
 Specifisches Gewicht:
 
@@ -2323,7 +2323,7 @@ Literatur: Vaquelin Gilb. Ann. 71, 202. Laugier ebd. 71, 208. G. Rose Poggend. A
 
 ### Angers
 
-Angers, Dep. Maine et Loire, Frankreich.
+Angers, Dép. Maine et Loire, Frankreich.
 
 1822, Juni 3, nach 8 Uhr Abends.
 
@@ -2335,7 +2335,7 @@ Literatur: Gilb. Ann. 71, 345. 361.
 
 ### Epinal
 
-Epinal, Gemeinde la Baffe, Dep. des Vosges, Frankreich.
+Epinal, Gemeinde la Baffe, Dép. des Vosges, Frankreich.
 
 1822, Sept. 13, 7 Uhr Morgens.
 
@@ -2704,7 +2704,7 @@ Diese neue und seltene Localität findet sich im britischen Museum in London und
 
 ### Vouillé
 
-Vouillé bei Poitiers, Dep. de la Vienne, Frankreich.
+Vouillé bei Poitiers, Dép. de la Vienne, Frankreich.
 
 1831, Juli 18 nach dem Katalog des Pariser Museums; Mai 13 nach anderen Angaben.
 
@@ -2893,7 +2893,7 @@ Literatur: Zipser Jahrb. Mineralogie 1840, 89. Haidinger Wien. Akad. Ber. 40, 18
 
 ### Esnandes
 
-Esnandes (Esnaude weniger richtig), Dep. Charente inferieure, Frankreich.
+Esnandes (Esnaude weniger richtig), Dép. Charente inferieure, Frankreich.
 
 1837, August.
 
@@ -3107,7 +3107,7 @@ Literatur: Weimann u. Glocker Poggend. Ann. 53, 172.
 
 ### Château-Renard
 
-Château-Renard, südöstl. von Montargis, Champ de la Bourgonniere, zwischen den Höfen von Thezars und Petits-Marteaux, Gemeinde Trigueres, Dep. du Loiret, Frankreich.
+Château-Renard, südöstl. von Montargis, Champ de la Bourgonniere, zwischen den Höfen von Thezars und Petits-Marteaux, Gemeinde Trigueres, Dép. du Loiret, Frankreich.
 
 1841, Juni 12, 1 1/2 Uhr Nachmittags.
 
@@ -3147,7 +3147,7 @@ Literatur: Dufresnoy Poggend. Ann. 53, 411. Rammelsberg Handwörterb. Suppl. 2, 
 
 ### Bourbon-Vendee
 
-Bourbon-Vendee, Roche Serviere, Dep. de la Vendee, Frankreich.
+Bourbon-Vendee, Roche Serviere, Dép. de la Vendee, Frankreich.
 
 1841, Nov. 5.
 
@@ -3182,7 +3182,7 @@ Literatur: Kocevar Poggend. Ann. 56, 349. Rosthorn Leonh. u. Bronn N. Jahrb. 184
 
 ### Aumières
 
-Aumières, Dep. de la Lozere, Frankreich.
+Aumières, Dép. de la Lozere, Frankreich.
 
 1842, Juni 4.
 
@@ -3471,7 +3471,7 @@ Literatur: Poggend. Ann. 113, 1861, 508.
 
 ### Favars
 
-Weiler Favars, Canton Laissac, 28 Kilom. östlich von Rhodez, Dep. Aveyron, Frankreich.
+Weiler Favars, Canton Laissac, 28 Kilom. östlich von Rhodez, Dép. Aveyron, Frankreich.
 
 1844, Oct. 21, zwischen 6 1/2 und 7 Uhr Morgens.
 
@@ -3589,7 +3589,7 @@ Literatur: Shepard Sillim. Amer. Journ. (2) 6, 281.
 
 ### Marmande
 
-Marmande, Dep. Aveyron, Frankreich.
+Marmande, Dép. Aveyron, Frankreich.
 
 1848, Juli 4.
 
@@ -4190,7 +4190,7 @@ Literatur: Shepard Sillim. Amer. Journ. (2) 30, 208.
 
 ### Des Ormes
 
-Gemeinde des Ormes, Arondissement Joigny, Canton Aillant-sur Tholon, Dep. Yonne, Frankreich.
+Gemeinde des Ormes, Arondissement Joigny, Canton Aillant-sur Tholon, Dép. Yonne, Frankreich.
 
 1857, Oct. 1, 4 3/4 Uhr Abends.
 
@@ -4277,7 +4277,7 @@ Literatur: Haidinger Wien. Akad. Ber. 34, 11. Wöhler ebd. 34, 8. Dabei auch 2 g
 
 ### Aussun und Clarac
 
-Aussun und Clarac, Canton Montrejeau, Dep. de la Haute Garonne, Frankreich.
+Aussun und Clarac, Canton Montrejeau, Dép. de la Haute Garonne, Frankreich.
 
 1858, Dec. 9, 7 1/2 Uhr Morgens.
 
@@ -4577,7 +4577,7 @@ Tocane St. Apre, Dordogne, Frankreich.
 
 1861, Febr. 14.
 
-Unter Feuererscheinung und Regen soll auf dem Marktplatz der Stadt ein Stein von 7 Gr. niedergefallen sein, der jetzt im Museum des Dep. Dordogne sich befindet. Weiteres wurde nicht bekannt und ist fast anzunehmen, dass hier wieder ein sehr zweifelhaft richtiger Fall vorliegt.
+Unter Feuererscheinung und Regen soll auf dem Marktplatz der Stadt ein Stein von 7 Gr. niedergefallen sein, der jetzt im Museum des Dép. Dordogne sich befindet. Weiteres wurde nicht bekannt und ist fast anzunehmen, dass hier wieder ein sehr zweifelhaft richtiger Fall vorliegt.
 
 Literatur: Cosmos 1861, Avril 26.
 
@@ -5623,7 +5623,7 @@ Literatur: B. Silliman Sillim. Amer. Journ. 14, 183. Shepard Report 32.
 
 ### La Caille
 
-La Caille bei Grasse, Dep. du Var, Frankreich.
+La Caille bei Grasse, Dép. du Var, Frankreich.
 
 Jahrhunderte lang lag diese Eisenmasse von 591 K. als Bank vor der Kirche von Caille, aber erst 1828 wurde sie von Brard als meteorisch erkannt. Jetzt ist sie fast ganz im Mus. Hist. nat. zu Paris und nur kleinere Stücke in Wien (231,88 Gr.), Stockholm (60 Gr.), Berlin (4,831 Gr.) und in den Privatsammlungen von Greg (50 Gr.), v. Reichenbach, de Luynes (5 Gr.) und Shepard.
 
