@@ -59,7 +59,7 @@ Das Recht der Uebersetzung in die englische und französische Sprache hat sich d
 | [Belaja-Zerkwa](#belaja-zerkwa)                         | [Gütersloh](#gütersloh)                                       | [Drake Creek](#drake-creek)                 |
 | [Sales](#sales)                                         | [Nulles und Vilabella](#nulles-und-vilabella)                 | [Bialistock](#bialistock)                   |
 | [Benares](#benares)                                     | [Yatoor](#yatoor)                                             | [Richmond](#richmond)                       |
-| [l’Aigle](#laigle)                                      | [Mezö-Madaras](#mezö-madaras)                                 | [Forsyth](#forsyth)                         |
+| [l'Aigle](#laigle)                                      | [Mezö-Madaras](#mezö-madaras)                                 | [Forsyth](#forsyth)                         |
 | [Saurette](#saurette)                                   | [Borkut](#borkut)                                             | [Deal](#deal)                               |
 | [Mässing](#mässing)                                     | [Busti, Goruckpore](#busti-goruckpore)                        | [Krasnoy-Ugol](#krasnoy-ugol)               |
 | [High-Possil](#high-possil)                             | [Girgenti](#girgenti)                                         | [Launton](#launton)                         |
@@ -182,7 +182,7 @@ Berlin, Universität (durch Herrn Professor G. Rose). Fallorte 153. Jüngst wese
 
 Göttingen, Universität (durch Herrn Professor Wöhler). Fallorte 125.
 
-Paris, Mus. d’Histoire naturelle (durch freundliche Mittheilung des Herrn Professor DeLarosse an Herrn Haidinger [Sept. 1859], der die Benutzung hier gestättete). Fallorte 53.
+Paris, Mus. d'Histoire naturelle (durch freundliche Mittheilung des Herrn Professor DeLarosse an Herrn Haidinger [Sept. 1859], der die Benutzung hier gestättete). Fallorte 53.
 
 Paris, Ecole des Mines (durch Vermittelung des Herrn Haidinger, der es durch die Güte des Herrn v. Senarmont erhielt). Fallorte 44.
 
@@ -810,7 +810,7 @@ I\. Steinmeteoriten.
 
 1\. Chondrit (feinkörnige Grundmasse mit eingemengten kleinen Kugeln eines Magnesia-Silikats, mit Krystallen und Körnern von Olivin, Chromeisenerz und einer unbestimmten schwarzen Substanz, sowie von Nickeleisen und Magnetkies).
 
-Kleinwenden, Erxleben, Stauropol, Ensisheim, Chantonnay, Tabor, Luce, Barbotan, Doroninsk, Limerik, Tipperary, Toulouse, Seres, Krasnoy-Ugol, Wesselv, Grünberg, Cabarras County, Mezö-Madaras, Renazzo, Luponnas, Eichstädt, Benares, Nanjemoy, Timochin, Weston, Parma, Lixna, Blansko, Richmond, la Baffe, Poltawa, Macao, Gütersloh, Siena, Bremervörde, Parnallee, Aussun, Mauerkirchen, Linn County, Linum, Apt, Bachmut, New-Concord, Honolulu, Kakowa, Charkow, Wold Cottage, Sales, Schellin, l’Aigle, Dhurmsala, Asco, Lissa, Charsonville, Kuleschowka, Berlanguillas, Agen, Zaborzika, Slobodka, Pohlitz, Forsyth, Vouille, Okniny, Little Piney, Chateau Renard, Oesel, Milena, Meno, Futtehpore, Pegu, Trenzano, Ohaba, Charvallas, Mainz.
+Kleinwenden, Erxleben, Stauropol, Ensisheim, Chantonnay, Tabor, Luce, Barbotan, Doroninsk, Limerik, Tipperary, Toulouse, Seres, Krasnoy-Ugol, Wesselv, Grünberg, Cabarras County, Mezö-Madaras, Renazzo, Luponnas, Eichstädt, Benares, Nanjemoy, Timochin, Weston, Parma, Lixna, Blansko, Richmond, la Baffe, Poltawa, Macao, Gütersloh, Siena, Bremervörde, Parnallee, Aussun, Mauerkirchen, Linn County, Linum, Apt, Bachmut, New-Concord, Honolulu, Kakowa, Charkow, Wold Cottage, Sales, Schellin, l'Aigle, Dhurmsala, Asco, Lissa, Charsonville, Kuleschowka, Berlanguillas, Agen, Zaborzika, Slobodka, Pohlitz, Forsyth, Vouille, Okniny, Little Piney, Chateau Renard, Oesel, Milena, Meno, Futtehpore, Pegu, Trenzano, Ohaba, Charvallas, Mainz.
 
 2\. Howardit (feinkörniges Gemenge von Olivin mit einem weissen Silikat, möglicherweise Anorthit, mit einer geringen Menge Chromeisenerz und Nickeleisen).
 
@@ -880,7 +880,7 @@ a\. Sigena, Macao, Charsonville.
 
 b\. Grau und weiss gefleckt:
 
-Luponnas, Gütersloh, Weston, Macerata, Okniny, Sales, Mooresfort, Limerik, l’Aigle, Assam.
+Luponnas, Gütersloh, Weston, Macerata, Okniny, Sales, Mooresfort, Limerik, l'Aigle, Assam.
 
 c\. Mit weisslichen Einschlüssen:
 
@@ -1093,7 +1093,7 @@ und das hämmerbare Metall aus:
 Fe. Ni.  
 89,28. 10,92.
 
-Meyer hat den Stein nicht selbst analysirt, sondern nur die Procentberechnung der Analyse Howarv’s bekannt gemacht. Nach Schwefel, der jedenfalls darin enthalten ist, wurde nicht gesucht.
+Meyer hat den Stein nicht selbst analysirt, sondern nur die Procentberechnung der Analyse Howarv's bekannt gemacht. Nach Schwefel, der jedenfalls darin enthalten ist, wurde nicht gesucht.
 
 Literatur: Howard Phil. Trans. 1802. Voigt Magaz. 10, 220. Chladni Feuermet. 246.
 
@@ -1201,7 +1201,7 @@ FeS. FeO.* SiO3. MgO. CaO, MnO. Sa.
 
 *) Schwarzes Eisenoxyd.
 
-Wird das FeS stöchiometrisch zerlegt, und aus Prousr’s Eisenbestimmungen, die zuerst 17, dann 19, dann 22 Th. Eisen gab, welches 3% Nickel enthalten soll, das Mittel genommen, so ergibt die Analyse:
+Wird das FeS stöchiometrisch zerlegt, und aus Prousr's Eisenbestimmungen, die zuerst 17, dann 19, dann 22 Th. Eisen gab, welches 3% Nickel enthalten soll, das Mittel genommen, so ergibt die Analyse:
 
 FeO. SiO3. MgO. CaO, MnO. Fe-Ni. S. Sa.
 5. 66. 20. Spur. 7,54-(18,753. 0,579). 4,46. 103.
@@ -1406,13 +1406,13 @@ SiO3. MgO. Fe2O3. NiO. Fe. Ni. S. Sa.
 
 Literatur: Gilb. Ann. 13, 291. 15, 423. 41, 453. Chladni Feuermet. 266. v. Schreibers Beiträge 62. Partsch 43.
 
-### l’Aigle
+### l'Aigle
 
-l’Aigle (la Vassolerie, Fontenil, la Metonnerie, S. Michel-de Sommaire, St. Nicolas-de Sommaire, Bas Vernet, Mesle, Belangere, la Barne, Bois laville, Corboyer etc.), Normandie, Dep. de l’Orne, Frankreich.
+l'Aigle (la Vassolerie, Fontenil, la Metonnerie, S. Michel-de Sommaire, St. Nicolas-de Sommaire, Bas Vernet, Mesle, Belangere, la Barne, Bois laville, Corboyer etc.), Normandie, Dep. de l'Orne, Frankreich.
 
 1803, April 26, 1 Uhr Nachmittags.
 
-Dieser Steinfall gehört zu den interessantesten und historischmerkwürdigsten, da er nicht nur der reichste aller bekannten Meteoritenfälle ist, sondern auch mit ihm alles Läugnen der Thatsache selbst und der Widerstand, den CGuıpnt’s Behauptungen im grössten Theile der wissenschaftlichen Welt fanden, ein Ende hatten. Eine hellleuchtende Feuerkugel war nur in grösserer Entfernung, z. B. in Caen, Falaise, St. Rieux, Pont-Audemer, Verneuil etc. gesehen worden; an den Orten des Steinregens selbst bemerkte man ein kleines, fast unbewegtes, dunkles Wölkchen, aus welchem die Detonationen erschallten, die 30 Meilen in der Runde gehört wurden. Dann fielen sehr viele Steine nieder, man nimmt 2000 bis 3000 an, die sich auf einer elliptischen Fläche von 2 1/2, Ml. Länge und 1 Ml. Breite ausstreuten. Fast alle Bewohner von 20 Dörfern dieses Bezirks waren Augenzeugen. In mehren Orten fielen die Steine hageldicht nieder; alle waren heiss und verbreiteten starken Schwefelgeruch. Die grosse Axe der elliptischen Fallfläche war von SO. bis NW. gerichtet; die grössten Steine fielen am SO.-Ende, die kleinsten am entgegengesetzten. Der schwerste wog 8 K. 065.
+Dieser Steinfall gehört zu den interessantesten und historischmerkwürdigsten, da er nicht nur der reichste aller bekannten Meteoritenfälle ist, sondern auch mit ihm alles Läugnen der Thatsache selbst und der Widerstand, den CGuıpnt's Behauptungen im grössten Theile der wissenschaftlichen Welt fanden, ein Ende hatten. Eine hellleuchtende Feuerkugel war nur in grösserer Entfernung, z. B. in Caen, Falaise, St. Rieux, Pont-Audemer, Verneuil etc. gesehen worden; an den Orten des Steinregens selbst bemerkte man ein kleines, fast unbewegtes, dunkles Wölkchen, aus welchem die Detonationen erschallten, die 30 Meilen in der Runde gehört wurden. Dann fielen sehr viele Steine nieder, man nimmt 2000 bis 3000 an, die sich auf einer elliptischen Fläche von 2 1/2, Ml. Länge und 1 Ml. Breite ausstreuten. Fast alle Bewohner von 20 Dörfern dieses Bezirks waren Augenzeugen. In mehren Orten fielen die Steine hageldicht nieder; alle waren heiss und verbreiteten starken Schwefelgeruch. Die grosse Axe der elliptischen Fallfläche war von SO. bis NW. gerichtet; die grössten Steine fielen am SO.-Ende, die kleinsten am entgegengesetzten. Der schwerste wog 8 K. 065.
 
 Hand- und Bruchstücke finden sich fast in allen Sammlungen; die grössten besitzt Wien (4 K. 059,538; der grösste 1 K. 505), Berlin (2 K. 018,659), London (1 K. 511), Gratz (570 Gr.), Zürich (559 Gr., 5 St.), Freiberg (514 Gr.), Stuttgart (381 Gr., 3 St.), Tübingen (3 St., der grösste 240 Gr.), Göttingen (237,84 Gr., 2 St.), Copenhagen (184 Gr., 4 St.), Leipzig (173,15 Gr., 3 St.), Paris (Ecole des Mines 154,5 Gr.), München (125 Gr.), Paris (Mus. Hist. nat. 74 Gr.) und die Privatsammlungen des Fürsten Lobkowitz (2 K. 154, 3 St.), Shepard (987 Gr.), Greg (371 Gr.), Ferber (248 Gr.), van Breda (172,1 Gr., 2 St.), Neumann (117,27 Gr., 2 St.).
 
@@ -2039,7 +2039,7 @@ Unlösliche Silikate (Augit und ein Feldspath, wahrscheinlich Labrador) 39,47
 
 In manchen Meteoritenverzeichnissen wird noch aus demselben Gouvernement Ekaterinoslaw unter Paulowgrad eine besondere Localität angeführt. Der Stein von etwa 43 K. soll 1826, Mai 19, gefallen und jetzt im Museum zu Odessa sein. Wirklich führt Eichwald einen Meteorstein von 1 Fuss Durchmesser von Ekaterinoslaw an, den er 1829 im Museum der vaterländischen Alterthümer zu Odessa gesehen habe. Da Zweifel waren, ob hier ein besonderer Fall vorliege, oder ob es nur eine Verwechselung mit dem Fall von 1814 sei, so wandte sich Hörnes in Wien neuerlich um Auskunft nach Odessa. Diese ergab, dass allerdings ein solcher Stein daselbst aufbewahrt wird, aber erst seit 1843, wo er in einem Tumulus bei Berdiansk am Asowschen Meer gefunden wurde und antiquarischer Natur ist. Wie stimmt das aber mit der Behauptung von Eichwald? Greg kämpfte jüngst wieder für die Selbständigkeit und Richtigkeit der Localität Ekaterinoslaw.
 
-Jedenfalls ist dasFragment Paulowgrad in Wien (11,485 Gr.) und wohl auch das in Gres’s Sammlung (14,8 Gr.) dem Stein von Bachmut täuschend ähnlich.
+Jedenfalls ist dasFragment Paulowgrad in Wien (11,485 Gr.) und wohl auch das in Gres's Sammlung (14,8 Gr.) dem Stein von Bachmut täuschend ähnlich.
 
 Literatur: Giese in Gilb. Ann. 50, 117. Eichwald in Erman Arch. 5, 178. v. Reichenbach in Poggend. Ann. 111, 372. Haidinger in Wien. Ztg. 1862, Oct. 18, Beil. No. 38. p. 303. Wöhler Nachrichten d. Univ. Göttingen, 1862, 373. Greg Philos. Magaz. Suppl. Jan. 1863.
 
@@ -2058,7 +2058,7 @@ Specifisches Gewicht:
 3,5925 Rumler,  
 3,6213 Rumler.
 
-Die Rinde ist schwarz, matt, wenig pechartig glänzend, stellenweise schlackig, ähnlich Barbotan, l’Aigle u. A.
+Die Rinde ist schwarz, matt, wenig pechartig glänzend, stellenweise schlackig, ähnlich Barbotan, l'Aigle u. A.
 
 Das Innere ist feinkörnig, porös, zerreiblich, lichtaschgrau, rostbraun gefleckt und schwarz punktirt; hell und dunkelgraue kugelige, fest verwachsene Theile sind so durch einander geknetet, dass sie mancherlei krumme Streifen und Flächen bilden. Viele schwarze, meist sehr feine Adern bilden in der Masse theils Lagen und Streifen, theils einzelne tropfenartigeFlecken. Manchmal finden sich beträchtliche schwarze Absonderungsflächen. Da und dort zeigen sich auch Kügelchen von einer dunkelgrauen und Anhäufungen von einer ganz weissen erdigen Substanz. Viele metallische Punkte sind fein, Schwefeleisen mikroskopisch fein eingesprengt. Der Stein wirkt stark auf die Magnetnadel.
 
@@ -2281,7 +2281,7 @@ Literatur: Gilb. Ann. 67, 337. (Abb.) Laugier Bull. Soc. Phil. 1823, Juni. Gilb.
 
 ### Juvinas
 
-Juvinas (weniger richtig Juvenas) bei Libonnez, Dep. de l’Ardeche, Languedoc, Frankreich.
+Juvinas (weniger richtig Juvenas) bei Libonnez, Dep. de l'Ardeche, Languedoc, Frankreich.
 
 1821, Juni 15, zwischen 3 und 4 Uhr Nachmittags.
 
@@ -2303,7 +2303,7 @@ SiO3. Al2O3. Fe, Mn. CaO, MgO. S. Cr. Cu. KO. Sa.
 SiO3. Al2O3. Fe2O3. MnO. CaO, MgO. S. Cr. Cu. KO. Sa.  
 2\. 40. 10,4. 23,5. 6,5. 9,2. 0,8. 0,5. 1. 0,1. 0,2. 92,2.
 
-Sehr sorgfältig und maassgebend für viele darauf folgende Analysen war aber die Rammelsberg’s. Sie ergab 36,77%, durch Säuren zersetzbaren Theil 1. und 63,23% nicht zersetzbaren 2.
+Sehr sorgfältig und maassgebend für viele darauf folgende Analysen war aber die Rammelsberg's. Sie ergab 36,77%, durch Säuren zersetzbaren Theil 1. und 63,23% nicht zersetzbaren 2.
 
 SiO3. Al2O3. Fe2O3. CaO. MgO. NaO. KO. PO5. FeS.  
 1\. 44,38. 33,73. 3,29. 18,07. 0,36. 1,03. 0,33. 0,54. 0,71.  
@@ -2329,7 +2329,7 @@ Angers, Dep. Maine et Loire, Frankreich.
 
 Aus einer Feuerkugel, die in NNW. erschien und heftig detonirte, fielen wahrscheinlich mehre Steine. Einer von nicht ganz 1 K. wurde gleich nach dem Fallen nicht besonders warm aufgenommen. In Poitiers wurde die Feuerkugel als Sternschnuppe gesehen. Der Schweif blieb einige Zeit und veränderte seine Gestalt.
 
-Ueber die Beschaffenheit des unregelmässig eckigen Steins, der seiner Hauptmasse nach in Paris (77 Gr.) und ausserdem vielleicht nur in v. Reichenbach’s Sammlung vertreten ist, wurde nur sehr wenig bekannt. Die Rinde ist gleichförmig braunschwarz und zeigt an einer Stelle eine Blase. Das Innere ist den Steinen von l’Aigle ähnlich und ein Gemenge eines weissen und eines röthlichen Bestandtheils.
+Ueber die Beschaffenheit des unregelmässig eckigen Steins, der seiner Hauptmasse nach in Paris (77 Gr.) und ausserdem vielleicht nur in v. Reichenbach's Sammlung vertreten ist, wurde nur sehr wenig bekannt. Die Rinde ist gleichförmig braunschwarz und zeigt an einer Stelle eine Blase. Das Innere ist den Steinen von l'Aigle ähnlich und ein Gemenge eines weissen und eines röthlichen Bestandtheils.
 
 Literatur: Gilb. Ann. 71, 345. 361.
 
@@ -2506,7 +2506,7 @@ Literatur: Ann. de Chim. 30, 422. Sillim. Amer. Journ. 9, 351. 10, 131. 2. 6, 40
 
 ### Honolulu
 
-Honolulu auf Owahu (O’Wahu, Wahu, Woahoo), Sandwichinseln, Australien.
+Honolulu auf Owahu (O'Wahu, Wahu, Woahoo), Sandwichinseln, Australien.
 
 1825, Sept. 14, zwischen 10 und 11 Uhr Morgens.
 
@@ -2518,7 +2518,7 @@ Die Rinde ist matt und schwarz, zum Theil aber ins Bräunlichrothe umgeändert.
 
 Die graulichweisse Grundmasse, die sich mit dem Messer ritzen lässt, ist durch eingemengte kugelige Einschlüsse mehr oder weniger deutlich gefleckt und ist von einer grossen Masse schwarzer, zum Theil verästelter Adern in verschiedenen Richtungen durchzogen; auch treten schwarze, graphitartig glänzende Ablösungen auf. Das Eisen ist in kleinen silberweissen, metallisch glänzenden Körnchen ziemlich reichlich, Magnetkies sehr fein eingesprengt.
 
-Literatur: E. Hoffmann Geogn. Beobachtungen gesammelt auf einer Reise um die Welt in O. v. Kotzedue’s 2. Reise um die Welt. Weimar 1830. 2 B. Pogg. Ann. 18, 184, 624. 24, 225. Sill. Am. Journ. 49, 407. G. Rose Reise Ural I, 32.
+Literatur: E. Hoffmann Geogn. Beobachtungen gesammelt auf einer Reise um die Welt in O. v. Kotzedue's 2. Reise um die Welt. Weimar 1830. 2 B. Pogg. Ann. 18, 184, 624. 24, 225. Sill. Am. Journ. 49, 407. G. Rose Reise Ural I, 32.
 
 ### Mhow
 
@@ -2526,7 +2526,7 @@ Mhow, Ghazeepore, District Azim-Gesch (Azim-Gur), NO. von Benares, Ostindien.
 
 1827, Febr. 16, 3 Uhr Nachmittags.
 
-Unter donnerähnlichem Getöse fielen einige Steine, wobei ein Mensch getödtet wurde; die Bruchstücke der Steine wurden mehre englische Meilen weit’ auseinander gefunden. Bruchstücke sind in Calcutta (354,37 Gr.), London (153 Gr.) und Wien (24,7 Gr.).
+Unter donnerähnlichem Getöse fielen einige Steine, wobei ein Mensch getödtet wurde; die Bruchstücke der Steine wurden mehre englische Meilen weit' auseinander gefunden. Bruchstücke sind in Calcutta (354,37 Gr.), London (153 Gr.) und Wien (24,7 Gr.).
 
 Specifisches Gewicht: 3,5.
 
@@ -2774,7 +2774,7 @@ Die Feuerkugel wurde auf 70-80 [] Meil. gesehen; heftige Detonation. Nach einige
 
 Specifisches Gewicht: 3,7019 mit Rinde, Rumler.
 
-Die Rinde ist matt, die Grundmasse dunkelgrau, rostbraun gefleckt, mit ziemlich vielen dunkleren, kleinkugeligen Einschlüssen, viel fein eingesprengtem Eisen und sehr fein eingesprengtem Schwefeleisen. Die grösseren Eisenkügelchen kommen vollständig mit den grossen Eisenmassen überein und lassen Widmannstätten’sche Figuren erkennen. In einem Stück, das in Stockholm ist, fand sich ein Fleckchen von 1 Linie Durchmesser vollkommen lasurblau.
+Die Rinde ist matt, die Grundmasse dunkelgrau, rostbraun gefleckt, mit ziemlich vielen dunkleren, kleinkugeligen Einschlüssen, viel fein eingesprengtem Eisen und sehr fein eingesprengtem Schwefeleisen. Die grösseren Eisenkügelchen kommen vollständig mit den grossen Eisenmassen überein und lassen Widmannstätten'sche Figuren erkennen. In einem Stück, das in Stockholm ist, fand sich ein Fleckchen von 1 Linie Durchmesser vollkommen lasurblau.
 
 Analyse von Berzelius, gedeutet von Rammelsberg:
 
@@ -2929,7 +2929,7 @@ Cold-Bokkeveld, 15 engl. Meil. von Tulbagh, 70 engl. Meil. von der Capstadt, Cap
 
 1838, Oct. 13, 9 Uhr Morgens.
 
-Das Getöse bei dem Fall war entsetzlich, lauter und gewaltiger, als das heftigste Artilleriefeuer; die Luft wurde auf mehr als 80 engl. Meil. in jeder Richtung erschüttert. Mehre Personen in Worcester fühlten sich an den Knien wie elektrisirt. Bei Worcester, in 40 Meil. Entfernung, verglich man den Lärm mit dem Herabrollen von Felsmassen von einem Berg. Von dem Ort der Beobachtung an der Grenze des grossen Karroo, sah man etwas wie eine Gongreve’sche Rakete von Westen her sich Weg bahnen und fast über den Köpfen der Beschauer in Tropfen von Feuer oder durchsichtigem Glase scheinbar zerbersten. Nach der Explosion sah man noch eine Zeit lang einen blauen Rauchstreif von SW. nach NO. Ein Farmer sah den Fall vor sich in den Boden schlagen. Viele Steine fielen in 3 Haufen, alle innerhalb des Umkreises einer Fläche von 40-50 Ellen im Quadrat, einige auf harten Grund, und diese zerschellten in kleine Theilchen, andere in den weichen Grund, und diese wurden ausgegraben. Die Stücke waren anfangs sehr weich und wurden später etwas fester. Nach anderem Bericht sollen die Steine über eine Strecke von 150 engl. Meil. verbreitet gewesen sein, alle in derselben Richtung, so dass man mit Unterbrechungen bei 10, 15, 20, 50 u. s. w. Meilen Steine fand. Die bei Tulbagh gefallenen allein wurden auf mehre Gentner im Gewicht geschätzt. Die meisten Steine wurden gleich nach dem Auffinden verschleppt.
+Das Getöse bei dem Fall war entsetzlich, lauter und gewaltiger, als das heftigste Artilleriefeuer; die Luft wurde auf mehr als 80 engl. Meil. in jeder Richtung erschüttert. Mehre Personen in Worcester fühlten sich an den Knien wie elektrisirt. Bei Worcester, in 40 Meil. Entfernung, verglich man den Lärm mit dem Herabrollen von Felsmassen von einem Berg. Von dem Ort der Beobachtung an der Grenze des grossen Karroo, sah man etwas wie eine Gongreve'sche Rakete von Westen her sich Weg bahnen und fast über den Köpfen der Beschauer in Tropfen von Feuer oder durchsichtigem Glase scheinbar zerbersten. Nach der Explosion sah man noch eine Zeit lang einen blauen Rauchstreif von SW. nach NO. Ein Farmer sah den Fall vor sich in den Boden schlagen. Viele Steine fielen in 3 Haufen, alle innerhalb des Umkreises einer Fläche von 40-50 Ellen im Quadrat, einige auf harten Grund, und diese zerschellten in kleine Theilchen, andere in den weichen Grund, und diese wurden ausgegraben. Die Stücke waren anfangs sehr weich und wurden später etwas fester. Nach anderem Bericht sollen die Steine über eine Strecke von 150 engl. Meil. verbreitet gewesen sein, alle in derselben Richtung, so dass man mit Unterbrechungen bei 10, 15, 20, 50 u. s. w. Meilen Steine fand. Die bei Tulbagh gefallenen allein wurden auf mehre Gentner im Gewicht geschätzt. Die meisten Steine wurden gleich nach dem Auffinden verschleppt.
 
 Ganze Steine und Bruchstücke sind in mehren Sammlungen, so besonders in London (1 K. 115,54), Edinburg (964 Gr.), Wien (679,23 Gr., 5 St., der grösste 435,322 Gr.), Petersburg, Akad. d. Wissensch. (250 Gr.); kleinere in Stuttgart (68 Gr.), Göttingen (23,26 Gr.), Berlin (21,491 Gr.), Tübingen (17 Gr.), Paris (Mus. Hist. nat.), Calcutta, München, Giessen (Realschule) und in den Privatsammlungen von v. Reichenbach, Greg (96 Gr.), Shepard, Nevill, Neumann und Auerbach. Dr. Lee, Hartwell-House b. Aylesbury soll viele Stücke besitzen.
 
@@ -3072,7 +3072,7 @@ Concord, New-Hampshire, Nord-Amerika.
 
 1840 (nicht 1846), October (der Tag nicht bestimmt), nach Sonnenuntergang.
 
-Das Niederfallen eines hühnereigrossen Steines wurde beobachtet; er wog 24 Gr. Er scheint in Shepards Sammlung zu sein; in den grossen Sammlungen Europa’s ist nichts davon.
+Das Niederfallen eines hühnereigrossen Steines wurde beobachtet; er wog 24 Gr. Er scheint in Shepards Sammlung zu sein; in den grossen Sammlungen Europa's ist nichts davon.
 
 Die Rinde ist ein glänzend graulichweisses Emaille mit einigen dunkelbraunen metallischen Flecken; innen ist der Stein schlackenartig, wie theilweise gefritteter Feldspath, porös, und desshalb sein specifisches Gewicht nicht zu bestimmen. Härte etwa 6,5. Auch bei Vergrösserung zeigen sich keine metallischen Punkte.
 
@@ -3192,7 +3192,7 @@ Die lichtaschgraue Grundmasse enthält ziemlich viel fein eingesprengtes Eisen u
 
 Der Stein hat die grösste Aehnlichkeit mit Bachmut und Pohlitz.
 
-Literatur: Boisse Recherches sur l’histoire et la nature des Aerolithes, Rodez 1851 war unmöglich zu erhalten.
+Literatur: Boisse Recherches sur l'histoire et la nature des Aerolithes, Rodez 1851 war unmöglich zu erhalten.
 
 ### Logrono
 
@@ -3481,7 +3481,7 @@ Specifisches Gewicht: 3,55 Boisse.
 
 Ueber den Stein ist sonst nichts bekannt geworden; doch soll in Boisse Recherches eine Notiz darüber enthalten sein.
 
-Literatur: l’Instit. 1844, No. 570.
+Literatur: l'Instit. 1844, No. 570.
 
 ### Monte Milone
 
@@ -3493,7 +3493,7 @@ Ohne dass eine Feuerkugel bemerkt wurde, fielen nach heftiger Detonation wie es 
 
 Die Rinde ist schwarz, das Innere feinkörnig und halb krystallinisch, aschgrau, fast weisslich, mit kleinen metallischen Punkten und Adern. Das Ganze hat Aehnlichkeit mit den Steinen von Kleinwenden (1843).
 
-Literatur: l’Instit. 1846, Oct. 7, No. 666.
+Literatur: l'Instit. 1846, Oct. 7, No. 666.
 
 ### Schönenberg
 
@@ -3856,7 +3856,7 @@ Turuma (Duruma), Wanikaland, nach dem Münchener Katalog etwa zwei Tagreisen wes
 
 In der Münchener Sammlung befindet sich ein Stück eines Steines von 577 Gr. mit schwarzer Rinde und auf der Bruchfläche graulich mit bräunlichen, rostfarbenen Flecken. Ein kleines Stückchen besitzt auch Gres. Dr. Barth von Calw, der den Stein nach München schenkte, gibt über denselben folgende Auskunft:
 
-Im Jahr 1853 schrieb mir einer meiner Gorrespondenten im Wanikaland in Ostafrika, unter 4° südl. Br., es sei im Turuam-Gebiet unter einem starken Donnerwetter ein Stein vom Himmel gefallen; Hirtenknaben, die in der Nähe weideten, hätten ihn fallen sehen und aufgehoben. Die Missionare hätten alsbald ihre Leute hingeschickt, damit sie den Stein sähen und wegen der Erwerbung desselben unterhandelten. Mittlerweile hatten die in der Nachbarschaft vorhandenen Wanikas den Stein, weil er ja vom Himmel gefallen, sogleich als einen Gott betrachtet, mit Oel gesalbet, bekleidet, mit Glasperlen verziert und einen schuppenartigen Tempel darüber gebaut, um ihn daselbst göttlich zu verehren. Nicht einmal sehen durften ihn die Abgesandten der Missionare. Ich gab unverzüglich meinem Gorrespondenten den Auftrag, er solle suchen, den Stein um jeden Preis an sich zu bringen und ihn mir schicken. Aber der Auftrag kam zu spät. Die Wanika’s waren natürlich entschlossen, diese Bätylie, die sie als ihren Schutzgott betrachteten, um keinen Preis aus den Händen zu lassen. Auch der Gouverneur von Mombas, an den sich die Missionare wandten, vermochte in dieser Hinsicht nichts über den Aberglauben des Volks. Die Aeltesten der Stadt Kaya, eine Tagreise von dem heiligen Platz, die über den Schutz des Heiligthums zu disponiren hatten, wollten von keinem Anerbieten etwas hören. Erst drei Jahre später, als das wilde Wandervolk der Masai über die Wanikas herfiel, ihre Dörfer ausplünderte und verbrannte, und eine Menge Wanikas ums Leben brachte, gestaltete sich die Sache günstiger, das Volk sah nun ein, dass der vermeintliche Gott sie im Stich gelassen habe und sein Schutz für sie werthlos geworden sei, und hörte nun mit mehr Geneigtheit auf die neuen Anerbietungen, welche die Missionare, eingedenk meines Auftrags, machten. Eine Hungersnoth kam auch dazu, um die Unterhandlungen zu erleichtern, und gegen eine schöne Anzahl von Maria-Theresien-Thalern verstunden sich endlich die Aeltesten dazu, ihr Heiligthum auszuliefern. Ein Mann wurde beauftragt, den Stein in Begleitung des Dieners der Missionare nach Mombas zu bringen, um dort die verabredete Geldsumme in Empfang zu nehmen. Die Entfernung war ziemlich weit. Unterwegs blieb der Mann in einem Dorfe über Nacht, dessen Einwohner ihn überredeten, es sei gefährlich, den Stein in die Hände der Lehrer zu geben, und er liess sich bewegen, und brachte den Gott in den Tempel zurück. Der Diener der Missionare, dem eine Belohnung verheissen war, wenn er seinen Auftrag nach Wunsch vollzöge, gieng abermals nach Turuma, und es gelang ihm, die Auslieferung zum zweiten Mal zu bewerkstelligen und das Gewächs des Himmels in die Hand des Missionars zu bringen, der es mit der nächsten sichern Gelegenheit mir zusandte. Die Bestandtheile des Steines sind nach der chemischen Analyse von Kurr Eisen, Nickel, Kalk, Thonerde, Kieselsäure, Magnesia, Eisenoxyd und Wasser, welche bilden: Olivin, Kalkfeldspath, Eisenoxydhydrat und Nickeleisen.
+Im Jahr 1853 schrieb mir einer meiner Gorrespondenten im Wanikaland in Ostafrika, unter 4° südl. Br., es sei im Turuam-Gebiet unter einem starken Donnerwetter ein Stein vom Himmel gefallen; Hirtenknaben, die in der Nähe weideten, hätten ihn fallen sehen und aufgehoben. Die Missionare hätten alsbald ihre Leute hingeschickt, damit sie den Stein sähen und wegen der Erwerbung desselben unterhandelten. Mittlerweile hatten die in der Nachbarschaft vorhandenen Wanikas den Stein, weil er ja vom Himmel gefallen, sogleich als einen Gott betrachtet, mit Oel gesalbet, bekleidet, mit Glasperlen verziert und einen schuppenartigen Tempel darüber gebaut, um ihn daselbst göttlich zu verehren. Nicht einmal sehen durften ihn die Abgesandten der Missionare. Ich gab unverzüglich meinem Gorrespondenten den Auftrag, er solle suchen, den Stein um jeden Preis an sich zu bringen und ihn mir schicken. Aber der Auftrag kam zu spät. Die Wanika's waren natürlich entschlossen, diese Bätylie, die sie als ihren Schutzgott betrachteten, um keinen Preis aus den Händen zu lassen. Auch der Gouverneur von Mombas, an den sich die Missionare wandten, vermochte in dieser Hinsicht nichts über den Aberglauben des Volks. Die Aeltesten der Stadt Kaya, eine Tagreise von dem heiligen Platz, die über den Schutz des Heiligthums zu disponiren hatten, wollten von keinem Anerbieten etwas hören. Erst drei Jahre später, als das wilde Wandervolk der Masai über die Wanikas herfiel, ihre Dörfer ausplünderte und verbrannte, und eine Menge Wanikas ums Leben brachte, gestaltete sich die Sache günstiger, das Volk sah nun ein, dass der vermeintliche Gott sie im Stich gelassen habe und sein Schutz für sie werthlos geworden sei, und hörte nun mit mehr Geneigtheit auf die neuen Anerbietungen, welche die Missionare, eingedenk meines Auftrags, machten. Eine Hungersnoth kam auch dazu, um die Unterhandlungen zu erleichtern, und gegen eine schöne Anzahl von Maria-Theresien-Thalern verstunden sich endlich die Aeltesten dazu, ihr Heiligthum auszuliefern. Ein Mann wurde beauftragt, den Stein in Begleitung des Dieners der Missionare nach Mombas zu bringen, um dort die verabredete Geldsumme in Empfang zu nehmen. Die Entfernung war ziemlich weit. Unterwegs blieb der Mann in einem Dorfe über Nacht, dessen Einwohner ihn überredeten, es sei gefährlich, den Stein in die Hände der Lehrer zu geben, und er liess sich bewegen, und brachte den Gott in den Tempel zurück. Der Diener der Missionare, dem eine Belohnung verheissen war, wenn er seinen Auftrag nach Wunsch vollzöge, gieng abermals nach Turuma, und es gelang ihm, die Auslieferung zum zweiten Mal zu bewerkstelligen und das Gewächs des Himmels in die Hand des Missionars zu bringen, der es mit der nächsten sichern Gelegenheit mir zusandte. Die Bestandtheile des Steines sind nach der chemischen Analyse von Kurr Eisen, Nickel, Kalk, Thonerde, Kieselsäure, Magnesia, Eisenoxyd und Wasser, welche bilden: Olivin, Kalkfeldspath, Eisenoxydhydrat und Nickeleisen.
 
 Das Datum 1853 März 6 im Münchener Katalog stimmt genau mit dem von Segowlee (p. 85) überein; scheint aber nur irrthümlich eine Verwechslung mit diesem indischen Falle zu sein. Es wäre wichtig, wenn wirklich eine Uebereinstimmung der beiden Daten nachgewiesen werden könnte, weil Segowlee und Turuma sich vollkommen ähnlich sind.
 
@@ -4608,7 +4608,7 @@ Es kann nicht bezweifelt werden, dass die fünf an vier verschiedenen Orten gefa
 Specifisches Gewicht: 3,60 Maskelyne. Es scheint in den ver-
 schiedenen Theilen ziemlich gleichmässig zu sein.
 
-Die Rinde ist russschwarz und von dichtem Gefüge; an manchen Stücken geht die Farbe mehr in’s Braune über. Auch die Dicke ist nicht überall gleich.
+Die Rinde ist russschwarz und von dichtem Gefüge; an manchen Stücken geht die Farbe mehr in's Braune über. Auch die Dicke ist nicht überall gleich.
 
 Das Innere besteht aus einer gelblichbraunen Grundmasse; mit einer Lupe erkennt man eine reichliche Einstreuung von vorstehenden Punkten metallischen Eisens, welche von unregelmässigen dunkeln Flecken umgeben sind. Schwefeleisen tritt in ansehnlicher Menge mit dem Eisen auf. Dieses ist in kleinen, einzelnen, unregelmässig gestalteten und manchmal krystallinisch aussehenden Körnchen vertheilt, die nicht zu einer schwammartigen Masse sich vereinigen. Ausser diesen Bestandtheilen finden sich verschiedene sehr unregelmässig vertheilte Kügelchen eines durchscheinenden Minerals von grünlichbrauner Farbe, das dem Olivin ähnlich ist, sowie selten ein sehr dunkel gefärbtes Mineral gewöhnlich mit schimmerndem Bruch und vielleicht manchmal etwas krystallinisch.
 
@@ -4748,7 +4748,7 @@ Specifisches Gewicht:
 3,44 Gergens,  
 3,26 Seelheim (weniger zersetzter Theil aus dem Inneren des Steins).
 
-Der Stein hat von aussen das Ansehen eines eisenhaltigen, stark verwitterten Dolerits und ist stellenweise mit einer neu gebildeten Kruste eines kalkhaltigen Brauneisensteins überzogen. Nach Gergens ist die Verwitterung in’s Innere fortgeschritten, und nur einzelne dichtere Partien, etwa die Hälfte der ganzen Masse, sind noch wenig zersetzt, dunkelbraun und zeigten dem Magnet folgende Einschlüsse, dunkelstahlgraue Klümpchen von unregelmässig geflossener Gestalt und blätterig krystallinische Flitter. Das verwitterte Silikat glich stark zersetztem Olivin und war schmutzig gelbbraun, feste Körner aber olivengrün; einzelne weniger zersetzte graue Körner schienen Aehnlichkeit mit Labrador zu haben. Die am wenigsten verwitterten Theile waren bräunlichschwarz.
+Der Stein hat von aussen das Ansehen eines eisenhaltigen, stark verwitterten Dolerits und ist stellenweise mit einer neu gebildeten Kruste eines kalkhaltigen Brauneisensteins überzogen. Nach Gergens ist die Verwitterung in's Innere fortgeschritten, und nur einzelne dichtere Partien, etwa die Hälfte der ganzen Masse, sind noch wenig zersetzt, dunkelbraun und zeigten dem Magnet folgende Einschlüsse, dunkelstahlgraue Klümpchen von unregelmässig geflossener Gestalt und blätterig krystallinische Flitter. Das verwitterte Silikat glich stark zersetztem Olivin und war schmutzig gelbbraun, feste Körner aber olivengrün; einzelne weniger zersetzte graue Körner schienen Aehnlichkeit mit Labrador zu haben. Die am wenigsten verwitterten Theile waren bräunlichschwarz.
 
 v. Reichenbach ist dagegen der Ansicht, dass die derben grösseren braunen Antheile kein Erzeugniss der Verrostung sein können, sondern dass die angeführten Eigenschaften in der ursprünglichen Beschaffenheit des Gemenges liegen. Das Ganze sieht mehr einem armen Brauneisenstein, als einem Meteorstein ähnlich, doch sind die rostbraunen, einförmigen Partien beinahe grösser, als die gewöhnlichen gemengten Meteorsteinantheile.
 
