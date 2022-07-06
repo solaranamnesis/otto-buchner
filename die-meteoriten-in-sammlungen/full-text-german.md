@@ -848,7 +848,7 @@ v. Reichenbach zu Wien.*
 
 1\. Gruppe:
 
-Chassigny, Bishopville. — Jonzac (Uebergangsglied).
+Chassigny, Bishopville. - Jonzac (Uebergangsglied).
 
 2\. Gruppe:
 
@@ -1357,7 +1357,7 @@ Sales, bei Villefranche, Dep. du Rhone, Frankreich.
 
 1798, März 8 oder 12, 6 Uhr Abends.
 
-Eine leuchtende Feuerkugel zog von O. nach W. unter furchtbarem Heulen und Prasseln und Funkensprühen. Der Stein, dessen Fall mehre Zeugen in der Nähe beobachteten, wurde erst am folgenden Morgen ausgegraben; er war nicht mehr heiss, roch aber schwefelig und hatte an mehren Stelle Risse: er wog etwa 10 K., doch wurde er zerschlagen. Ueber die Zeit des Falles finden sich verschiedene Angaben. De Dree, der dem Ereigniss am genauesten nachging, aber erst 1802, nennt den 12. März als Falltag. Pictet in Genf sah aber um dieselbe Abendzeit am 8. März eine Feuerkugel von Ost nach West ziehen, so dass dieser Tag vielleicht der richtige ist. — Sage, der in der Zeit des Unglaubens gleich nach dem Fall ein grosses Stück erhielt, liess es in Gestalt einer Vase abdrehen. Existirt wohl noch dieses Stück gelehrter Barbarei? Das grösste Bruchstück ist in Wien (292 Gr., im Ganzen 334,14 Gr.); kleinere sind in London (191,94 Gr.), Paris (38 Gr.), Berlin (15,993 Gr.), Stuttgart (3 Gr.), Göttingen (0,92 Gr.) und in den Privatsammlungen von v. Reichenbach, Shepard, Nevill und Greg.
+Eine leuchtende Feuerkugel zog von O. nach W. unter furchtbarem Heulen und Prasseln und Funkensprühen. Der Stein, dessen Fall mehre Zeugen in der Nähe beobachteten, wurde erst am folgenden Morgen ausgegraben; er war nicht mehr heiss, roch aber schwefelig und hatte an mehren Stelle Risse: er wog etwa 10 K., doch wurde er zerschlagen. Ueber die Zeit des Falles finden sich verschiedene Angaben. De Dree, der dem Ereigniss am genauesten nachging, aber erst 1802, nennt den 12. März als Falltag. Pictet in Genf sah aber um dieselbe Abendzeit am 8. März eine Feuerkugel von Ost nach West ziehen, so dass dieser Tag vielleicht der richtige ist. - Sage, der in der Zeit des Unglaubens gleich nach dem Fall ein grosses Stück erhielt, liess es in Gestalt einer Vase abdrehen. Existirt wohl noch dieses Stück gelehrter Barbarei? Das grösste Bruchstück ist in Wien (292 Gr., im Ganzen 334,14 Gr.); kleinere sind in London (191,94 Gr.), Paris (38 Gr.), Berlin (15,993 Gr.), Stuttgart (3 Gr.), Göttingen (0,92 Gr.) und in den Privatsammlungen von v. Reichenbach, Shepard, Nevill und Greg.
 
 Specifisches Gewicht:
 
@@ -1699,7 +1699,7 @@ Stannern (Langenpiernitz), Iglauer Kreis, Mähren.
 
 Nicht nur die Steine sind höchst merkwürdig, sondern auch der Fall selbst vortrefflich beobachtet, die Thatsachen durch gerichtliche und wissenschaftliche Untersuchungen festgestellt und die Steine in reichlicher Menge sorgfältig gesammelt; von keinem Ereigniss dieser Art sind so viele Steine in derselben Sammlung, so dass ein genaues Studium, ein Vergleichen und eine folgerichtige Zusammenstellung derselben möglich ist, wie gerade hier.
 
-Bei heiterem Himmel und plötzlich eingetretenem Nebel, der 4 Stunden währte, hörte man mehre Detonationen und darauf folgendes Getöse; die Lufterschütterung dabei wurde 5—8 Meil. im Umkreis verspürt. In 4-5 Meil. Entfernung wurde auch eine Feuerkugel mit Schweif von NO. nach SW. gehend gesehen. Es fielen in Gegenwart vieler Augenzeugen viele Steine nieder, nach v. Schreibers etwa 100, nach Partsch 200-300. Schon am sechsten Tage nach dem Fall wurden v. Schreibers und v. Widmannstätten von Wien aus in die Gegend geschickt, um die Thatsachen festzustellen, was durch die genauesten privaten und gerichtlichen Untersuchungen und Verhöre, durch 20 Protokolle und über 100 private Aussagen vollkommen gelang. 61 Steine konnten nach Wien zurückgebracht werden. An ihnen erkannte v. Schreibers Zuerst die vorherrschend pyramidale Gestalt, die unterdessen an so vielen anderen Meteoriten bestätigt worden ist. Die Steine fielen auf eine elliptische Fläche, in deren Mittelpunkt der Marktflecken Stannern liegt, und deren grösste Länge etwa 7000, die grösste Breite 2600 Klafter beträgt. Doch verbreiteten sich hier die Steine nicht gleichmässig, sondern in drei Hauptgruppen entsprechend den drei Hauptdetonationen, die gleich gewaltigen Donnerschlägen nach manchen Richtungen auf 10 bis 14 Meil. gehört wurden. Die erste Fallgruppe liegt am nördlichen Ende der ganzen Fläche; es wurden 4 Steine gefunden, deren grösster über 8 K. wog; ihr Gesammtgewicht beträgt 15 K. Zur mittleren Gruppe gehörten 36 Steine von zusammen fast 31 K.; es waren meist kleinere, der grösste 2 1/2 K., im Durchschnitt 1-1 1/2 K. Zur südlichsten Gruppe gehörten 26 Steine im Gesammtgewicht von nur etwas über 6 K., also durchweg kleine und sehr kleine Steine, der grösste etwas über 1 K., der kleinste ca. 60 Gr., doch sind ohne Zweifel noch kleinere gefallen, aber der Fallort nicht genauer bezeichnet worden. In der Wiener Sammlung wiegt der kleinste der Stannern-Steine nur 3,5 Gr. Hätte der Krieg von 1809 den Untersuchungen kein Ende gemacht, so wären voraussichtlich — es wurde das Feld nur zweimal durchsucht — noch weitere Steine gefunden worden.
+Bei heiterem Himmel und plötzlich eingetretenem Nebel, der 4 Stunden währte, hörte man mehre Detonationen und darauf folgendes Getöse; die Lufterschütterung dabei wurde 5-8 Meil. im Umkreis verspürt. In 4-5 Meil. Entfernung wurde auch eine Feuerkugel mit Schweif von NO. nach SW. gehend gesehen. Es fielen in Gegenwart vieler Augenzeugen viele Steine nieder, nach v. Schreibers etwa 100, nach Partsch 200-300. Schon am sechsten Tage nach dem Fall wurden v. Schreibers und v. Widmannstätten von Wien aus in die Gegend geschickt, um die Thatsachen festzustellen, was durch die genauesten privaten und gerichtlichen Untersuchungen und Verhöre, durch 20 Protokolle und über 100 private Aussagen vollkommen gelang. 61 Steine konnten nach Wien zurückgebracht werden. An ihnen erkannte v. Schreibers Zuerst die vorherrschend pyramidale Gestalt, die unterdessen an so vielen anderen Meteoriten bestätigt worden ist. Die Steine fielen auf eine elliptische Fläche, in deren Mittelpunkt der Marktflecken Stannern liegt, und deren grösste Länge etwa 7000, die grösste Breite 2600 Klafter beträgt. Doch verbreiteten sich hier die Steine nicht gleichmässig, sondern in drei Hauptgruppen entsprechend den drei Hauptdetonationen, die gleich gewaltigen Donnerschlägen nach manchen Richtungen auf 10 bis 14 Meil. gehört wurden. Die erste Fallgruppe liegt am nördlichen Ende der ganzen Fläche; es wurden 4 Steine gefunden, deren grösster über 8 K. wog; ihr Gesammtgewicht beträgt 15 K. Zur mittleren Gruppe gehörten 36 Steine von zusammen fast 31 K.; es waren meist kleinere, der grösste 2 1/2 K., im Durchschnitt 1-1 1/2 K. Zur südlichsten Gruppe gehörten 26 Steine im Gesammtgewicht von nur etwas über 6 K., also durchweg kleine und sehr kleine Steine, der grösste etwas über 1 K., der kleinste ca. 60 Gr., doch sind ohne Zweifel noch kleinere gefallen, aber der Fallort nicht genauer bezeichnet worden. In der Wiener Sammlung wiegt der kleinste der Stannern-Steine nur 3,5 Gr. Hätte der Krieg von 1809 den Untersuchungen kein Ende gemacht, so wären voraussichtlich - es wurde das Feld nur zweimal durchsucht - noch weitere Steine gefunden worden.
 
 Ganze Steine oder Bruchstücke sind fast in allen Sammlungen: Die meisten und grössten in Wien (15 K. 531,031, 35 St., der grösste 6 K. 384,257), kleinere in Berlin (3 K. 460,649), London (1 K. 079), Innsbruck (Ferdinandeum 600 Gr.), Petersburg (Akademie der Wissensch. 541,7 Gr.), Paris (Mus. Hist. nat. 538 Gr.), Harlem (Teylers Mus. 426,4 Gr.), München (420 Gr.), Göttingen (366,72 Gr.), Gratz (337 Gr.), Gotha (335 Gr.), Copenhagen (310 Gr.) und noch kleinere in Breslau (schles. Gesellsch.), Bologna, Calcutta, Freiberg, Gratz (loanneum), Heidelberg, Hudson (Res. Coll.), Leipzig, Lemberg, Mannheim (nat.-hist. Verein), Marburg, Sct. Gallen (städt. Min.-Cab.), Stockholm, Stuttgart (k. Mus. und polyt. Schule), Trier, Tübingen, Upsala, Würzburg und Zürich. Auch in vielen Privatsammlungen findet sich diese Localität, so namentlich bei v. Reichenbach, Erzh. Stephan (617 Gr.), Neumann (393,88 Gr.), Ferber (295,6 Gr.), Greg (275 Gr.), Shepard (222 Gr.), Lobkowitz (215 Gr.) und kleinere bei Auerbach (33 Gr.), v. Baumhauer, Fischer, Jordan, Kessler, de Luynes, Nauck, v. Henikstein, Nevill.
 
@@ -1943,7 +1943,7 @@ Specifisches Gewicht:
 
 Die Rinde ist abweichend von gewöhnlich, theils schlackig, theils ähnlich äusserlich verwittertem Basalt, und nur an wenigen Stellen ist eine Schwärzung ähnlich der Rinde anderer Meteorsteine wahrnehmbar. Sie ritzt wie das Innere Glas und gibt am Stahl Funken.
 
-Das Innere ist sehr dunkel, theils eine schwarze basaltähnliche kleinkrystallinische Masse, theils darin eingeschlossene grössere Brocken einer helleren grauen feinkörnigen Masse. Der schwarze Theil erscheint unter der Lupe unvollkommen körnig mit unebnem Bruch und Spuren von Spaltungsflächen, oder dicht mit splittrigem Bruch, besonders an den scharfen Grenzen. Da und dort sieht man auch ganz kleine röthlichbraune Partien, ähnlich zersetztem Granat. Der graue Theil erzeugt in dem schwarzen ein zum Theil breccienartiges Aussehen und ist ein krystallinisch feinkörniges Gemenge hellgrauer und schwarzer Theilchen, von denen die letzteren im Aussehen und an den Rändern mit der schwarzen Substanz des Steins zusammenhängen. Bisweilen ziehen sich dünne schwarze Linien durch das Gemenge hindurch, welche stark vergrössert dicht erscheinen. Die schwarzen und helleren Theile des Steins sind nicht scharf von einander getrennt, sondern verlaufen sich stellenweise in einander. Eisen ist ziemlich reichlich theils fein, theils in hirsekorngrossen Körnern eingesprengt; Magnetkies tritt in weit geringerer Menge höchst fein auf. Viele der metallischen weissen glänzenden Körnchen sind ganz zersetzt und daher die schwarze Masse braun gefleckt. — Ohne durch das Resultat einer chemischen Analyse dazu berechtigt zu sein, hat Shepard die schwarze Masse Chantonnit genannt (Härte 6,5-7. Specifisches Gewicht 3,48).
+Das Innere ist sehr dunkel, theils eine schwarze basaltähnliche kleinkrystallinische Masse, theils darin eingeschlossene grössere Brocken einer helleren grauen feinkörnigen Masse. Der schwarze Theil erscheint unter der Lupe unvollkommen körnig mit unebnem Bruch und Spuren von Spaltungsflächen, oder dicht mit splittrigem Bruch, besonders an den scharfen Grenzen. Da und dort sieht man auch ganz kleine röthlichbraune Partien, ähnlich zersetztem Granat. Der graue Theil erzeugt in dem schwarzen ein zum Theil breccienartiges Aussehen und ist ein krystallinisch feinkörniges Gemenge hellgrauer und schwarzer Theilchen, von denen die letzteren im Aussehen und an den Rändern mit der schwarzen Substanz des Steins zusammenhängen. Bisweilen ziehen sich dünne schwarze Linien durch das Gemenge hindurch, welche stark vergrössert dicht erscheinen. Die schwarzen und helleren Theile des Steins sind nicht scharf von einander getrennt, sondern verlaufen sich stellenweise in einander. Eisen ist ziemlich reichlich theils fein, theils in hirsekorngrossen Körnern eingesprengt; Magnetkies tritt in weit geringerer Menge höchst fein auf. Viele der metallischen weissen glänzenden Körnchen sind ganz zersetzt und daher die schwarze Masse braun gefleckt. - Ohne durch das Resultat einer chemischen Analyse dazu berechtigt zu sein, hat Shepard die schwarze Masse Chantonnit genannt (Härte 6,5-7. Specifisches Gewicht 3,48).
 
 Vauquelins Analyse wurde nicht bekannt. Berzelius veröffentlichte 4832 seine Analyse, zu der er den schwärzesten und härtesten Theil des Steins verwandte. Mit dem Magnet liessen sich nur unvollkommen Nickel- und Schwefeleisen ausziehen. Er fand dann:
 
@@ -2024,7 +2024,7 @@ Specifisches Gewicht: 3,4235 Rumler.
 
 Der Stein ist mit einer schimmernden schwarzen Rinde bedeckt; die Grundmasse ist hellaschgrau und durch undeutliche kugelige Einmengungen schwach gefleckt; diese treten beim Anschleifen deutlicher hervor. Eisen und Schwefeleisen sind ziemlich reichlich, aber meist fein eingesprengt. Kleine schwarze Theilchen sind Chromeisen.
 
-v. Reichenbach analysirte miskroskopisch einen der kleinen Einschlüsse. — Giese lieferte eine chemische Analyse. Er fand:
+v. Reichenbach analysirte miskroskopisch einen der kleinen Einschlüsse. - Giese lieferte eine chemische Analyse. Er fand:
 
 SiO3. MgO. Al2O3. Fe. Ni. Mn. Cr2O3, S.  
 44. 18. 3. 21. 2,5. 1. 1.
@@ -2049,7 +2049,7 @@ Agen, Dep. Lot et Garonne, Frankreich.
 
 1814, Sept. 5, kurz vor Mittag.
 
-Man bemerkte eine rotirende Wolke, keine Feuerkugel, aber eine blitzartige Erscheinung und eine heftige Detonation. — Viele Steine fielen auf einen Raum von 1 Lieue Durchmesser; sie wogen im Ganzen 30-35 K., die zwei grössten von etwa 9 K., die noch heiss gefunden wurden, waren zerbrochen.
+Man bemerkte eine rotirende Wolke, keine Feuerkugel, aber eine blitzartige Erscheinung und eine heftige Detonation. - Viele Steine fielen auf einen Raum von 1 Lieue Durchmesser; sie wogen im Ganzen 30-35 K., die zwei grössten von etwa 9 K., die noch heiss gefunden wurden, waren zerbrochen.
 
 Das grösste Stück von 531 Gr. ist im Mus. Hist. nat. zu Paris, kleinere Fragmente in Wien (201,7 Gr.), London (46 Gr.), Göttingen 26 Gr.), Berlin (18,159 Gr.), Florenz, Stockholm und den Privatsammlungen von Shepard (N.-Haven), v. Reichenbach (Wien), Greg Manchester 2,7 Gr.), Neumann (Prag), Nevill (London).
 
@@ -2254,7 +2254,7 @@ Gut Lixna (Liksen nach Eichwald), bei dem Dorf Lasdany (Forst Lasdany), 1 1/2 Me
 
 1820, Juli 12. n. St., zwischen 5 und 6 Uhr Abends.
 
-Eine grosse Feuerkugel von SSO. nach NNW. mit Schweif war gefolgt von heftiger Detonation und dann einem Steinfall. Nur die wenigsten Steine wurden gefunden und waren da zum Theil noch heiss; viele fielen wahrscheinlich in einen grossen Wald, viele auch in verschiedene Gewässer. — Einer der gefundenen Steine hatte etwa die Gestalt eines runden Amboses, der sich mit dem spitzen Ende in die Erde gebohrt hatte. Sein Gewicht betrug etwa 20 K.; er wurde zerschlagen.
+Eine grosse Feuerkugel von SSO. nach NNW. mit Schweif war gefolgt von heftiger Detonation und dann einem Steinfall. Nur die wenigsten Steine wurden gefunden und waren da zum Theil noch heiss; viele fielen wahrscheinlich in einen grossen Wald, viele auch in verschiedene Gewässer. - Einer der gefundenen Steine hatte etwa die Gestalt eines runden Amboses, der sich mit dem spitzen Ende in die Erde gebohrt hatte. Sein Gewicht betrug etwa 20 K.; er wurde zerschlagen.
 
 Die Hauptmasse kam nach Wilna und dann nach Kiew. Es sind Bruchstücke in Wien (1 St., 251 Gr.), Göttingen (4 St., zusammen 160 Gr.), Berlin (81,8 Gr.), Dorpat (23,5 Gr.), Freiberg (Bergschule 2 St., 15 Gr.), Paris (Mus. Hist. nat. 13 Gr.), London (10,35 Gr.), Heidelberg und in den Privatsammlungen von v. Reichenbach (Wien), Shepard (N.-Haven), Greg (Manchester 65 Gr.), de Luynes (Dampierre), Auerbach (Moskau 16,5 Gr.), Neumann (Prag).
 
@@ -2500,7 +2500,7 @@ SiO3. MgO. CaO. Fe. Ni. NiO. Al2O3. S. Sa.
 
 1. Nicht magnetischer, 2. magnetischer Theil.
 
-Nach Shepard ist die Hauptmasse Howardit; mit dem Mikroskop erkennt man etwa 15% Olivinoid in rundlichen Körnchen. — Von Chrom wurde keine Spur gefunden.
+Nach Shepard ist die Hauptmasse Howardit; mit dem Mikroskop erkennt man etwa 15% Olivinoid in rundlichen Körnchen. - Von Chrom wurde keine Spur gefunden.
 
 Literatur: Ann. de Chim. 30, 422. Sillim. Amer. Journ. 9, 351. 10, 131. 2. 6, 406. Poggend. Ann. 8, 47. 18, 184.
 
@@ -2530,7 +2530,7 @@ Unter donnerähnlichem Getöse fielen einige Steine, wobei ein Mensch getödtet 
 
 Specifisches Gewicht: 3,5.
 
-Lichtgraue Grundmasse mit dunkelgrauen kugeligen Einschlüssen, ziemlich viel eingesprengtem Eisen und Magnetkies. — Die Steine sind denen von Parnallee und Dhurmsala zum Verwechseln ähnlich.
+Lichtgraue Grundmasse mit dunkelgrauen kugeligen Einschlüssen, ziemlich viel eingesprengtem Eisen und Magnetkies. - Die Steine sind denen von Parnallee und Dhurmsala zum Verwechseln ähnlich.
 
 Literatur: Poggend. Ann. 24, 226.
 
@@ -2586,7 +2586,7 @@ Es fielen mehre Steine, deren grösster etwa 2 K. wog. Bruchstücke finden sich 
 
 Specifisches Gewicht; 3,1756 Rumler.
 
-Das grosse Stück in der Sammlung der Akademie zu Petersburg lässt nach BLöpe auf einen 4—5 Zoll hohen Stein schliessen; die Rinde ist schwarz, glänzend, wulstig und porös. Die graulich weisse, zerreibliche Grundmasse enthält ziemlich häufig kleinere und grössere Körner von klarem bernsteingelbem bis grünem Olivin, hier und da einzelne weisse feldspathähnliche Körner oder deutlichere Flecken (nach G. Rose vielleicht Anorthit), sowie einzelne grössere Körner und rundliche Partien einer grauschwarzen Beimischung, wodurch das Ganze ein breccienartiges Aussehen erhält. Schwefeleisen ist nur in sehr geringer Menge und fein eingesprengt; Nickeleisen fehlt wahrscheinlich. Die Masse ist sehr ähnlich Luotolaks.
+Das grosse Stück in der Sammlung der Akademie zu Petersburg lässt nach BLöpe auf einen 4-5 Zoll hohen Stein schliessen; die Rinde ist schwarz, glänzend, wulstig und porös. Die graulich weisse, zerreibliche Grundmasse enthält ziemlich häufig kleinere und grössere Körner von klarem bernsteingelbem bis grünem Olivin, hier und da einzelne weisse feldspathähnliche Körner oder deutlichere Flecken (nach G. Rose vielleicht Anorthit), sowie einzelne grössere Körner und rundliche Partien einer grauschwarzen Beimischung, wodurch das Ganze ein breccienartiges Aussehen erhält. Schwefeleisen ist nur in sehr geringer Menge und fein eingesprengt; Nickeleisen fehlt wahrscheinlich. Die Masse ist sehr ähnlich Luotolaks.
 
 Literatur: Blöde Bull. Acad. Petersb. T. 6, 1848, No. 1. G. Rose Reise Ural 1, 77. Eichwald Erman Arch. 5, 179.
 
@@ -2631,7 +2631,7 @@ Gr.), Dublin und den Privatsammlungen von Greg, v. Reichenbach,
 Nevill und Auerbach.
 
 Specifisches Gewicht:  
-3,37—3,52 Shepard,  
+3,37-3,52 Shepard,  
 3,4582 Rumler.
 
 Die Rinde ist matt und dick, die feinkörnige Grundmasse grau, rostbraun gefleckt, mit undeutlichen kugeligen Einschlüssen. Eisen ist fein, Magnetkies meist sehr fein eingesprengt.
