@@ -49,7 +49,7 @@ Das Recht der Uebersetzung in die englische und französische Sprache hat sich d
 | [Tabor](#tabor)                                         | [Favars](#favars)                                             | [Epinal](#epinal)                           |
 | [Luponnas](#luponnas)                                   | [Monte Milone](#monte-milone)                                 | [Futtehpore](#futtehpore)                   |
 | [Alboreto](#alboreto)                                   | [Schönenberg](#schönenberg)                                   | [Nobleborough](#nobleborough)               |
-| [Luce](#luce)                                           | [Linn County](#linn-county)                                   | [Renazzo](#renazzo)                         |
+| [Lucé](#lucé)                                           | [Linn County](#linn-county)                                   | [Renazzo](#renazzo)                         |
 | [Mauerkirchen](#mauerkirchen)                           | [Dharwar](#dharwar)                                           | [Tounkin](#tounkin)                         |
 | [Sena](#sena)                                           | [Castine](#castine)                                           | [Zebrak](#zebrak)                           |
 | [Eichstädt](#eichstädt)                                 | [Marmande](#marmande)                                         | [Oriang](#oriang)                           |
@@ -57,14 +57,14 @@ Das Recht der Uebersetzung in die englische und französische Sprache hat sich d
 | [Barbotan](#barbotan)                                   | [Cabarras County](#cabarras-county)                           | [Honolulu](#honolulu)                       |
 | [Wold Cottage](#wold-cottage)                           | [Shalka](#shalka)                                             | [Mhow](#mhow)                               |
 | [Belaja-Zerkwa](#belaja-zerkwa)                         | [Gütersloh](#gütersloh)                                       | [Drake Creek](#drake-creek)                 |
-| [Sales](#sales)                                         | [Nulles und Vilabella](#nulles-und-vilabella)                 | [Bialistock](#bialistock)                   |
+| [Salés](#salés)                                         | [Nulles und Vilabella](#nulles-und-vilabella)                 | [Bialistock](#bialistock)                   |
 | [Benares](#benares)                                     | [Yatoor](#yatoor)                                             | [Richmond](#richmond)                       |
 | [l'Aigle](#laigle)                                      | [Mezö-Madaras](#mezö-madaras)                                 | [Forsyth](#forsyth)                         |
-| [Saurette](#saurette)                                   | [Borkut](#borkut)                                             | [Deal](#deal)                               |
+| [Saurette](#saurette)                                   | [Borkút](#borkút)                                             | [Deal](#deal)                               |
 | [Mässing](#mässing)                                     | [Busti, Goruckpore](#busti-goruckpore)                        | [Krasnoy-Ugol](#krasnoy-ugol)               |
 | [High-Possil](#high-possil)                             | [Girgenti](#girgenti)                                         | [Launton](#launton)                         |
 | [Doroninsk](#doroninsk)                                 | [Segowlee](#segowlee)                                         | [North Inch of Perth](#north-inch-of-perth) |
-| [Constantinopel](#constantinopel)                       | [Turuma](#turuma)                                             | [Vouille](#vouille)                         |
+| [Constantinopel](#constantinopel)                       | [Turuma](#turuma)                                             | [Vouillé](#vouillé)                         |
 | [Asco](#asco)                                           | [Linum](#linum)                                               | [Wessely](#wessely)                         |
 | [Alais](#alais)                                         | [Oesel](#oesel)                                               | [Umballa](#umballa)                         |
 | [Timochin](#timochin)                                   | [Bremervörde](#bremervörde)                                   | [Curvello](#curvello)                       |
@@ -84,10 +84,10 @@ Das Recht der Uebersetzung in die englische und französische Sprache hat sich d
 | [Chantonnay](#chantonnay)                               | [Harrison County](#harrison-county)                           | [Cereseto](#cereseto)                       |
 | [Limerik](#limerik)                                     | [Crawford County](#crawford-county)                           | [Concord](#concord)                         |
 | [Luotolaks](#luotolaks)                                 | [Bethlehem](#bethlehem)                                       | [Grüneberg](#grüneberg)                     |
-| [Bachmut](#bachmut)                                     | [Alessandria](#alessandria)                                   | [Chateau-Renard](#chateau-renard)           |
+| [Bachmut](#bachmut)                                     | [Alessandria](#alessandria)                                   | [Château-Renard](#château-renard)           |
 | [Agen](#agen)                                           | [Kheragur](#kheragur)                                         | [Bourbon-Vendee](#bourbon-vendee)           |
 | [Dooralla](#dooralla)                                   | [New-Concord](#new-concord)                                   | [Milena](#milena)                           |
-| [Chassigny](#chassigny)                                 | [Dhurmsala](#dhurmsala)                                       | [Aumieres](#aumieres)                       |
+| [Chassigny](#chassigny)                                 | [Dhurmsala](#dhurmsala)                                       | [Aumières](#aumières)                       |
 | [Zaborzika](#zaborzika)                                 | [Tocane St. Apre](#tocane-st.-apre)                           | [Logrono](#logrono)                         |
 | [Seres](#seres)                                         | [Goruckpur-District](#goruckpur-district)                     | [Myhee-Counta](#myhee-counta)               |
 | [Slobodka](#slobodka)                                   | [Canellas](#canellas)                                         | [Bishopville](#bishopville)                 |
@@ -132,7 +132,7 @@ Das Recht der Uebersetzung in die englische und französische Sprache hat sich d
 | [Red River](#red-river)                                | [Carthago](#carthago)                                                                 | [Jewell Hill](#jewell-hill)                 |
 | [Grönland](#grönland)                                  | [Jackson County](#jackson-county)                                                     | [Marshall County](#marshall-county)         |
 | [Leadhills](#leadhills)                                | [Hommoney Creek](#hommoney-creek)                                                     | [Oktibbeha County](#oktibbeha-county)       |
-| [Rasgata](#rasgata)                                    | [Braunau](#braunau)                                                                   | [Tula](#tula)                               |
+| [Rasgatà](#rasgatà)                                    | [Braunau](#braunau)                                                                   | [Tula](#tula)                               |
 | [Santa Rosa](#santa-rosa)                              | [Seeläsgen](#seeläsgen)                                                               | [Nebraska](#nebraska)                       |
 | [Tocavita](#tocavita)                                  | [Otsego County](#otsego-county)                                                       | [La Grange](#la-grange)                     |
 | [Bedford County](#bedford-county)                      | [Black Mountains](#black-mountains)                                                   | [Coopertown](#coopertown)                   |
@@ -194,7 +194,7 @@ Copenhagen, Universität; früher in den Sammlungen Königs Christian VIII., des
 
 Stockholm, Reichsmuseum (durch Herrn Professor Nordenskiöld). Fallorte 29.
 
-Upsala, Universität (durch Herrn Dr. Thalen). Fallorte 24.
+Upsala, Universität (durch Herrn Dr. Thalén). Fallorte 24.
 
 Zürich, vereinigte Sammlung der Universität und des Polytechnikums (durch Herrn Professor Kenngott). Fallorte 23.
 
@@ -308,7 +308,7 @@ Dr. K. H. Neumann, k. k. Gubernial - und Commerz - Rath in Prag. Fallorte 61.
 
 Dr. Lawr. Smith, Professor in Louisville (durch gütige Mittheilung der Herren Haidinger in Wien und Shepard in New-Haven), etwa Fallorte 50. und an grossen Massen Fallorte 10. Ist jüngst wohl grossentheils in die Berliner Sammlung übergegangen.
 
-Duc de Luynes in Dampierre (durch Herrn A. Gory). Fallorte 39. Die Sammlung soll jüngst an das Musee d'Hist. nat. in Paris übergegangen sein.
+Duc de Luynes in Dampierre (durch Herrn A. Gory). Fallorte 39. Die Sammlung soll jüngst an das Musée d'Hist. nat. in Paris übergegangen sein.
 
 Dr. Troost in Nashville, jetzt bei Maj. Troost in Mobile, Alabama (nach Mittheilung des Herrn Shepard). Fallorte 9. in sehr grossen Exemplaren, ausserdem wohl Fallorte 20. in Bruchstücken.
 
@@ -476,7 +476,7 @@ Utrecht. 1843, Juni 2 (Harlem, Utrecht, Göttingen). 71.
 
 Gouv. Poltava. ? (Petersburg, Berlin). 114.
 
-Borkut. 1852, Oct. 13. 83.
+Borkút. 1852, Oct. 13. 83.
 
 Krasnoy-Ugol. 1829, Sept. 9 (Petersburg, Berlin). 53.
 
@@ -496,7 +496,7 @@ Nashville. 1827, Mai 9 (Leyden, Berlin, London, Göttingen). 50.
 
 Kakowa. 1858, Mai 19 (Göttingen, Berlin). 98.
 
-Luce. 1768, Sept. 13 (Berlin, Zürich, Freiberg). 7.
+Lucé. 1768, Sept. 13 (Berlin, Zürich, Freiberg). 7.
 
 Lissa. 1808, Sept. 3 (Berlin, London, Paris, Prag, Göttingen u. A.). 26.
 
@@ -516,7 +516,7 @@ Futtehpore. 1822, Nov. 30 (Calcutta, London). 44.
 
 Bachmut. 1814, Febr. 3 (Charkow, London, Berlin, Petersburg). 34.
 
-Aumieres. 1842, Juni 4 (Paris). 68.
+Aumières. 1842, Juni 4 (Paris). 68.
 
 Pohlitz. 1819, Oct. 13 (Gera, Berlin, London, Göttingen u. A.). 40.
 
@@ -540,13 +540,13 @@ Berlanguillas. 1811, Juli 8 (Paris, Berlin, London, Göttingen). 29.
 
 Apt. 1803, Oct. 8 (Paris, Berlin, Gotha). 17.
 
-Vouille. 1831, Juli 18 (Paris, Berlin). 54.
+Vouillé. 1831, Juli 18 (Paris, Berlin). 54.
 
-Chateau Renard. 1841, Juni 12 (London, Paris, Berlin, Göttingen). 66.
+Château Renard. 1841, Juni 12 (London, Paris, Berlin, Göttingen). 66.
 
 Ohaba. 1857, Oct. 11 (Göttingen). 96.
 
-Sales. 1798, März 8? 12? (London, Paris, Berlin, Göttingen). 13.
+Salés. 1798, März 8? 12? (London, Paris, Berlin, Göttingen). 13.
 
 Agen. 1814, Sept. 5 (Paris, London, Göttingen, Berlin). 35.
 
@@ -744,7 +744,7 @@ Saltillo. (Washington). 192.
 
 Zacatecas. (London, Berlin, Heidelberg, München u. A.). 144.
 
-Rasgata. (Paris, Berlin, London, Petersburg, Göttingen). 155.
+Rasgatà. (Paris, Berlin, London, Petersburg, Göttingen). 155.
 
 Seriba. (London, Göttingen). 166.
 
@@ -796,7 +796,7 @@ Bohumilitz, Arva, Cosbys Creek, Sarepta, Sevier County, Bemdego, Schwetz, Ruffs 
 
 d\. Aus feinkörnigen Individuen bestehend.
 
-Tacavita, Rasgata, Chesterville, Senegal, Capland, Salt River, Babbs Mill, De Kalb County.
+Tacavita, Rasgatà, Chesterville, Senegal, Capland, Salt River, Babbs Mill, De Kalb County.
 
 2\. Pallasit (Meteoreisen mit eingeschlossenen Krystallen von Olivin).
 
@@ -810,7 +810,7 @@ I\. Steinmeteoriten.
 
 1\. Chondrit (feinkörnige Grundmasse mit eingemengten kleinen Kugeln eines Magnesia-Silikats, mit Krystallen und Körnern von Olivin, Chromeisenerz und einer unbestimmten schwarzen Substanz, sowie von Nickeleisen und Magnetkies).
 
-Kleinwenden, Erxleben, Stauropol, Ensisheim, Chantonnay, Tabor, Luce, Barbotan, Doroninsk, Limerik, Tipperary, Toulouse, Seres, Krasnoy-Ugol, Wesselv, Grünberg, Cabarras County, Mezö-Madaras, Renazzo, Luponnas, Eichstädt, Benares, Nanjemoy, Timochin, Weston, Parma, Lixna, Blansko, Richmond, la Baffe, Poltawa, Macao, Gütersloh, Siena, Bremervörde, Parnallee, Aussun, Mauerkirchen, Linn County, Linum, Apt, Bachmut, New-Concord, Honolulu, Kakowa, Charkow, Wold Cottage, Sales, Schellin, l'Aigle, Dhurmsala, Asco, Lissa, Charsonville, Kuleschowka, Berlanguillas, Agen, Zaborzika, Slobodka, Pohlitz, Forsyth, Vouille, Okniny, Little Piney, Chateau Renard, Oesel, Milena, Meno, Futtehpore, Pegu, Trenzano, Ohaba, Charvallas, Mainz.
+Kleinwenden, Erxleben, Stauropol, Ensisheim, Chantonnay, Tabor, Lucé, Barbotan, Doroninsk, Limerik, Tipperary, Toulouse, Seres, Krasnoy-Ugol, Wesselv, Grünberg, Cabarras County, Mezö-Madaras, Renazzo, Luponnas, Eichstädt, Benares, Nanjemoy, Timochin, Weston, Parma, Lixna, Blansko, Richmond, la Baffe, Poltawa, Macao, Gütersloh, Siena, Bremervörde, Parnallee, Aussun, Mauerkirchen, Linn County, Linum, Apt, Bachmut, New-Concord, Honolulu, Kakowa, Charkow, Wold Cottage, Salés, Schellin, l'Aigle, Dhurmsala, Asco, Lissa, Charsonville, Kuleschowka, Berlanguillas, Agen, Zaborzika, Slobodka, Pohlitz, Forsyth, Vouillé, Okniny, Little Piney, Château Renard, Oesel, Milena, Meno, Futtehpore, Pegu, Trenzano, Ohaba, Charvallas, Mainz.
 
 2\. Howardit (feinkörniges Gemenge von Olivin mit einem weissen Silikat, möglicherweise Anorthit, mit einer geringen Menge Chromeisenerz und Nickeleisen).
 
@@ -860,15 +860,15 @@ Uden, Shalka, Trenzano, Stannern, Juvinas, Constantinopel, Petersburg.
 
 a\. Weissliche mit leichten Einschlüssen:
 
-Nashville, Linn County, Bachmut, Schie, Mauerkirchen, Zaborczika, Futtehpore, Kuleschowka, Milena, Czartorya (?), Wold Cottage, Angers, Forsyth, Girgenti, Ajaquz (?), Pohlitz, Cereseto, Aumieres, Charkow, Chandakapoor, Dooralla, Oesel, Garz, Apt, Asco.
+Nashville, Linn County, Bachmut, Schie, Mauerkirchen, Zaborczika, Futtehpore, Kuleschowka, Milena, Czartorya (?), Wold Cottage, Angers, Forsyth, Girgenti, Ajaquz (?), Pohlitz, Cereseto, Aumières, Charkow, Chandakapoor, Dooralla, Oesel, Garz, Apt, Asco.
 
 b\. Bläulich-weisse Grundmasse:
 
-New-Concord, Glasgow, Honolulu, Piemont (?), Chateau Renard, Killeter, Lissa, Toulouse, Favars, Berlanguillas, Vouille.
+New-Concord, Glasgow, Honolulu, Piemont (?), Château Renard, Killeter, Lissa, Toulouse, Favars, Berlanguillas, Vouillé.
 
 2\. Gruppe: Durch eingeschlossene dunkle Kügelchen grobkörnig, rauh:
 
-Parma, Eichstädt, St. Denis Westrem, Zebrak, Little Piney, la Baffe, Nanjemoy, Quenggouk, Benares, Aussun, Luce, Timochin, Gross-Divina, Richmond, Poltava, Borkut.
+Parma, Eichstädt, St. Denis Westrem, Zebrak, Little Piney, la Baffe, Nanjemoy, Quenggouk, Benares, Aussun, Lucé, Timochin, Gross-Divina, Richmond, Poltava, Borkút.
 
 3\. Gruppe: dunkle und helle Kügelchen gemengt:
 
@@ -880,7 +880,7 @@ a\. Sigena, Macao, Charsonville.
 
 b\. Grau und weiss gefleckt:
 
-Luponnas, Gütersloh, Weston, Macerata, Okniny, Sales, Mooresfort, Limerik, l'Aigle, Assam.
+Luponnas, Gütersloh, Weston, Macerata, Okniny, Salés, Mooresfort, Limerik, l'Aigle, Assam.
 
 c\. Mit weisslichen Einschlüssen:
 
@@ -928,7 +928,7 @@ Claiborne (?), Braunau, Nelson County, Cabaja (?), Tucuman, Senegal, Tarapaca.
 
 3\. Gruppe:
 
-Cap, Union County, Rasgata, Livingston County.
+Cap, Union County, Rasgatà, Livingston County.
 
 4\. Gruppe:
 
@@ -1127,9 +1127,9 @@ Chiodelli analysirte den Stein und fand, dass er aus halbverbranntem Eisen verbu
 
 Literatur: v. Ende Massen und Steine 44. Chladni Feuermet. 250.
 
-### Luce
+### Lucé
 
-Luce, Maine, jetzt Dep. de la Sarthe, Frankreich.
+Lucé, Maine, jetzt Dep. de la Sarthe, Frankreich.
 
 1768, Sept. 13, 4 1/2 Uhr Nachmittag.
 
@@ -1351,9 +1351,9 @@ Ueber die Beschaffenheit des Steins ist nichts bekannt geworden.
 
 Literatur: Gilb. Ann. 31, 1809, 307.
 
-### Sales
+### Salés
 
-Sales, bei Villefranche, Dep. du Rhone, Frankreich.
+Salés, bei Villefranche, Dep. du Rhone, Frankreich.
 
 1798, März 8 oder 12, 6 Uhr Abends.
 
@@ -2702,9 +2702,9 @@ North Inch of Perth, Schottland.
 
 Diese neue und seltene Localität findet sich im britischen Museum in London und stammt aus Dr. Thomsons Sammlung von einem 7 Zoll langen Stein; er ist geschnitten und polirt: Maskelyne beschrieb ihn bei der Versammlung der British-Association 1862 und zeigte mikroskopische Schnitte vor. Gedruckt ist aber noch nichts über denselben.
 
-### Vouille
+### Vouillé
 
-Vouille bei Poitiers, Dep. de la Vienne, Frankreich.
+Vouillé bei Poitiers, Dep. de la Vienne, Frankreich.
 
 1831, Juli 18 nach dem Katalog des Pariser Museums; Mai 13 nach anderen Angaben.
 
@@ -3105,9 +3105,9 @@ Die Rinde ist sehr schwach glänzend oder nur schimmernd, unrein graulichschwarz
 
 Literatur: Weimann u. Glocker Poggend. Ann. 53, 172.
 
-### Chateau-Renard
+### Château-Renard
 
-Chateau-Renard, südöstl. von Montargis, Champ de la Bourgonniere, zwischen den Höfen von Thezars und Petits-Marteaux, Gemeinde Trigueres, Dep. du Loiret, Frankreich.
+Château-Renard, südöstl. von Montargis, Champ de la Bourgonniere, zwischen den Höfen von Thezars und Petits-Marteaux, Gemeinde Trigueres, Dep. du Loiret, Frankreich.
 
 1841, Juni 12, 1 1/2 Uhr Nachmittags.
 
@@ -3180,9 +3180,9 @@ NiS. FeS2. FeO Fe₂O₃. Al₂O₃. MgO. SiO₃. MnO Mn₂O₃.
 
 Literatur: Kocevar Poggend. Ann. 56, 349. Rosthorn Leonh. u. Bronn N. Jahrb. 1843, 79. Nenprvica in Sadler A kiralyi magyar termeszettudomanyi tarsulat evkönyvei. 1, 1841-1845. Pesten. 33.
 
-### Aumieres
+### Aumières
 
-Aumieres, Dep. de la Lozere, Frankreich.
+Aumières, Dep. de la Lozere, Frankreich.
 
 1842, Juni 4.
 
@@ -3775,9 +3775,9 @@ Chromoxyd wurde nicht gewogen.
 
 Literatur: Partsch (Knöpfler) Wien. Akad. Ber. 11, 674. Wöhler ebd. 17, 284.
 
-### Borkut
+### Borkút
 
-Borkut an der schwarzen Theiss, Marmaroscher Comitat, Ungarn.
+Borkút an der schwarzen Theiss, Marmaroscher Comitat, Ungarn.
 
 1852, October 13, 3 Uhr Nachmittags.
 
@@ -4140,7 +4140,7 @@ Augit 29,4
 
 wozu noch Magnetkies und eine Phosphorverbindung, ferner Chromeisenstein nicht über 0,002 des Ganzen kommen.
 
-Die Analyse stimmt nahe mit den von Blansko (p. 56) und Chateau-Renard (p. 66).
+Die Analyse stimmt nahe mit den von Blansko (p. 56) und Château-Renard (p. 66).
 
 Literatur: Harris Dissertat. on Meteorites. p. 99. Domeyko Annales de la Univ. de Chile 1859, 325. v. Reichenbach führt in seinem Verzeichniss noch Costa Rica als zweite, besondere Localität auf, doch ist über dieselbe nichts bekannt.
 
@@ -4208,7 +4208,7 @@ Es wurde am heitren Nachthimmel eine feurige Masse beobachtet; alsdann fiel unte
 
 Specifisches Gewicht: 3,1103 Grailich (Mittel aus 4 Bestimmungen).
 
-Die Rinde ist schwarz, dünn und matt, die Innenmasse grau mit undeutlichen dunkelgrauen Einschlüssen und höchst spärlich auftretenden Olivinkörnern. Eisen ist reichlich fein und grob, Magnetkies sehr fein eingesprengt. Unter der Lupe ist der Stein sehr ähnlich Chateau-Renard (p. 66).
+Die Rinde ist schwarz, dünn und matt, die Innenmasse grau mit undeutlichen dunkelgrauen Einschlüssen und höchst spärlich auftretenden Olivinkörnern. Eisen ist reichlich fein und grob, Magnetkies sehr fein eingesprengt. Unter der Lupe ist der Stein sehr ähnlich Château-Renard (p. 66).
 
 Nach der Analyse von Bukeisen unter Wöhlers Leitung besteht der Stein aus:
 
@@ -4256,7 +4256,7 @@ Schafhirten hörten ein dumpfes Donnern und dann ein Sausen in der Luft und sahe
 
 Specifisches Gewicht: 3,384 Haidinger.
 
-Die Rinde ist schwarz, wenig glänzend, in den tieferen Stellen der Oberfläche gröblich netzartig, wie runzelig. Die Grundmasse ist hellgrau mit zahlreichen kleinen rostbraunen Flecken, ganz feinkörnig, fast dicht und voll metallischer Eisentheilchen bis zu 1 Linie im Durchmesser. Auf einer polirten Fläche lassen sich ausser der vorherrschenden hellgrauen Grundmasse dunklere Stellen erkennen, sowie kugelige Einschlüsse von fast graulichweisser Farbe, in denen das Eisen fast ganz fehlt. Einige Kügelchen sind dunkler, von bräunlicher Farbe. Der ganze untere Theil des Steines wird seiner grössten Diagonale nach von einem nahe 3/4 Linien dicken Gang von Rindenmasse durchsetzt. Ausserdem sieht man noch zahlreiche, mehr Haarrissen ähnliche Spaltendurchschnitte, deren einige die hellfarbigen kugeligen Einschlüsse durchsetzen. Im Ganzen ähnelt der Stein denen von Macao (1836) und Luce (1768).
+Die Rinde ist schwarz, wenig glänzend, in den tieferen Stellen der Oberfläche gröblich netzartig, wie runzelig. Die Grundmasse ist hellgrau mit zahlreichen kleinen rostbraunen Flecken, ganz feinkörnig, fast dicht und voll metallischer Eisentheilchen bis zu 1 Linie im Durchmesser. Auf einer polirten Fläche lassen sich ausser der vorherrschenden hellgrauen Grundmasse dunklere Stellen erkennen, sowie kugelige Einschlüsse von fast graulichweisser Farbe, in denen das Eisen fast ganz fehlt. Einige Kügelchen sind dunkler, von bräunlicher Farbe. Der ganze untere Theil des Steines wird seiner grössten Diagonale nach von einem nahe 3/4 Linien dicken Gang von Rindenmasse durchsetzt. Ausserdem sieht man noch zahlreiche, mehr Haarrissen ähnliche Spaltendurchschnitte, deren einige die hellfarbigen kugeligen Einschlüsse durchsetzen. Im Ganzen ähnelt der Stein denen von Macao (1836) und Lucé (1768).
 
 Harris hat unter Wöhlers Leitung den Stein analysirt und gefunden:
 
@@ -5224,7 +5224,7 @@ so wie Spuren von Graphit, Kalk, Chlor und Ammoniak.
 
 Pugh erhielt beim Lösen der Proben des zweiten Stücks 12-14. in Salzsäure keinen Schwefelwasserstoff; es blieb 0,568-1,58%, eines schwarzen unlöslichen Rückstandes aus Schreibersit, Graphit und durchscheinenden Körnchen von einem farblosen, einem rubinrothen und einem grünlichen Mineral.
 
-Uricoechea 15. fand das unlösliche Mineral unter dem Mikroskop aus farblosen, grünlichen, rubinrothen und himmelblauen Körnchen bestehend, ähnlich wie bei dem Eisen von Rasgata.
+Uricoechea 15. fand das unlösliche Mineral unter dem Mikroskop aus farblosen, grünlichen, rubinrothen und himmelblauen Körnchen bestehend, ähnlich wie bei dem Eisen von Rasgatà.
 
 Nach v. Babo 16. ist die Spur Mangan kaum nachweisbar.
 
@@ -5550,9 +5550,9 @@ Etwa 1820 wurde dieses Eisen von da Costa gefunden; es wog 21,27 Gr., war zuerst
 
 Gedruckt wurde dieses Eisen noch nicht erwähnt.
 
-### Rasgata
+### Rasgatà
 
-Rasgata, NO. von S. Fe de Bogota, nahe den Salinen von Zipaquira, Neugranada.
+Rasgatà, NO. von S. Fe de Bogota, nahe den Salinen von Zipaquira, Neugranada.
 
 ### Santa Rosa
 
@@ -5562,13 +5562,13 @@ Santa Rosa, Dorf, 20 franz. Meilen NO. von Bogota.
 
 Tocavita, Hügel nahe bei S. Rosa, alle in Süd-Amerika.
 
-Unter diesen verschiedenen Namen werden die Eisenmassen aufgeführt, welche erst 1824 durch Mariano de Rivero und Boussingault bekannt wurden; sie sahen in S. Rosa eine grosse Eisenmasse, die sie auf 750 K. schätzten, bei einem Schmied, der sie als Ambos benutzte. Sie stammte nebst anderen kleinen Stücken vom Hügel Tocavita, wo sie 1810 gefunden waren. Andere Eisenmassen sahen die Reisenden in dem Dorfe Rasgata, darunter solche von 41 und 22 K. G. Rose hat verschiedene Stücke von diesen Arten untersucht; Berlin besitzt nämlich durch Boussingault und A. v. Humbolt einige Stücke von S. Rosa, wahrscheinlich von den kleineren, die Boussingault selbst gesammelt hat. Sie sind feinköraig auf dem Bruch und zeigen geätzt keine Widmannstätten'schen Figuren, wohl aber eine Menge nadelförmiger Krystalle in verschiedenen Richtungen. Davon ganz verschieden ist das Stückchen S. Rosa, das Karsten zwar nicht von Ort und Stelle mitgehracht, aber es sich doch zu verschaffen gewusst hat; es stammt von dem grossen Block, der als Ambos dient; es zeigt deutliche Widmannstätten'sche Figuren. Ganz ebenso verhält sich ein Stück Rasgata, das über Wien aus der Heuland'schen Sammlung und so von Mar. De Rivero stammte. - Da diese Aehnlichkeiten und Unterschiede bis jetzt sich nicht erklären lassen, so sind diese Localitäten hier vereinigt worden. Unter dem Namen Rasgatä finden sich Stücke in Wien (1 K. 292,3), Paris (109 Gr.), Berlin (79,801 Gr.), London (58,825 Gr.), Petersburg, Akademie der Wissenschaften (49,92 Gr.), Göttingen (4,83 Gr.) und in den Privatsammlungen von Greg (56,6 Gr.), v. Reichenbach, Shepard, Neumann (7,5 Gr.) und Nevill. Unter dem Namen S. Rosa, Tocavita sind Stücke in Berlin (1 K. 194,4), Paris, Ecole des Mines (144,25 Gr.), Göttingen (50 Gr.), London (10 Gr.), Heidelberg und in den Privatsammlungen von Shepard (170 Gr.), v. Reichenbach, Zimmermann in Hamburg (33,5 Gr.) und Nevill.
+Unter diesen verschiedenen Namen werden die Eisenmassen aufgeführt, welche erst 1824 durch Mariano de Rivero und Boussingault bekannt wurden; sie sahen in S. Rosa eine grosse Eisenmasse, die sie auf 750 K. schätzten, bei einem Schmied, der sie als Ambos benutzte. Sie stammte nebst anderen kleinen Stücken vom Hügel Tocavita, wo sie 1810 gefunden waren. Andere Eisenmassen sahen die Reisenden in dem Dorfe Rasgatà, darunter solche von 41 und 22 K. G. Rose hat verschiedene Stücke von diesen Arten untersucht; Berlin besitzt nämlich durch Boussingault und A. v. Humbolt einige Stücke von S. Rosa, wahrscheinlich von den kleineren, die Boussingault selbst gesammelt hat. Sie sind feinköraig auf dem Bruch und zeigen geätzt keine Widmannstätten'schen Figuren, wohl aber eine Menge nadelförmiger Krystalle in verschiedenen Richtungen. Davon ganz verschieden ist das Stückchen S. Rosa, das Karsten zwar nicht von Ort und Stelle mitgehracht, aber es sich doch zu verschaffen gewusst hat; es stammt von dem grossen Block, der als Ambos dient; es zeigt deutliche Widmannstätten'sche Figuren. Ganz ebenso verhält sich ein Stück Rasgatà, das über Wien aus der Heuland'schen Sammlung und so von Mar. De Rivero stammte. - Da diese Aehnlichkeiten und Unterschiede bis jetzt sich nicht erklären lassen, so sind diese Localitäten hier vereinigt worden. Unter dem Namen Rasgatä finden sich Stücke in Wien (1 K. 292,3), Paris (109 Gr.), Berlin (79,801 Gr.), London (58,825 Gr.), Petersburg, Akademie der Wissenschaften (49,92 Gr.), Göttingen (4,83 Gr.) und in den Privatsammlungen von Greg (56,6 Gr.), v. Reichenbach, Shepard, Neumann (7,5 Gr.) und Nevill. Unter dem Namen S. Rosa, Tocavita sind Stücke in Berlin (1 K. 194,4), Paris, Ecole des Mines (144,25 Gr.), Göttingen (50 Gr.), London (10 Gr.), Heidelberg und in den Privatsammlungen von Shepard (170 Gr.), v. Reichenbach, Zimmermann in Hamburg (33,5 Gr.) und Nevill.
 
 Specifisches Gewicht:  
 7,3-7,6 Mar. de Rivero und Boussingault,  
 7,33-7,77 Rumler.
 
-Partsch beschreibt das Eisen von Rasgata als derb und dicht; zuweilen ist es mit Schwefeleisen gemengt, das jedoch, wie es scheint, nicht im Eisen eingesprengt ist, sondern nur Höhlungen in demselben theilweise ausfüllt. Das Eisen ist von gebogenen oder zickzackförmigen Sprüngen durchzogen und es sind darin auch grössere und kleinere Höhlungen vorhanden. Beim Aetzen entstehen Zeichnungen durch sehr feine, meist gerade, seltener gekrümmte Linien von Schreibersit, die nach mehren Richtungen ziehen, sich zuweilen, aber selten berühren und folglich nur selten geschlossene Figuren bilden; den übrigen Raum füllen feine kurze Strichelchen und Punkte, die sich ebenfalls schwach erheben und glänzen. Eigentliche Widmannstätten'sche Figuren bilden sich also nicht.
+Partsch beschreibt das Eisen von Rasgatà als derb und dicht; zuweilen ist es mit Schwefeleisen gemengt, das jedoch, wie es scheint, nicht im Eisen eingesprengt ist, sondern nur Höhlungen in demselben theilweise ausfüllt. Das Eisen ist von gebogenen oder zickzackförmigen Sprüngen durchzogen und es sind darin auch grössere und kleinere Höhlungen vorhanden. Beim Aetzen entstehen Zeichnungen durch sehr feine, meist gerade, seltener gekrümmte Linien von Schreibersit, die nach mehren Richtungen ziehen, sich zuweilen, aber selten berühren und folglich nur selten geschlossene Figuren bilden; den übrigen Raum füllen feine kurze Strichelchen und Punkte, die sich ebenfalls schwach erheben und glänzen. Eigentliche Widmannstätten'sche Figuren bilden sich also nicht.
 
 Manche Stücke zeigen auf der Oberfläche Vertiefungen und Erhöhungen und eine schlackenartige Rinde mit sonderbaren Poren oder feinen Löchern.
 
@@ -5579,7 +5579,7 @@ Fe. Ni.
 
 und wenig unlöslichem Rückstande, der nicht untersucht wurde.
 
-Das Eisen aus Rasgata:  
+Das Eisen aus Rasgatà:  
 
 Fe. Ni.  
 90-91. 7-8.
@@ -6606,7 +6606,7 @@ Literatur: Smith Sillim. Amer. Journ. (2) 19, 153.
 
 ### Cohahuila
 
-Cohahuila, Saltillo, Mexiko. (Auch als Santa Rosa angeführt, darf aber dann nicht mit Rasgata, Süd-Amerika [p. 155], verwechselt werden.)
+Cohahuila, Saltillo, Mexiko. (Auch als Santa Rosa angeführt, darf aber dann nicht mit Rasgatà, Süd-Amerika [p. 155], verwechselt werden.)
 
 1855 wurde diese über 114 K. schwere Eisenmasse von Smith beschrieben; sie erhielt Lieut. Gouch zu Saltillo, zwischen Matamoros und Durango, wo sie als Ambos benutzt wurde, soll aber vom Landgute Sancha, 11-12 Meil. von Sta. Rosa, nördlich von Cohahuila hergebracht worden sein. Es sollen dort noch mehr solcher Eisenmassen vorkommen. Dieser Block ist jetzt im Besitz der Smithsonian Institution in Washington; es scheinen schon Stücke davon abgeschlagen zu sein, doch kann nicht angegeben werden, wo sie sich befinden. Die grössten Sammlungen besitzen nur Splitter davon, so Wien (1,27 Gr.).
 
@@ -6966,7 +6966,7 @@ Seite 103 findet sich das Wesentliche ; weitere Mittheilungen bringt Nuovo Cimen
 
 Angers, 1822, Juni 3. (s. p. 44.)
 
-Ein Stückchen von etwas über 1 Gr. in Wien gleicht ganz dem Charkowstein (p. 10), nicht dem von Vouille (p. 54), wie Partsch (Meteoriten p. 142) angibt. Die Rinde ist dick, pechschwarz und aussen wie angefressen.
+Ein Stückchen von etwas über 1 Gr. in Wien gleicht ganz dem Charkowstein (p. 10), nicht dem von Vouillé (p. 54), wie Partsch (Meteoriten p. 142) angibt. Die Rinde ist dick, pechschwarz und aussen wie angefressen.
 
 ### Grosnja
 
