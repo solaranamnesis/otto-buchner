@@ -40,58 +40,58 @@ Das Recht der Uebersetzung in die englische und französische Sprache hat sich d
 
 #### [1. Steinmeteoriten deren fallzeit bekannt ist](#1-steinmeteoriten-deren-fallzeit-bekannt-ist-1)
 
-|                                                           |                                                                 |                                               |
-|-----------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------|
-| [Ensisheim](#ensisheim-1)                                 | [Manegaon](#manegaon-1)                                         | [Pohlitz](#pohlitz-1)                         |
-| [Vago](#vago-1)                                           | [Kleinwenden](#kleinwenden-1)                                   | [Lixna](#lixna-1)                             |
-| [Schellin](#schellin-1)                                   | [Werchne Tschirskaja Stanitza](#werchne-tschirskaja-stanitza-1) | [Juvinas](#juvinas-1)                         |
-| [Plescowitz und Liboschitz](#plescowitz-und-liboschitz-1) | [Killeter](#killeter-1)                                         | [Angers](#angers-1)                           |
-| [Tabor](#tabor-1)                                         | [Favars](#favars-1)                                             | [Epinal](#epinal-1)                           |
-| [Luponnas](#luponnas-1)                                   | [Monte Milone](#monte-milone-1)                                 | [Futtehpore](#futtehpore-1)                   |
-| [Alboreto](#alboreto-1)                                   | [Schönenberg](#schönenberg-1)                                   | [Nobleborough](#nobleborough-1)               |
-| [Luce](#luce-1)                                           | [Linn County](#linn-county-1)                                   | [Renazzo](#renazzo-1)                         |
-| [Mauerkirchen](#mauerkirchen-1)                           | [Dharwar](#dharwar-1)                                           | [Tounkin](#tounkin-1)                         |
-| [Sena](#sena-1)                                           | [Castine](#castine-1)                                           | [Zebrak](#zebrak-1)                           |
-| [Eichstädt](#eichstädt-1)                                 | [Marmande](#marmande-1)                                         | [Oriang](#oriang-1)                           |
-| [Charkow](#charkow-1)                                     | [Schie](#schie-1)                                               | [Nanjemoy](#nanjemoy-1)                       |
-| [Barbotan](#barbotan-1)                                   | [Cabarras County](#cabarras-county-1)                           | [Honolulu](#honolulu-1)                       |
-| [Wold Cottage](#wold-cottage-1)                           | [Shalka](#shalka-1)                                             | [Mhow](#mhow-1)                               |
-| [Belaja-Zerkwa](#belaja-zerkwa-1)                         | [Gütersloh](#gütersloh-1)                                       | [Drake Creek](#drake-creek-1)                 |
-| [Sales](#sales-1)                                         | [Nulles und Vilabella](#nulles-und-vilabella-1)                 | [Bialistock](#bialistock-1)                   |
-| [Benares](#benares-1)                                     | [Yatoor](#yatoor-1)                                             | [Richmond](#richmond-1)                       |
-| [l’Aigle](#laigle-1)                                      | [Mezö-Madaras](#mezö-madaras-1)                                 | [Forsyth](#forsyth-1)                         |
-| [Saurette](#saurette-1)                                   | [Borkut](#borkut-1)                                             | [Deal](#deal-1)                               |
-| [Mässing](#mässing-1)                                     | [Busti, Goruckpore](#busti-goruckpore-1)                        | [Krasnoy-Ugol](#krasnoy-ugol-1)               |
-| [High-Possil](#high-possil-1)                             | [Girgenti](#girgenti-1)                                         | [Launton](#launton-1)                         |
-| [Doroninsk](#doroninsk-1)                                 | [Segowlee](#segowlee-1)                                         | [North Inch of Perth](#north-inch-of-perth-1) |
-| [Constantinopel](#constantinopel-1)                       | [Turuma](#turuma-1)                                             | [Vouille](#vouille-1)                         |
-| [Asco](#asco-1)                                           | [Linum](#linum-1)                                               | [Wessely](#wessely-1)                         |
-| [Alais](#alais-1)                                         | [Oesel](#oesel-1)                                               | [Umballa](#umballa-1)                         |
-| [Timochin](#timochin-1)                                   | [Bremervörde](#bremervörde-1)                                   | [Curvello](#curvello-1)                       |
-| [Weston](#weston-1)                                       | [St. Denis Westrem](#st.-denis-westrem-1)                       | [Blansko](#blansko-1)                         |
-| [Mooradabad](#mooradabad-1)                               | [Petersburg](#petersburg-1)                                     | [Okaninach](#okaninach-1)                     |
-| [Borgo San Donino](#borgo-san-donino-1)                   | [Trenzano](#trenzano-1)                                         | [Charvallas](#charvallas-1)                   |
-| [Stannern](#stannern-1)                                   | [Parnallee](#parnallee-1)                                       | [Aldsworth](#aldsworth-1)                     |
-| [Lissa](#lissa-1)                                         | [Stauropol](#stauropol-1)                                       | [Macao](#macao-1)                             |
-| [Caswell County](#caswell-county-1)                       | [Heredia](#heredia-1)                                           | [Gross-Divina](#gross-divina-1)               |
-| [Mooresfort](#mooresfort-1)                               | [Kaba](#kaba-1)                                                 | [Esnandes](#esnandes-1)                       |
-| [Charsonville](#charsonville-1)                           | [Pilot Grove](#pilot-grove-1)                                   | [Chandakapoor](#chandakapoor-1)               |
-| [Kuleschowka](#kuleschowka-1)                             | [Des Ormes](#des-ormes-1)                                       | [Akburpoor](#akburpoor-1)                     |
-| [Berlanguillas](#berlanguillas-1)                         | [Ohaba](#ohaba-1)                                               | [Cold-Bokkeveld](#cold-bokkeveld-1)           |
-| [Panganoor](#panganoor-1)                                 | [Quenggouk](#quenggouk-1)                                       | [Pine Bluff](#pine-bluff-1)                   |
-| [Toulouse](#toulouse-1)                                   | [Kakowa](#kakowa-1)                                             | [Kirgisensteppe](#kirgisensteppe-1)           |
-| [Erxleben](#erxleben-1)                                   | [Aussun und Clarac](#aussun-und-clarac-1)                       | [Uden](#uden-1)                               |
-| [Chantonnay](#chantonnay-1)                               | [Harrison County](#harrison-county-1)                           | [Cereseto](#cereseto-1)                       |
-| [Limerik](#limerik-1)                                     | [Crawford County](#crawford-county-1)                           | [Concord](#concord-1)                         |
-| [Luotolaks](#luotolaks-1)                                 | [Bethlehem](#bethlehem-1)                                       | [Grüneberg](#grüneberg-1)                     |
-| [Bachmut](#bachmut-1)                                     | [Alessandria](#alessandria-1)                                   | [Chateau-Renard](#chateau-renard-1)           |
-| [Agen](#agen-1)                                           | [Kheragur](#kheragur-1)                                         | [Bourbon-Vendee](#bourbon-vendee-1)           |
-| [Dooralla](#dooralla-1)                                   | [New-Concord](#new-concord-1)                                   | [Milena](#milena-1)                           |
-| [Chassigny](#chassigny-1)                                 | [Dhurmsala](#dhurmsala-1)                                       | [Aumieres](#aumieres-1)                       |
-| [Zaborzika](#zaborzika-1)                                 | [Tocane St. Apre](#tocane-st.-apre-1)                           | [Logrono](#logrono-1)                         |
-| [Seres](#seres-1)                                         | [Goruckpur-District](#goruckpur-district-1)                     | [Myhee-Counta](#myhee-counta-1)               |
-| [Slobodka](#slobodka-1)                                   | [Canellas](#canellas-1)                                         | [Bishopville](#bishopville-1)                 |
-| [Jonzac](#jonzac-1)                                       | [Meno](#meno-1)                                                 | [Utrecht](#utrecht-1)                         |
+|                                                         |                                                               |                                             |
+|---------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------|
+| [Ensisheim](#ensisheim)                                 | [Manegaon](#manegaon)                                         | [Pohlitz](#pohlitz)                         |
+| [Vago](#vago)                                           | [Kleinwenden](#kleinwenden)                                   | [Lixna](#lixna)                             |
+| [Schellin](#schellin)                                   | [Werchne Tschirskaja Stanitza](#werchne-tschirskaja-stanitza) | [Juvinas](#juvinas)                         |
+| [Plescowitz und Liboschitz](#plescowitz-und-liboschitz) | [Killeter](#killeter)                                         | [Angers](#angers)                           |
+| [Tabor](#tabor)                                         | [Favars](#favars)                                             | [Epinal](#epinal)                           |
+| [Luponnas](#luponnas)                                   | [Monte Milone](#monte-milone)                                 | [Futtehpore](#futtehpore)                   |
+| [Alboreto](#alboreto)                                   | [Schönenberg](#schönenberg)                                   | [Nobleborough](#nobleborough)               |
+| [Luce](#luce)                                           | [Linn County](#linn-county)                                   | [Renazzo](#renazzo)                         |
+| [Mauerkirchen](#mauerkirchen)                           | [Dharwar](#dharwar)                                           | [Tounkin](#tounkin)                         |
+| [Sena](#sena)                                           | [Castine](#castine)                                           | [Zebrak](#zebrak)                           |
+| [Eichstädt](#eichstädt)                                 | [Marmande](#marmande)                                         | [Oriang](#oriang)                           |
+| [Charkow](#charkow)                                     | [Schie](#schie)                                               | [Nanjemoy](#nanjemoy)                       |
+| [Barbotan](#barbotan)                                   | [Cabarras County](#cabarras-county)                           | [Honolulu](#honolulu)                       |
+| [Wold Cottage](#wold-cottage)                           | [Shalka](#shalka)                                             | [Mhow](#mhow)                               |
+| [Belaja-Zerkwa](#belaja-zerkwa)                         | [Gütersloh](#gütersloh)                                       | [Drake Creek](#drake-creek)                 |
+| [Sales](#sales)                                         | [Nulles und Vilabella](#nulles-und-vilabella)                 | [Bialistock](#bialistock)                   |
+| [Benares](#benares)                                     | [Yatoor](#yatoor)                                             | [Richmond](#richmond)                       |
+| [l’Aigle](#laigle)                                      | [Mezö-Madaras](#mezö-madaras)                                 | [Forsyth](#forsyth)                         |
+| [Saurette](#saurette)                                   | [Borkut](#borkut)                                             | [Deal](#deal)                               |
+| [Mässing](#mässing)                                     | [Busti, Goruckpore](#busti-goruckpore)                        | [Krasnoy-Ugol](#krasnoy-ugol)               |
+| [High-Possil](#high-possil)                             | [Girgenti](#girgenti)                                         | [Launton](#launton)                         |
+| [Doroninsk](#doroninsk)                                 | [Segowlee](#segowlee)                                         | [North Inch of Perth](#north-inch-of-perth) |
+| [Constantinopel](#constantinopel)                       | [Turuma](#turuma)                                             | [Vouille](#vouille)                         |
+| [Asco](#asco)                                           | [Linum](#linum)                                               | [Wessely](#wessely)                         |
+| [Alais](#alais)                                         | [Oesel](#oesel)                                               | [Umballa](#umballa)                         |
+| [Timochin](#timochin)                                   | [Bremervörde](#bremervörde)                                   | [Curvello](#curvello)                       |
+| [Weston](#weston)                                       | [St. Denis Westrem](#st.-denis-westrem)                       | [Blansko](#blansko)                         |
+| [Mooradabad](#mooradabad)                               | [Petersburg](#petersburg)                                     | [Okaninach](#okaninach)                     |
+| [Borgo San Donino](#borgo-san-donino)                   | [Trenzano](#trenzano)                                         | [Charvallas](#charvallas)                   |
+| [Stannern](#stannern)                                   | [Parnallee](#parnallee)                                       | [Aldsworth](#aldsworth)                     |
+| [Lissa](#lissa)                                         | [Stauropol](#stauropol)                                       | [Macao](#macao)                             |
+| [Caswell County](#caswell-county)                       | [Heredia](#heredia)                                           | [Gross-Divina](#gross-divina)               |
+| [Mooresfort](#mooresfort)                               | [Kaba](#kaba)                                                 | [Esnandes](#esnandes)                       |
+| [Charsonville](#charsonville)                           | [Pilot Grove](#pilot-grove)                                   | [Chandakapoor](#chandakapoor)               |
+| [Kuleschowka](#kuleschowka)                             | [Des Ormes](#des-ormes)                                       | [Akburpoor](#akburpoor)                     |
+| [Berlanguillas](#berlanguillas)                         | [Ohaba](#ohaba)                                               | [Cold-Bokkeveld](#cold-bokkeveld)           |
+| [Panganoor](#panganoor)                                 | [Quenggouk](#quenggouk)                                       | [Pine Bluff](#pine-bluff)                   |
+| [Toulouse](#toulouse)                                   | [Kakowa](#kakowa)                                             | [Kirgisensteppe](#kirgisensteppe)           |
+| [Erxleben](#erxleben)                                   | [Aussun und Clarac](#aussun-und-clarac)                       | [Uden](#uden)                               |
+| [Chantonnay](#chantonnay)                               | [Harrison County](#harrison-county)                           | [Cereseto](#cereseto)                       |
+| [Limerik](#limerik)                                     | [Crawford County](#crawford-county)                           | [Concord](#concord)                         |
+| [Luotolaks](#luotolaks)                                 | [Bethlehem](#bethlehem)                                       | [Grüneberg](#grüneberg)                     |
+| [Bachmut](#bachmut)                                     | [Alessandria](#alessandria)                                   | [Chateau-Renard](#chateau-renard)           |
+| [Agen](#agen)                                           | [Kheragur](#kheragur)                                         | [Bourbon-Vendee](#bourbon-vendee)           |
+| [Dooralla](#dooralla)                                   | [New-Concord](#new-concord)                                   | [Milena](#milena)                           |
+| [Chassigny](#chassigny)                                 | [Dhurmsala](#dhurmsala)                                       | [Aumieres](#aumieres)                       |
+| [Zaborzika](#zaborzika)                                 | [Tocane St. Apre](#tocane-st.-apre)                           | [Logrono](#logrono)                         |
+| [Seres](#seres)                                         | [Goruckpur-District](#goruckpur-district)                     | [Myhee-Counta](#myhee-counta)               |
+| [Slobodka](#slobodka)                                   | [Canellas](#canellas)                                         | [Bishopville](#bishopville)                 |
+| [Jonzac](#jonzac)                                       | [Meno](#meno)                                                 | [Utrecht](#utrecht)                         |
 
 #### [2. Steinmeteoriten, deren Fallzeit unbekannt ist](#2-steinmeteoriten-deren-fallzeit-unbekannt-ist-1)
 
