@@ -136,7 +136,7 @@ Das Recht der Uebersetzung in die englische und französische Sprache hat sich d
 | [Santa Rosa](#santa-rosa)                              | [Seeläsgen](#seeläsgen)                                                               | [Nebraska](#nebraska)                       |
 | [Tocavita](#tocavita)                                  | [Otsego County](#otsego-county)                                                       | [La Grange](#la-grange)                     |
 | [Bedford County](#bedford-county)                      | [Black Mountains](#black-mountains)                                                   | [Coopertown](#coopertown)                   |
-| [La Caille](#la-caille)                                | [Murfreesboro'](#murfreesboro')                                                       | [Cranbourne](#cranbourne)                   |
+| [La Caille](#la-caille)                                | [Murfreesboro'](#murfreesboro)                                                       | [Cranbourne](#cranbourne)                   |
 | [Bohumilitz](#bohumilitz)                              | [Morgan County](#morgan-county)                                                       | [Heidelberg](#heidelberg)                   |
 | [Charlotte, Dickson County](#charlotte-dickson-county) | [Chesterville](#chesterville)                                                         | [Newstead](#newstead)                       |
 | [Randolph County](#randolph-county)                    | [Schwetz](#schwetz)                                                                   | [Rokycan](#rokycan)                         |
@@ -147,6 +147,16 @@ Das Recht der Uebersetzung in die englische und französische Sprache hat sich d
 | [Petropawlowsk](#petropawlowsk)                        | [Senecafluss](#senecafluss)                                                           |
 
 #### [Nachträge](#nachträge-1)
+
+[Alessandria](#alessandria)
+
+[Angers](#angers)
+
+[Grosnja](#grosnja)
+
+[Veendam, Roermonde und Bar-le Duc](#veendam-roermonde-und-bar-le-duc)
+
+[Wilmsdorf](#wilmsdorf)
 
 ***
 
