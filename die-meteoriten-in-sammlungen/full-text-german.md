@@ -103,25 +103,13 @@ Das Recht der Uebersetzung in die englische und französische Sprache hat sich d
 
 #### [3. Uebergangsstufe von den Stein- zu den Eisenmeteoriten.](#3-uebergangsstufe-von-den-stein--zu-den-eisenmeteoriten-1)
 
-[Krasnojarsk](#Krasnojarsk)
-
-[Steinbach, Rittersgrün, Sachsen](#Steinbach, Rittersgrün, Sachsen)
-
-[Bitburg](#Bitburg)
-
-[Atacama](#Atacama)
-
-[Brahin](#Brahin)
-
-[Singhur](#Singhur)
-
-[Hainholz](#Hainholz)
-
-[Forsyth](#Forsyth)
-
-[Rogue River Mountains](#Rogue River Mountains)
-
-[Sierra de Chaco](#Sierra de Chaco)
+|                                                                   |                                                 |
+|-------------------------------------------------------------------|-------------------------------------------------|
+| [Krasnojarsk](#krasnojarsk)                                       | [Singhur](#singhur)                             |
+| [Steinbach, Rittersgrün, Sachsen](#steinbach-rittersgrün-sachsen) | [Hainholz](#hainholz)                           |
+| [Bitburg](#bitburg)                                               | [Forsyth](#forsyth)                             |
+| [Atacama](#atacama)                                               | [Rogue River Mountains](#rogue-river-mountains) |
+| [Brahin](#brahin)                                                 | [Sierra de Chaco](#sierra-de-chaco)             |
 
 #### [4. Eisenmeteoriten. Ihre Fallzeit ist allermeist unbekannt.](#4-eisenmeteoriten-ihre-fallzeit-ist-allermeist-unbekannt-1)
 
