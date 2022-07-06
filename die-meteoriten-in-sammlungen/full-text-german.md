@@ -85,7 +85,7 @@ Das Recht der Uebersetzung in die englische und französische Sprache hat sich d
 | [Limerik](#limerik)                                     | [Crawford County](#crawford-county)                           | [Concord](#concord)                         |
 | [Luotolaks](#luotolaks)                                 | [Bethlehem](#bethlehem)                                       | [Grüneberg](#grüneberg)                     |
 | [Bachmut](#bachmut)                                     | [Alessandria](#alessandria)                                   | [Château-Renard](#château-renard)           |
-| [Agen](#agen)                                           | [Kheragur](#kheragur)                                         | [Bourbon-Vendee](#bourbon-vendee)           |
+| [Agen](#agen)                                           | [Kheragur](#kheragur)                                         | [Bourbon-Vendée](#bourbon-vendée)           |
 | [Dooralla](#dooralla)                                   | [New-Concord](#new-concord)                                   | [Milena](#milena)                           |
 | [Chassigny](#chassigny)                                 | [Dhurmsala](#dhurmsala)                                       | [Aumières](#aumières)                       |
 | [Zaborzika](#zaborzika)                                 | [Tocane St. Apre](#tocane-st.-apre)                           | [Logrono](#logrono)                         |
@@ -120,15 +120,15 @@ Das Recht der Uebersetzung in die englische und französische Sprache hat sich d
 | [Tucuman](#tucuman)                                    | [Guilford County](#guilford-county)                                                   | [Tazewell](#tazewell)                       |
 | [Sierra blanca](#sierra-blanca)                        | [Grayson County](#grayson-county)                                                     | [Ost-Tennessee](#ost-tennessee)             |
 | [Xiquipilco](#xiquipilco)                              | [Eaufromont](#eaufromont)                                                             | [Haywood County](#haywood-county)           |
-| [Bemdego](#bemdego)                                    | [Arva](#arva)                                                                         | [Tabarz](#tabarz)                           |
+| [Bemdegó](#bemdegó)                                    | [Arva](#arva)                                                                         | [Tabarz](#tabarz)                           |
 | [Zacatecas](#zacatecas)                                | [Burlington](#burlington)                                                             | [Sarepta](#sarepta)                         |
 | [Cap der guten Hoffnung](#cap-der-guten-hoffnung)      | [Madagascar](#madagascar)                                                             | [Tarapaca](#tarapaca)                       |
-| [Misteca](#misteca)                                    | [De Kalb County](#de-kalb-county)                                                     | [Madoc](#madoc)                             |
+| [Mistecà](#mistecà)                                    | [De Kalb County](#de-kalb-county)                                                     | [Madoc](#madoc)                             |
 | [Charcas](#charcas)                                    | [Siebenbürgen](#siebenbürgen)                                                         | [Campbell County](#campbell-county)         |
 | [Durango](#durango)                                    | [Babbs Mühle](#babbs-mühle)                                                           | [Cohahuila](#cohahuila)                     |
 | [Panganoor](#panganoor)                                | [Walker County](#walker-county)                                                       | [Denton County](#denton-county)             |
 | [Elbogen](#elbogen)                                    | [Cambria](#cambria)                                                                   | [Nelson County](#nelson-county)             |
-| [Lenarto](#lenarto)                                    | [Smithland](#smithland)                                                               | [Oranjeflussdistrict](#oranjeflussdistrict) |
+| [Lenartó](#lenartó)                                    | [Smithland](#smithland)                                                               | [Oranjeflussdistrict](#oranjeflussdistrict) |
 | [Red River](#red-river)                                | [Carthago](#carthago)                                                                 | [Jewell Hill](#jewell-hill)                 |
 | [Grönland](#grönland)                                  | [Jackson County](#jackson-county)                                                     | [Marshall County](#marshall-county)         |
 | [Leadhills](#leadhills)                                | [Hommoney Creek](#hommoney-creek)                                                     | [Oktibbeha County](#oktibbeha-county)       |
@@ -666,7 +666,7 @@ Tazewell. (London, Berlin, Hudson). 187.
 
 Robertson County. (London). 197.
 
-Lenarto. (Pesth, London, Paris, Berlin u. A). 152.
+Lenartó. (Pesth, London, Paris, Berlin u. A). 152.
 
 Petropawlowsk. (Petersburg). 163.
 
@@ -792,7 +792,7 @@ Seeläsgen, Zacatecas, Nelson County, Union County, Tucuman.
 
 c\. Aus einem Individuum bestehend, mit schaliger Zusammensetzung parallel den Flächen des Octaeders (mit Widmannstätten'schen Figuren).
 
-Bohumilitz, Arva, Cosbys Creek, Sarepta, Sevier County, Bemdego, Schwetz, Ruffs Mountain, Seneca River, Toluca, Misteca, Sierra blanca, Tula, Carthago, Burlington, Marshall County, Oranje River, Red River, Lenarto, Durango, Elbogen, Agram, Asheville, Löwenfluss, Oldham County, Putnam County, Tazewell, Caille, Denton County, Robertson County, Nebraska, Madoc, Black Mountains, Guilford, Lockport, Jewell Hill.
+Bohumilitz, Arva, Cosbys Creek, Sarepta, Sevier County, Bemdegó, Schwetz, Ruffs Mountain, Seneca River, Toluca, Mistecà, Sierra blanca, Tula, Carthago, Burlington, Marshall County, Oranje River, Red River, Lenartó, Durango, Elbogen, Agram, Asheville, Löwenfluss, Oldham County, Putnam County, Tazewell, Caille, Denton County, Robertson County, Nebraska, Madoc, Black Mountains, Guilford, Lockport, Jewell Hill.
 
 d\. Aus feinkörnigen Individuen bestehend.
 
@@ -932,7 +932,7 @@ Cap, Union County, Rasgatà, Livingston County.
 
 4\. Gruppe:
 
-Lenarto, Seneca River, Misteca, Salt River, Chester County, Arva, Davisstrasse, Sarepta, De Kalb, Sevier (?), Zacatecas.
+Lenartó, Seneca River, Mistecà, Salt River, Chester County, Arva, Davisstrasse, Sarepta, De Kalb, Sevier (?), Zacatecas.
 
 5\. Gruppe:
 
@@ -1152,7 +1152,7 @@ Verglasbare Erde 55,5
 
 Die Commission schloss daraus, dass der Stein weder durch den Donner entstanden, noch vom Himmel gefallen sei; am wahrscheinlichsten schien es ihr, er habe unter demRasen gelegen und sei durch einen Blitz oberflächlich geschmolzen und herausgeschleudert worden.
 
-Literatur: Das Geschichtliche bei Izarn Lithologie 61, 192, 301 ausführlicher, als bei Bigot de Morogues 105. Lavoisier und Cadet Mem. Ac. Paris 1769. Journ. de Phys. 1772.
+Literatur: Das Geschichtliche bei Izarn Lithologie 61, 192, 301 ausführlicher, als bei Bigot de Morogues 105. Lavoisier und Cadet Mém. Ac. Paris 1769. Journ. de Phys. 1772.
 
 ### Mauerkirchen
 
@@ -1254,11 +1254,11 @@ II\. 51,0. 20,5. -,-. 4,20. 19,8. 1,5. 3,0.
 
 Lowitz fand noch eine Spur Chrom.
 
-Literatur: Gilb. Ann. 31, 321. Mem. Ac. Petersb. 6, Hist. 47. Erman Arch. 5, 176.
+Literatur: Gilb. Ann. 31, 321. Mém. Ac. Pétersb. 6, Hist. 47. Erman Arch. 5, 176.
 
 ### Barbotan
 
-Barbotan (Roquefort, Creon, Juillac, Mezin, Eause, Armagnac, Losse, Agen, St. Sever, La Grange), Dép. des Landes, Dép. Lot et Garonne, Dép. du Gers, ehemals Gascogne (danach und wohl auch nach Bordeaux genannt), Frankreich.
+Barbotan (Roquefort, Créon, Juillac, Mezin, Eause, Armagnac, Losse, Agen, St. Sever, La Grange), Dép. des Landes, Dép. Lot et Garonne, Dép. du Gers, ehemals Gascogne (danach und wohl auch nach Bordeaux genannt), Frankreich.
 
 1790, Juli 24, nach 9 Uhr Abends.
 
@@ -1353,11 +1353,11 @@ Literatur: Gilb. Ann. 31, 1809, 307.
 
 ### Salés
 
-Salés, bei Villefranche, Dép. du Rhone, Frankreich.
+Salés, bei Villefranche, Dép. du Rhône, Frankreich.
 
 1798, März 8 oder 12, 6 Uhr Abends.
 
-Eine leuchtende Feuerkugel zog von O. nach W. unter furchtbarem Heulen und Prasseln und Funkensprühen. Der Stein, dessen Fall mehre Zeugen in der Nähe beobachteten, wurde erst am folgenden Morgen ausgegraben; er war nicht mehr heiss, roch aber schwefelig und hatte an mehren Stelle Risse: er wog etwa 10 K., doch wurde er zerschlagen. Ueber die Zeit des Falles finden sich verschiedene Angaben. De Dree, der dem Ereigniss am genauesten nachging, aber erst 1802, nennt den 12. März als Falltag. Pictet in Genf sah aber um dieselbe Abendzeit am 8. März eine Feuerkugel von Ost nach West ziehen, so dass dieser Tag vielleicht der richtige ist. - Sage, der in der Zeit des Unglaubens gleich nach dem Fall ein grosses Stück erhielt, liess es in Gestalt einer Vase abdrehen. Existirt wohl noch dieses Stück gelehrter Barbarei? Das grösste Bruchstück ist in Wien (292 Gr., im Ganzen 334,14 Gr.); kleinere sind in London (191,94 Gr.), Paris (38 Gr.), Berlin (15,993 Gr.), Stuttgart (3 Gr.), Göttingen (0,92 Gr.) und in den Privatsammlungen von v. Reichenbach, Shepard, Nevill und Greg.
+Eine leuchtende Feuerkugel zog von O. nach W. unter furchtbarem Heulen und Prasseln und Funkensprühen. Der Stein, dessen Fall mehre Zeugen in der Nähe beobachteten, wurde erst am folgenden Morgen ausgegraben; er war nicht mehr heiss, roch aber schwefelig und hatte an mehren Stelle Risse: er wog etwa 10 K., doch wurde er zerschlagen. Ueber die Zeit des Falles finden sich verschiedene Angaben. De Drée, der dem Ereigniss am genauesten nachging, aber erst 1802, nennt den 12. März als Falltag. Pictet in Genf sah aber um dieselbe Abendzeit am 8. März eine Feuerkugel von Ost nach West ziehen, so dass dieser Tag vielleicht der richtige ist. - Sage, der in der Zeit des Unglaubens gleich nach dem Fall ein grosses Stück erhielt, liess es in Gestalt einer Vase abdrehen. Existirt wohl noch dieses Stück gelehrter Barbarei? Das grösste Bruchstück ist in Wien (292 Gr., im Ganzen 334,14 Gr.); kleinere sind in London (191,94 Gr.), Paris (38 Gr.), Berlin (15,993 Gr.), Stuttgart (3 Gr.), Göttingen (0,92 Gr.) und in den Privatsammlungen von v. Reichenbach, Shepard, Nevill und Greg.
 
 Specifisches Gewicht:
 
@@ -1373,7 +1373,7 @@ Sage analysirte den Stein, ohne an seine meteorische Natur zu glauben. Er fand N
 SiO₃. Fe₂O₃. MgO. Ni. CaO. Sa.  
 46. 38. 15. 2. 2. 103.
 
-Literatur: Sage Journ. de Phys. 1803. Avr. p. 314. De Dree Gilb. Ann. 15, 274. 18, 269. Vauquelin ebd. 33, 200.
+Literatur: Sage Journ. de Phys. 1803. Avr. p. 314. De Drée Gilb. Ann. 15, 274. 18, 269. Vauquelin ebd. 33, 200.
 
 ### Benares
 
@@ -1408,7 +1408,7 @@ Literatur: Gilb. Ann. 13, 291. 15, 423. 41, 453. Chladni Feuermet. 266. v. Schre
 
 ### l'Aigle
 
-l'Aigle (la Vassolerie, Fontenil, la Metonnerie, S. Michel-de Sommaire, St. Nicolas-de Sommaire, Bas Vernet, Mesle, Belangere, la Barne, Bois laville, Corboyer etc.), Normandie, Dép. de l'Orne, Frankreich.
+l'Aigle (la Vassolerie, Fontenil, la Métonnerie, S. Michel-de Sommaire, St. Nicolas-de Sommaire, Bas Vernet, Mesle, Belangère, la Barne, Bois laville, Corboyer etc.), Normandie, Dép. de l'Orne, Frankreich.
 
 1803, April 26, 1 Uhr Nachmittags.
 
@@ -1428,7 +1428,7 @@ Die Rinde ist braun, matt, klein- und plattnarbig, nicht rauh.
 
 Die Grundmasse ist theils hell-, theils dunkelgrau, entweder flockenartig neben eimander, oder der lichtere Theil ist vom dunkleren in mehr oder weniger dickem aderigen Gewebe durchzogen. Vielfach treten auch rostbraune Flecken auf. Heilere und dunklere, allermeist rundliche Körner sind der Grundmasse porphyrartig eingemengt, sowie bis bohnengrosse Partien, welche durch Zusammenfliessen der schwarzen Adern entstanden sind. Schwarze graphitartig aussehende Ablösungsflächen siud nicht selten. Eisen tritt in ziemlicher Menge zum Theil grobkörnig, Schwefeleisen nur äusserst feinkörnig auf.
 
-Aeltere Analysen existiren von Thenard 1. und Fourcroy und Vauquelin 2.
+Aeltere Analysen existiren von Thénard 1. und Fourcroy und Vauquelin 2.
 
 SiO₃. MgO. CaO. FeO. NiO. S. Sa.  
 1\. 46. 10. -,-. 45. 2. 5. 108.  
@@ -1436,7 +1436,7 @@ SiO₃. MgO. CaO. FeO. NiO. S. Sa.
 
 Laugier wies noch 0,01%, Chromoxyd nach.
 
-Literatur: Biot Gilb. Ann. 15, 74. Thenard u. A. ebd. 16, 44. 70. Vauquelin u. A. 18, 310. 318. Laugier ebd. 24, 383.
+Literatur: Biot Gilb. Ann. 15, 74. Thénard u. A. ebd. 16, 44. 70. Vauquelin u. A. 18, 310. 318. Laugier ebd. 24, 383.
 
 ### Saurette
 
@@ -1518,7 +1518,7 @@ Die Analyse von Scheerer ist zweifelhaft richtig, gibt auch keinen Aufschluss ü
 SiO₃. MgO. CaO. MnO. Cr203. Al₂O₃. Fe. Ni. S. Sa.  
 40,50. 9,00. 6,25. 1,25. 2,00. 3,25. 18,50. 10,00. 8,12. 98.87.
 
-Literatur: Scheerer Mem. Ac. Petersb. 6. Hist. 46. Stoikowitz Gilb. Ann. 29, 212. 31, 308.
+Literatur: Scheerer Mém. Ac. Pétersb. 6. Hist. 46. Stoikowitz Gilb. Ann. 29, 212. 31, 308.
 
 ### Constantinopel
 
@@ -1561,7 +1561,7 @@ Specifisches Gewicht:
 1,94 Biot,  
 1,7025 Rumler.
 
-Ganz eigenthümlicher Stein, ähnlich einer erdigen Kohle. Die Rinde ist bräunlichschwarz, matt, das Innere ist ebenso gefärbt, schr weich und zerreiblich, daher in den Sammlungen als Bröckchen oder Pulver; beim Reiben nehmen sie Harzglanz an. In Wasser zerfällt die Masse zu einem graugrünen Brei mit Thongeruch; an der Luft bedeckt sie sich mit weissen Salzausblühungen (nach Berzelius MgOSO₃ und NiOSO₃). Auch mit der Lupe lassen sich weder kugelige Einschlüsse, noch Eisenkörnchen, und nur schwer und selten Körnchen von gelbem Schwefeleisen unterscheiden. Doch verrathen die starken Rostflecken die Gegenwart von Eisen. Am Feuer verbreitet die Masse schwachen Bitumengeruch; vor dem Löthrohr ist sie schwer schmelzbar. Bei abgehaltener Luft erhitzt verliert sie nach Thenard 17%, dabei CO₂.
+Ganz eigenthümlicher Stein, ähnlich einer erdigen Kohle. Die Rinde ist bräunlichschwarz, matt, das Innere ist ebenso gefärbt, schr weich und zerreiblich, daher in den Sammlungen als Bröckchen oder Pulver; beim Reiben nehmen sie Harzglanz an. In Wasser zerfällt die Masse zu einem graugrünen Brei mit Thongeruch; an der Luft bedeckt sie sich mit weissen Salzausblühungen (nach Berzelius MgOSO₃ und NiOSO₃). Auch mit der Lupe lassen sich weder kugelige Einschlüsse, noch Eisenkörnchen, und nur schwer und selten Körnchen von gelbem Schwefeleisen unterscheiden. Doch verrathen die starken Rostflecken die Gegenwart von Eisen. Am Feuer verbreitet die Masse schwachen Bitumengeruch; vor dem Löthrohr ist sie schwer schmelzbar. Bei abgehaltener Luft erhitzt verliert sie nach Thénard 17%, dabei CO₂.
 
 Die Analysen von Tugnarp, der Commission des Institut de France (Monge, Fourcroy, Berthollet und Vauquelin) und von Berzelius lassen zweifelhaft, ob der Stein ursprünglich Wasser enthielt. Entweder wurde der Verlust als Wasser angenommen oder das von Berzelius nachgewiesene Wasser kann auch hygroskopisch aufgenommen worden sein. Am genauesten ist die letzte Analyse. Nach Berzelius lässt sich die Masse beim Behandeln mit Wasser scheiden in
 
@@ -1579,7 +1579,7 @@ c\. 4,328%, Kohlensäure.
 
 d\. 6,582%, Wasser. Die entweichende SO₂ wurde nicht besonders bestimmt.
 
-Hier folgen die Analysen von Thenard I., der Commission II. und Berzeuius III.
+Hier folgen die Analysen von Thénard I., der Commission II. und Berzeuius III.
 
 SiO₃. MgO. FeO. Mn. NiO. Cr. C. S. Al₂O₃. CaO. * *  
 I\. 21. 9. 40. 2,0. 2,5. 1. 2,5. 3,5. -,-. -,-. -,-. -,-.  
@@ -1592,7 +1592,7 @@ III\. 31,22. 22,21. 29,03. 0,26 (MnO). 1,38. 0,63* -,-. -,-. 2,36. 0,32. 0,80. 8
 
 *) Chromeisen.
 
-Literatur: Pages Journ. de Phys. 62, 440. Gilb. Ann. 24, 189. Thenard, Fourcroy etc. ebd. 24, 202. Berzelius Poggend. Ann. 33, 113. Partsch 13.
+Literatur: Pagès Journ. de Phys. 62, 440. Gilb. Ann. 24, 189. Thénard, Fourcroy etc. ebd. 24, 202. Berzelius Poggend. Ann. 33, 113. Partsch 13.
 
 ### Timochin
 
@@ -1600,7 +1600,7 @@ Timochin, Kreis Juchnow, Gouv. Smolensk, Russland (Timoschin nach Blöde, Timsch
 
 1807, März 13. a. St. März 25. n. St. Nachmittags.
 
-Ohne dass eine Feuerkugel bemerkt wurde, fiel unter donnerartigem Getöse und Krachen ein grosser Stein von ca. 70 K. unweit zweier Bauern nieder. Die Hauptmasse von etwa 41 K. besitzt die Akademie der Wissenschaften zu Petersburg. Kleinere Bruchstücke sind in vielen Sammlungen: Berlin (437,158 Gr.), Wien (140 Gr., 2 St., der grösste 83,126 Gr.), Charkow (Bull. Ac. Petersb. 5, 198), London (56,87 Gr.), Göttingen (15,4 Gr., 2 St.), Darmstadt (9,3 Gr.) und noch kleinere Stücke in Zürich und Kiel; dann in den Privatsammlungen von v. Reichenbach, Erzh. Stephan (55 Gr.), Shepard, Greg und Auerbach.
+Ohne dass eine Feuerkugel bemerkt wurde, fiel unter donnerartigem Getöse und Krachen ein grosser Stein von ca. 70 K. unweit zweier Bauern nieder. Die Hauptmasse von etwa 41 K. besitzt die Akademie der Wissenschaften zu Petersburg. Kleinere Bruchstücke sind in vielen Sammlungen: Berlin (437,158 Gr.), Wien (140 Gr., 2 St., der grösste 83,126 Gr.), Charkow (Bull. Ac. Pétersb. 5, 198), London (56,87 Gr.), Göttingen (15,4 Gr., 2 St.), Darmstadt (9,3 Gr.) und noch kleinere Stücke in Zürich und Kiel; dann in den Privatsammlungen von v. Reichenbach, Erzh. Stephan (55 Gr.), Shepard, Greg und Auerbach.
 
 Specifisches Gewicht:
 
@@ -1617,7 +1617,7 @@ SiO₃. MgO. Fe. Fe₂O₃. Ni. (MnO. S. Cr. Verl.) Al₂O₃. CaO.
 I\. 39. 20. 17,75. 17,5. 1,25. (4,5.) -,-. -,-.  
 II\. 38. 14,25. 17,6. 25. 0,4. (3.) 1. 0,75.
 
-Literatur: Scheerer Gilb. Ann. 29, 213. Klaproth ebd. 33, 210. Blöde Bull Ac. Petersb. 6. 1848. no. 1. Eichwald Erman Arch. 5, 177.
+Literatur: Scheerer Gilb. Ann. 29, 213. Klaproth ebd. 33, 210. Blöde Bull Ac. Pétersb. 6. 1848. no. 1. Eichwald Erman Arch. 5, 177.
 
 Wahrscheinlich ist der Stein von Kikina, Wjasemsker Kreis, Gouv. Smolensk, Russland, der 1809 zu nicht genauer bekannter Zeit gefallen sein soll, ebenfalls von Timochin. Ein Handstück lag in der Sammlung des verstorbenen K. W. Rosenberg in Pawlowsk, und in Wien ist noch ein Stück von 20,781 Gr. Nach Eichwald ist die Masse aschfarben, hat einen braungelben Umfang (okrujnost) mit einer glatten, schwarzen und matten Rinde und enthält Körner von Schwefeleisen und gediegenem Eisen eingesprengt.
 
@@ -1805,7 +1805,7 @@ Literatur: Gilb. Ann. 60, 236. 63, 22.
 
 ### Charsonville
 
-Charsonville bei Orleans, Dép. du Loiret, Frankreich.
+Charsonville bei Orléans, Dép. du Loiret, Frankreich.
 
 1810, Nov. 23, 1 1/2 Uhr Nachmittags.
 
@@ -1842,7 +1842,7 @@ Die Rinde ist dick und matt, oder etwas schimmernd.
 
 Die Hauptmasse ist hellaschgrau mit äusserst feinen braunen Punkten. Nur auf Schliffflächen sind undeutliche kugelige Einschlüsse erkennbar. Eisen tritt reichlich, theils fein, theils grob eingesprengt auf, sowie ziemlich viel sehr feinkörniger Magnetkies. Nach v. Reichenbach schliesst die Masse auch bohnengrosse genauere Sphäroide ein.
 
-Literatur: Blöde Bull. Ac. Petersb. VI. no. 1, 1848. Eichwald Erman Arch. 5, 177. Partsch 54. v. Reichenbach Pogg. Ann. 111, 360.
+Literatur: Blöde Bull. Ac. Pétersb. VI. no. 1, 1848. Eichwald Erman Arch. 5, 177. Partsch 54. v. Reichenbach Pogg. Ann. 111, 360.
 
 ### Berlanguillas
 
@@ -1874,7 +1874,7 @@ Literatur: Journ. Asiat. Soc. Bengal. 1844, 13, 885.
 
 ### Toulouse
 
-Toulouse, in den Gemeinden le Burgau, Dép. Haute Garonne und Savenes, Dép. Tarne et Garonne, Frankreich.
+Toulouse, in den Gemeinden le Burgau, Dép. Haute Garonne und Savenès, Dép. Tarne et Garonne, Frankreich.
 
 1812, April 10, 8 1/4 Uhr Abends.
 
@@ -1928,7 +1928,7 @@ Literatur: Vieth Gilb. Ann. 40, 450. Hausmann ebd. Gilbert ebd. 41, 96. Stromeye
 
 ### Chantonnay
 
-Chantonnay, zwischen Nantes und la Rochelle, Dép. de la Vendee, Frankreich.
+Chantonnay, zwischen Nantes und la Rochelle, Dép. de la Vendée, Frankreich.
 
 1812, Aug. 5, Morgens gegen 2 Uhr.
 
@@ -2195,7 +2195,7 @@ Sehr wahrscheinlich ist dieser Fall zu streichen, da das in Moskau befindliche S
 
 ### Jonzac
 
-Jonzac (Barbezieux), Dép. de la Charente inferieure, Frankreich.
+Jonzac (Barbézieux), Dép. de la Charente inférieure, Frankreich.
 
 1819, Juni 13, 6 Uhr Morgens.
 
@@ -2281,11 +2281,11 @@ Literatur: Gilb. Ann. 67, 337. (Abb.) Laugier Bull. Soc. Phil. 1823, Juni. Gilb.
 
 ### Juvinas
 
-Juvinas (weniger richtig Juvenas) bei Libonnez, Dép. de l'Ardeche, Languedoc, Frankreich.
+Juvinas (weniger richtig Juvenas) bei Libonnez, Dép. de l'Ardèche, Languedoc, Frankreich.
 
 1821, Juni 15, zwischen 3 und 4 Uhr Nachmittags.
 
-Aus einer Feuerkugel fiel bei Gegenwart von Zeugen unter heftigem Getöse ein mächtiger Stein von 110 K. und in der Nähe noch mehre kleinere nieder. Das grösste Bruchstück von 42 K. ist im Mus. Hist. nat. zu Paris; kleinere finden sich in vielen Sammlungen: London (1 K. 027), Berlin (1 K. 023,657), Wien (698,373 Gr., 4 St., das grösste 498,762 Gr.), Leipzig (151,272 Gr.), Göttingen (151 Gr.), Edinburg (120 Gr.), Darmstadt (45,47 Gr.) und noch kleinere in Trier, Hudson, Stuttgart, Stockholm, Calcutta. In Privatsammlungen besitzt davon van Brepa in Harlem (801,3 Gr.), Shepard (312 Gr.), Greg (194 Gr.), v. Reichenbach, de Luynes (32,4 Gr. und ein Stück, etik. Aubenas, Dép. Ardeche, Juli 1821, das wohl hierher gehört und nur später gefunden wurde, von 248 Gr.), Auerbach (unsicher, ob wirklich daher), v. Baumhauer und Neumann.
+Aus einer Feuerkugel fiel bei Gegenwart von Zeugen unter heftigem Getöse ein mächtiger Stein von 110 K. und in der Nähe noch mehre kleinere nieder. Das grösste Bruchstück von 42 K. ist im Mus. Hist. nat. zu Paris; kleinere finden sich in vielen Sammlungen: London (1 K. 027), Berlin (1 K. 023,657), Wien (698,373 Gr., 4 St., das grösste 498,762 Gr.), Leipzig (151,272 Gr.), Göttingen (151 Gr.), Edinburg (120 Gr.), Darmstadt (45,47 Gr.) und noch kleinere in Trier, Hudson, Stuttgart, Stockholm, Calcutta. In Privatsammlungen besitzt davon van Brepa in Harlem (801,3 Gr.), Shepard (312 Gr.), Greg (194 Gr.), v. Reichenbach, de Luynes (32,4 Gr. und ein Stück, etik. Aubenas, Dép. Ardèche, Juli 1821, das wohl hierher gehört und nur später gefunden wurde, von 248 Gr.), Auerbach (unsicher, ob wirklich daher), v. Baumhauer und Neumann.
 
 Specifisches Gewicht:
 
@@ -2588,7 +2588,7 @@ Specifisches Gewicht; 3,1756 Rumler.
 
 Das grosse Stück in der Sammlung der Akademie zu Petersburg lässt nach BLöpe auf einen 4-5 Zoll hohen Stein schliessen; die Rinde ist schwarz, glänzend, wulstig und porös. Die graulich weisse, zerreibliche Grundmasse enthält ziemlich häufig kleinere und grössere Körner von klarem bernsteingelbem bis grünem Olivin, hier und da einzelne weisse feldspathähnliche Körner oder deutlichere Flecken (nach G. Rose vielleicht Anorthit), sowie einzelne grössere Körner und rundliche Partien einer grauschwarzen Beimischung, wodurch das Ganze ein breccienartiges Aussehen erhält. Schwefeleisen ist nur in sehr geringer Menge und fein eingesprengt; Nickeleisen fehlt wahrscheinlich. Die Masse ist sehr ähnlich Luotolaks.
 
-Literatur: Blöde Bull. Acad. Petersb. T. 6, 1848, No. 1. G. Rose Reise Ural 1, 77. Eichwald Erman Arch. 5, 179.
+Literatur: Blöde Bull. Acad. Pétersb. T. 6, 1848, No. 1. G. Rose Reise Ural 1, 77. Eichwald Erman Arch. 5, 179.
 
 ### Richmond
 
@@ -2889,11 +2889,11 @@ Die Ueberrindung des Steins ist höchst merkwürdig durch ihre Verschiedenheit a
 
 Die graue rostfleckige Grundmasse enthält eine grosse Menge kleiner dunkelgrauer kugeliger Einschlüsse, die auf Bruchflächen theilweise hervorragen. Eisen ist ziemlich reichlich und fein, Schwefeleisen höchst fein eingesprengt.
 
-Literatur: Zipser Jahrb. Mineralogie 1840, 89. Haidinger Wien. Akad. Ber. 40, 1860, 525. (4 Abb.). Die Gestalt findet auch durch Partsch genaue Beschreibung in Sadler A Kiralyi magyar termeszettudomanyi tarsulat evkonyvei 1, 1841-1845. 33.
+Literatur: Zipser Jahrb. Mineralogie 1840, 89. Haidinger Wien. Akad. Ber. 40, 1860, 525. (4 Abb.). Die Gestalt findet auch durch Partsch genaue Beschreibung in Sadler A Királyi magyar természettudományi társulat évkönyvei 1, 1841-1845. 33.
 
 ### Esnandes
 
-Esnandes (Esnaude weniger richtig), Dép. Charente inferieure, Frankreich.
+Esnandes (Esnaude weniger richtig), Dép. Charente inférieure, Frankreich.
 
 1837, August.
 
@@ -3008,7 +3008,7 @@ Die Akademie der Wissenschaften in Petersburg besitzt den vollkommen ganzen Stei
 
 Der Stein ist mattschwarz überrindet und voll länglicher bedeutender Vertiefungen,. die auf der Grundfläche des abgestumpften Kegels grösser und unregelmässiger sind. Innen ist er lichtaschgrau, sehr feinkörnig und fest, sehr rostfleckig und enthält viel fein eingesprengten Magnetkies, aber weniger Eisen.
 
-Literatur: Blöde Bull Ac. Petersb. 6. 1848. No. 1. Eichwald Erman Arch. 5, 180.
+Literatur: Blöde Bull Ac. Pétersb. 6. 1848. No. 1. Eichwald Erman Arch. 5, 180.
 
 ### Uden
 
@@ -3064,7 +3064,7 @@ Specifisches Gewicht: 3,790 Lavini.
 
 Die Rinde ist matt und bräunlichschwarz, die Grundmasse dunkelaschgrau, mit kugeligen Einschlüssen einer olivinarligen Substanz. Eisen ist häufig, von Magnetkies aber nur sehr wenig eingesprengt.
 
-Literatur: Lavini Mem. Acad. Torino (2) 3, 1841. 265.
+Literatur: Lavini Mém. Acad. Torino (2) 3, 1841. 265.
 
 ### Concord
 
@@ -3107,7 +3107,7 @@ Literatur: Weimann u. Glocker Poggend. Ann. 53, 172.
 
 ### Château-Renard
 
-Château-Renard, südöstl. von Montargis, Champ de la Bourgonniere, zwischen den Höfen von Thezars und Petits-Marteaux, Gemeinde Trigueres, Dép. du Loiret, Frankreich.
+Château-Renard, südöstl. von Montargis, Champ de la Bourgonnière, zwischen den Höfen von Thézars und Petits-Marteaux, Gemeinde Triguères, Dép. du Loiret, Frankreich.
 
 1841, Juni 12, 1 1/2 Uhr Nachmittags.
 
@@ -3145,9 +3145,9 @@ Labrador|16,2.
 
 Literatur: Dufresnoy Poggend. Ann. 53, 411. Rammelsberg Handwörterb. Suppl. 2, 92.
 
-### Bourbon-Vendee
+### Bourbon-Vendée
 
-Bourbon-Vendee, Roche Serviere, Dép. de la Vendee, Frankreich.
+Bourbon-Vendée, Roche Servière, Dép. de la Vendée, Frankreich.
 
 1841, Nov. 5.
 
@@ -3159,7 +3159,7 @@ Literatur: Echo du Monde sav. 1842, No. 683, Nov. 24.
 
 ### Milena
 
-Milena (ungarisch Milyana). Dorf Pusinsko Selo, 1 Meile südlich von Milena, Warasdiner Comitat, Croatien (an der steiermärkischen Grenze bei Windischlandsberg).
+Milena (ungarisch Milyáná). Dorf Pusinsko Selo, 1 Meile südlich von Milena, Warasdiner Comitat, Croatien (an der steiermärkischen Grenze bei Windischlandsberg).
 
 1842, April 26, 3 Uhr Nachmittags.
 
@@ -3178,11 +3178,11 @@ Eine Analyse von Nendtvich ergab:
 NiS. FeS2. FeO Fe₂O₃. Al₂O₃. MgO. SiO₃. MnO Mn₂O₃.  
 0,79. 3,13. 20,08. 9,02. 26,27. 40,40. 0,07.
 
-Literatur: Kocevar Poggend. Ann. 56, 349. Rosthorn Leonh. u. Bronn N. Jahrb. 1843, 79. Nenprvica in Sadler A kiralyi magyar termeszettudomanyi tarsulat evkönyvei. 1, 1841-1845. Pesten. 33.
+Literatur: Kocevar Poggend. Ann. 56, 349. Rosthorn Leonh. u. Bronn N. Jahrb. 1843, 79. Nenprvica in Sadler A kiralyi magyar természettudományi társulat évkönyvei. 1, 1841-1845. Pesten. 33.
 
 ### Aumières
 
-Aumières, Dép. de la Lozere, Frankreich.
+Aumières, Dép. de la Lozère, Frankreich.
 
 1842, Juni 4.
 
@@ -3430,7 +3430,7 @@ Die dünne Rinde ist schwarz, matt, chagrinartig, Glas ritzend, spröde und an e
 
 Das Innere ist trachytartig, groberdig, hellgrau, matt, mehr glashart, von feinen Adern durchzogen, die von einer schwärzlichen Masse gebildet werden. Ausser Eisen und Schwefeleisen (mit Salzsäure entwickelt sich Schwefelwasserstoff) enthält die Masse kaum wahrnehmbare unregelmässige Körner, ähnlich Orthoklas und glänzende schwärzliche Kügelchen von Stecknadelkopfgrösse, die vom Magnet angezogen werden.
 
-Literatur: Eichwald Erman Arch. 5, 181. Borissiac Bull. Ac. Petersb. 5, 196.
+Literatur: Eichwald Erman Arch. 5, 181. Borissiac Bull. Ac. Pétersb. 5, 196.
 
 ### Killeter
 
@@ -3755,7 +3755,7 @@ Literatur: Haidinger Wien. Akad. Ber. 44, 73.
 
 ### Mezö-Madaras
 
-Mezö-Madaras (Weiler Fekete und Teich Istento), Siebenbürgen.
+Mezö-Madaras (Weiler Fekete und Teich Istentó), Siebenbürgen.
 
 1852, Sept. 4, zwischen 4 und 5 Uhr Nachmittags.
 
@@ -4083,11 +4083,11 @@ Abich berechnet daraus folgende Bestandtheile:
 
 Doch kann diese Deutung nicht ganz richtig sein, da diese Mineralien in concentrirter Salzsäure löslich sind.
 
-Literatur: Abich Bull. Acad. Petersb. II, 439.
+Literatur: Abich Bull. Acad. Pétersb. II, 439.
 
 ### Heredia
 
-Nördlich von Heredia, etwa 5 Meil. von San Jose, Costa Rica, Central-Amerika.
+Nördlich von Heredia, etwa 5 Meil. von San José, Costa Rica, Central-Amerika.
 
 1857, April 1.
 
@@ -4277,7 +4277,7 @@ Literatur: Haidinger Wien. Akad. Ber. 34, 11. Wöhler ebd. 34, 8. Dabei auch 2 g
 
 ### Aussun und Clarac
 
-Aussun und Clarac, Canton Montrejeau, Dép. de la Haute Garonne, Frankreich.
+Aussun und Clarac, Canton Montréjeau, Dép. de la Haute Garonne, Frankreich.
 
 1858, Dec. 9, 7 1/2 Uhr Morgens.
 
@@ -4686,7 +4686,7 @@ Specifisches Gewicht: 3,33 Rumler.
 
 Nur stellenweise findet sich eine schwarze, dünne, matte, löcherige Rinde; wo sie fehlt ist der Stein bräunlich gefärbt. Die Hauptmasse ist dunkelaschfarben oder bläulichgrau, feinkörnig, porös und enthält eine grosse Menge dunklerer und festerer, häufig wohl abgerundeter, bisweilen auch eckiger Kügelchen. Magnetkies tritt in grossen körnigen Gruppen, manchmal bunt angelaufen, auf, ist jedoch wie das ziemlich reichliche Eisen meist nur fein eingesprengt.
 
-Literatur: Eichwald Erman Arch. 5, 180. Blöde Bull. Acad. Petersb. VI. No. 1. 1848. Partsch 44.
+Literatur: Eichwald Erman Arch. 5, 180. Blöde Bull. Acad. Pétersb. VI. No. 1. 1848. Partsch 44.
 
 ### Kursk
 
@@ -4698,7 +4698,7 @@ Specifisches Gewicht: 3,55 Rumler.
 
 Die meist schwarze, dünne, iwatte Rinde wird an einer Seite, die zugleich durch die Vertiefungen darin sich auszeichnet, durch einen bräunlichen Ueberzug ersetzt. Die dunkelaschfarbene, feinkörnige Grundmasse enthält theils hellere, theils dunklere, stellenweise fast schwarze rundliche Einschlüsse, sowie meist sehr fein und nicht häufig eingesprengtes Eisen und ebenso Magnetkies.
 
-Literatur: Blöde Bull. Acad. Petersb. 6, 1848, No. 1. Eichwald Erman Arch. 5, 180.
+Literatur: Blöde Bull. Acad. Pétersb. 6, 1848, No. 1. Eichwald Erman Arch. 5, 180.
 
 ### Simbirsk
 
@@ -4712,7 +4712,7 @@ Die Rinde ist matt und schwarz, sehr dünn, unterbrochen und fast nur schorfarti
 
 Die derbe und dichte dunkelgraue Grundmasse zeigt angeschliffen feine dunkelgrüngraue Körner. Eisen ist spärlich und fein eingesprengt, aber viel Schwefeleisen, das ebenfalls meist sehr fein, aber selbst bis zu erbsengrossen Körnern und zum Theil bunt angelaufen auftritt. Blöde vermuthet auch Magneteisen (?) darin. Nach v. Reichenbach sollen auch grosse krystallinische Körper darin eingeschlossen sein.
 
-Literatur: Eichwald Erman Arch. 5, 180. Blöde Bull. Ac. Petersb. VI. 1848. No. 1. v. Reichenbach Poggend. Ann. 111, 362. Partsch 46.
+Literatur: Eichwald Erman Arch. 5, 180. Blöde Bull. Ac. Pétersb. VI. 1848. No. 1. v. Reichenbach Poggend. Ann. 111, 362. Partsch 46.
 
 ### Czartorya
 
@@ -4857,7 +4857,7 @@ Steinbach, zwischen Johanngeorgenstadt und Eibenstock bei Schwarzenberg, Sachsen
 
 Rittersgrün bei Schwarzenberg, Sachsen.
 
-Chladni erwähnt mehre Eisenmassen mit Olivin aus Sachsen. 1751 beschrieb Lehmann eine solche, die Markgraf besass und zwischen Eibenstock und Johanngeorgenstadt auf einer Eisenhalde bei den Steinbacher Seifenwerken gefunden worden war. Ein zweites Stück stammt aus der v. Schönberg'schen Sammlung und ist jetzt der Hauptmasse nach in Gotha (764,67 Gr.); es war etikettirt: »ein kurioses Stück gediegen Eisen, so auf dem Felde gefunden worden.« In der de Dree'schen Sammlung befand sich ein Stück angeblich vom Senegal, in der Born'schen Sammlung ein solches von Böhmen, in der Stieglitz'schen ein Eisen aus Norwegen. Alle diese Localitäten zeigen durch ihre vollkommne Uebereinstimmung mit Rittersgrün (bekannt seit 1861), dass sie demselben Fall angehören und mit dem ersterwähnten Eisen von Steinbach übereinstimmen, welche Namen sie auch irriger Weise führen mögen.
+Chladni erwähnt mehre Eisenmassen mit Olivin aus Sachsen. 1751 beschrieb Lehmann eine solche, die Markgraf besass und zwischen Eibenstock und Johanngeorgenstadt auf einer Eisenhalde bei den Steinbacher Seifenwerken gefunden worden war. Ein zweites Stück stammt aus der v. Schönberg'schen Sammlung und ist jetzt der Hauptmasse nach in Gotha (764,67 Gr.); es war etikettirt: »ein kurioses Stück gediegen Eisen, so auf dem Felde gefunden worden.« In der de Drée'schen Sammlung befand sich ein Stück angeblich vom Senegal, in der Born'schen Sammlung ein solches von Böhmen, in der Stieglitz'schen ein Eisen aus Norwegen. Alle diese Localitäten zeigen durch ihre vollkommne Uebereinstimmung mit Rittersgrün (bekannt seit 1861), dass sie demselben Fall angehören und mit dem ersterwähnten Eisen von Steinbach übereinstimmen, welche Namen sie auch irriger Weise führen mögen.
 
 Im April 1861 wurde zu Breitenbach, Gerichtsbezirk Platten, Kreis Elbogen in Böhmen, 3-4 Stunden von Johanngeorgenstadt, etwa eine Elle tief in der Dammerde eine olivinreiche Eisenmasse gefunden, die ungefähr 10 1/2 K. wog. Offenbar gehört sie demselben Meteoritenfall an, wie die vorherigen und muss derselbe ein sehr ausgedehnter und reicher gewesen sein (vielleicht zwischen 1540 und 1550). Letztere Masse ist zum allergrössten Theil vom britischen Museum in London angekauft worden; nur Fabrikant Rössler in Hanau besitzt ein Stückchen. Von den erstgenannten Steinbacheisen besitzt am meisten Wien (1 K. 203,696) und London (130,7 Gr.); kleinere Stücke oder solche von unbekanntem Gewicht Berlin (50,146 Gr.), Upsala (46,9 Gr.), Göttingen (11,93 Gr.), Stockholm (Akad. der Wissensch.), sowie die Privatsammlungen von Greg (17 Gr.), v. Reichenbach, Nevill, Shepard, Auerbach, Zimmermann in Hamburg, Neumann in Prag.
 
@@ -5128,17 +5128,17 @@ Specifisches Gewicht:
 7,64 v. Widmannstätten,  
 7,595 Rumler.
 
-Das Eisen ist derb und dicht, schr dehnbar, leicht zu hämmern und zu feilen und enthält oft grössere und kleinere Höhlungen, die zuweilen ganz oder theilweise mit Schwefeleisen ausgefüllt sind. Am grossen Eisenblock in London sind 7 bis 8 grössere und kleinere röhrenförmige Vertiefungen über denselben zerstreut, an welchen eine parallele Lage nicht deutlich zu erkennen ist; stellenweise enthalten sie auch Reste von Magnetkies. Dieser ist auch in kleineren Partien durch die Masse zerstreut; de Dree will unter dem Mikroskop auch olivinartige Körner gesehen haben. Auf den Bruchflächen zeigt sich krystallinische Structur, parallel den Flächen des Octaeders; auf polirten Flächen erscheinen kurze, nach verschiedenen Richtungen gekehrte, linienförmige Einschnitte. Bei schwachem Aetzen polirter Flächen erscheinen keine eigentlichen Widmannstätten'schen Figuren, sondern nur kurze, etwas erhöhte Linien, die nach mehreren Richtungen gekehrt sind, sich auch berühren und gegenseitig schneiden und dem Ganzen ein gestricktes oder federartiges Ansehen verleihen, je nachdem sich die Striche unter rechten oder schiefen Winkeln berühren oder schneiden. Bei starkem Aetzen wird die Oberfläche körnig und ist von tiefen Einschnitten nach verschiedenen Richtungen durchkreuzt.
+Das Eisen ist derb und dicht, schr dehnbar, leicht zu hämmern und zu feilen und enthält oft grössere und kleinere Höhlungen, die zuweilen ganz oder theilweise mit Schwefeleisen ausgefüllt sind. Am grossen Eisenblock in London sind 7 bis 8 grössere und kleinere röhrenförmige Vertiefungen über denselben zerstreut, an welchen eine parallele Lage nicht deutlich zu erkennen ist; stellenweise enthalten sie auch Reste von Magnetkies. Dieser ist auch in kleineren Partien durch die Masse zerstreut; de Drée will unter dem Mikroskop auch olivinartige Körner gesehen haben. Auf den Bruchflächen zeigt sich krystallinische Structur, parallel den Flächen des Octaeders; auf polirten Flächen erscheinen kurze, nach verschiedenen Richtungen gekehrte, linienförmige Einschnitte. Bei schwachem Aetzen polirter Flächen erscheinen keine eigentlichen Widmannstätten'schen Figuren, sondern nur kurze, etwas erhöhte Linien, die nach mehreren Richtungen gekehrt sind, sich auch berühren und gegenseitig schneiden und dem Ganzen ein gestricktes oder federartiges Ansehen verleihen, je nachdem sich die Striche unter rechten oder schiefen Winkeln berühren oder schneiden. Bei starkem Aetzen wird die Oberfläche körnig und ist von tiefen Einschnitten nach verschiedenen Richtungen durchkreuzt.
 
 Am meisten scheint es mit dem Eisen von Senegal verwandt.
 
 Howard analysirte dieses Eisen zuerst und fand einen Nickelgehalt von 10%. Auch Proust bestätigte die Gegenwart von Nickel. Doch wäre eine genauere Analyse sehr wünschenswerth. Stromeyer analysirte einen Olivin angeblich aus diesem Eisen, doch liegt hier ein Irrthum vor, denn das Otumpaeisen ist nicht eine » der Pallasischen sehr ähnliche ästige Eisenmasse.« Seine Analyse stimmt mit der des Pallasolivins fast genau überein und wird er letzteres Mineral zweimal, aber einmal unter falschem Namen, analysirt haben.
 
-Literatur: Rubin de Celis Philos. Transact. 78, 1788, P. 1. p. 37. Howard Gilb. Ann. 13, 319. Proust Journ. de Phys. 6, 148. de Dree Gilb. Ann. 50, 266. v. Reichenbach Pogg. Ann. 115, 629. Stromeyer ebd. A, 195.
+Literatur: Rubin de Celis Philos. Transact. 78, 1788, P. 1. p. 37. Howard Gilb. Ann. 13, 319. Proust Journ. de Phys. 6, 148. de Drée Gilb. Ann. 50, 266. v. Reichenbach Pogg. Ann. 115, 629. Stromeyer ebd. A, 195.
 
 ### Sierra blanca
 
-Sierra blanca, drei Meilen von Villa nueva de Huajuquillo und zwölf Meilen von dem Dorfe San Bartolome, Mexiko.
+Sierra blanca, drei Meilen von Villa nueva de Huajuquillo und zwölf Meilen von dem Dorfe San Bartolomé, Mexiko.
 
 Schon 1784/5 erwähnt die Gazeta de Mexico das Vorkommen von Eisen in der Gegend. Burkart hat vier Orte in der Nähe der Sierra blanca als Fundpunkte von Meteoreisen bezeichnet; der eine ist nach der Gaz. de Mex. beiHuajuquillo, der zweite nach Barlett auf dem Landgut Goncepcion, der dritte nach Weidner am südwestlichen Rande des Bolson de Mapimi und der vierte nach Berlandier auf dem Landgut Venagas, alle in der Richtung des Weges von Durango nach Chihuahua. An demselben Wege soll nach Weidner am Rande des Bolson de Mapimi auf dein Landgut Rio Florido eine Eisenmasse sich finden, und Hardy erwähnt eine solche im Städtchen San Gregorio. Von letzterer Masse sollen von einem Italiener etwa 1 1/2 K. mit ungeheurer Mühe und grossem Kostenaufwand abgelöst worden sein. Ueber die geographische Lage dieser Orte, mit Ausnahme der Hacienda Venagas, gibt Burkart Auskunft. Es scheint nur ein Stückchen seinen Weg in die Sammlungen gefunden zu haben; Berlin besitzt ein solches (175,263 Gr.), das früher in der Bergemann'schen Sammlung war. Es soll von Villa nueva de Huajuquillo stammen und zeigt deutliche Figuren beim Aetzen.
 
@@ -5232,9 +5232,9 @@ Aus den Analysen geht hervor, dass das Tolucaeisen sehr ungleich gemengt ist; da
 
 Literatur: Burkart N. Jahrb. Min. 1856, 297. Bergemann Poggend. Ann. 100, 245. Krantz ebd. 101, 252. v. Reichenbach ebd. 102, 621. 103, 643. 111, 363. G. Rose ebd. 113, 184. Wöhler Wien. Akad. Ber. 20, 217. Uricoechea Ann. Chem. Pharm. 91, 249. Jordan ebd. 101, 356. Taylor Sillim. Amer. Journ. (2) 22, 374. v. Babo Verh. Freiburg. naturforsch. Gesellsch. 1858, 1, 256.
 
-### Bemdego
+### Bemdegó
 
-Flüsschen Bemdego, nördlich von Monte Santo, Capitanie Bahia, Brasilien.
+Flüsschen Bemdegó, nördlich von Monte Santo, Capitanie Bahia, Brasilien.
 
 Diese berühmteste Eisenmasse Südamerikas wurde 1784 von Domingos da Mota Botelho in einer ausgedehnten Ebene entdeckt, welche ohne Abwechselung mit dürren eintönigen Waldungen bedeckt ist; man hielt sie anfangs für Silber, legte sie nach dem Ausgraben mit unendlicher Mühe auf eine Seite und lud sie gegen Ende des Jahres 1785 auf einen besonderen niederen Wagen, vor welchen 140 Ochsen gespannt wurden. So brachte man ihn 150 Schritte weit bis zum ausgetrockneten Bette des Baches (Riacho) von Bemdegö, wo ihn im Januar 1811 Mornay noch auf dem Wagen liegend fand. Auch Spix und Martius fanden den Block noch da liegend, und unterdess hat ihn Niemand fortgetragen. Er ist 80 Par. Zoll lang, 43 1/2 Par. Zoll breit, 34 Par. Zoll dick und wiegt nach der Schätzung von Mornay über 6300 K., nach der von Martius über 9600 K. Es wurden viele vergebliche Versuche gemacht, Stücke davon abzuschlagen. Das Arbeiten mit Sägen, Meisseln und Hämmern war umsonst. Vorher schon hatte ein Handwerker alle hervorragenden Theile abgeschlagen und sie verarbeitet. Martius konnte nur nach der ausserordentlichsten Anstrengung der Arbeiter ein paar Stücke von einigen Kilo erhalten. Diese, so wie die von Mornay erworbenen Stücke sind jetzt hauptsächlich in folgenden Sammlungen: München (3 K. 675, das grösste 3 K. 115), London (2 K. 491), Wien (2 K. 317,7, das grösste 1 K. 933,79), Göttingen (315 Gr.), Petersburg, Akad. der Wissensch. (25 Gr.), Berlin (19,992 Gr.), Erlangen (18,312 Gr.), Copenhagen, Univ. (5 Gr.), so wie bei v. Reichenbach, Shepard, Greg (46 Gr.), Ferber in Gera (16,7 Gr.) und Neumann in Prag (10,15 Gr.).
 
@@ -5245,7 +5245,7 @@ Specifisches Gewicht:
 
 Auf der Oberfläche, die mit einer Rostrinde bedeckt ist, sind Gruben und Löcher, in welche Quarzstücke eingekeilt sein sollen. Das Eisen selbst hat eine weissere Farbe und lebhafteren Glanz als das von Elbogen, ist nicht so zäh, spröder und springt in Körnern mit mehreren spiegelartig glänzenden Flächen. Schon Wallaston, dem Mornay ein Stück schickte, bemerkte, dass es nach octaedrischen und tetraedrischen Flächen spaltbar ist. Obgleich der ganze Block magnetische Pole zeigt, so sind die Bruchstücke doch nicht polarmagnetisch. Bei feuchter Luft schwitzen Tröpfchen von Eisenchlorid aus.
 
-Das Eisen schliesst stellenweise Magnetkies auch in deutlichen Kegeln ein, so wie wahrscheinlich auch, wenn auch selten, das schwarze graphitartige Mineral, das sich auch im Bohumilitzeisen findet; auch die beim Aetzen auftretenden Figuren sind denen bei Bohumilitz ähnlich, die Zwischenfelder sind aber noch seltener vorhanden, die feinen Linien auf den breiten Streifen weniger regelmässig und auch die Einfassungsleisten weniger deutlich; die Felder, die den metallischen Schimmer zeigen, sind bei Bemdego grösser als bei Bohumilitz.
+Das Eisen schliesst stellenweise Magnetkies auch in deutlichen Kegeln ein, so wie wahrscheinlich auch, wenn auch selten, das schwarze graphitartige Mineral, das sich auch im Bohumilitzeisen findet; auch die beim Aetzen auftretenden Figuren sind denen bei Bohumilitz ähnlich, die Zwischenfelder sind aber noch seltener vorhanden, die feinen Linien auf den breiten Streifen weniger regelmässig und auch die Einfassungsleisten weniger deutlich; die Felder, die den metallischen Schimmer zeigen, sind bei Bemdegó grösser als bei Bohumilitz.
 
 Die Analyse von Wollaston 1. ist sehr ungenau, besser die von Fickentscher 2., der auch annähernd genau das Unlösliche analysirte 3. Auch die für Rindensubstanz gehaltene Kruste oder Schale wurde von Wollaston 4. und Fickentscher 5. untersucht.
 
@@ -5270,7 +5270,7 @@ Literatur: Mornay und Wollaston Gilb. Ann. 56, 355. John ebd. 68, 343. v. Martiu
 
 Zacatecas, Mexiko.
 
-Diese Eisenmasse soll »seit undenklichen Zeiten «in einer Strasse von Zacatecas liegen. Sonneschmid machte zuerst 1792 darauf aufmerksam. Der Volkssage nach soll sie „aus dem Norden« nach Zacatecas gebracht worden sein; doch kann sie, wie Burkart nachweist, nicht wie das Eisen von Charcas von San Jose del Sitio stammen; beide Eisen sind verschieden. Das von Zacatecas ist 4 1/2 Fuss lang, 2 1/4' breit und im Mittel etwa 3/4 Zoll dick und wiegt etwa 1000-1200 K. Die eine Seite ist erhaben, auf der anderen sind einige Vertiefungen. Stücke davon sind in ziemlich vielen Sammlungen, besonders in London (3 K. 714), Berlin (2 K. 419), Heidelberg (1 K. 875), Wien (576,965 Gr.), München (376,3 Gr.), Paris, Mus. Hist. nat. (154 Gr.) und kleinere in Göttingen, Calcutta, Stuttgart, Mannheim und Copenhagen; ferner in Privatsammlungen: Brice Wright in London (etwa 9 K.), v. Reichenbach (etwa 6 K.), Greg (748 Gr.), Erzh. Stephan auf Schaumburg (etwa 200 Gr.), Shepard (147 Gr.), Zimmermann in Hamburg (128 Gr.) und kleinere bei Ulex in Hamburg, Rössler in Hanau, de Luynes in Dampierre, NevizL in London.
+Diese Eisenmasse soll »seit undenklichen Zeiten «in einer Strasse von Zacatecas liegen. Sonneschmid machte zuerst 1792 darauf aufmerksam. Der Volkssage nach soll sie „aus dem Norden« nach Zacatecas gebracht worden sein; doch kann sie, wie Burkart nachweist, nicht wie das Eisen von Charcas von San José del Sitio stammen; beide Eisen sind verschieden. Das von Zacatecas ist 4 1/2 Fuss lang, 2 1/4' breit und im Mittel etwa 3/4 Zoll dick und wiegt etwa 1000-1200 K. Die eine Seite ist erhaben, auf der anderen sind einige Vertiefungen. Stücke davon sind in ziemlich vielen Sammlungen, besonders in London (3 K. 714), Berlin (2 K. 419), Heidelberg (1 K. 875), Wien (576,965 Gr.), München (376,3 Gr.), Paris, Mus. Hist. nat. (154 Gr.) und kleinere in Göttingen, Calcutta, Stuttgart, Mannheim und Copenhagen; ferner in Privatsammlungen: Brice Wright in London (etwa 9 K.), v. Reichenbach (etwa 6 K.), Greg (748 Gr.), Erzh. Stephan auf Schaumburg (etwa 200 Gr.), Shepard (147 Gr.), Zimmermann in Hamburg (128 Gr.) und kleinere bei Ulex in Hamburg, Rössler in Hanau, de Luynes in Dampierre, NevizL in London.
 
 Specifisches Gewicht:  
 7,2-7,625 Sonneschmid,  
@@ -5361,11 +5361,11 @@ Wahrscheinlich gehören die grossen Eisenmassen, die Capt. Alexander am grossen 
 
 Literatur: Poggend. Ann. 46, 166.
 
-### Misteca
+### Mistecà
 
-In der Misteca im Staat von Oaxaca, Mexiko.
+In der Mistecà im Staat von Oaxaca, Mexiko.
 
-Schon 1804 wird dieses Eisen von per Rio erwähnt, ohne dass unterdess etwas Genaueres darüber bekannt geworden wäre. 1834 kam ein ganz kleines Stückchen davon durch v. Karawinsky nach Wien; es wurde von einem Klumpen abgemeisselt, der in einem Indianerdorf der Misteca liegt. Durch das Hämmern ist es verändert worden und zeigt beim Aetzen nur feine gekrümmte Streifen. Ob Karawinsky den Block selbst gesehen, findet sich nirgends angegeben. Burkart erhielt 1855 auch ein Stück davon, kann aber auch nichts über die Lage der Masse, ihre Grösse etc. mittheilen. Stücke davon sind in Wien (1 K. 540) und Berlin (1 K. 435,8); ein Stück behielt Burkart. Auch Shepard besitzt etwas von dieser Localität.
+Schon 1804 wird dieses Eisen von per Rio erwähnt, ohne dass unterdess etwas Genaueres darüber bekannt geworden wäre. 1834 kam ein ganz kleines Stückchen davon durch v. Karawinsky nach Wien; es wurde von einem Klumpen abgemeisselt, der in einem Indianerdorf der Mistecà liegt. Durch das Hämmern ist es verändert worden und zeigt beim Aetzen nur feine gekrümmte Streifen. Ob Karawinsky den Block selbst gesehen, findet sich nirgends angegeben. Burkart erhielt 1855 auch ein Stück davon, kann aber auch nichts über die Lage der Masse, ihre Grösse etc. mittheilen. Stücke davon sind in Wien (1 K. 540) und Berlin (1 K. 435,8); ein Stück behielt Burkart. Auch Shepard besitzt etwas von dieser Localität.
 
 Specifisches Gewicht: 7,200-7,620 Burkart.
 
@@ -5482,9 +5482,9 @@ Fe. Ni. P.
 
 Literatur: Neumann Gilb. Ann. 42, 197. v. Schreibers Beiträge p. 72 beschreibt die Figuren genau und bildet sie trefllich ab (Tb. 9); auch Partsch p. 100 beschreibt ausführlicher die Figuren. Klaproth Gilb. Ann. 42, 202. John ebd. 68, 346. Wehrle Baumgart. Zeitschr. 3, 225. v. Holger ebd. 5, 6. Berzelius Poggend. Ann. 33, 136.
 
-### Lenarto
+### Lenartó
 
-Lenarto, Saroser Comitat, Ungarn, an der galizischen Grenze.
+Lenartó, Saroser Comitat, Ungarn, an der galizischen Grenze.
 
 1814 zu Ende October wurde diese Eisenmasse im Walde Lenartuwka in der Nähe von Bartfeld von einem Schäfer neben einer Quelle unter Schlamm und faulenden Aesten aufgefunden. 1815 wurde sie von Sennowitz zuerst beschrieben. Sie wog 108 K. 640 und ist jetzt ihrer Hauptmasse nach im ungarischen National-Museum in Pesth (74 K. 760). Stücke davon sind in vielen Sammlungen, besonders in Wien (3 K. 292,8), London (1 K. 829), Paris, Ecole des Mines (1 K. 250), Berlin (446,154 Gr.), Harlem, Teylers Mus. (130 Gr.), Paris, Mus. Hist. nat. (116 Gr.), Göttingen (102 Gr.) und kleinere in Bern, Bologna, Breslau, Calcutta, Gopenhagen, Gotha, Petersburg, Trier, Upsala, Utrecht, so wie bei Fürst Loskowitz in Bilin (2 K. 990), Greg (259 Gr.), de Luynes in Dampierre (148 Gr.) und kleinere oder von unbekanntem Gewichte bei v. Reichenbach, Shepard, Auerbach, Nevill, Fischer in Hamburg, Erzh. Stephan auf Schaumburg, Ferber in Gera, Neumann in Prag, v. Henikstein in Gratz, Kessler in Frankfurt a. M.; Baron v. Brudern besass nach v. Schreibers ein Stück von fast 21 K.
 
@@ -5504,7 +5504,7 @@ Fe. Ni. Co. Mn. Cu. Si. Ca. Mg. Al. Sn. S. X.
 
 Clark fand noch eine Spur Phosphor. X. = Unlösliches. Boussingault wies noch 0,010% Stickstoff darin nach.
 
-Literatur: Sadler A Kiralyi magyar termeszettudomanyi tarsulat evkonyvei. 1841-1844. 34. Partsch hat ausser der Beschreibung p. 108 einen sehr guten Abdruck der Widmannstätten'schen Figuren; bei v. Schreibers sind sie genau beschrieben, p. 77 aber schlechter abgebildet. tb. 8. v. Holger Baumgart. Zeitschr. 7, 138. Wehrle ebd. 3, 226. Clark Ann. Chem. Pharmac. 1852, 6, 367. Boussingault Ann. Chim. Phys. (3) 58, 336.
+Literatur: Sadler A Királyi magyar természettudományi társulat évkönyvei. 1841-1844. 34. Partsch hat ausser der Beschreibung p. 108 einen sehr guten Abdruck der Widmannstätten'schen Figuren; bei v. Schreibers sind sie genau beschrieben, p. 77 aber schlechter abgebildet. tb. 8. v. Holger Baumgart. Zeitschr. 7, 138. Wehrle ebd. 3, 226. Clark Ann. Chem. Pharmac. 1852, 6, 367. Boussingault Ann. Chim. Phys. (3) 58, 336.
 
 ### Red River
 
@@ -5951,7 +5951,7 @@ Nach Bergemann bleibt Phosphornickeleisen (Schreibersit) mit Kohle und Graphit i
 
 Nach Partsch ist der Schreibersit in leicht trennbaren Blättchen, Nadeln, und kleinen nierenförmigen oder eckigen Stückchen in dem Eisen eingeschlossen. - Boor analysirte nur qualitativ.
 
-Literatur: Haidinger Wien. Zeitg. 1844, Apr. 17. Poggend. Ann. 61, 675. Weiss Wien. Zeitg. 1845, No. 88, März 30. Patera Jahrb. Mineralogie 1848, 698. 1849, 199. Löwe Haidinger Berichte 3, 62. 70. 282. 303. Bergemann Poggend. Ann. 100, 245. Partsch Wien. Akad. Ber. 8, 1852, 500. v. Reichenbach Poggend. Ann. 111, 363. Mikecz, Petz u. Boor in Sadler A kiralyi magyar termeszettudomanyi tarsulat evkönyvei. 1, 1841-1845. 52. Haidinger Wien. Akad. Ber. 46, 1862, Juli 24, mit sehr schönen Abb.
+Literatur: Haidinger Wien. Zeitg. 1844, Apr. 17. Poggend. Ann. 61, 675. Weiss Wien. Zeitg. 1845, No. 88, März 30. Patera Jahrb. Mineralogie 1848, 698. 1849, 199. Löwe Haidinger Berichte 3, 62. 70. 282. 303. Bergemann Poggend. Ann. 100, 245. Partsch Wien. Akad. Ber. 8, 1852, 500. v. Reichenbach Poggend. Ann. 111, 363. Mikecz, Petz u. Boor in Sadler A kiralyi magyar természettudományi társulat évkönyvei. 1, 1841-1845. 52. Haidinger Wien. Akad. Ber. 46, 1862, Juli 24, mit sehr schönen Abb.
 
 ### Burlington
 
@@ -6447,7 +6447,7 @@ Seit 1853 weissman, dass daselbst grosse Eisenmassen vorkommen, eine von etwa 71
 
 Specifisches Gewicht: 7,45 Shepard.
 
-Das Eisen findet sich auf tertiären Thonmergelschichten; die Oberfläche ist fast nicht oxydirt, so dass man annehmen könnte, es sei erst kurze Zeit gefallen. Kleine Stücke sind davon durch die Namaquas abgemeisselt und zu Waffen verarbeitet worden. Es sollen noch viele Stücke, die für den Transport zu schwer sind, dort gefunden worden sein. Das Eisen ist nicht passiv. Die Widmannstätten'schen Figuren sind dreieckige Zeichnungen, untermischt mit schwachgekrümmten parallelen Linien; sie haben Aehnlichkeit mit dem von Lenarto (p. 152) und Elbogen (p. 151).
+Das Eisen findet sich auf tertiären Thonmergelschichten; die Oberfläche ist fast nicht oxydirt, so dass man annehmen könnte, es sei erst kurze Zeit gefallen. Kleine Stücke sind davon durch die Namaquas abgemeisselt und zu Waffen verarbeitet worden. Es sollen noch viele Stücke, die für den Transport zu schwer sind, dort gefunden worden sein. Das Eisen ist nicht passiv. Die Widmannstätten'schen Figuren sind dreieckige Zeichnungen, untermischt mit schwachgekrümmten parallelen Linien; sie haben Aehnlichkeit mit dem von Lenartó (p. 152) und Elbogen (p. 151).
 
 Nach Shepards Analyse besteht die Masse aus:
 
