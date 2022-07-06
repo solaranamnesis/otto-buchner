@@ -1042,7 +1042,7 @@ Schellin (weniger richtig Garz) bei Stargard in Pommern.
 
 1715, April 11, 4 Uhr Nachmittag.
 
-Nach einem Getöse, das von SO. nach NW. gehört wurde, fielen miehre Steine, einer von ca. 7% K., der zweite kleiner. Der Fall wurde erst 4822 durch GiLsert bekannt. Es haben sich nur sehr wenige kleine Bruchstücke erhalten (in Berlin, Wien, London und den Privatsammlungen von v. REICHENBACH und KranTz); auch soll ein Gutsbesitzer in Pommern ein Fragment besitzen. Das, welches Prof. GiLgert besass, scheint verloren zu sein.
+Nach einem Getöse, das von SO. nach NW. gehört wurde, fielen miehre Steine, einer von ca. 7% K., der zweite kleiner. Der Fall wurde erst 4822 durch GiLsert bekannt. Es haben sich nur sehr wenige kleine Bruchstücke erhalten (in Berlin, Wien, London und den Privatsammlungen von v. Reichenbach und Krantz); auch soll ein Gutsbesitzer in Pommern ein Fragment besitzen. Das, welches Prof. GiLgert besass, scheint verloren zu sein.
 
 Specifisches Gewicht: 3,5 Gilbert.
 
