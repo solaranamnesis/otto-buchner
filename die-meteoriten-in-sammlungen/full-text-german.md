@@ -26,7 +26,7 @@ Das Recht der Übersetzung in die englische und französische Sprache hat sich d
 
 #### [Vorrede](#vorrede-1)
 
-#### [I. Öffentliche Sammlungen](#i-oeffentliche-sammlungen-1)
+#### [I. Öffentliche Sammlungen](#i-öffentliche-sammlungen-1)
 
 #### [II. Privatsammlungen](#ii-privatsammlungen-1)
 
