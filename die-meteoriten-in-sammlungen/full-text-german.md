@@ -64,7 +64,7 @@ Das Recht der Übersetzung in die englische und französische Sprache hat sich d
 | [Mässing](#mässing)                                     | [Busti, Goruckpore](#busti-goruckpore)                        | [Krasnoy-Ugol](#krasnoy-ugol)               |
 | [High-Possil](#high-possil)                             | [Girgenti](#girgenti)                                         | [Launton](#launton)                         |
 | [Doroninsk](#doroninsk)                                 | [Segowlee](#segowlee)                                         | [North Inch of Perth](#north-inch-of-perth) |
-| [Constantinopel](#constantinopel)                       | [Turuma](#turuma)                                             | [Vouillé](#vouillé)                         |
+| [Konstantinopel](#konstantinopel)                       | [Turuma](#turuma)                                             | [Vouillé](#vouillé)                         |
 | [Asco](#asco)                                           | [Linum](#linum)                                               | [Wessely](#wessely)                         |
 | [Alais](#alais)                                         | [Oesel](#oesel)                                               | [Umballa](#umballa)                         |
 | [Timochin](#timochin)                                   | [Bremervörde](#bremervörde)                                   | [Curvello](#curvello)                       |
@@ -73,7 +73,7 @@ Das Recht der Übersetzung in die englische und französische Sprache hat sich d
 | [Borgo San Donino](#borgo-san-donino)                   | [Trenzano](#trenzano)                                         | [Charvallas](#charvallas)                   |
 | [Stannern](#stannern)                                   | [Parnallee](#parnallee)                                       | [Aldsworth](#aldsworth)                     |
 | [Lissa](#lissa)                                         | [Stauropol](#stauropol)                                       | [Macao](#macao)                             |
-| [Caswell County](#caswell-county)                       | [Heredia](#heredia)                                           | [Gross-Divina](#gross-divina)               |
+| [Caswell County](#caswell-county)                       | [Heredia](#heredia)                                           | [Groß-Divina](#groß-divina)               |
 | [Mooresfort](#mooresfort)                               | [Kaba](#kaba)                                                 | [Esnandes](#esnandes)                       |
 | [Charsonville](#charsonville)                           | [Pilot Grove](#pilot-grove)                                   | [Chandakapoor](#chandakapoor)               |
 | [Kuleschowka](#kuleschowka)                             | [Des Ormes](#des-ormes)                                       | [Akburpoor](#akburpoor)                     |
@@ -82,7 +82,7 @@ Das Recht der Übersetzung in die englische und französische Sprache hat sich d
 | [Toulouse](#toulouse)                                   | [Kakowa](#kakowa)                                             | [Kirgisensteppe](#kirgisensteppe)           |
 | [Erxleben](#erxleben)                                   | [Aussun und Clarac](#aussun-und-clarac)                       | [Uden](#uden)                               |
 | [Chantonnay](#chantonnay)                               | [Harrison County](#harrison-county)                           | [Cereseto](#cereseto)                       |
-| [Limerik](#limerik)                                     | [Crawford County](#crawford-county)                           | [Concord](#concord)                         |
+| [Limerick](#limerick)                                     | [Crawford County](#crawford-county)                           | [Concord](#concord)                         |
 | [Luotolaks](#luotolaks)                                 | [Bethlehem](#bethlehem)                                       | [Grüneberg](#grüneberg)                     |
 | [Bachmut](#bachmut)                                     | [Alessandria](#alessandria)                                   | [Château-Renard](#château-renard)           |
 | [Agen](#agen)                                           | [Kheragur](#kheragur)                                         | [Bourbon-Vendée](#bourbon-vendée)           |
@@ -160,7 +160,7 @@ Das Recht der Übersetzung in die englische und französische Sprache hat sich d
 
 Erst von der Zeit an, als Chladni seine bewundernswürdig scharfsinnige und geistvolle Theorie der Meteoriten aufgestellt,* wurde die Aufmerksamkeit der Gelehrten auf Naturereignisse gelenkt, die vor Chladni und selbst noch geraume Zeit danach für physisch unmöglich gehalten wurden, weil man sie nicht zu erklären wusste. Der Widerstand, den der Glaube an die Möglichkeit von Meteoritenfällen fand und der sich im Institut de France gipfelte, wurde erst durch den Steinfall von L'Aigle und durch Biots Gutachten gebrochen. Von da an stritt man sich nicht mehr um die Möglichkeit, umso mehr aber um die Erklärung dieser Ereignisse. Die früher beobachteten Tatsachen waren zum Teil verdreht und nach hergebrachten Vorurteilen gemodelt worden; man passte sie den theoretischen Ansichten an und was nicht passte, wurde bei Seite gelassen oder willkürlich geändert. Jetzt galt es, die wahren Tatsachen festzustellen. Nur wenige Meteoritenfälle mögen in diesem Jahrhundert in Europa oder sonst einem der Kultur zugänglichen Teil der Erde beobachtet worden sein, ohne dass die dabei niedergefallenen Massen gesammelt, die Tatsachen vor, während und nach dem Ereignis festgestellt wurden. Als eine dieser seltenen Ausnahmen ist der Meteorsteinfall zu Montpreis in Steiermark am 31. Juli 1859 zu betrachten. Es fiel ein zwar nur kleiner Stein in Gegenwart von Augenzeugen, aber die aufgenommenen Bruchstücke sind verloren!* Meistenteils aber wurden gerichtliche und private Urkunden aufgenommen, und die Sammlungen fingen an zu wetteifern in ihrem Reichtum an Meteoriten. Jeder neue Fall, jede neue Lokalität war zugleich ein neuer Baustein für die Theorie der Meteoriten. Europa und Amerika lieferten die Baumeister. v. Schreibers, v. Widmannstätten, Partsch, Berzelius, Haidinger, Hörnes, G. Rose, Rammelsberg, Wöhler, v. Reichenbach, L. Smith, Shepard u. A. waren oder sind noch am tätigsten. Das wissenschaftliche Material verbreitete sich immer mehr, auch in Privatsammlungen, so dass jetzt keine größere Sammlung die eine oder die andere Lokalität vermisst. Allerdings konnte es nicht ausbleiben, dass nun auch manche absichtliche oder unabsichtliche Irrtümer mit unterliefen. Backsteine, Eisensauen, selbst von Ratten angefressene Rhabarberwurzeln wurden als Meteoriten beschrieben, abgebildet und analysiert. Oder ächte Meteoriten wurden unter neuen Namen vorgeführt und so willkürlich neue Lokalitäten gebildet. So musste notwendig die neue Abteilung der zweifelhaften und der Pseudo-Meteoriten entstehen. In den letzten Jahren sind manche derselben als unzweifelhaft falsch beseitigt, einige wenige auch als wirklich ächt in die Reihe ihrer Brüder aufgenommen worden. Den Sachkundigen kann es nicht auffallen, dass immer noch einzelne Lokalitäten zweifelhaft meteorisch sind. Sie wurden im Folgenden allermeist nicht berücksichtigt, sondern fast nur solche aufgenommen, die unzweifelhaft den Charakter als Meteoriten an sich tragen.
 
-Es ist bemerkenswert, dass die chemischen und oryktognostischen, besonders aber die Strukturverhältnisse der Meteoriten hauptsächlich in der letzten Zeit einem manchmal bis ins Kleinste gehenden Studium unterworfen wurden. Viele irdische Mineralien sind weniger genau untersucht als die Meteoriten. Allerdings drängt sich bei diesen das Material auf wenige hundert Lokalitäten zusammen; aber trotzdem ist das ververgleichende Studium derselben außerordentlich erschwert; denn einmal ist das Material in vielen Sammlungen zerstreut, ohne dass man weiß, wo man es suchen kann, dann aber ist die Literatur noch viel zerstreuter, so dass es große Schwierigkeiten macht, alle Quellen zu finden, und manchmal geradezu unmöglich ist, eine oder die andere derselben nachzuschlagen.
+Es ist bemerkenswert, dass die chemischen und oryktognostischen, besonders aber die Strukturverhältnisse der Meteoriten hauptsächlich in der letzten Zeit einem manchmal bis ins Kleinste gehenden Studium unterworfen wurden. Viele irdische Mineralien sind weniger genau untersucht als die Meteoriten. Allerdings drängt sich bei diesen das Material auf wenige hundert Lokalitäten zusammen; aber trotzdem ist das vergleichende Studium derselben außerordentlich erschwert; denn einmal ist das Material in vielen Sammlungen zerstreut, ohne dass man weiß, wo man es suchen kann, dann aber ist die Literatur noch viel zerstreuter, so dass es große Schwierigkeiten macht, alle Quellen zu finden, und manchmal geradezu unmöglich ist, eine oder die andere derselben nachzuschlagen.
 
 *) Über den Ursprung der von Pallas gefundenen und anderer ihr ähnlicher Eisenmassen, und über einige damit in Verbindung stehende Naturerscheinungen, von E. F. F. Chladni, Riga 1794. 4º. 63 S.
 
@@ -182,9 +182,9 @@ Berlin, Universität (durch Herrn Professor G. Rose). Fallorte 153. Jüngst wese
 
 Göttingen, Universität (durch Herrn Professor Wöhler). Fallorte 125.
 
-Paris, Mus. d'Histoire naturelle (durch freundliche Mitteilung des Herrn Professor DeLarosse an Herrn Haidinger [Sept. 1859], der die Benutzung hier gestattete). Fallorte 53.
+Paris, Mus. d'Histoire naturelle (durch freundliche Mitteilung des Herrn Professor Delafosse an Herrn Haidinger [Sept. 1859], der die Benutzung hier gestattete). Fallorte 53.
 
-Paris, Ecole des Mines (durch Vermittlung des Herrn Haidinger, der es durch die Güte des Herrn v. Senarmont erhielt). Fallorte 44.
+Paris, Ecole des Mines (durch Vermittlung des Herrn Haidinger, der es durch die Güte des Herrn v. Sénarmont erhielt). Fallorte 44.
 
 Calcutta, Museum der Asiat. Society of Bengal (durch Herrn Haidinger zusammengestellt). Fallorte 37.
 
@@ -218,7 +218,7 @@ Edinburgh, Universität (durch Vermittlung des Herrn Greg in Manchester). Fallor
 
 Leipzig, Universität (durch Herrn Professor Naumann). Fallorte 10.
 
-Gratz, Joanneum (durch Herrn Professor Aichhorn). Fallorte 9.
+Grätz, Joanneum (durch Herrn Professor Aichhorn). Fallorte 9.
 
 Kiel, Universität (durch Herrn Professor Karsten). Fallorte 9.
 
@@ -254,7 +254,7 @@ Basel, Universität (durch Herrn Professor Müller). Fallorte 4.
 
 Moskau, Universität (durch Herrn Dr. Auerbach). Fallorte 4.
 
-Cassel, höhere Gewerbschule (durch Herrn Dr. Schwaab). Fallorte 4.
+Cassel, höhere Gewerbeschule (durch Herrn Dr. Schwaab). Fallorte 4.
 
 Stuttgart, polytechnische Schule (nach Mitteilung des Herrn Professor Krauss). Fallorte 4.
 
@@ -262,7 +262,7 @@ Lemberg, Universität (durch Herrn Professor Pebal). Fallorte 4. 3 davon unbesti
 
 Marburg, Universität (durch Herrn Professor Dunker). Fallorte 3.
 
-Erlangen, Universität (durch Herrn Dr. F. Praff). Fallorte 3.
+Erlangen, Universität (durch Herrn Dr. F. Pfaff). Fallorte 3.
 
 Frankfurt a. M., Senckenbergisches Museum (durch Vermittlung des Herrn Kesselmeyer). Fallorte 2.
 
@@ -272,13 +272,13 @@ Altenburg, naturforschende Gesellschaft des Osterlandes (durch Herrn Rath Zinkei
 
 Krakau, Universität (durch Herrn Professor Ritter v. Zepharovich). Fallorte 2.
 
-Leyden, naturhistorisches Museum (durch Vermittlung der k. Akademie der Wissenschaften in Amsterdam, Herrn Vrolik). Fallorte 2.
+Leiden, naturhistorisches Museum (durch Vermittlung der k. Akademie der Wissenschaften in Amsterdam, Herrn Vrolik). Fallorte 2.
 
 Mannheim, naturhistorischer Verein (durch Herrn Dr. Hirschbrunn). Fallorte 2.
 
 Gießen, Realschule (Dr. Buchner). Fallorte 2.
 
-Kopenhagen, Thierarzneischule (durch Herrn Professor Barfoed). Fallorte 1.
+Kopenhagen, Tierarzneischule (durch Herrn Professor Barfoed). Fallorte 1.
 
 Görlitz, Realschule (durch Herrn Oberlehrer Fechner). Fallorte 1.
 
@@ -288,7 +288,7 @@ Innsbruck, Ferdinandeum (durch Herrn Dr. Lindner). Fallorte 1.
 
 Prag, Universität (nach Mitteilung des Herrn Dr. Hörnes in Wien). Fallorte 1.
 
-Rotterdam, Cabinet der batavischen Gesellschaft (durch Vermittlung der k. Akademie der Wissenschaften in Amsterdam, Herrn Vrolik). Fallorte 1.
+Rotterdam, Kabinett der batavischen Gesellschaft (durch Vermittlung der k. Akademie der Wissenschaften in Amsterdam, Herrn Vrolik). Fallorte 1.
 
 Washington, Smithsonian Institution (durch Herrn Jos. Henry). Fallorte 1.
 
@@ -304,7 +304,7 @@ Mr. Nevill, Gresham Str. West, London (durch Mitteilung des Herrn Greg). Fallort
 
 Dr. Auerbach, Professor in Moskau. Fallorte 76.
 
-Dr. K. H. Neumann, k. k. Gubernial - und Commerz - Rath in Prag. Fallorte 61.
+Dr. K. H. Neumann, k. k. Gubernial- und Commerz-Rath in Prag. Fallorte 61.
 
 Dr. Lawr. Smith, Professor in Louisville (durch gütige Mitteilung der Herren Haidinger in Wien und Shepard in New-Haven), etwa Fallorte 50. und an großen Massen Fallorte 10. Ist jüngst wohl großenteils in die Berliner Sammlung übergegangen.
 
@@ -332,7 +332,7 @@ Jos. Hieron. Zeidler, Abt des Prämonstratenser-Stifts in Prag (durch Herrn Dr. 
 
 Dr. Phoebus, Professor in Gießen. Fallorte 10.
 
-v. Henikstein in Gratz (nach dem Katalog von 1856). Fallorte 9.
+v. Henikstein in Grätz (nach dem Katalog von 1856). Fallorte 9.
 
 Dr. Fischer in Hamburg (durch Herrn Dr. Zimmermann). Fallorte 8.
 
@@ -358,7 +358,7 @@ Meyer, Mineralienhändler in Hamburg (durch Herrn Dr. Zimmerman). Fallorte 2.
 
 Die bedeutende Sammlung des Herrn Dr. Krantz in Bonn, deren Verzeichnis mir seiner Zeit ebenfalls vom Besitzer gütigst mitgeteilt wurde, ging unterdes größtenteils in andere Hände über und wurde deshalb in der Regel nicht aufgeführt.
 
-Bei dieser Gelegenheit sage ich meinen verbindlichsten Dank allen den hochverehrten Gönnern und Förderern der Arbeit. Zu ganz besonderem Danke aber bin ich den Herren Haidinger und Hörnzs in Wien verpflichtet, welche mich zu dieser Arbeit anregten, fortdauernd mit Literatur und Notizen der verschiedensten Art unterstützten, aufmunterten, wenn die Hindernisse scheinbar unübersteiglich wurden, und bis zu Ende mit Rat und Tat zur Seite standen. Habe ich eine Arbeit geliefert, die für Forscher und Sammler nicht ganz ohne Nutzen ist, so danke ich es vorzugsweise diesen beiden hochverehrten Gönnern und Freunden.
+Bei dieser Gelegenheit sage ich meinen verbindlichsten Dank allen den hochverehrten Gönnern und Förderern der Arbeit. Zu ganz besonderem Danke aber bin ich den Herren Haidinger und Hörnes in Wien verpflichtet, welche mich zu dieser Arbeit anregten, fortdauernd mit Literatur und Notizen der verschiedensten Art unterstützten, aufmunterten, wenn die Hindernisse scheinbar unübersteiglich wurden, und bis zu Ende mit Rat und Tat zur Seite standen. Habe ich eine Arbeit geliefert, die für Forscher und Sammler nicht ganz ohne Nutzen ist, so danke ich es vorzugsweise diesen beiden hochverehrten Gönnern und Freunden.
 
 Trotz meiner Bemühungen, keine wichtigere Mitteilung zu vernachlässigen, wäre es immerhin möglich, dass bei der ausgedehnten und überall zerstreuten Literatur eine Notiz übersehen worden wäre. Dann bitte ich um freundliche Nachsicht und Mitteilung der Auslassung, damit sie an geeignetem Orte nachgetragen werden kann. Es könnte mir zum Vorwurf gemacht werden, dass ich v. Reichenbachs ausgedehnte Untersuchungen über die Strukturverhältnisse der Meteoriten, besonders der Eisenmassen, zu sehr vernachlässigt habe. Doch sind diese Untersuchungen noch zu neu und besonders vom kristallographischen und chemischen Standpunkt aus noch zu wenig bestätigt. Auch G. Rose hat bei seiner neuen Einteilung der Meteoriten der Berliner Sammlung einen anderen Weg betreten.
 
@@ -384,11 +384,11 @@ I\. Meteorsteine.
 
 A\. Anomale (ohne gediegenes und Schwefeleisen, oder im Pulver nur mit dem Mikroskop zu entdecken.)
 
-a\. Kohlige Meteoriten.
+a\. Kohligen Meteoriten.
 
 Alais. 1806, März 15 (Paris, Berlin, London, Stockholm). 19.
 
-Capland (Cold Bokkeveld). 1838, Okt. 13 (London, Edinburgh, Petersburg u. A.). 60.
+Kapland (Cold Bokkeveld). 1838, Okt. 13 (London, Edinburgh, Petersburg u. A.). 60.
 
 Kaba. 1857, Apr. 15 (Debreczin, Göttingen). 94.
 
@@ -406,7 +406,7 @@ Juvinas. 1821, Juni 15 (Paris, London, Berlin u. A). 42.
 
 Stannern. 1808, Mai 22 (in den meisten Sammlungen). 23.
 
-Constantinopel. 1805, Juni. 19.
+Konstantinopel. 1805, Juni. 19.
 
 Bialistock. 1827, Okt. (Petersburg, Berlin, Dorpat). 51. 
 
@@ -492,7 +492,7 @@ Mauerkirchen. 1768, Nov. 20 (München, London, Berlin u. A.). 8.
 
 Monte Milone. 1846, Mai 8 (Bologna, Pisa, Florenz). 75.
 
-Nashville. 1827, Mai 9 (Leyden, Berlin, London, Göttingen). 50.
+Nashville. 1827, Mai 9 (Leiden, Berlin, London, Göttingen). 50.
 
 Kakowa. 1858, Mai 19 (Göttingen, Berlin). 98.
 
@@ -500,7 +500,7 @@ Lucé. 1768, Sept. 13 (Berlin, Zürich, Freiberg). 7.
 
 Lissa. 1808, Sept. 3 (Berlin, London, Paris, Prag, Göttingen u. A.). 26.
 
-Owahu. 1825, Sept. 27 (Dorpat, Berlin, London). 49.
+Oahu. 1825, Sept. 27 (Dorpat, Berlin, London). 49.
 
 Oesel. 1855, Mai 11 (Dorpat, Berlin, Göttingen, London). 87.
 
@@ -528,7 +528,7 @@ Slobodka. 1818, Aug. 10 (Petersburg, Berlin, Paris). 39.
 
 Kikina. 1809. 21.
 
-Milena. 1842, Apr. 26 (Agram, Gratz, Berlin). 67.
+Milena. 1842, Apr. 26 (Agram, Grätz, Berlin). 67.
 
 Forsyth. 1829, Mai 8 (London, Berlin, Dublin). 53.
 
@@ -572,7 +572,7 @@ Heredia. 1857, Apr. 1 (Göttingen). 93.
 
 Wessely. 1831, Sept. 9 (Brünn, Berlin). 55.
 
-Limerik. 1813, Sept. 10 (Paris, Göttingen, Berlin). 33.
+Limerick. 1813, Sept. 10 (Paris, Göttingen, Berlin). 33.
 
 Grüneberg. 1841, März 22 (Berlin, Breslau, Tübingen, London). 65.
 
@@ -632,7 +632,7 @@ Hainholz. ? (London, Berlin, Göttingen). 130.
 
 II\. Meteoreisen.
 
-A\. Aestig (mit Olivin in den Höhlungen).
+A\. Ästig (mit Olivin in den Höhlungen).
 
 Atacama. (London, Paris, Göttingen, Berlin u. A). 127.
 
@@ -648,7 +648,7 @@ B\. Derbes Meteoreisen (Einmengungen nur in geringer Menge und nicht von gestalt
 
 Bitburg. (Berlin, Trier, New-Haven). 126.
 
-Toluca. (Göttingen, Darmstadt, Londan, Berlin u. A.). 139.
+Toluca. (Göttingen, Darmstadt, London, Berlin u. A.). 139.
 
 Elbogen. (Prag, Uppsala, Berlin u. A.). 151.
 
@@ -706,7 +706,7 @@ Burlington. (London, Berlin, Göttingen, Kopenhagen u. A.). 170.
 
 Tula. (London, Berlin). 195.
 
-Asheville. (London, Berlin, Göttingen u.A.). 163.
+Asheville. (London, Berlin, Göttingen u. A.). 163.
 
 Cocke County. (Berlin, London, Göttingen u. A). 164.
 
@@ -746,7 +746,7 @@ Zacatecas. (London, Berlin, Heidelberg, München u. A.). 144.
 
 Rasgatà. (Paris, Berlin, London, Petersburg, Göttingen). 155.
 
-Seriba. (London, Göttingen). 166.
+Scriba. (London, Göttingen). 166.
 
 Tucuman. (London, Kopenhagen, Berlin, Paris, Göttingen). 136.
 
@@ -774,7 +774,7 @@ Hemalga. (London, Edinburgh, Paris). 190.
 
 ## System von G. Rose.*
 
-*) Berl. Acad. Ber. 1862, Aug. 7, 14. 1863, Jan. 15.
+*) Berl. Akad. Ber. 1862, Aug. 7, 14. 1863, Jan. 15.
 
 Systematisches Verzeichnis der Meteoriten in dem mineralog. Museum der Universität zu Berlin.
 
@@ -796,13 +796,13 @@ Bohumilitz, Arva, Cosbys Creek, Sarepta, Sevier County, Bemdegó, Schwetz, Ruffs
 
 d\. Aus feinkörnigen Individuen bestehend.
 
-Tacavita, Rasgatà, Chesterville, Senegal, Capland, Salt River, Babbs Mill, De Kalb County.
+Tacavita, Rasgatà, Chesterville, Senegal, Kapland, Salt River, Babbs Mill, De Kalb County.
 
 2\. Pallasit (Meteoreisen mit eingeschlossenen Krystallen von Olivin).
 
 Krasnojarsk, Brahin, Atacama, Steinbach, Rittersgrün, Bitburg.
 
-3\. Mesosiderit (Nickeleisen und Magneikies einerseits, Olivin und Augit andrerseits in nahezu gleicher Menge).
+3\. Mesosiderit (Nickeleisen und Magnetkies einerseits, Olivin und Augit andrerseits in nahezu gleicher Menge).
 
 Hainholz, Sierra de Chaco.
 
@@ -810,7 +810,7 @@ I\. Steinmeteoriten.
 
 1\. Chondrit (feinkörnige Grundmasse mit eingemengten kleinen Kugeln eines Magnesia-Silikats, mit Krystallen und Körnern von Olivin, Chromeisenerz und einer unbestimmten schwarzen Substanz, sowie von Nickeleisen und Magnetkies).
 
-Kleinwenden, Erxleben, Stauropol, Ensisheim, Chantonnay, Tabor, Lucé, Barbotan, Doroninsk, Limerik, Tipperary, Toulouse, Seres, Krasnoy-Ugol, Wesselv, Grünberg, Cabarras County, Mezö-Madaras, Renazzo, Luponnas, Eichstädt, Benares, Nanjemoy, Timochin, Weston, Parma, Lixna, Blansko, Richmond, la Baffe, Poltawa, Macao, Gütersloh, Siena, Bremervörde, Parnallee, Aussun, Mauerkirchen, Linn County, Linum, Apt, Bachmut, New-Concord, Honolulu, Kakowa, Charkow, Wold Cottage, Salés, Schellin, l'Aigle, Dhurmsala, Asco, Lissa, Charsonville, Kuleschowka, Berlanguillas, Agen, Zaborzika, Slobodka, Pohlitz, Forsyth, Vouillé, Okniny, Little Piney, Château Renard, Oesel, Milena, Meno, Futtehpore, Pegu, Trenzano, Ohaba, Charvallas, Mainz.
+Kleinwenden, Erxleben, Stauropol, Ensisheim, Chantonnay, Tabor, Lucé, Barbotan, Doroninsk, Limerick, Tipperary, Toulouse, Seres, Krasnoy-Ugol, Wessely, Grünberg, Cabarras County, Mezö-Madaras, Renazzo, Luponnas, Eichstädt, Benares, Nanjemoy, Timochin, Weston, Parma, Lixna, Blansko, Richmond, la Baffe, Poltawa, Macao, Gütersloh, Siena, Bremervörde, Parnallee, Aussun, Mauerkirchen, Linn County, Linum, Apt, Bachmut, New-Concord, Honolulu, Kakowa, Charkow, Wold Cottage, Salés, Schellin, l'Aigle, Dhurmsala, Asco, Lissa, Charsonville, Kuleschowka, Berlanguillas, Agen, Zaborzika, Slobodka, Pohlitz, Forsyth, Vouillé, Okniny, Little Piney, Château Renard, Oesel, Milena, Meno, Futtehpore, Pegu, Trenzano, Ohaba, Charvallas, Mainz.
 
 2\. Howardit (feinkörniges Gemenge von Olivin mit einem weißen Silikat, möglicherweise Anorthit, mit einer geringen Menge Chromeisenerz und Nickeleisen).
 
@@ -824,11 +824,11 @@ Chassigny.
 
 Shalka.
 
-5\. Chladnit (Gemenge von Shepardit [Mgo SiO₃] mit einem thonerdehaltigen Silikat, mit geringen Mengen von Nickeleisen, Magnetkies und einigen anderen noch zu bestimmenden Substanzen).
+5\. Chladnit (Gemenge von Shepardit [MgO SiO₃] mit einem tonerdehaltigen Silikat, mit geringen Mengen von Nickeleisen, Magnetkies und einigen anderen noch zu bestimmenden Substanzen).
 
 Bishopville.
 
-6\. Kohlige Meteoriten.
+6\. Kohligen Meteoriten.
 
 Alais, Cold Bokkeveld, Kaba.
 
@@ -848,17 +848,17 @@ v. Reichenbach zu Wien.*
 
 1\. Gruppe:
 
-Chassigny, Bishopville. - Jonzac (Uebergangsglied).
+Chassigny, Bishopville. - Jonzac (Übergangsglied).
 
 2\. Gruppe:
 
-Uden, Shalka, Trenzano, Stannern, Juvinas, Constantinopel, Petersburg.
+Uden, Shalka, Trenzano, Stannern, Juvinas, Konstantinopel, Petersburg.
 
-2\. Sippe. Steine mit weisslicher Grundmasse; wenig gediegenes Eisen.
+2\. Sippe. Steine mit weißlicher Grundmasse; wenig gediegenes Eisen.
 
 1\. Gruppe: Keine dunkeln Kügelchen, höchstens hie und da ein einzelnes zerstreut. 
 
-a\. Weissliche mit leichten Einschlüssen:
+a\. Weißliche mit leichten Einschlüssen:
 
 Nashville, Linn County, Bachmut, Schie, Mauerkirchen, Zaborczika, Futtehpore, Kuleschowka, Milena, Czartorya (?), Wold Cottage, Angers, Forsyth, Girgenti, Ajaquz (?), Pohlitz, Cereseto, Aumières, Charkow, Chandakapoor, Dooralla, Oesel, Garz, Apt, Asco.
 
@@ -874,15 +874,15 @@ Parma, Eichstädt, St. Denis Westrem, Zebrak, Little Piney, la Baffe, Nanjemoy, 
 
 Siena, Luotolaks, Mässing, Nobleborough, Bialistock.
 
-3\. Sippe. Die Grundmasse ist grau, fester als bei den vorigen, nicht zerreiblich, und enthält mehr Eisen und weniger Schwefeleisen; das spec. Gew. ist grösser.
+3\. Sippe. Die Grundmasse ist grau, fester als bei den vorigen, nicht zerreiblich, und enthält mehr Eisen und weniger Schwefeleisen; das spez. Gew. ist grösser.
 
 a\. Sigena, Macao, Charsonville.
 
 b\. Grau und weiß gefleckt:
 
-Luponnas, Gütersloh, Weston, Macerata, Okniny, Salés, Mooresfort, Limerik, l'Aigle, Assam.
+Luponnas, Gütersloh, Weston, Macerata, Okniny, Salés, Mooresfort, Limerick, l'Aigle, Assam.
 
-c\. Mit weisslichen Einschlüssen:
+c\. Mit weißlichen Einschlüssen:
 
 Cabarras County, Krasnoy-Ugol, Seres, Mezö-Madaras, Parnallee, Bremervörde.
 
@@ -904,7 +904,7 @@ Mainz, Segowlee, Charvallas.
 
 7\. Sippe. Steinige Substanzen sind mit regulinischem Eisen gemengt.
 
-Mittelglied: Hainolz.
+Mittelglied: Hainholz.
 
 1\. Gruppe mit reinem Olivin:
 
@@ -914,13 +914,13 @@ Bitburg, Sachsen, Brahin, Krasnojarsk, Atacama.
 
 Toluca.
 
-8\. Sippe. Die krystallinischen Metalle mit Leisten von Nickeleisen; Widmannstätten'sche Figuren.*
+8\. Sippe. Die kristallinischen Metalle mit Leisten von Nickeleisen; Widmannstätten'sche Figuren.*
 
 *) Die hier verzeichneten Eisen teilte v. Reichenbach noch in eine 9. Sippe und diese in 5 Gruppen; doch scheint er diese Einteilung aufgegeben zu haben.
 
 1\. Gruppe:
 
-Seeläsgen, Cosbys Creek, Bruce, Black Mountains, Bemdeg6, Bohumilitz, Madoc, Burlington, Marshall County, Tula, S. Rosa, Robertson County, Ruffs Mountain, Carthago, Pittsburg, Nebraska, Texas (?), Guilford, Red River, la Caille, Eibogen, Asheville, Agram, Lockport, Oldham County, Löwenfluss, Jewell Hill, Dickson County, Putnam County, Tazewell.
+Seeläsgen, Cosbys Creek, Bruce, Black Mountains, Bemdeg6, Bohumilitz, Madoc, Burlington, Marshall County, Tula, S. Rosa, Robertson County, Ruffs Mountain, Carthago, Pittsburg, Nebraska, Texas (?), Guilford, Red River, la Caille, Elbogen, Asheville, Agram, Lockport, Oldham County, Löwenfluss, Jewell Hill, Dickson County, Putnam County, Tazewell.
 
 2\. Gruppe:
 
@@ -932,7 +932,7 @@ Cap, Union County, Rasgatà, Livingston County.
 
 4\. Gruppe:
 
-Lenartó, Seneca River, Mistecà, Salt River, Chester County, Arva, Davisstrasse, Sarepta, De Kalb, Sevier (?), Zacatecas.
+Lenartó, Seneca River, Mistecà, Salt River, Chester County, Arva, Davisstraße, Sarepta, De Kalb, Sevier (?), Zacatecas.
 
 5\. Gruppe:
 
@@ -946,49 +946,49 @@ I\. Classe. Metallische Meteoriten.
 
 1\. Ordnung. Hämmerbar, gleichartig.
 
-1\. Sect.: Rein (Scriba, Walker County).
+1\. Sekt.: Rein (Scriba, Walker County).
 
-2\. Sect.: Legirt:
+2\. Sekt.: Legiert:
 
-a\. Feinkrystallinisch (Green County, Texas, Dickson County, Burlington).
+a\. Feinkristallinisch (Green County, Texas, Dickson County, Burlington).
 
-b\. Grobkrystallinisch (De Kalb, Asheville, Guilford, Carthago).
+b\. Grobkristallinisch (De Kalb, Asheville, Guilford, Carthago).
 
 2\. Ordnung. Hämmerbar, ungleichartig.
 
-1\. Sect.: Blasig-olivinisch (Krasnojarsk).
+1\. Sekt.: Blasig-olivinisch (Krasnojarsk).
 
-2\. Sect.: Blasig-pyritisch (Cambria).
+2\. Sekt.: Blasig-pyritisch (Cambria).
 
-3\. Sect.: Pyritisch-graphitisch (Cocke County).
+3\. Sekt.: Pyritisch-graphitisch (Cocke County).
 
 3\. Ordnung. Spröde.
 
-1\. Sect.: Rein (Bedford County, Randolph County).
+1\. Sekt.: Rein (Bedford County, Randolph County).
 
-2\. Sect.: Legirt (Otsego County).
+2\. Sekt.: Legiert (Otsego County).
 
 II\. Classe. Steinmeteoriten.
 
 1\. Ordnung. Trachytisch.
 
-1\. Sect.: Olivinisch.
+1\. Sekt.: Olivinisch.
 
 a\. Grobkörnig (Weston, Richmond).
 
-b\. Feinkörnig (Nobleborough, Little Pinney).
+b\. Feinkörnig (Nobleborough, Little Piney).
 
-2\. Sect.: Augitisch (Juvinas).
+2\. Sekt.: Augitisch (Juvinas).
 
-3\. Sect.: Chladnitisch (Bishopville).
+3\. Sekt.: Chladnitisch (Bishopville).
 
-4\. Sect.: Kohlig (Cold Bokkeveld).
+4\. Sekt.: Kohlig (Cold Bokkeveld).
 
 2\. Ordnung. Trappartig.
 
-1\. Sect.: Gleichartig (Chantonnay).
+1\. Sekt.: Gleichartig (Chantonnay).
 
-2\. Sect.: Porphyrartig (Renazzo).
+2\. Sekt.: Porphyrartig (Renazzo).
 
 3\. Ordnung. Bimssteinartig (Waterville).*
 
@@ -1042,11 +1042,11 @@ Schellin (weniger richtig Garz) bei Stargard in Pommern.
 
 1715, April 11, 4 Uhr Nachmittag.
 
-Nach einem Getöse, das von SO. nach NW. gehört wurde, fielen miehre Steine, einer von ca. 7% K., der zweite kleiner. Der Fall wurde erst 4822 durch GiLsert bekannt. Es haben sich nur sehr wenige kleine Bruchstücke erhalten (in Berlin, Wien, London und den Privatsammlungen von v. Reichenbach und Krantz); auch soll ein Gutsbesitzer in Pommern ein Fragment besitzen. Das, welches Prof. GiLgert besaß, scheint verloren zu sein.
+Nach einem Getöse, das von SO. nach NW. gehört wurde, fielen mehre Steine, einer von ca. 7 1/2 K., der zweite kleiner. Der Fall wurde erst 1822 durch Gilbert bekannt. Es haben sich nur sehr wenige kleine Bruchstücke erhalten (in Berlin, Wien, London und den Privatsammlungen von v. Reichenbach und Krantz); auch soll ein Gutsbesitzer in Pommern ein Fragment besitzen. Das, welches Prof. Gilbert besaß, scheint verloren zu sein.
 
 Spezifisches Gewicht: 3,5 Gilbert.
 
-Sie sind außen schwarz, »als wenn sie von Pulver angelauffen, inwendig aber weislicht und glimmend, als ob Metall bei ihnen befindlich und gaben einen schweflichten Geruch von sich.« Auf dem unebnen Bruch zeigt sich ein regelloses Gemenge von vielerlei verschieden abgesonderten Körpern, die wie eingeknetet zu sein scheinen in eine weiße, etwas ins Grauliche ziehende dichte erdige Masse. Diese ist weich, selbst zerreiblich; auch einige schwarzgraue Körner und kleine halbkugelige Vertiefungen, wo offenbar runde Körner ausgebrochen waren, sind bemerkbar. Durch die ganze Masse sind sehr viele rostfarbene Flecken verbreitet;;. wo sie angefeilt werden, zeigt sich metallisches Eisen. An mehreren Stellen ragen kleine Eisenmassen über die Steinfläche hervor. Einzelne nicht verrostete Stellen sind röthlichgelb, wie Magnetkies; auch findet sich viel schwarzes Eisenoxyd (Magneteisen?).
+Sie sind außen schwarz, »als wenn sie von Pulver angelaufen, inwendig aber weislicht und glimmend, als ob Metall bei ihnen befindlich und gaben einen schweflichten Geruch von sich.« Auf dem unebenen Bruch zeigt sich ein regelloses Gemenge von vielerlei verschieden abgesonderten Körpern, die wie eingeknetet zu sein scheinen in eine weiße, etwas ins Grauliche ziehende dichte erdige Masse. Diese ist weich, selbst zerreiblich; auch einige schwarzgraue Körner und kleine halbkugelige Vertiefungen, wo offenbar runde Körner ausgebrochen waren, sind bemerkbar. Durch die ganze Masse sind sehr viele rostfarbene Flecken verbreitet; wo sie angefeilt werden, zeigt sich metallisches Eisen. An mehreren Stellen ragen kleine Eisenmassen über die Steinfläche hervor. Einzelne nicht verrostete Stellen sind rötlichgelb, wie Magnetkies; auch findet sich viel schwarzes Eisenoxyd (Magneteisen?).
 
 Der Stein ist noch nicht analysiert worden.
 
@@ -1060,7 +1060,7 @@ Plescowitz und Liboschitz, einige Meilen von Reichstadt, Bunzlauer Kreis, Böhme
 
 Man sah bei heiterem Himmel eine einzelne kleine Wolke und hörte darin ein starkes Krachen und Knallen, worauf bei Liboschitz 25 und auf anderen herrschaftlich Plescowitz'schen Dörfern unter Funkensprühen 8 große und kleine Steine fielen, die nach Schwefel rochen, auswendig schwarz und inwendig metallisch waren.
 
-Das britische Museum behauptet einen solchen Stein zu besitzen; sonst fehlt er jeder anderen Sammlung, auch Wien. Es ist sehr wahrscheinlich, dass der Stein inLondon vom Taborfall (1753) herrührt, umsomehr, als er mit den Taborsteinen große Ähnlichkeit haben soll. Eine genaue Beschreibung desselben ist noch nicht veröffentlicht; er soll 1844 durch Heuland an das britische Museum gelangt sein.
+Das britische Museum behauptet einen solchen Stein zu besitzen; sonst fehlt er jeder anderen Sammlung, auch Wien. Es ist sehr wahrscheinlich, dass der Stein in London vom Taborfall (1753) herrührt, umso mehr, als er mit den Taborsteinen große Ähnlichkeit haben soll. Eine genaue Beschreibung desselben ist noch nicht veröffentlicht; er soll 1844 durch Heuland an das britische Museum gelangt sein.
 
 Literatur: Poggend. Ann. 116, 640.
 
@@ -1070,7 +1070,7 @@ Tabor. Hof Krawin bei Strkow, südl. von Plan und Tabor.
 
 1753, Juli 3, 8 Uhr Abends.
 
-Nach einer Feuererscheinung erfolgte eine heftige Detonation; dann fielen mehre Steine herab, was von zwei Schäfern an verschiedenen Stellen beobachtet wurde. Ein ganzer Stein, der erste, der unverletzt in Sammlungen aufbewahrt wurde, ist in Wien und wiegt 2 K. 782,5; außerdem werden daselbst noch 6 St. aufbewahrt (im Ganzen 4 K. 119,69). Kleinere Bruchstücke finden sich in London (164 Gr.), Berlin (77,802 Gr.), Prag (böhm. Nat.-Mus.), Pesth (Univ.-Mus.) und den Privatsammlungen des Fürsten Loskowitz (Bilin, 2 St. 777 Gr.), v. Reichenbach (Wien), v. Henikstein (Gratz, 2 St.), Neumann (Prag, 3 St. 74,39 Gr.), Shepard (N. Haven).
+Nach einer Feuererscheinung erfolgte eine heftige Detonation; dann fielen mehre Steine herab, was von zwei Schäfern an verschiedenen Stellen beobachtet wurde. Ein ganzer Stein, der erste, der unverletzt in Sammlungen aufbewahrt wurde, ist in Wien und wiegt 2 K. 782,5; außerdem werden daselbst noch 6 St. aufbewahrt (im Ganzen 4 K. 119,69). Kleinere Bruchstücke finden sich in London (164 Gr.), Berlin (77,802 Gr.), Prag (böhm. Nat.-Mus.), Pesth (Univ.-Mus.) und den Privatsammlungen des Fürsten Lobkowitz (Bilin, 2 St. 777 Gr.), v. Reichenbach (Wien), v. Henikstein (Grätz, 2 St.), Neumann (Prag, 3 St. 74,39 Gr.), Shepard (N. Haven).
 
 Spezifisches Gewicht:
 
@@ -1081,7 +1081,7 @@ Spezifisches Gewicht:
 
 Die Rinde ist matt, schwarz.
 
-In der dunkel-, fast blaulich-grauen, rostbraun gefleckten Grundmasse, die dicht und stark zusammenhängend ist, liegen meist kleine und nicht sehr deutliche Kügelchen, viel fein und grob eingemengtes, zum Teil auch zu Adern und rundlichen, bis bohnengrossen Partien vereinigtes Eisen und sehr fein eingesprengter Magnetkies.
+In der dunkel-, fast bläulich-grauen, rostbraun gefleckten Grundmasse, die dicht und stark zusammenhängend ist, liegen meist kleine und nicht sehr deutliche Kügelchen, viel fein und grob eingemengtes, zum Teil auch zu Adern und rundlichen, bis bohnengroßen Partien vereinigtes Eisen und sehr fein eingesprengter Magnetkies.
 
 Nach Howard werden fast 25%, vom Magnet ausgezogen. Nach seiner Analyse besteht der erdige Teil aus:
 
@@ -1093,7 +1093,7 @@ und das hämmerbare Metall aus:
 Fe. Ni.  
 89,28. 10,92.
 
-Meyer hat den Stein nicht selbst analysiert, sondern nur die Procentberechnung der Analyse Howards bekannt gemacht. Nach Schwefel, der jedenfalls darin enthalten ist, wurde nicht gesucht.
+Meyer hat den Stein nicht selbst analysiert, sondern nur die Prozentberechnung der Analyse Howards bekannt gemacht. Nach Schwefel, der jedenfalls darin enthalten ist, wurde nicht gesucht.
 
 Literatur: Howard Phil. Trans. 1802. Voigt Magaz. 10, 220. Chladni Feuermet. 246.
 
@@ -1109,7 +1109,7 @@ Spezifisches Gewicht: 3,6612 Rumler.
 
 Die Oberfläche hat ausgezeichnete Vertiefungen; die Rinde ist matt.
 
-Die dunkelasch- oder blaulichgraue Grundmasse wird von schwärzlichgrauen Partien durchzogen und bekommt dadurch ein fleckiges oder marmorirtes Aussehen; in beiden zeigen sich Rostflecken und ziemlich deutliche, aber mit der Hauptmasse fest verwachsene kugelige Bildungen. Eisen ist fein und mittelfein, Schwefeleisen sehr fein eingesprengt.
+Die dunkelasch- oder bläulichgraue Grundmasse wird von schwärzlichgrauen Partien durchzogen und bekommt dadurch ein fleckiges oder marmoriertes Aussehen; in beiden zeigen sich Rostflecken und ziemlich deutliche, aber mit der Hauptmasse fest verwachsene kugelige Bildungen. Eisen ist fein und mittelfein, Schwefeleisen sehr fein eingesprengt.
 
 Eine Analyse wurde nicht bekannt.
 
@@ -1142,7 +1142,7 @@ Spezifisches Gewicht:
 
 Die Rinde ist schwarz, matt, rau, an einigen Stellen blasig und gibt am Stahl schwache Funken.
 
-Die Grundmasse ist lichtgrau, unter der Lupe kristallinisch körnig; sie besteht aus helleren und dunkleren Teilchen; einzelne dunklere Körnchen erinnern an undeutliche Krystalloide, zeigen aber keine Spaltungs-, sondern fast splitterige Bruchflächen. Sie enthält Rostflecken und ist durchsäet mit undeutlichen kugeligen Absonderungen. In Masse ist Eisen fein und mittelfein, Schwefeleisen sehr fein eingesprengt.
+Die Grundmasse ist lichtgrau, unter der Lupe kristallinisch körnig; sie besteht aus helleren und dunkleren Teilchen; einzelne dunklere Körnchen erinnern an undeutliche Kristalloide, zeigen aber keine Spaltungs-, sondern fast splitterige Bruchflächen. Sie enthält Rostflecken und ist durchsäet mit undeutlichen kugeligen Absonderungen. In Masse ist Eisen fein und mittelfein, Schwefeleisen sehr fein eingesprengt.
 
 Lavoisier und Cadet, als Kommission der Akademie, analysierten den Stein und fanden:
 
@@ -1150,13 +1150,13 @@ Schwefel 8,5
 Eisen 3,6  
 Verglasbare Erde 55,5
 
-Die Kommission schloss daraus, dass der Stein weder durch den Donner entstanden, noch vom Himmel gefallen sei; am wahrscheinlichsten schien es ihr, er habe unter demRasen gelegen und sei durch einen Blitz oberflächlich geschmolzen und herausgeschleudert worden.
+Die Kommission schloss daraus, dass der Stein weder durch den Donner entstanden, noch vom Himmel gefallen sei; am wahrscheinlichsten schien es ihr, er habe unter dem Rasen gelegen und sei durch einen Blitz oberflächlich geschmolzen und herausgeschleudert worden.
 
 Literatur: Das Geschichtliche bei Izarn Lithologie 61, 192, 301 ausführlicher, als bei Bigot de Morogues 105. Lavoisier und Cadet Mém. Ac. Paris 1769. Journ. de Phys. 1772.
 
 ### Mauerkirchen
 
-Mauerkirchen, damals in Bayern, jetzt im Innviertel, Oesterreich ob der Enns.
+Mauerkirchen, damals in Bayern, jetzt im Innviertel, Österreich ob der Enns.
 
 1768, Nov. 20, nach 4 Uhr Nachmittag.
 
@@ -1169,7 +1169,7 @@ Spezifisches Gewicht:
 
 Die Rinde ist etwas dicker, als bei vielen anderen Meteorsteinen, graulich- oder bräunlichschwarz, glanzlos, am Stahl Funken gebend.
 
-Die Grundmasse ist hellgrau, fast weiß, wenig zusammenhängend, leicht zerreiblich, mit ziemlich vielen, auf den Bruchflächen wenig wahrnehmbaren, auf Schnittflächen aber leicht erkenntlichen kugeligen Bildungen. Man erkennt kleine plattgedrückte, eckige, schwarzgraue, glänzende Körnchen und andere, die weiß und gelblich, durchscheinend und schimmernd sind. Sehr geschmeidiges und zähes Eisen ist in feinen Körnern und Zacken, viel Schwefeleisen sehr fein, aber auch zuweilen in Körnern bis zu Hanfkorn- und Bohnengrösse eingesprengt.
+Die Grundmasse ist hellgrau, fast weiß, wenig zusammenhängend, leicht zerreiblich, mit ziemlich vielen, auf den Bruchflächen wenig wahrnehmbaren, auf Schnittflächen aber leicht erkenntlichen kugeligen Bildungen. Man erkennt kleine plattgedrückte, eckige, schwarzgraue, glänzende Körnchen und andere, die weiß und gelblich, durchscheinend und schimmernd sind. Sehr geschmeidiges und zähes Eisen ist in feinen Körnern und Zacken, viel Schwefeleisen sehr fein, aber auch zuweilen in Körnern bis zu Hanfkorn- und Bohnengröße eingesprengt.
 
 Die Analyse von Imhof ist unvollkommen.
 
@@ -1201,7 +1201,7 @@ FeS. FeO.* SiO₃. MgO. CaO, MnO. Sa.
 
 *) Schwarzes Eisenoxyd.
 
-Wird das FeS stöchiometrisch zerlegt, und aus Prousr's Eisenbestimmungen, die zuerst 17, dann 19, dann 22 Th. Eisen gab, welches 3% Nickel enthalten soll, das Mittel genommen, so ergibt die Analyse:
+Wird das FeS stöchiometrisch zerlegt, und aus Prousts Eisenbestimmungen, die zuerst 17, dann 19, dann 22 Th. Eisen gab, welches 3% Nickel enthalten soll, das Mittel genommen, so ergibt die Analyse:
 
 FeO. SiO₃. MgO. CaO, MnO. Fe-Ni. S. Sa.
 5. 66. 20. Spur. 7,54-(18,753. 0,579). 4,46. 103.
@@ -1223,7 +1223,7 @@ Spezifisches Gewicht:
 
 Die Rinde ist dünn, rau, matt und schwarz.
 
-Das Innere besteht aus einer dunkelgrauen ziemlich grobkörnigen Grundmasse mit vielen Rostflecken. Auf dem Bruch ragen zahlreiche kleinkugelige leucitartige Einschlüsse hervor. Als zweiter Gemengteil erscheint eine kleinkrystallinische hellgraue Substanz, welche die rundlichen dunkleren Körner gleichsam verkittet, jedoch nur unter der Lupe die kristallinische Bildung erkennen lässt. Außer diesen beiden sieht man auch grünliche Teilchen, von denen einzelne kristallinisch sind und zum Teil deutliche glänzende Krystallflächen zeigen; ihr Bruch ist glasig-muschelig. Eisen ist mittelfein und reichlich eingesprengt, Magnetkies weniger und sehr fein.
+Das Innere besteht aus einer dunkelgrauen ziemlich grobkörnigen Grundmasse mit vielen Rostflecken. Auf dem Bruch ragen zahlreiche kleinkugelige leucitartige Einschlüsse hervor. Als zweiter Gemengteil erscheint eine kleinkristallinische hellgraue Substanz, welche die rundlichen dunkleren Körner gleichsam verkittet, jedoch nur unter der Lupe die kristallinische Bildung erkennen lässt. Außer diesen beiden sieht man auch grünliche Teilchen, von denen einzelne kristallinisch sind und zum Teil deutliche glänzende Krystallflächen zeigen; ihr Bruch ist glasig-muschelig. Eisen ist mittelfein und reichlich eingesprengt, Magnetkies weniger und sehr fein.
 
 Klaproth analysierte den Stein und fand:
 
@@ -1264,13 +1264,13 @@ Barbotan (Roquefort, Créon, Juillac, Mezin, Eause, Armagnac, Losse, Agen, St. S
 
 Ein höchst merkwürdiger und reicher Meteoritenfall, der das größte Aufsehen erregte und von den Gelehrten Frankreichs mit Hohn als grobe Täuschung und unglaubliche Lüge aufgenommen wurde.
 
-Eine große Feuerkugel wurde bei klarem Himmel und hellem Mondschein im südwestlichen Frankreich gesehen: sie detonierte heftig und dann fielen viele Steine nieder, meist etwa 1 K. schwer, aber auch bis 15 K. Bruchstücke sind in vielen Sammlungen. Wien besitzt 2 St. (zusammen 619,621 Gr.), Gratz (576 Gr.), London (481,13 Gr.), Paris (411 Gr., 2 St.), Bordeaux (nach Gilb. Ann. 18, 284 ein 15 Zoll langes Stück), Berlin (302,212 Gr.), Leipzig (239,74 Gr., 2 St.), Darmstadt (78,35 Gr.), Kopenhagen (45,5 Gr., mehre St.), Zürich (44,6 Gr.), Gotha (33,45 Gr.), Stockholm (17 Gr.), Gratz, Uppsala (10,1 Gr.), Göttingen (8,82 Gr., 2 St.), Calcutta, Hudson und die Privatsammlungen von de Luynes (57,3 Gr., 2 St.), v. Reichenbach, Shepard, Greg (43 Gr.), Neumann (20,2 Gr., 2 St.), Nevill und von Baumhauer.
+Eine große Feuerkugel wurde bei klarem Himmel und hellem Mondschein im südwestlichen Frankreich gesehen: sie detonierte heftig und dann fielen viele Steine nieder, meist etwa 1 K. schwer, aber auch bis 15 K. Bruchstücke sind in vielen Sammlungen. Wien besitzt 2 St. (zusammen 619,621 Gr.), Grätz (576 Gr.), London (481,13 Gr.), Paris (411 Gr., 2 St.), Bordeaux (nach Gilb. Ann. 18, 284 ein 15 Zoll langes Stück), Berlin (302,212 Gr.), Leipzig (239,74 Gr., 2 St.), Darmstadt (78,35 Gr.), Kopenhagen (45,5 Gr., mehre St.), Zürich (44,6 Gr.), Gotha (33,45 Gr.), Stockholm (17 Gr.), Grätz, Uppsala (10,1 Gr.), Göttingen (8,82 Gr., 2 St.), Calcutta, Hudson und die Privatsammlungen von de Luynes (57,3 Gr., 2 St.), v. Reichenbach, Shepard, Greg (43 Gr.), Neumann (20,2 Gr., 2 St.), Nevill und von Baumhauer.
 
 Spezifisches Gewicht: 3,6209 Rumler.
 
 Die Rinde ist schwärzlich, matt, ziemlich dick, runzelig.
 
-Die dunkelgraue, stark rostbraun gefleckte, feste Grundmasse enthält sehr wenige kugelige Einschlüsse, stellenweise feine schwarze Adern und meist fein eingesprengtes Eisen, das aber auch in linsen- bis bohnengrossen Körnern, sowie in unvollkommnen Würfeln auftritt. Schwefeleisen ist nur sehr fein eingesprengt, wurde aber von Vauquelin bei der Analyse vernachlässigt. Er fand:
+Die dunkelgraue, stark rostbraun gefleckte, feste Grundmasse enthält sehr wenige kugelige Einschlüsse, stellenweise feine schwarze Adern und meist fein eingesprengtes Eisen, das aber auch in linsen- bis bohnengroßen Körnern, sowie in unvollkommenen Würfeln auftritt. Schwefeleisen ist nur sehr fein eingesprengt, wurde aber von Vauquelin bei der Analyse vernachlässigt. Er fand:
 
 SiO₃. MgO. CaO. Fe₂O₃. NiO. Sa.  
 46. 15. 2. 38. 2. 103.
@@ -1299,7 +1299,7 @@ Spezifisches Gewicht:
 
 Die Rinde ist zart und fein runzelig-aderig, matt, fast kohlschwarz, zum Teil feinrissig und dadurch weiß geadert.
 
-Die Grundmasse ist sehr feinkörnig, kristallinisch, hellgrau, zum Teil rostbraun gefleckt, mit vielen zum Teil lichtgrünlichen oder bernsteingelben, olivinartigen, zum Teil schwärzlichen, oder dunkelgrauen, wachsglänzenden, selten kugeligen, ineist eckigen Einschlüssen, so dass das Ganze breccien- oder porphyrartig aussieht. Magnetkies ist fein, zum Teil auch in Körnern, das Eisen aber sehr fein in einzelnen zerstreuten Körnchen und Punkten eingesprengt.
+Die Grundmasse ist sehr feinkörnig, kristallinisch, hellgrau, zum Teil rostbraun gefleckt, mit vielen zum Teil lichtgrünlichen oder bernsteingelben, olivinartigen, zum Teil schwärzlichen, oder dunkelgrauen, wachsglänzenden, selten kugeligen, meist eckigen Einschlüssen, so dass das Ganze breccien- oder porphyrartig aussieht. Magnetkies ist fein, zum Teil auch in Körnern, das Eisen aber sehr fein in einzelnen zerstreuten Körnchen und Punkten eingesprengt.
 
 Die Analysen von Howard (1 und 2) und Klaproth (3) haben hauptsächlich historische Wichtigkeit.
 
@@ -1316,7 +1316,7 @@ Wold Cottage, Yorkshire, England.
 
 1795, Dez. 13, 3 1/2 Uhr Nachmittags.
 
-Dieser Steinfall ist für die Geschichte der Meteoriten von Wichtigkeit, indem die genau beobachteten und von Capitan Topuam, bei dessen Wohnung das Ereignis stattfand, zusammengestellten und veröffentlichten Tatsachen wenigstens in England, wenn auch noch nicht in Frankreich, die Zweifel an die Möglichkeit eines solchen Ereignisses vernichteten. Bournon und Howarp wurden durch diesen Steinfall wesentlich zu ihrer trefflichen Arbeit angeregt, die nachher epochemachend wurde.
+Dieser Steinfall ist für die Geschichte der Meteoriten von Wichtigkeit, indem die genau beobachteten und von Capitan Topham, bei dessen Wohnung das Ereignis stattfand, zusammengestellten und veröffentlichten Tatsachen wenigstens in England, wenn auch noch nicht in Frankreich, die Zweifel an die Möglichkeit eines solchen Ereignisses vernichteten. Bournon und Howard wurden durch diesen Steinfall wesentlich zu ihrer trefflichen Arbeit angeregt, die nachher epochemachend wurde.
 
 Nach heftigen Detonationen, ohne dass gleichzeitig eine Feuerkugel gesehen worden wäre, fiel ein Stein von 25 1/2 K., der von Zeugen des Falles noch heiß und rauchend ausgegraben wurde. Das größte Stück war lange Eigentum der Familie Sowerby, wurde aber 1838 vom brit. Museum für 2500 fl. gekauft und wiegt jetzt noch 21 K. 581,4 Gr. Göttingen besitzt 2 St. (134,76 Gr.) und Wien (36,647 Gr.). Außerdem sind Bruchstücke in Paris (7 Gr.), Berlin (2,998 Gr.), Hudson und in den Privatsammlungen von Reichenbach, Shepard, Greg und Nevill.
 
@@ -1329,7 +1329,7 @@ Die Rinde ist schwarz, matt oder schwach schimmernd.
 
 Die hellgraue, schwach rostbraun gefleckte, ziemlich feste, kaolinartige Grundmasse enthält innig verbunden kleine kugelige oder elliptische, manchmal unregelmäßig gestaltete Körnchen und ziemlich viel fein und mittelfein eingesprengtes Eisen, nach Bournon bis zum Gewicht von einigen Grains (zu 0,065 Gr.). Schwefeleisen ist reichlich, aber sehr fein eingesprengt. v. Reichenbach analysierte einen kleinen Einschluss mikroskopisch und bildete ihn ab (Pogg. Ann. 111, 373.).
 
-Bei der chemischen Analyse schied Howarp die erdigen Bestandteile (I.) von dem hämmerbaren Metall (II.) und fand:
+Bei der chemischen Analyse schied Howard die erdigen Bestandteile (I.) von dem hämmerbaren Metall (II.) und fand:
 
 SiO₃. MgO. FeO. NiO. Sa.  
 I\. 50,00. 24,66. 32,00. 1,33. 107,99.
@@ -1357,7 +1357,7 @@ Salés, bei Villefranche, Dép. du Rhône, Frankreich.
 
 1798, März 8 oder 12, 6 Uhr Abends.
 
-Eine leuchtende Feuerkugel zog von O. nach W. unter furchtbarem Heulen und Prasseln und Funkensprühen. Der Stein, dessen Fall mehre Zeugen in der Nähe beobachteten, wurde erst am folgenden Morgen ausgegraben; er war nicht mehr heiß, roch aber schwefelig und hatte an mehreren Stelle Risse: er wog etwa 10 K., doch wurde er zerschlagen. Über die Zeit des Falles finden sich verschiedene Angaben. De Drée, der dem Ereignis am genauesten nachging, aber erst 1802, nennt den 12. März als Falltag. Pictet in Genf sah aber um dieselbe Abendzeit am 8. März eine Feuerkugel von Ost nach West ziehen, so dass dieser Tag vielleicht der richtige ist. - Sage, der in der Zeit des Unglaubens gleich nach dem Fall ein großes Stück erhielt, ließ es in Gestalt einer Vase abdrehen. Existirt wohl noch dieses Stück gelehrter Barbarei? Das größte Bruchstück ist in Wien (292 Gr., im Ganzen 334,14 Gr.); kleinere sind in London (191,94 Gr.), Paris (38 Gr.), Berlin (15,993 Gr.), Stuttgart (3 Gr.), Göttingen (0,92 Gr.) und in den Privatsammlungen von v. Reichenbach, Shepard, Nevill und Greg.
+Eine leuchtende Feuerkugel zog von O. nach W. unter furchtbarem Heulen und Prasseln und Funkensprühen. Der Stein, dessen Fall mehre Zeugen in der Nähe beobachteten, wurde erst am folgenden Morgen ausgegraben; er war nicht mehr heiß, roch aber schwefelig und hatte an mehreren Stelle Risse: er wog etwa 10 K., doch wurde er zerschlagen. Über die Zeit des Falles finden sich verschiedene Angaben. De Drée, der dem Ereignis am genauesten nachging, aber erst 1802, nennt den 12. März als Falltag. Pictet in Genf sah aber um dieselbe Abendzeit am 8. März eine Feuerkugel von Ost nach West ziehen, so dass dieser Tag vielleicht der richtige ist. - Sage, der in der Zeit des Unglaubens gleich nach dem Fall ein großes Stück erhielt, ließ es in Gestalt einer Vase abdrehen. Existiert wohl noch dieses Stück gelehrter Barbarei? Das größte Bruchstück ist in Wien (292 Gr., im Ganzen 334,14 Gr.); kleinere sind in London (191,94 Gr.), Paris (38 Gr.), Berlin (15,993 Gr.), Stuttgart (3 Gr.), Göttingen (0,92 Gr.) und in den Privatsammlungen von v. Reichenbach, Shepard, Nevill und Greg.
 
 Spezifisches Gewicht:
 
@@ -1366,7 +1366,7 @@ Spezifisches Gewicht:
 
 Die Rinde ist schwarz, matt, dick und rau; sie enthält einige Eisenkörnchen und einige graue Kügelchen; am Stahl gibt sie Funken.
 
-Die Grundmasse ist lichtgrau, etwas ins Dunkle und Braune ziehend, körnig und ist von mikroskopisch feinen schwarzen Adern nach allen Richtungen durchwebt, rostbraun gefleckt und schwarz punktirt; von den wenigen kugeligen Einschlüssen sind sehr wenige schmutzig dunkelgrün, wenige andere graulichweiss, sehr zerbrechlich, von dichtem und ebenem Bruch und weicher als die ersteren. Es ist viel Eisen fein und grob manchmal bis zu 3 mm. Länge eingesprengt, weißer und weniger dehnbar als Schmiedeeisen. Schwefeleisen ist teils fein, teils in Körnchen eingesprengt, teils überzieht es die Flächen der Risse; es ist blättrig, weißlich und wird vom Magnet angezogen.
+Die Grundmasse ist lichtgrau, etwas ins Dunkle und Braune ziehend, körnig und ist von mikroskopisch feinen schwarzen Adern nach allen Richtungen durchwebt, rostbraun gefleckt und schwarz punktiert; von den wenigen kugeligen Einschlüssen sind sehr wenige schmutzig dunkelgrün, wenige andere graulichweiß, sehr zerbrechlich, von dichtem und ebenem Bruch und weicher als die ersteren. Es ist viel Eisen fein und grob manchmal bis zu 3 mm. Länge eingesprengt, weißer und weniger dehnbar als Schmiedeeisen. Schwefeleisen ist teils fein, teils in Körnchen eingesprengt, teils überzieht es die Flächen der Risse; es ist blättrig, weißlich und wird vom Magnet angezogen.
 
 Sage analysierte den Stein, ohne an seine meteorische Natur zu glauben. Er fand Nickel, Eisen, Schwefeleisen, Kieselerde und Magnesia. Ohne von Howards Untersuchungen Kenntnis zu haben, unterwarf auch Vauquelin den Stein einer Analyse und fand, nachdem alles Eisen und Schwefeleisen entfernt waren:
 
@@ -1393,9 +1393,9 @@ Spezifisches Gewicht:
 
 Die Rinde ist dunkelschwarz, stellenweise ähnlich Firniss, meist matt und dünn, so dass noch die eingemengten Kugeln zu unterscheiden sind.
 
-Die hellgraue, sehr weiche Grundmasse ist ganz angefüllt mit teils kugeligen, teils unvollkommen nierenförmigen, seltner auch eckigen nadelkopf- bis erbsengrossen, nur selten größeren Einschlüssen von grünlicher Farbe, die mit der Masse nur wenig zusammenhängen, daher aus derselben hervorragen und beim Herausfallen schalige Eindrücke hinterlassen. Schwefeleisen ist körnig und sehr unregelmäßig durch die Masse verteilt. Noch in geringerer Menge tritt das Eisen darin auf.
+Die hellgraue, sehr weiche Grundmasse ist ganz angefüllt mit teils kugeligen, teils unvollkommen nierenförmigen, seltener auch eckigen nadelkopf- bis erbsengroßen, nur selten größeren Einschlüssen von grünlicher Farbe, die mit der Masse nur wenig zusammenhängen, daher aus derselben hervorragen und beim Herausfallen schalige Eindrücke hinterlassen. Schwefeleisen ist körnig und sehr unregelmäßig durch die Masse verteilt. Noch in geringerer Menge tritt das Eisen darin auf.
 
-Die erste Analyse machte Howar», der getrennt untersuchte: 1. die erdige Matrix, 2. die runden Einschlüsse, 3. das hämmerbare Eisen und 4. das Schwefeleisen. VaugqukLin analysierte die Masse ebenfalls 5.
+Die erste Analyse machte Howard, der getrennt untersuchte: 1. die erdige Matrix, 2. die runden Einschlüsse, 3. das hämmerbare Eisen und 4. das Schwefeleisen. Vauquelin analysierte die Masse ebenfalls 5.
 
 SiO₃. MgO. Fe₂O₃. NiO. Fe. Ni. S. Sa.  
 1\. 48. 18. 34. 2,5. -,-. -,-. -,-. 102,5 Howard,  
@@ -1412,13 +1412,13 @@ l'Aigle (la Vassolerie, Fontenil, la Métonnerie, S. Michel-de Sommaire, St. Nic
 
 1803, April 26, 1 Uhr Nachmittags.
 
-Dieser Steinfall gehört zu den interessantesten und historischmerkwürdigsten, da er nicht nur der reichste aller bekannten Meteoritenfälle ist, sondern auch mit ihm alles Läugnen der Tatsache selbst und der Widerstand, den Cuipnt's Behauptungen im größten Teile der wissenschaftlichen Welt fanden, ein Ende hatten. Eine hellleuchtende Feuerkugel war nur in größerer Entfernung, z. B. in Caen, Falaise, St. Rieux, Pont-Audemer, Verneuil etc. gesehen worden; an den Orten des Steinregens selbst bemerkte man ein kleines, fast unbewegtes, dunkles Wölkchen, aus welchem die Detonationen erschallten, die 30 Meilen in der Runde gehört wurden. Dann fielen sehr viele Steine nieder, man nimmt 2000 bis 3000 an, die sich auf einer elliptischen Fläche von 2 1/2, Ml. Länge und 1 Ml. Breite ausstreuten. Fast alle Bewohner von 20 Dörfern dieses Bezirks waren Augenzeugen. In mehreren Orten fielen die Steine hageldicht nieder; alle waren heiß und verbreiteten starken Schwefelgeruch. Die große Axe der elliptischen Fallfläche war von SO. bis NW. gerichtet; die größten Steine fielen am SO.-Ende, die kleinsten am entgegengesetzten. Der schwerste wog 8 K. 065.
+Dieser Steinfall gehört zu den interessantesten und historisch merkwürdigsten, da er nicht nur der reichste aller bekannten Meteoritenfälle ist, sondern auch mit ihm alles Läugnen der Tatsache selbst und der Widerstand, den Chladnis Behauptungen im größten Teile der wissenschaftlichen Welt fanden, ein Ende hatten. Eine hellleuchtende Feuerkugel war nur in größerer Entfernung, z. B. in Caen, Falaise, St. Rieux, Pont-Audemer, Verneuil etc. gesehen worden; an den Orten des Steinregens selbst bemerkte man ein kleines, fast unbewegtes, dunkles Wölkchen, aus welchem die Detonationen erschallten, die 30 Meilen in der Runde gehört wurden. Dann fielen sehr viele Steine nieder, man nimmt 2000 bis 3000 an, die sich auf einer elliptischen Fläche von 2 1/2, Ml. Länge und 1 Ml. Breite ausstreuten. Fast alle Bewohner von 20 Dörfern dieses Bezirks waren Augenzeugen. In mehreren Orten fielen die Steine hageldicht nieder; alle waren heiß und verbreiteten starken Schwefelgeruch. Die große Axe der elliptischen Fallfläche war von SO. bis NW. gerichtet; die größten Steine fielen am SO.-Ende, die kleinsten am entgegengesetzten. Der schwerste wog 8 K. 065.
 
-Hand- und Bruchstücke finden sich fast in allen Sammlungen; die größten besitzt Wien (4 K. 059,538; der größte 1 K. 505), Berlin (2 K. 018,659), London (1 K. 511), Gratz (570 Gr.), Zürich (559 Gr., 5 St.), Freiberg (514 Gr.), Stuttgart (381 Gr., 3 St.), Tübingen (3 St., der größte 240 Gr.), Göttingen (237,84 Gr., 2 St.), Kopenhagen (184 Gr., 4 St.), Leipzig (173,15 Gr., 3 St.), Paris (Ecole des Mines 154,5 Gr.), München (125 Gr.), Paris (Mus. Hist. nat. 74 Gr.) und die Privatsammlungen des Fürsten Lobkowitz (2 K. 154, 3 St.), Shepard (987 Gr.), Greg (371 Gr.), Ferber (248 Gr.), van Breda (172,1 Gr., 2 St.), Neumann (117,27 Gr., 2 St.).
+Hand- und Bruchstücke finden sich fast in allen Sammlungen; die größten besitzt Wien (4 K. 059,538; der größte 1 K. 505), Berlin (2 K. 018,659), London (1 K. 511), Grätz (570 Gr.), Zürich (559 Gr., 5 St.), Freiberg (514 Gr.), Stuttgart (381 Gr., 3 St.), Tübingen (3 St., der größte 240 Gr.), Göttingen (237,84 Gr., 2 St.), Kopenhagen (184 Gr., 4 St.), Leipzig (173,15 Gr., 3 St.), Paris (Ecole des Mines 154,5 Gr.), München (125 Gr.), Paris (Mus. Hist. nat. 74 Gr.) und die Privatsammlungen des Fürsten Lobkowitz (2 K. 154, 3 St.), Shepard (987 Gr.), Greg (371 Gr.), Ferber (248 Gr.), van Breda (172,1 Gr., 2 St.), Neumann (117,27 Gr., 2 St.).
 
 Spezifisches Gewicht:
 
-3,584 Reuss,
+3,584 Reuß,
 3,626-3,490 v. Schreibers,
 3,279 Blesson,
 3,4791 ohne Rinde Rumler,
@@ -1426,7 +1426,7 @@ Spezifisches Gewicht:
 
 Die Rinde ist braun, matt, klein- und plattnarbig, nicht rau.
 
-Die Grundmasse ist teils hell-, teils dunkelgrau, entweder flockenartig neben eimander, oder der lichtere Teil ist vom dunkleren in mehr oder weniger dickem aderigen Gewebe durchzogen. Vielfach treten auch rostbraune Flecken auf. Heilere und dunklere, allermeist rundliche Körner sind der Grundmasse porphyrartig eingemengt, sowie bis bohnengrosse Partien, welche durch Zusammenfliessen der schwarzen Adern entstanden sind. Schwarze graphitartig aussehende Ablösungsflächen siud nicht selten. Eisen tritt in ziemlicher Menge zum Teil grobkörnig, Schwefeleisen nur äußerst feinkörnig auf.
+Die Grundmasse ist teils hell-, teils dunkelgrau, entweder flockenartig nebeneinander, oder der lichtere Teil ist vom dunkleren in mehr oder weniger dickem aderigen Gewebe durchzogen. Vielfach treten auch rostbraune Flecken auf. Heilere und dunklere, allermeist rundliche Körner sind der Grundmasse porphyrartig eingemengt, sowie bis bohnengroße Partien, welche durch Zusammenfließen der schwarzen Adern entstanden sind. Schwarze graphitartig aussehende Ablösungsflächen sind nicht selten. Eisen tritt in ziemlicher Menge zum Teil grobkörnig, Schwefeleisen nur äußerst feinkörnig auf.
 
 Ältere Analysen existieren von Thénard 1. und Fourcroy und Vauquelin 2.
 
@@ -1444,7 +1444,7 @@ Saurette bei Apt, Dép. Vaucluse, Frankreich.
 
 1803, Okt. 8, 10 Uhr Vormittag.
 
-Unter hefligem, in weitem Umkreis hörbarem Krachen fiel ein Stein von etwa 4 K., wovon das größte Stück (1 K.) im Mus. Hist. nat. zu Paris aufbewahrt wird. Kleinere Stücke sind in Wien (324,845 Gr., 2 St., das größte 287,663 Gr.), Berlin (15,993 Gr.), Gotha (5,65 Gr.) und in den Privatsammlungen von v. Reichenbach, de Luynes (9,5 Gr.), Greg und Shepard.
+Unter heftigem, in weitem Umkreis hörbarem Krachen fiel ein Stein von etwa 4 K., wovon das größte Stück (1 K.) im Mus. Hist. nat. zu Paris aufbewahrt wird. Kleinere Stücke sind in Wien (324,845 Gr., 2 St., das größte 287,663 Gr.), Berlin (15,993 Gr.), Gotha (5,65 Gr.) und in den Privatsammlungen von v. Reichenbach, de Luynes (9,5 Gr.), Greg und Shepard.
 
 Spezifisches Gewicht: 3,4852 Rumler.
 
@@ -1465,7 +1465,7 @@ Mässing (St. Nicolas) bei Altötting, Landger. Eggenfeld in Bayern.
 
 1803, Dez. 13, zwischen 10 und 11 Uhr Vormittag.
 
-Durch heftige Detonationen aufgeschreokt, sah ein Bauer das Niederfallen des Steins, der durch das Dach eines Schuppens schlug und noch ganz heiß aufgenommen wurde. Er wog etwa 1 K. 600 Gr. Es ist nur noch wenig davon vorhanden. Die größten Bruchstücke sind in Berlin (23,823 Gr.), Paris (22 Gr.), München (16,2 Gr.). Ferner sind in Wien (3,25 Gr.), Zürich (2,8 Gr.) und in den Sammlungen von v. Reichenbach, Neumann (0,25 Gr.) und Greg.
+Durch heftige Detonationen aufgeschreckt, sah ein Bauer das Niederfallen des Steins, der durch das Dach eines Schuppens schlug und noch ganz heiß aufgenommen wurde. Er wog etwa 1 K. 600 Gr. Es ist nur noch wenig davon vorhanden. Die größten Bruchstücke sind in Berlin (23,823 Gr.), Paris (22 Gr.), München (16,2 Gr.). Ferner sind in Wien (3,25 Gr.), Zürich (2,8 Gr.) und in den Sammlungen von v. Reichenbach, Neumann (0,25 Gr.) und Greg.
 
 Spezifisches Gewicht:
 
@@ -1505,7 +1505,7 @@ Doroninsk, Gouv. Irkutsk, Sibirien.
 
 1805, März 25, nach Eichwald Apr. 10. n. St. 5 Uhr Abends.
 
-Unter heftigem, weithin hörbarem Getöse fielen aus einer von Westen kommenden dunkeln Wolke mehre Steine, von welchen zwei gefunden wurden; der erste von fast 3 K. war noch nach 1/2 Stunde zu heiß, um ihu zu halten; der zweite wog etwa 1 K. Das größte Bruchstück scheint Prof. Auerbach in Moskau zu besitzen (179 Gr. mit viel Rinde), Wien hat 61,250 Gr., Berlin 52,312 Gr., Shepard 115 Gr., und Greg 14 Gr.
+Unter heftigem, weithin hörbarem Getöse fielen aus einer von Westen kommenden dunkeln Wolke mehre Steine, von welchen zwei gefunden wurden; der erste von fast 3 K. war noch nach 1/2 Stunde zu heiß, um ihn zu halten; der zweite wog etwa 1 K. Das größte Bruchstück scheint Prof. Auerbach in Moskau zu besitzen (179 Gr. mit viel Rinde), Wien hat 61,250 Gr., Berlin 52,312 Gr., Shepard 115 Gr., und Greg 14 Gr.
 
 Spezifisches Gewicht: 3,6154 Rumler.
 
@@ -1520,9 +1520,9 @@ SiO₃. MgO. CaO. MnO. Cr203. Al₂O₃. Fe. Ni. S. Sa.
 
 Literatur: Scheerer Mém. Ac. Pétersb. 6. Hist. 46. Stoikowitz Gilb. Ann. 29, 212. 31, 308.
 
-### Constantinopel
+### Konstantinopel
 
-Constantinopel, Türkei.
+Konstantinopel, Türkei.
 
 1805, im Juni.
 
@@ -1561,9 +1561,9 @@ Spezifisches Gewicht:
 1,94 Biot,  
 1,7025 Rumler.
 
-Ganz eigentümlicher Stein, ähnlich einer erdigen Kohle. Die Rinde ist bräunlichschwarz, matt, das Innere ist ebenso gefärbt, schr weich und zerreiblich, daher in den Sammlungen als Bröckchen oder Pulver; beim Reiben nehmen sie Harzglanz an. In Wasser zerfällt die Masse zu einem graugrünen Brei mit Tongeruch; an der Luft bedeckt sie sich mit weißen Salzausblühungen (nach Berzelius MgOSO₃ und NiOSO₃). Auch mit der Lupe lassen sich weder kugelige Einschlüsse, noch Eisenkörnchen, und nur schwer und selten Körnchen von gelbem Schwefeleisen unterscheiden. Doch verraten die starken Rostflecken die Gegenwart von Eisen. Am Feuer verbreitet die Masse schwachen Bitumengeruch; vor dem Lötrohr ist sie schwer schmelzbar. Bei abgehaltener Luft erhitzt verliert sie nach Thénard 17%, dabei CO₂.
+Ganz eigentümlicher Stein, ähnlich einer erdigen Kohle. Die Rinde ist bräunlichschwarz, matt, das Innere ist ebenso gefärbt, sehr weich und zerreiblich, daher in den Sammlungen als Bröckchen oder Pulver; beim Reiben nehmen sie Harzglanz an. In Wasser zerfällt die Masse zu einem graugrünen Brei mit Tongeruch; an der Luft bedeckt sie sich mit weißen Salzausblühungen (nach Berzelius MgOSO₃ und NiOSO₃). Auch mit der Lupe lassen sich weder kugelige Einschlüsse, noch Eisenkörnchen, und nur schwer und selten Körnchen von gelbem Schwefeleisen unterscheiden. Doch verraten die starken Rostflecken die Gegenwart von Eisen. Am Feuer verbreitet die Masse schwachen Bitumengeruch; vor dem Lötrohr ist sie schwer schmelzbar. Bei abgehaltener Luft erhitzt verliert sie nach Thénard 17%, dabei CO₂.
 
-Die Analysen von Tugnarp, der Kommission des Institut de France (Monge, Fourcroy, Berthollet und Vauquelin) und von Berzelius lassen zweifelhaft, ob der Stein ursprünglich Wasser enthielt. Entweder wurde der Verlust als Wasser angenommen oder das von Berzelius nachgewiesene Wasser kann auch hygroskopisch aufgenommen worden sein. Am genauesten ist die letzte Analyse. Nach Berzelius lässt sich die Masse beim Behandeln mit Wasser scheiden in
+Die Analysen von Thénard, der Kommission des Institut de France (Monge, Fourcroy, Berthollet und Vauquelin) und von Berzelius lassen zweifelhaft, ob der Stein ursprünglich Wasser enthielt. Entweder wurde der Verlust als Wasser angenommen oder das von Berzelius nachgewiesene Wasser kann auch hygroskopisch aufgenommen worden sein. Am genauesten ist die letzte Analyse. Nach Berzelius lässt sich die Masse beim Behandeln mit Wasser scheiden in
 
 1\. 13,28% mit dem Magnet Ausziehbares; schwarz, glanzlos; vorzugsweise FeOFe₂O₃, Spuren von Fe und FeS.
 
@@ -1609,7 +1609,7 @@ Spezifisches Gewicht:
 
 Die Rinde ist graulichschwarz, dick, matt und chagrinartig, stellenweise runzelig.
 
-Aus der heller oder dunkler aschgrauen, sehr klein-rostfleckigen, erdigen Grundmasse treten viele dunklere grüne oder braune kugelige Absonderungen hervor, wodurch das Ganze ein mehr kleinporphyrartiges als mandelsteinartiges Aussehen erhält. Eisen tritt reichlich auf in ziemlich starken rauen Zacken, meist aber als Körner und Punkte, als ästige und zum Teil zusammenhängende Linien und Adern. Schwefeleisen dagegen ist höchst fein ingelben metallglänzenden Punkten eingesprengt und selbst auf der Schlifffläche nur mikroskopisch wahrnehmbar.
+Aus der heller oder dunkler aschgrauen, sehr klein-rostfleckigen, erdigen Grundmasse treten viele dunklere grüne oder braune kugelige Absonderungen hervor, wodurch das Ganze ein mehr kleinporphyrartiges als mandelsteinartiges Aussehen erhält. Eisen tritt reichlich auf in ziemlich starken rauen Zacken, meist aber als Körner und Punkte, als ästige und zum Teil zusammenhängende Linien und Adern. Schwefeleisen dagegen ist höchst fein in gelben metallglänzenden Punkten eingesprengt und selbst auf der Schlifffläche nur mikroskopisch wahrnehmbar.
 
 Analysen wurden von Scheerer I. und Klaproth II. ausgeführt:
 
@@ -1639,7 +1639,7 @@ Spezifisches Gewicht:
 3,3 Warden,  
 3,5854 Rumler.
 
-Die Rinde ist braunschwarz, matt und rissig, sehr uneben. Innen herrscht die dunkelgraue Farbe vor; durch die Masse zerstreut liegen Flecken von hellerer Farbe, die aber nicht von einem ganz gleichartigen Mineral gebildet und meist mit braunen Rostflecken besäet sind. Durch diese Verschiedenheit können kleine Bruchstücke für ganz verschiedenen Lokalitäten angehörig gehalten werden. Sehr reichlich finden sich kleine kugelige Einschlüsse von gelblicher Farbe, die in den dunkleren Partien weit deutlicher auftreten. Shepard hält sie für Olivinoid, die unregelmäßiger gestalteten wie ein Teil der helleren Flecken für Howardit. Schwefeleisen findet sich seltner als gewöhnlich und ist sehr fein und unregelmäßig zerstreut. Nickeleisen tritt sehr reichlich nicht nur in kleinen Punkten, sondern auch in fortlaufenden Fäden und Adern auf, sowie in ovalen Massen manchmal von mehr als 3 Gr. Gewicht. Ja in der Sammlung des Duc de Luynes ist eine Eisenkugel daraus wie ein Kirschkern, 0,04 m. auf 0,025 m., welche 32 Gr. wiegt, wohl die größte Eisenkugel, die je in einem Meteorstein gefunden wurde. An einer solchen Eisenkugel fand Shepard auch Glimmer in kleinen bräunlichgrauen Blättchen.
+Die Rinde ist braunschwarz, matt und rissig, sehr uneben. Innen herrscht die dunkelgraue Farbe vor; durch die Masse zerstreut liegen Flecken von hellerer Farbe, die aber nicht von einem ganz gleichartigen Mineral gebildet und meist mit braunen Rostflecken besäet sind. Durch diese Verschiedenheit können kleine Bruchstücke für ganz verschiedenen Lokalitäten angehörig gehalten werden. Sehr reichlich finden sich kleine kugelige Einschlüsse von gelblicher Farbe, die in den dunkleren Partien weit deutlicher auftreten. Shepard hält sie für Olivinoid, die unregelmäßiger gestalteten wie ein Teil der helleren Flecken für Howardit. Schwefeleisen findet sich seltener als gewöhnlich und ist sehr fein und unregelmäßig zerstreut. Nickeleisen tritt sehr reichlich nicht nur in kleinen Punkten, sondern auch in fortlaufenden Fäden und Adern auf, sowie in ovalen Massen manchmal von mehr als 3 Gr. Gewicht. Ja in der Sammlung des Duc de Luynes ist eine Eisenkugel daraus wie ein Kirschkern, 0,04 m. auf 0,025 m., welche 32 Gr. wiegt, wohl die größte Eisenkugel, die je in einem Meteorstein gefunden wurde. An einer solchen Eisenkugel fand Shepard auch Glimmer in kleinen bräunlichgrauen Blättchen.
 
 Analysen lieferten Silliman I. und Warden II.:
 
@@ -1729,7 +1729,7 @@ SiO₃. Al₂O₃. Fe₂O₃. CaO. MnO. NiO. S.
 SiO₃. Al₂O₃. Fe. CaO. MgO. S. MnO. und Verl.  
 3\. 48,25. 14,50. 23. 9,50. 2. 2,25.
 
-Wissenschaftlicher und genauer ist die von RAMMELSBERG, der außer der Gesammtanalyse 1. die des durch Salzsäure zersetzbaren Teils, 34,98%, 2. und des unzersetzbaren Teils (65,02%) 3. gab.
+Wissenschaftlicher und genauer ist die von RAMMELSBERG, der außer der Gesamtanalyse 1. die des durch Salzsäure zersetzbaren Teils, 34,98%, 2. und des unzersetzbaren Teils (65,02%) 3. gab.
 
 SiO₃. Al₂O₃. Fe₂O₃. FeO. MnO. CaO. MgO. NaO. KO. FeOCr₂O₃. FeS.  
 1\. 48,30. 12,65. -,-. 19,32. 0,81. 11,27. 6,87. 0,62. 0,26. 0,54. Sp.  
@@ -1753,7 +1753,7 @@ Es fielen einige, 4 oder 5 Steine, deren größter über 5 1/2, Pfund wog. Die D
 Spezifisches Gewicht:
 
 3,50 v. Schreibers, Rumler,
-3,56 Reuss.
+3,56 Reuß.
 
 Die Rinde ist allermeist dunkelschwarz, matt pechglänzend, zartrunzelig, an anderen Stellen mehr braun und glatter.
 
@@ -1819,7 +1819,7 @@ Spezifisches Gewicht:
 3,64905 ohne Gangmasse, Rumler,  
 3,7132 mit derselben, Rumler.
 
-Die Rinde ist schwarz und sehr dünn, matt, etwas schimmernd. Das Innere ist dunkelaschgrau oder blaulichgrau, durch viele Rostflecken wie marmorirt, erdig, dicht und fest. Diese Grundmasse enthält undeutliche und innig damit verwachsene halbdurchscheinende, helle kugelige Einschlüsse, die zum Teil Krystallflächen zeigen, eine Menge unregelmäßiger metallischer Eisenkörnchen, sowie kleinere in geringerer Menge, die stärker glänzen und Krystallflächen zeigen; sie scheinen Schwefeleisen zu sein. Alle Teile, auch die, in denen kein Eisen wahrnehmbar ist, wirken auf den Magnet. Besonders bezeichnend für diese Lokalität sind die schwarzen etwas verzweigten Adern, die aber im kleinen Stein viel dünner sind, als im großen und sich da in vielen Richtungen durchschneiden; eine Ader hat 2-6 mm. Dicke; die Masse zeigt nirgends den Charakter der Schmelzung und hängt fest am Nebengestein.
+Die Rinde ist schwarz und sehr dünn, matt, etwas schimmernd. Das Innere ist dunkelaschgrau oder blaulichgrau, durch viele Rostflecken wie marmoriert, erdig, dicht und fest. Diese Grundmasse enthält undeutliche und innig damit verwachsene halbdurchscheinende, helle kugelige Einschlüsse, die zum Teil Krystallflächen zeigen, eine Menge unregelmäßiger metallischer Eisenkörnchen, sowie kleinere in geringerer Menge, die stärker glänzen und Krystallflächen zeigen; sie scheinen Schwefeleisen zu sein. Alle Teile, auch die, in denen kein Eisen wahrnehmbar ist, wirken auf den Magnet. Besonders bezeichnend für diese Lokalität sind die schwarzen etwas verzweigten Adern, die aber im kleinen Stein viel dünner sind, als im großen und sich da in vielen Richtungen durchschneiden; eine Ader hat 2-6 mm. Dicke; die Masse zeigt nirgends den Charakter der Schmelzung und hängt fest am Nebengestein.
 
 Die Analyse von Vauquelin ergab:
 
@@ -1846,7 +1846,7 @@ Literatur: Blöde Bull. Ac. Pétersb. VI. no. 1, 1848. Eichwald Erman Arch. 5, 1
 
 ### Berlanguillas
 
-Berlanguillas unweit Burgos, Altcastilien, Spanien.
+Berlanguillas unweit Burgos, Altkastilien, Spanien.
 
 1811, Juli 8, 8 Uhr Abends.
 
@@ -1898,7 +1898,7 @@ Literatur: Gilb. Ann. 41, 445. 42, 111. 343.
 
 ### Erxleben
 
-Erxleben (Niedererxleben, 2 Meil. von Helmstädt, 4 Meil. von Magdeburg, Preussen), Deutschland.
+Erxleben (Niedererxleben, 2 Meil. von Helmstädt, 4 Meil. von Magdeburg, Preußen), Deutschland.
 
 1812, Apr. 15, 4 Uhr Nachmittags.
 
@@ -1943,7 +1943,7 @@ Spezifisches Gewicht:
 
 Die Rinde ist abweichend von gewöhnlich, teils schlackig, teils ähnlich äußerlich verwittertem Basalt, und nur an wenigen Stellen ist eine Schwärzung ähnlich der Rinde anderer Meteorsteine wahrnehmbar. Sie ritzt wie das Innere Glas und gibt am Stahl Funken.
 
-Das Innere ist sehr dunkel, teils eine schwarze basaltähnliche kleinkrystallinische Masse, teils darin eingeschlossene größere Brocken einer helleren grauen feinkörnigen Masse. Der schwarze Teil erscheint unter der Lupe unvollkommen körnig mit unebnem Bruch und Spuren von Spaltungsflächen, oder dicht mit splittrigem Bruch, besonders an den scharfen Grenzen. Da und dort sieht man auch ganz kleine röthlichbraune Partien, ähnlich zersetztem Granat. Der graue Teil erzeugt in dem schwarzen ein zum Teil breccienartiges Aussehen und ist ein kristallinisch feinkörniges Gemenge hellgrauer und schwarzer Teilchen, von denen die letzteren im Aussehen und an den Rändern mit der schwarzen Substanz des Steins zusammenhängen. Bisweilen ziehen sich dünne schwarze Linien durch das Gemenge hindurch, welche stark vergrößert dicht erscheinen. Die schwarzen und helleren Teile des Steins sind nicht scharf voneinander getrennt, sondern verlaufen sich stellenweise ineinander. Eisen ist ziemlich reichlich teils fein, teils in hirsekorngrossen Körnern eingesprengt; Magnetkies tritt in weit geringerer Menge höchst fein auf. Viele der metallischen weißen glänzenden Körnchen sind ganz zersetzt und daher die schwarze Masse braun gefleckt. - Ohne durch das Resultat einer chemischen Analyse dazu berechtigt zu sein, hat Shepard die schwarze Masse Chantonnit genannt (Härte 6,5-7. Spezifisches Gewicht 3,48).
+Das Innere ist sehr dunkel, teils eine schwarze basaltähnliche kleinkristallinische Masse, teils darin eingeschlossene größere Brocken einer helleren grauen feinkörnigen Masse. Der schwarze Teil erscheint unter der Lupe unvollkommen körnig mit unebenem Bruch und Spuren von Spaltungsflächen, oder dicht mit splittrigem Bruch, besonders an den scharfen Grenzen. Da und dort sieht man auch ganz kleine rötlichbraune Partien, ähnlich zersetztem Granat. Der graue Teil erzeugt in dem schwarzen ein zum Teil breccienartiges Aussehen und ist ein kristallinisch feinkörniges Gemenge hellgrauer und schwarzer Teilchen, von denen die letzteren im Aussehen und an den Rändern mit der schwarzen Substanz des Steins zusammenhängen. Bisweilen ziehen sich dünne schwarze Linien durch das Gemenge hindurch, welche stark vergrößert dicht erscheinen. Die schwarzen und helleren Teile des Steins sind nicht scharf voneinander getrennt, sondern verlaufen sich stellenweise ineinander. Eisen ist ziemlich reichlich teils fein, teils in hirsekorngroßen Körnern eingesprengt; Magnetkies tritt in weit geringerer Menge höchst fein auf. Viele der metallischen weißen glänzenden Körnchen sind ganz zersetzt und daher die schwarze Masse braun gefleckt. - Ohne durch das Resultat einer chemischen Analyse dazu berechtigt zu sein, hat Shepard die schwarze Masse Chantonnit genannt (Härte 6,5-7. Spezifisches Gewicht 3,48).
 
 Vauquelins Analyse wurde nicht bekannt. Berzelius veröffentlichte 4832 seine Analyse, zu der er den schwärzesten und härtesten Teil des Steins verwandte. Mit dem Magnet ließen sich nur unvollkommen Nickel- und Schwefeleisen ausziehen. Er fand dann:
 
@@ -1959,17 +1959,17 @@ SiO₃. MgO. FeO. NiO.* NaO. KO. Al₂O₃. CaO. MnO. FeOCr203.
 
 Rammelsberg berechnete daraus 1. als ein Gemenge von Labrador und Hornblende oder weniger wahrscheinlich Oligoklas und Augit, 2. als Olivin mit einem anderen Silikat, das aber nicht Anorthit sein kann.
 
-Literatur: Chladni Gilb. Ann. 60, 247. Cavoleau ebd. 63, 228. Berzelius Pogg. Ann. 33, 28. Rammelserg Handwörterb. Suppl. 5, 19. Shepard Rep. 7.
+Literatur: Chladni Gilb. Ann. 60, 247. Cavoleau ebd. 63, 228. Berzelius Pogg. Ann. 33, 28. Rammelsberg Handwörterb. Suppl. 5, 19. Shepard Rep. 7.
 
-### Limerik
+### Limerick
 
-Grafschaft Limerik (Adare, Scagh, Brasky, Faha), Ireland.
+Grafschaft Limerick (Adare, Scagh, Brasky, Faha), Irland.
 
 1813, Sept. 10, 6 Uhr Morgens.
 
-Aus einer Wolke erschallte heftiges Getöse. Von dieser Stelle des Himmels schienen verschiedene Massen mit großer Gewalt herzukommen, die mit ausserordentlicher Geschwindigkeit nach Westen zogen. Eine dieser Massen sah man herabfallen; sie schlug 1 1/2 Fuß tief in den Boden und wurde noch warm und nach Schwefel riechend gefunden. Sie wog etwa 8 K. 6-7 andere Massen fielen gegen das Dorf Adare zu. Der größte Stein fiel auf den Ländereien von Brasky und wog fast 30 K., ein kleinerer wog 11 K. Das Dorf Adare, wo die kleinsten Steine fielen, ist etwa 3 engl. Meil. entfernt von der Stelle, wo die größten gefunden worden sind.
+Aus einer Wolke erschallte heftiges Getöse. Von dieser Stelle des Himmels schienen verschiedene Massen mit großer Gewalt herzukommen, die mit außerordentlicher Geschwindigkeit nach Westen zogen. Eine dieser Massen sah man herabfallen; sie schlug 1 1/2 Fuß tief in den Boden und wurde noch warm und nach Schwefel riechend gefunden. Sie wog etwa 8 K. 6-7 andere Massen fielen gegen das Dorf Adare zu. Der größte Stein fiel auf den Ländereien von Brasky und wog fast 30 K., ein kleinerer wog 11 K. Das Dorf Adare, wo die kleinsten Steine fielen, ist etwa 3 engl. Meil. entfernt von der Stelle, wo die größten gefunden worden sind.
 
-In Dublin sind 3 St. von nicht näher angegebenem Gewicht. Außerdem finden sich Bruchstücke in Wien (164,063 Gr., 3 St., der größte 69,453 Gr.), Paris (Mus. Hist. nat. 133 Gr.), Göttingen (109,24 Gr., 2 St., der größte 105,7 Gr.), Calcutta, Berlin, Heidelberg, Stuttgart und in den Privatsammlungen von v. Reichbenbach, Shepard, Nevill, Greg (46 Gr.) und Neumann. Ein Stein von fast 23 K. wurde 1838 von Sowergy in London für 1500 fl. feilgeboten.
+In Dublin sind 3 St. von nicht näher angegebenem Gewicht. Außerdem finden sich Bruchstücke in Wien (164,063 Gr., 3 St., der größte 69,453 Gr.), Paris (Mus. Hist. nat. 133 Gr.), Göttingen (109,24 Gr., 2 St., der größte 105,7 Gr.), Calcutta, Berlin, Heidelberg, Stuttgart und in den Privatsammlungen von v. Reichenbach, Shepard, Nevill, Greg (46 Gr.) und Neumann. Ein Stein von fast 23 K. wurde 1838 von Sowerby in London für 1500 fl. feilgeboten.
 
 Spezifisches Gewicht:
 
@@ -2001,7 +2001,7 @@ Spezifisches Gewicht: 3,07.
 
 Die Rinde ist dünn, schwarz, pechartig, glänzend, aderig.
 
-Die Grundmasse ist lichtaschgrau, körnig, wenig zusammenhängend, doch ungleich dicht. Mit der Lupe erkennt man darin meist äußerst feine runde, hellgrüne oder bernsteingelbe Körner höchstens von der Größe eines Stecknadelknopfs, ferner schwärzliche Körnchen von eckiger, selten rundlicher Gestalt, die vorwalten und dem Ganzen ein breccienartiges Aussehen geben, und endlich weiße leucit- oder feldspathartige Körner, die meist blätterig, halb durchsichtig und spröde sind. Mit dem Magnet sind äußerst feine Metallkörnchen auszuziehen.
+Die Grundmasse ist lichtaschgrau, körnig, wenig zusammenhängend, doch ungleich dicht. Mit der Lupe erkennt man darin meist äußerst feine runde, hellgrüne oder bernsteingelbe Körner höchstens von der Größe eines Stecknadelknopfs, ferner schwärzliche Körnchen von eckiger, selten rundlicher Gestalt, die vorwalten und dem Ganzen ein breccienartiges Aussehen geben, und endlich weiße leucit- oder feldspatartige Körner, die meist blätterig, halb durchsichtig und spröde sind. Mit dem Magnet sind äußerst feine Metallkörnchen auszuziehen.
 
 Analyse des löslichen Teils von Berzelius:
 
@@ -2018,13 +2018,13 @@ Bachmut, Gouv. Ekaterinoslaw, Russland.
 
 1814, Febr. 3. a. St. (Febr. 15. n. St.) um die Mittagszeit.
 
-Bei hellem Sonnenschein explodirte das Meteor; ein Stein von etwa 20 K. drang 6 Zoll seitwärts in die Erde und wurde noch heiß aufgefunden. Der größte Teil wurde kurz nach dem Fall an die Universität zu Charkow geschickt; zwei Stücke von über 4 K. kamen an das Gymnasium zu Ekaterinoslaw. Außerdem sind Bruchstücke in Wien (1 K. 170,337), London (177,645), Berlin (63,974), Petersburg, Bergcorps und in den Privatsammlungen von v. Reichenbach, Shepard, Greg (19 Gr.) und Nevill.
+Bei hellem Sonnenschein explodierte das Meteor; ein Stein von etwa 20 K. drang 6 Zoll seitwärts in die Erde und wurde noch heiß aufgefunden. Der größte Teil wurde kurz nach dem Fall an die Universität zu Charkow geschickt; zwei Stücke von über 4 K. kamen an das Gymnasium zu Ekaterinoslaw. Außerdem sind Bruchstücke in Wien (1 K. 170,337), London (177,645), Berlin (63,974), Petersburg, Bergcorps und in den Privatsammlungen von v. Reichenbach, Shepard, Greg (19 Gr.) und Nevill.
 
 Spezifisches Gewicht: 3,4235 Rumler.
 
 Der Stein ist mit einer schimmernden schwarzen Rinde bedeckt; die Grundmasse ist hellaschgrau und durch undeutliche kugelige Einmengungen schwach gefleckt; diese treten beim Anschleifen deutlicher hervor. Eisen und Schwefeleisen sind ziemlich reichlich, aber meist fein eingesprengt. Kleine schwarze Teilchen sind Chromeisen.
 
-v. Reichenbach analysierte miskroskopisch einen der kleinen Einschlüsse. - Giese lieferte eine chemische Analyse. Er fand:
+v. Reichenbach analysierte mikroskopisch einen der kleinen Einschlüsse. - Giese lieferte eine chemische Analyse. Er fand:
 
 SiO₃. MgO. Al₂O₃. Fe. Ni. Mn. Cr₂O₃, S.  
 44. 18. 3. 21. 2,5. 1. 1.
@@ -2037,9 +2037,9 @@ Chromeisenstein 2,00
 Magnesia-Eisenoxydul-Silikat (Olivin) 41,56  
 Unlösliche Silikate (Augit und ein Feldspat, wahrscheinlich Labrador) 39,47
 
-In manchen Meteoritenverzeichnissen wird noch aus demselben Gouvernement Ekaterinoslaw unter Paulowgrad eine besondere Lokalität angeführt. Der Stein von etwa 43 K. soll 1826, Mai 19, gefallen und jetzt im Museum zu Odessa sein. Wirklich führt Eichwald einen Meteorstein von 1 Fuß Durchmesser von Ekaterinoslaw an, den er 1829 im Museum der vaterländischen Alterthümer zu Odessa gesehen habe. Da Zweifel waren, ob hier ein besonderer Fall vorliege, oder ob es nur eine Verwechselung mit dem Fall von 1814 sei, so wandte sich Hörnes in Wien neuerlich um Auskunft nach Odessa. Diese ergab, dass allerdings ein solcher Stein daselbst aufbewahrt wird, aber erst seit 1843, wo er in einem Tumulus bei Berdiansk am Asowschen Meer gefunden wurde und antiquarischer Natur ist. Wie stimmt das aber mit der Behauptung von Eichwald? Greg kämpfte jüngst wieder für die Selbständigkeit und Richtigkeit der Lokalität Ekaterinoslaw.
+In manchen Meteoritenverzeichnissen wird noch aus demselben Gouvernement Ekaterinoslaw unter Paulowgrad eine besondere Lokalität angeführt. Der Stein von etwa 43 K. soll 1826, Mai 19, gefallen und jetzt im Museum zu Odessa sein. Wirklich führt Eichwald einen Meteorstein von 1 Fuß Durchmesser von Ekaterinoslaw an, den er 1829 im Museum der vaterländischen Altertümer zu Odessa gesehen habe. Da Zweifel waren, ob hier ein besonderer Fall vorliege, oder ob es nur eine Verwechselung mit dem Fall von 1814 sei, so wandte sich Hörnes in Wien neuerlich um Auskunft nach Odessa. Diese ergab, dass allerdings ein solcher Stein daselbst aufbewahrt wird, aber erst seit 1843, wo er in einem Tumulus bei Berdiansk am Asowschen Meer gefunden wurde und antiquarischer Natur ist. Wie stimmt das aber mit der Behauptung von Eichwald? Greg kämpfte jüngst wieder für die Selbständigkeit und Richtigkeit der Lokalität Ekaterinoslaw.
 
-Jedenfalls ist dasFragment Paulowgrad in Wien (11,485 Gr.) und wohl auch das in Gregs Sammlung (14,8 Gr.) dem Stein von Bachmut täuschend ähnlich.
+Jedenfalls ist das Fragment Paulowgrad in Wien (11,485 Gr.) und wohl auch das in Gregs Sammlung (14,8 Gr.) dem Stein von Bachmut täuschend ähnlich.
 
 Literatur: Giese in Gilb. Ann. 50, 117. Eichwald in Erman Arch. 5, 178. v. Reichenbach in Poggend. Ann. 111, 372. Haidinger in Wien. Ztg. 1862, Okt. 18, Beil. No. 38. p. 303. Wöhler Nachrichten d. Univ. Göttingen, 1862, 373. Greg Philos. Magaz. Suppl. Jan. 1863.
 
@@ -2049,7 +2049,7 @@ Agen, Dép. Lot et Garonne, Frankreich.
 
 1814, Sept. 5, kurz vor Mittag.
 
-Man bemerkte eine rotirende Wolke, keine Feuerkugel, aber eine blitzartige Erscheinung und eine heftige Detonation. - Viele Steine fielen auf einen Raum von 1 Lieue Durchmesser; sie wogen im Ganzen 30-35 K., die zwei größten von etwa 9 K., die noch heiß gefunden wurden, waren zerbrochen.
+Man bemerkte eine rotierende Wolke, keine Feuerkugel, aber eine blitzartige Erscheinung und eine heftige Detonation. - Viele Steine fielen auf einen Raum von 1 Lieue Durchmesser; sie wogen im Ganzen 30-35 K., die zwei größten von etwa 9 K., die noch heiß gefunden wurden, waren zerbrochen.
 
 Das größte Stück von 531 Gr. ist im Mus. Hist. nat. zu Paris, kleinere Fragmente in Wien (201,7 Gr.), London (46 Gr.), Göttingen 26 Gr.), Berlin (18,159 Gr.), Florenz, Stockholm und den Privatsammlungen von Shepard (N.-Haven), v. Reichenbach (Wien), Greg Manchester 2,7 Gr.), Neumann (Prag), Nevill (London).
 
@@ -2060,7 +2060,7 @@ Spezifisches Gewicht:
 
 Die Rinde ist schwarz, matt, wenig pechartig glänzend, stellenweise schlackig, ähnlich Barbotan, l'Aigle u. A.
 
-Das Innere ist feinkörnig, porös, zerreiblich, lichtaschgrau, rostbraun gefleckt und schwarz punktirt; hell und dunkelgraue kugelige, fest verwachsene Teile sind so durcheinander geknetet, dass sie mancherlei krumme Streifen und Flächen bilden. Viele schwarze, meist sehr feine Adern bilden in der Masse teils Lagen und Streifen, teils einzelne tropfenartigeFlecken. Manchmal finden sich beträchtliche schwarze Absonderungsflächen. Da und dort zeigen sich auch Kügelchen von einer dunkelgrauen und Anhäufungen von einer ganz weißen erdigen Substanz. Viele metallische Punkte sind fein, Schwefeleisen mikroskopisch fein eingesprengt. Der Stein wirkt stark auf die Magnetnadel.
+Das Innere ist feinkörnig, porös, zerreiblich, lichtaschgrau, rostbraun gefleckt und schwarz punktiert; hell und dunkelgraue kugelige, fest verwachsene Teile sind so durcheinander geknetet, dass sie mancherlei krumme Streifen und Flächen bilden. Viele schwarze, meist sehr feine Adern bilden in der Masse teils Lagen und Streifen, teils einzelne tropfenartige Flecken. Manchmal finden sich beträchtliche schwarze Absonderungsflächen. Da und dort zeigen sich auch Kügelchen von einer dunkelgrauen und Anhäufungen von einer ganz weißen erdigen Substanz. Viele metallische Punkte sind fein, Schwefeleisen mikroskopisch fein eingesprengt. Der Stein wirkt stark auf die Magnetnadel.
 
 Nach der qualitativen Analyse von Vauquelin fehlt Nickel; der Stein besteht aus Kieselsäure, Magnesia, Eisen, Schwefel, einer Spur Kalk und Chrom; nach Stromeyer enthält er Chromoxyd. Eine genauere Analyse wäre sehr wünschenswert.
 
@@ -2095,7 +2095,7 @@ Spezifisches Gewicht:
 
 Die Rinde ist matt, mehr oder weniger schwarz; an dunkelschwarzbraunen Stellen glänzt sie auch; sie zeigt viele kleine Risse und wirkt kaum auf den Magnet.
 
-Das Innere hat Ähnlichkeit mit einem etwas lockeren glimmerhaltigen Sandstein, ist leicht zu zerbröckeln, weiß oder hellgrau, mit einem Stich ins Blassgelblichgrüne, mit sehr kleinen glänzenden Schüppchen, die aber nicht Nickel- oder Schwefeleisen sind. Sehr feine schwarze Körnchen werden Chrom- oder Magneteisen sein. Calmelet fand im Inneren einen ziemlich vollständigen Krystall von 4 mm. Höhe und Breite, ähnlich einer Tafel oder einem kurzen schiefen Prisma, wie Pyroxen. Auch Gillet de Laumont bemerkte Krystallflächen.
+Das Innere hat Ähnlichkeit mit einem etwas lockeren glimmerhaltigen Sandstein, ist leicht zu zerbröckeln, weiß oder hellgrau, mit einem Stich ins Blassgelblichgrüne, mit sehr kleinen glänzenden Schüppchen, die aber nicht Nickel- oder Schwefeleisen sind. Sehr feine schwarze Körnchen werden Chrom- oder Magneteisen sein. Calmelet fand im Inneren einen ziemlich vollständigen Kristall von 4 mm. Höhe und Breite, ähnlich einer Tafel oder einem kurzen schiefen Prisma, wie Pyroxen. Auch Gillet de Laumont bemerkte Krystallflächen.
 
 Wenn schon die oryktognostische Beschreibung dieser Lokalität von den meisten anderen abweicht, so ist dieses bei dem Resultat der chemischen Untersuchung noch mehr der Fall. Vauqelin bestätigte durch die Analyse, dass der Stein frei von metallischem Eisen und Nickel ist.
 
@@ -2138,7 +2138,7 @@ Seres, Macedonien, Türkei.
 
 1818, Juni.
 
-Über die Geschichte des Steinfalles ist nichts bekannt. Jussuf Pascha, Statthalter von Seres in Macedonien, schenkte den einzeln gefallenen Stein von etwa 7 1/2 K. seinem Leibarzt Grohmann, der fast den ganzen Stein Hrn. Prof. Andreas Ritter v. Scheerer in Wien schenkte. Nach dessen Tode 1844 wurden die beiden zusammenpassenden, durch eine Ablösungsfläche getrennten Hälften dem k. k. Hof-Min.-Cabinet zu Wien als Vermächtniss übergeben (4 St., 6 K. 905,534, der größte 4 K. 830). Kleinere Stücke besitzen Göttingen (4 St., 88,69 Gr.), Berlin (48,813 Gr.), London (37,18 Gr.), Stockholm (5 Gr.), Calcutta und die Privatsammlungen von Auerbach (45,5 Gr.), Shepard, v. Reichenbach und Greg (10 Gr.).
+Über die Geschichte des Steinfalles ist nichts bekannt. Jussuf Pascha, Statthalter von Seres in Macedonien, schenkte den einzeln gefallenen Stein von etwa 7 1/2 K. seinem Leibarzt Grohmann, der fast den ganzen Stein Hrn. Prof. Andreas Ritter v. Scheerer in Wien schenkte. Nach dessen Tode 1844 wurden die beiden zusammenpassenden, durch eine Ablösungsfläche getrennten Hälften dem k. k. Hof-Min.-Cabinet zu Wien als Vermächtnis übergeben (4 St., 6 K. 905,534, der größte 4 K. 830). Kleinere Stücke besitzen Göttingen (4 St., 88,69 Gr.), Berlin (48,813 Gr.), London (37,18 Gr.), Stockholm (5 Gr.), Calcutta und die Privatsammlungen von Auerbach (45,5 Gr.), Shepard, v. Reichenbach und Greg (10 Gr.).
 
 Spezifisches Gewicht:
 
@@ -2185,7 +2185,7 @@ Es fiel nur ein Stein von etwa 3 1/2 K. Das größte Bruchstück (134 Gr.) besit
 
 Spezifisches Gewicht: 3,4763 Rumler.
 
-Die Oberfläche ist nach Partsch rau, und durch den dunkelbraunen, matten oder nur schimmernden Ueberzug erkennt man die innere Masse.
+Die Oberfläche ist nach Partsch rau, und durch den dunkelbraunen, matten oder nur schimmernden Überzug erkennt man die innere Masse.
 
 Die Grundmasse ist hellgrau und rostbraun gefleckt und mit feinen schwarzen Adern durchzogen. Durch viele, aber nicht sehr deutliche kugelige und eckige Einschlüsse wird die Masse marmorartig. Eisen ist fein und mittelfein, wenig Schwefeleisen sehr fein eingesprengt.
 
@@ -2199,7 +2199,7 @@ Jonzac (Barbézieux), Dép. de la Charente inférieure, Frankreich.
 
 1819, Juni 13, 6 Uhr Morgens.
 
-Nach drei Detonationen, wovon besonders die erste schrecklich war, fielen die Steine fast wie ein Hagel; die größten waren 2 und 3 K. schwer. Doch finden sie sich nur in wenigen Sammlungen. Wien besitzt 3 St. (zusammen 1 K. 167,056), London (10,53 Gr), Berlin (2,165 Gr.) und die Privatsammlungen von de Luynes (16,8 Gr.), v. Reichenbach, Greg (3,7 Gr.), Shepard und Neumann (0,92 Gr.).
+Nach drei Detonationen, wovon besonders die erste schrecklich war, fielen die Steine fast wie ein Hagel; die größten waren 2 und 3 K. schwer. Doch finden sie sich nur in wenigen Sammlungen. Wien besitzt 3 St. (zusammen 1 K. 167,056), London (10,53 Gr.), Berlin (2,165 Gr.) und die Privatsammlungen von de Luynes (16,8 Gr.), v. Reichenbach, Greg (3,7 Gr.), Shepard und Neumann (0,92 Gr.).
 
 Spezifisches Gewicht:
 
@@ -2209,7 +2209,7 @@ Spezifisches Gewicht:
 
 Die Rinde ist sehr glasig, dünn, durchscheinend, glänzend, aderig.
 
-Im Innern sind 2 Massen zu unterscheiden, eine grünlichgraue oder braune, die fast vorherrscht und in eckigen Kryställchen oder rundlichen Körnchen auftritt, und eine weiße, welche als Grundmasse erscheint und jene einschliesst. Körner von Eisen sind nicht sichtbar. Magnetkies ist nur sehr spärlich und fein darin verteilt.
+Im Innern sind 2 Massen zu unterscheiden, eine grünlichgraue oder braune, die fast vorherrscht und in eckigen Kryställchen oder rundlichen Körnchen auftritt, und eine weiße, welche als Grundmasse erscheint und jene einschließt. Körner von Eisen sind nicht sichtbar. Magnetkies ist nur sehr spärlich und fein darin verteilt.
 
 Nach der Analyse von Laugier besteht der Stein aus:
 
@@ -2220,7 +2220,7 @@ Literatur: Gilb. Ann. 68, 335.
 
 ### Pohlitz
 
-Pohlitz (nicht richtig Köstritz) bei Gera, Fürstenthum Reuss, Deutschland.
+Pohlitz (nicht richtig Köstritz) bei Gera, Fürstentum Reuß, Deutschland.
 
 1819, Okt. 13, gegen 7 Uhr Morgens.
 
@@ -2233,7 +2233,7 @@ Spezifisches Gewicht:
 
 Die Rinde ist schwarz, matt, ziemlich dick und etwas rau anzufühlen. An einer Stelle ist offenbar während des Falles ein Stück vom Stein abgesprungen und da die Rinde merklich dünner.
 
-Das Innere ist schmutzig hellgrau, feinkörnig, im Ganzen erdig, selten splitterig, fast zerreiblich. Da und dort sind dichtere Stellen von dunklerer Farbe, die allmählich wieder ins Feinkörnige ziehen; andere sind noch dichter, bleigrau, wachsglänzend, hart, manche ähnlich Mandeln in Mandelstein. Diese kugeligen Einschlüsse sind mehr oder weniger deutlich. Außerdem sind selten äußerst kleine kirschrothe Punkte in der Steinmasse sichtbar. Eisen tritt in vielen stark metallisch glänzenden Blättchen von silberweisser bis bleigrauer Farbe, manchmal selbst in kleinen Kügelchen auf. Schwefeleisen ist in geringerer Menge und sehr fein eingesprengt. Die ganze Masse durchsetzen zwei gerade, parallellaufende Gänge, die 3/4 Zoll voneinander entfernt und 0,1-0,75 Linien dick sind; kleine äußerst dünne Gangtrümmer durchziehen die ganze Masse, und gehn fast alle wie die zwei Hauptgänge von der Rinde aus. Die Adermasse ist schwarz und zeigt unter der Lupe eine stengelige Absonderung.
+Das Innere ist schmutzig hellgrau, feinkörnig, im Ganzen erdig, selten splitterig, fast zerreiblich. Da und dort sind dichtere Stellen von dunklerer Farbe, die allmählich wieder ins Feinkörnige ziehen; andere sind noch dichter, bleigrau, wachsglänzend, hart, manche ähnlich Mandeln in Mandelstein. Diese kugeligen Einschlüsse sind mehr oder weniger deutlich. Außerdem sind selten äußerst kleine kirschrote Punkte in der Steinmasse sichtbar. Eisen tritt in vielen stark metallisch glänzenden Blättchen von silberweißer bis bleigrauer Farbe, manchmal selbst in kleinen Kügelchen auf. Schwefeleisen ist in geringerer Menge und sehr fein eingesprengt. Die ganze Masse durchsetzen zwei gerade, parallellaufende Gänge, die 3/4 Zoll voneinander entfernt und 0,1-0,75 Linien dick sind; kleine äußerst dünne Gangtrümmer durchziehen die ganze Masse, und gehn fast alle wie die zwei Hauptgänge von der Rinde aus. Die Adermasse ist schwarz und zeigt unter der Lupe eine stengelige Absonderung.
 
 Stromeyer analysierte die Masse und fand:
 
@@ -2265,7 +2265,7 @@ Spezifisches Gewicht:
 
 Die Rinde ist matt, etwas rau, schwarz.
 
-Die Grundmasse ist licht- bis fast dunkelaschgrau; der Bruch ist erdig, doch kann er auch durch häufige metallische eisen- und stahlfarbene Schichten ganz metallisch erscheinen. Diese metallischen Schichten durchsetzen die ganze Masse meist in 2 Hauptrichtungen 1/4-3/4''' dick, bilden aber oft eine ganz zusammenhängende, mehre ?'' große vollkommen metallisch glänzende Oberfläche. Die Grundmasse ist mit kleinen Rostflecken durchsäet und häufig von schwarzen Linien, glänzenden graphitartigen Ablösungen durchzogen. Zahlreiche dunkelgraue kugelige Einschlüsse sind mit der Grundmasse fest verwachsen und treten auf der Bruchfläche nicht vor. Eisen ist fein und mittelfein reichlich eingesprengt, Schwefeleisen sehr fein. Mit der Lupe unterscheidet man 1. weiße Teile, 2. eisenschwarze oder graue, 3. fast zinnweisse oder tombakbraune und 4. sparsam schwarze Pünktchen.
+Die Grundmasse ist licht- bis fast dunkelaschgrau; der Bruch ist erdig, doch kann er auch durch häufige metallische eisen- und stahlfarbene Schichten ganz metallisch erscheinen. Diese metallischen Schichten durchsetzen die ganze Masse meist in 2 Hauptrichtungen 1/4-3/4''' dick, bilden aber oft eine ganz zusammenhängende, mehre ?'' große vollkommen metallisch glänzende Oberfläche. Die Grundmasse ist mit kleinen Rostflecken durchsäet und häufig von schwarzen Linien, glänzenden graphitartigen Ablösungen durchzogen. Zahlreiche dunkelgraue kugelige Einschlüsse sind mit der Grundmasse fest verwachsen und treten auf der Bruchfläche nicht vor. Eisen ist fein und mittelfein reichlich eingesprengt, Schwefeleisen sehr fein. Mit der Lupe unterscheidet man 1. weiße Teile, 2. eisenschwarze oder graue, 3. fast zinnweiße oder tombakbraune und 4. sparsam schwarze Pünktchen.
 
 Analysen von Laugier 1. und Grothuss 2.:
 
@@ -2292,9 +2292,9 @@ Spezifisches Gewicht:
 3,099 d'Hombres Firmas,  
 3,148 Rumler.
 
-Die Rinde ist sehr dünn, schwarz, glänzend, aderig, und mässig hart; hier und da mit braunen Tröpfchen.
+Die Rinde ist sehr dünn, schwarz, glänzend, aderig, und mäßig hart; hier und da mit braunen Tröpfchen.
 
-Das Innere, sehr ähnlich dem Dolerit des Meissner, ist ein körniges, ziemlich bröckliges Gemenge besonders eines braunen oder schmutzig dunkelgrünen und weißen Bestandteils zu gleichen Teilen, welche in krystallinischen, eckigen Körnern und Blättchen erscheinen; dazwischen liegen strohgelbe Blättchen, die an manchen Stellen ganz fehlen. Da und dort tritt auch Magnetkies in ganz kleinen deutlichen Krystallen und Körnern auf, die aber nicht magnetisch sind. In kleinen Höhlungen und Löchern finden sich Krystalle der braunen Substanz mit messbaren Winkeln und scheinen Augit zu sein. Die weiße Masse tritt stellenweise in noch größeren Partien auf und zeigt sehr deutlichen blättrigen Bruch; doch sind die Krystalle in den Höhlungen zur Messung meist zu klein. Hauy und Laugier halten sie für Feldspat; nach G. Rose sind sie wahrscheinlicher Labrador, nach Shepard und Rammelsberg aber Anorthit. Sphenomit nennt Shepard die bräunlichgrauen, dünnen tafelförmigen Krystalle (mehre Linien lang), die mit Augit und dem feldspathartigen Gestein gleichzeitig vorkommen. Besonders auf polierten Flächen erkennt man, dass an einigen Stellen die Gemengteile von etwas gröberem Korn und in runden oder länglichen Partien ausgeschieden sind.
+Das Innere, sehr ähnlich dem Dolerit des Meissner, ist ein körniges, ziemlich bröckliges Gemenge besonders eines braunen oder schmutzig dunkelgrünen und weißen Bestandteils zu gleichen Teilen, welche in kristallinischen, eckigen Körnern und Blättchen erscheinen; dazwischen liegen strohgelbe Blättchen, die an manchen Stellen ganz fehlen. Da und dort tritt auch Magnetkies in ganz kleinen deutlichen Krystallen und Körnern auf, die aber nicht magnetisch sind. In kleinen Höhlungen und Löchern finden sich Krystalle der braunen Substanz mit messbaren Winkeln und scheinen Augit zu sein. Die weiße Masse tritt stellenweise in noch größeren Partien auf und zeigt sehr deutlichen blättrigen Bruch; doch sind die Krystalle in den Höhlungen zur Messung meist zu klein. Hauy und Laugier halten sie für Feldspat; nach G. Rose sind sie wahrscheinlicher Labrador, nach Shepard und Rammelsberg aber Anorthit. Sphenomit nennt Shepard die bräunlichgrauen, dünnen tafelförmigen Krystalle (mehre Linien lang), die mit Augit und dem feldspatartigen Gestein gleichzeitig vorkommen. Besonders auf polierten Flächen erkennt man, dass an einigen Stellen die Gemengteil von etwas gröberem Korn und in runden oder länglichen Partien ausgeschieden sind.
 
 Die älteren Analysen von Vauquelin 1. und Laugier 2. sind mangelhaft.
 
@@ -2317,7 +2317,7 @@ Danach bestände der Stein aus etwa
 0,25% Magnetkies  
 und vielleicht kleinen Mengen von Apatit und Titanit.
 
-Kupfer fand Rammelsberg nicht; Nickel wurde bei keiner Analyse gefunden. Dagegen wies Bunsen spectral-analytisch Lithion nach. Auffallend ist die große Menge von Kalk und Tonerde, während Magnesia sehr gering vertreten ist.
+Kupfer fand Rammelsberg nicht; Nickel wurde bei keiner Analyse gefunden. Dagegen wies Bunsen spektral-analytisch Lithion nach. Auffallend ist die große Menge von Kalk und Tonerde, während Magnesia sehr gering vertreten ist.
 
 Literatur: Vaquelin Gilb. Ann. 71, 202. Laugier ebd. 71, 208. G. Rose Poggend. Ann. 4, 174. Rammelsberg ebd. 73. 585. Wöhler Ann. Chem. Pharm. Nov. 1861, 253.
 
@@ -2327,9 +2327,9 @@ Angers, Dép. Maine et Loire, Frankreich.
 
 1822, Juni 3, nach 8 Uhr Abends.
 
-Aus einer Feuerkugel, die in NNW. erschien und heftig detonirte, fielen wahrscheinlich mehre Steine. Einer von nicht ganz 1 K. wurde gleich nach dem Fallen nicht besonders warm aufgenommen. In Poitiers wurde die Feuerkugel als Sternschnuppe gesehen. Der Schweif blieb einige Zeit und veränderte seine Gestalt.
+Aus einer Feuerkugel, die in NNW. erschien und heftig detonierte, fielen wahrscheinlich mehre Steine. Einer von nicht ganz 1 K. wurde gleich nach dem Fallen nicht besonders warm aufgenommen. In Poitiers wurde die Feuerkugel als Sternschnuppe gesehen. Der Schweif blieb einige Zeit und veränderte seine Gestalt.
 
-Über die Beschaffenheit des unregelmäßig eckigen Steins, der seiner Hauptmasse nach in Paris (77 Gr.) und außerdem vielleicht nur in v. Reichenbachs Sammlung vertreten ist, wurde nur sehr wenig bekannt. Die Rinde ist gleichförmig braunschwarz und zeigt an einer Stelle eine Blase. Das Innere ist den Steinen von l'Aigle ähnlich und ein Gemenge eines weißen und eines röthlichen Bestandteils.
+Über die Beschaffenheit des unregelmäßig eckigen Steins, der seiner Hauptmasse nach in Paris (77 Gr.) und außerdem vielleicht nur in v. Reichenbachs Sammlung vertreten ist, wurde nur sehr wenig bekannt. Die Rinde ist gleichförmig braunschwarz und zeigt an einer Stelle eine Blase. Das Innere ist den Steinen von l'Aigle ähnlich und ein Gemenge eines weißen und eines rötlichen Bestandteils.
 
 Literatur: Gilb. Ann. 71, 345. 361.
 
@@ -2360,11 +2360,7 @@ Futtehpore, Orte Rourpore, 72 engl. Meil. NO. von Allahabad, Bittoor (Bithur) un
 
 1822, Nov. 30, kurz nach Sonnenuntergang.
 
-Der Fall mit den gewöhnlichen Erscheinungen wurde vollständig
-beobachtet: man sah ein leuchtendes Meteor von Mondgrösse, das fun-
-kensprühend und von SO. nach NW. sich bewegte. Nach der Detona-
-
-tion fiel ein wahrer Schauer von Steinen, deren größter etwa 1 K. gewogen haben soll. Ein Stein von 3/4 K. wurde noch heiß gefunden. Das größte Bruchstück ist in Galcutta (1 K. 601 Gr.). Demselben Fall angehörig, jedenfalls unter demselben Datum (1822, Nov. 30) registrirt sind die beiden Steine von Bithur (1 K. 900) und Shapur (340 Gr.), beide ebenfalls in Calcutta. In Europa sind die größten Stücke in London (1 K. 617 und 77,87 Gr.) und Wien (546,875 Gr., der größte 459,387 Gr.), sowie in den Privatsammlungen von Shepard (etwa 1 K.), v. Reichenbach, Greg (7 Gr.) und Nevill; auch Th. McPherson Grant in Edinburgh soll nach Shepard einen Stein von 1 K. besitzen, den einzigen, der unverletzt gefunden wurde.
+Der Fall mit den gewöhnlichen Erscheinungen wurde vollständig beobachtet: man sah ein leuchtendes Meteor von Mondgröße, das funkensprühend und von SO. nach NW. sich bewegte. Nach der Detonation fiel ein wahrer Schauer von Steinen, deren größter etwa 1 K. gewogen haben soll. Ein Stein von 3/4 K. wurde noch heiß gefunden. Das größte Bruchstück ist in Calcutta (1 K. 601 Gr.). Demselben Fall angehörig, jedenfalls unter demselben Datum (1822, Nov. 30) registriert sind die beiden Steine von Bithur (1 K. 900) und Shapur (340 Gr.), beide ebenfalls in Calcutta. In Europa sind die größten Stücke in London (1 K. 617 und 77,87 Gr.) und Wien (546,875 Gr., der größte 459,387 Gr.), sowie in den Privatsammlungen von Shepard (etwa 1 K.), v. Reichenbach, Greg (7 Gr.) und Nevill; auch Th. McPherson Grant in Edinburgh soll nach Shepard einen Stein von 1 K. besitzen, den einzigen, der unverletzt gefunden wurde.
 
 Spezifisches Gewicht:
 
@@ -2374,7 +2370,7 @@ Spezifisches Gewicht:
 
 Die Rinde ist bräunlichschwarz, ohne Glanz, da und dort mit einzelnen oder gruppenweise stehenden rundlichen, seichten Vertiefungen. Wie durch kurzklüftige Zerspaltung ist die Rindenoberfläche in einzelne eckige Täfelchen von unregelmäßiger Form und von 2-3 Lin. Durchm. getrennt. Mit der Lupe ist an der Schmelzoberfläche eine und die andere Kluft oder eingeschlossene Kugel, sowie metallisches Eisen erkennbar.
 
-Die Grundmasse ist hellaschgrau, feinkörnig, stellenweise braun rostfleckig; sie ist nach verschiedenen Richtungen von Sprüngen und Klüften durchzogen, die sich unter scharfen Winkeln kreuzen und durch feste Teile ausgefüllt sind, teils dunkelfarbige, teils metallische. Diese Ausfüllungen der Risse zeigen alle Eigenschaften von Gängen. Stellenweise sind auch härtere Kügelchen eingeschlossen, die graulich weiß, einige auch dunkler sind und selbst wieder zum Teil Eisen enthalten. Einzelne dieser Einschlüsse sind auch eckig und manche haben plattenförmige, linear glänzend erscheinende Structuranzeichen. Die gangartig angeordneten Platten von Schwefeleisen haben die röthlich speissgelbe Farbe von Magnetkies. Metallisches Eisen erscheint in zahlreichen Pünktchen und Körnchen von verschiedener Größe bis zu 1 1/2 Linien grösstem Durchmesser.
+Die Grundmasse ist hellaschgrau, feinkörnig, stellenweise braun rostfleckig; sie ist nach verschiedenen Richtungen von Sprüngen und Klüften durchzogen, die sich unter scharfen Winkeln kreuzen und durch feste Teile ausgefüllt sind, teils dunkelfarbige, teils metallische. Diese Ausfüllungen der Risse zeigen alle Eigenschaften von Gängen. Stellenweise sind auch härtere Kügelchen eingeschlossen, die graulich weiß, einige auch dunkler sind und selbst wieder zum Teil Eisen enthalten. Einzelne dieser Einschlüsse sind auch eckig und manche haben plattenförmige, linear glänzend erscheinende Strukturanzeichen. Die gangartig angeordneten Platten von Schwefeleisen haben die rötlich speissgelbe Farbe von Magnetkies. Metallisches Eisen erscheint in zahlreichen Pünktchen und Körnchen von verschiedener Größe bis zu 1 1/2 Linien größtem Durchmesser.
 
 Literatur: Shepard Sillim. Amer. Journ. 2. 11, 367. Haidinger Wien. Acad. Ber. 41, 1860, 747.
 
@@ -2386,14 +2382,14 @@ Nobleborough (Nobleboro') Maine, Nord-Amerika.
 
 1823, August 7, zwischen 4 und 5 Uhr Nachmittags.
 
-Bei sonst klarem Himmel und ruhiger Luft wurde aus einer kleinen weißen Wolke nahe dem Zenith ein Getöse vernommen, das immer heftiger wurde. Der Steinfall selbst wurde beobachtet, doch erst eine Stunde darauf der Stein aufgenommen; er verbreitete starken Schwefelgeruch und mochte anfangs 2-3 K. schwer sein. Aehnliche Steine sollen einige Meilen von Nobleborough gefunden worden sein. Bruchstücke sind nur in sehr wenigen Sammlungen, so namentlich in Wien (6,563 Gr.) und in den Privatsammlungen von Shepard, v. Reichenbach und Greg (0,4 Gr.).
+Bei sonst klarem Himmel und ruhiger Luft wurde aus einer kleinen weißen Wolke nahe dem Zenit ein Getöse vernommen, das immer heftiger wurde. Der Steinfall selbst wurde beobachtet, doch erst eine Stunde darauf der Stein aufgenommen; er verbreitete starken Schwefelgeruch und mochte anfangs 2-3 K. schwer sein. Ähnliche Steine sollen einige Meilen von Nobleborough gefunden worden sein. Bruchstücke sind nur in sehr wenigen Sammlungen, so namentlich in Wien (6,563 Gr.) und in den Privatsammlungen von Shepard, v. Reichenbach und Greg (0,4 Gr.).
 
 Spezifisches Gewicht:
 
 3,08 Webster (wohl nur durch einen Druckfehler 2,08, aber so mehrfach nachgedruckt),  
 3,092 Rumler.
 
-Die Rinde ist ein vollkommen geschmolzenes, glänzendes Glas, die Innenmasse ist hellaschgrau und unter der Lupe erkennt man zahlreiche Bestandteile; namentlich sind kleine durchsichtige olivengrüne, sowie schwärzliche, eckige und runde Körner eingemengt, so dass das Ganze ein breccienartiges Aussehen erhält. Nach Shepard enthält die Masse hauptsächlich Howardit durchsäet mit Olivinoid, weißen Teilchen von Anorthit, schwarzen von CGhantonnit und einem rothen, glasartigen, harten Mineral, das Granat oder Idocras zu sein scheint.
+Die Rinde ist ein vollkommen geschmolzenes, glänzendes Glas, die Innenmasse ist hellaschgrau und unter der Lupe erkennt man zahlreiche Bestandteile; namentlich sind kleine durchsichtige olivengrüne, sowie schwärzliche, eckige und runde Körner eingemengt, so dass das Ganze ein breccienartiges Aussehen erhält. Nach Shepard enthält die Masse hauptsächlich Howardit durchsäet mit Olivinoid, weißen Teilchen von Anorthit, schwarzen von CGhantonnit und einem roten, glasartigen, harten Mineral, das Granat oder Idocras zu sein scheint.
 
 Eine Analyse liegt vor von Webster:
 
@@ -2454,7 +2450,7 @@ Spezifisches Gewicht:
 3,6 Zippe,  
 3,6062 Rumler.
 
-Die dicke matte Rinde bedeckt eine mehr dunkelgraue, ganz mit braunen Flecken erfüllte Grundmasse, welche viele kleine Kügelchen einschliesst, mit welchen sie nicht fest verwachsen ist. Eisen ist ziemlich reichlich und fein, Magnetkies sehr fein eingesprengt.
+Die dicke matte Rinde bedeckt eine mehr dunkelgraue, ganz mit braunen Flecken erfüllte Grundmasse, welche viele kleine Kügelchen einschließt, mit welchen sie nicht fest verwachsen ist. Eisen ist ziemlich reichlich und fein, Magnetkies sehr fein eingesprengt.
 
 Nach v. Martius besteht der Stein aus:
 
@@ -2462,7 +2458,7 @@ Nach v. Martius besteht der Stein aus:
 18,82 Schwefeleisen,  
 60,70 Kieselsäure, Tonerde, Magnesia, Eisenoxydul und Wasser.
 
-Literatur: Poggend. Ann. 6, 28. Karstner Arch. f. d. gesammte Naturlehre 5, 418.
+Literatur: Poggend. Ann. 6, 28. Karstner Arch. f. d. gesamte Naturlehre 5, 418.
 
 ### Oriang
 
@@ -2470,7 +2466,7 @@ Lager Oriang in Malwate, im westlichen Teil von Ostindien.
 
 1825, Jan. 16, Abends.
 
-Eine große Feuerkugel soll eine Strecke weit auf der Erde hingerollt und dann zerplatzt sein. Ein Mann wurde getödtet und eine Frau schwer beschädigt. Die Steine wurden noch glühend heiß aufgefunden; einer hatte die Größe einer 9 K. schweren Kanonenkugel.
+Eine große Feuerkugel soll eine Strecke weit auf der Erde hingerollt und dann zerplatzt sein. Ein Mann wurde getötet und eine Frau schwer beschädigt. Die Steine wurden noch glühend heiß aufgefunden; einer hatte die Größe einer 9 K. schweren Kanonenkugel.
 
 Bruchstücke scheinen nicht nach Europa gekommen zu sein; in Calcutta sind auch keine. Auch wurde nichts Genaueres über die Steine selbst bekannt.
 
@@ -2506,27 +2502,27 @@ Literatur: Ann. de Chim. 30, 422. Sillim. Amer. Journ. 9, 351. 10, 131. 2. 6, 40
 
 ### Honolulu
 
-Honolulu auf Owahu (O'Wahu, Wahu, Woahoo), Sandwichinseln, Australien.
+Honolulu auf Oahu (O'Wahu, Wahu, Woahoo), Sandwichinseln, Australien.
 
 1825, Sept. 14, zwischen 10 und 11 Uhr Morgens.
 
-Unter den gewöhnlichen Detonationserscheinungen fiel ein Schauer von Meteorsteinen zum Teil in den Canal zwischen Molokai und Lanai und zum Teil zwischen diese Inseln und Owahu, zum Teil auch zu Honolulu. Nur zwei Steine von je etwa 8 K. und ihre Bruchstücke kamen in die Sammlungen. Einen Stein, bis auf eine Schnittfläche von allen Seiten mit Rinde versehen, besitzt die Universität Dorpat. Kleinere Stücke sind in Wien (96,25 Gr., 2 St.), Berlin (64,307 Gr.), London (30,355 Gr.) und in den Privatsammlungen von Shepard (75,62 Gr.), v. Reichenbach, Nevill, Greg (7,7 Gr.) und Osann (in Würzburg).
+Unter den gewöhnlichen Detonationserscheinungen fiel ein Schauer von Meteorsteinen zum Teil in den Canal zwischen Molokai und Lanai und zum Teil zwischen diese Inseln und Oahu, zum Teil auch zu Honolulu. Nur zwei Steine von je etwa 8 K. und ihre Bruchstücke kamen in die Sammlungen. Einen Stein, bis auf eine Schnittfläche von allen Seiten mit Rinde versehen, besitzt die Universität Dorpat. Kleinere Stücke sind in Wien (96,25 Gr., 2 St.), Berlin (64,307 Gr.), London (30,355 Gr.) und in den Privatsammlungen von Shepard (75,62 Gr.), v. Reichenbach, Nevill, Greg (7,7 Gr.) und Osann (in Würzburg).
 
 Spezifisches Gewicht: 3,3964 Rumler.
 
-Die Rinde ist matt und schwarz, zum Teil aber ins Bräunlichrothe umgeändert.
+Die Rinde ist matt und schwarz, zum Teil aber ins Bräunlichrote umgeändert.
 
-Die graulichweisse Grundmasse, die sich mit dem Messer ritzen lässt, ist durch eingemengte kugelige Einschlüsse mehr oder weniger deutlich gefleckt und ist von einer großen Masse schwarzer, zum Teil verästelter Adern in verschiedenen Richtungen durchzogen; auch treten schwarze, graphitartig glänzende Ablösungen auf. Das Eisen ist in kleinen silberweissen, metallisch glänzenden Körnchen ziemlich reichlich, Magnetkies sehr fein eingesprengt.
+Die graulichweiße Grundmasse, die sich mit dem Messer ritzen lässt, ist durch eingemengte kugelige Einschlüsse mehr oder weniger deutlich gefleckt und ist von einer großen Masse schwarzer, zum Teil verästelter Adern in verschiedenen Richtungen durchzogen; auch treten schwarze, graphitartig glänzende Ablösungen auf. Das Eisen ist in kleinen silberweißen, metallisch glänzenden Körnchen ziemlich reichlich, Magnetkies sehr fein eingesprengt.
 
 Literatur: E. Hoffmann Geogn. Beobachtungen gesammelt auf einer Reise um die Welt in O. v. Kotzedue's 2. Reise um die Welt. Weimar 1830. 2 B. Pogg. Ann. 18, 184, 624. 24, 225. Sill. Am. Journ. 49, 407. G. Rose Reise Ural I, 32.
 
 ### Mhow
 
-Mhow, Ghazeepore, District Azim-Gesch (Azim-Gur), NO. von Benares, Ostindien.
+Mhow, Ghazeepore, Distrikt Azim-Gesch (Azim-Gur), NO. von Benares, Ostindien.
 
 1827, Febr. 16, 3 Uhr Nachmittags.
 
-Unter donnerähnlichem Getöse fielen einige Steine, wobei ein Mensch getödtet wurde; die Bruchstücke der Steine wurden mehre englische Meilen weit' auseinander gefunden. Bruchstücke sind in Calcutta (354,37 Gr.), London (153 Gr.) und Wien (24,7 Gr.).
+Unter donnerähnlichem Getöse fielen einige Steine, wobei ein Mensch getötet wurde; die Bruchstücke der Steine wurden mehre englische Meilen weit' auseinander gefunden. Bruchstücke sind in Calcutta (354,37 Gr.), London (153 Gr.) und Wien (24,7 Gr.).
 
 Spezifisches Gewicht: 3,5.
 
@@ -2542,7 +2538,7 @@ Drake Creek, 18 engl. Meil. von Nashville, Sumner Cty, Tennessee, Nord-Amerika.
 
 Unter heftiger Detonation fielen mehre Steine, von welchen 5 gesammelt wurden; der schwerste wog etwa 5 1/2 K.
 
-Das größte Stück von 4 1/2 K. ist in der Troost'schen: Sammlung in Mobile; Shepard in New-Haven hat ein faustgrosses Stück, das Museum zu Leyden ca. 2 1/2 K. (2 dcm. lang, 1 dcm. breit, 1/2 dcm. dick). Kleinere Bruchstücke sind in Wien (66,17 Gr.), Berlin, London (8,19 Gr.), Göttingen (5,58 Gr.) und in den Sammlungen von. v. Reichenbach, v. Baumhauer und Greg (1,8 Gr.).
+Das größte Stück von 4 1/2 K. ist in der Troost'schen: Sammlung in Mobile; Shepard in New-Haven hat ein faustgroßes Stück, das Museum zu Leiden ca. 2 1/2 K. (2 dcm. lang, 1 dcm. breit, 1/2 dcm. dick). Kleinere Bruchstücke sind in Wien (66,17 Gr.), Berlin, London (8,19 Gr.), Göttingen (5,58 Gr.) und in den Sammlungen von. v. Reichenbach, v. Baumhauer und Greg (1,8 Gr.).
 
 Spezifisches Gewicht:
 
@@ -2552,7 +2548,7 @@ Spezifisches Gewicht:
 
 Die Rinde ist matt, ziemlich: glatt, gleiohmässig bräunlich schwarz.
 
-Die Grundmasse sieht entschieden feldspathig aus; lichtgrau, mehr weiß, mit zahlreichen blassgelben Körnchen und durch undeutliche kugelige Einschlüsse schwach gefleckt; nicht fest. Sie enthält sehr viel meist fein eingesprengtes Schwefeleisen (Magnetkies) aber auch bis zu. hanfkorngrossen Partien; Eisen ist fein und in geringer Menge eingestreut.
+Die Grundmasse sieht entschieden feldspatig aus; lichtgrau, mehr weiß, mit zahlreichen blassgelben Körnchen und durch undeutliche kugelige Einschlüsse schwach gefleckt; nicht fest. Sie enthält sehr viel meist fein eingesprengtes Schwefeleisen (Magnetkies) aber auch bis zu. hanfkorngrossen Partien; Eisen ist fein und in geringer Menge eingestreut.
 
 Analyse: 1. von Seybert. 2. v. Baumhauer.  
 Unzersetzbarer Teil. a. Grundmasse. b. Rinde.  
@@ -2572,7 +2568,7 @@ Cr₂O₃. 0,833. KO. 0,02. -,-.
 
 *) entspricht 0,584 Cr.
 
-Nach v. Baumhauer ist der durch Säure zersetzbare Teil Olivin. Das nicht Zersetzbare ließ sich nicht berechnen, weil die Alkalien nicht bestimmt waren. v. Baumhauer vermuthet darin Labrador und Hornblende mit wenig Olivin. Shepard glaubt, dass darin außer den blassgelben Körnchen von wahrscheinlich Olivin (Olivinoid) noch Howardit wundÄnorthit, Nickel- und Schwefeleisen seien, sowie da und dort kleine Fleckchen von Chromeisen.
+Nach v. Baumhauer ist der durch Säure zersetzbare Teil Olivin. Das nicht Zersetzbare ließ sich nicht berechnen, weil die Alkalien nicht bestimmt waren. v. Baumhauer vermutet darin Labrador und Hornblende mit wenig Olivin. Shepard glaubt, dass darin außer den blassgelben Körnchen von wahrscheinlich Olivin (Olivinoid) noch Howardit wundÄnorthit, Nickel- und Schwefeleisen seien, sowie da und dort kleine Fleckchen von Chromeisen.
 
 Literatur: Seybert Sillim. Am. Journ. 17, 326. 18, 200. Poggend. Ann. 24, 227. v. Baumhauer ebd. 66, 498.
 
@@ -2586,7 +2582,7 @@ Es fielen mehre Steine, deren größter etwa 2 K. wog. Bruchstücke finden sich 
 
 Spezifisches Gewicht; 3,1756 Rumler.
 
-Das große Stück in der Sammlung der Akademie zu Petersburg lässt nach BLöpe auf einen 4-5 Zoll hohen Stein schließen; die Rinde ist schwarz, glänzend, wulstig und porös. Die graulich weiße, zerreibliche Grundmasse enthält ziemlich häufig kleinere und größere Körner von klarem bernsteingelbem bis grünem Olivin, hier und da einzelne weiße feldspathähnliche Körner oder deutlichere Flecken (nach G. Rose vielleicht Anorthit), sowie einzelne größere Körner und rundliche Partien einer grauschwarzen Beimischung, wodurch das Ganze ein breccienartiges Aussehen erhält. Schwefeleisen ist nur in sehr geringer Menge und fein eingesprengt; Nickeleisen fehlt wahrscheinlich. Die Masse ist sehr ähnlich Luotolaks.
+Das große Stück in der Sammlung der Akademie zu Petersburg lässt nach BLöpe auf einen 4-5 Zoll hohen Stein schließen; die Rinde ist schwarz, glänzend, wulstig und porös. Die graulich weiße, zerreibliche Grundmasse enthält ziemlich häufig kleinere und größere Körner von klarem bernsteingelbem bis grünem Olivin, hier und da einzelne weiße feldspatähnliche Körner oder deutlichere Flecken (nach G. Rose vielleicht Anorthit), sowie einzelne größere Körner und rundliche Partien einer grauschwarzen Beimischung, wodurch das Ganze ein breccienartiges Aussehen erhält. Schwefeleisen ist nur in sehr geringer Menge und fein eingesprengt; Nickeleisen fehlt wahrscheinlich. Die Masse ist sehr ähnlich Luotolaks.
 
 Literatur: Blöde Bull. Acad. Pétersb. T. 6, 1848, No. 1. G. Rose Reise Ural 1, 77. Eichwald Erman Arch. 5, 179.
 
@@ -2596,7 +2592,7 @@ Richmond (7 engl. Meil. westl. davon), Chesterfield County, Virginia, Nord-Ameri
 
 1828, Juni 4, gegen 9 Uhr Morgens.
 
-Es fiel nur ein sphäroidisch gestalteter Stein von etwa 2 K. Die Erscheinungen dabei boten nichts Eigenthümliches. Das größte Bruchstück scheint Shepard zu besitzen (159 Gr.) ; kleinere sind in Wien (140,55 Gr.), London (113,75 Gr.), Berlin (8,996 Gr.), Göttingen (6,53 Gr.), Paris, Mus. Hist. nat. (1,1 Gr.) und den Privatsammlungen von Greg (5 Gr.), v. Reichenbach und Nevill.
+Es fiel nur ein sphäroidisch gestalteter Stein von etwa 2 K. Die Erscheinungen dabei boten nichts Eigentümliches. Das größte Bruchstück scheint Shepard zu besitzen (159 Gr.) ; kleinere sind in Wien (140,55 Gr.), London (113,75 Gr.), Berlin (8,996 Gr.), Göttingen (6,53 Gr.), Paris, Mus. Hist. nat. (1,1 Gr.) und den Privatsammlungen von Greg (5 Gr.), v. Reichenbach und Nevill.
 
 Spezifisches Gewicht:  
 3,29-3,31 Shepard,  
@@ -2604,14 +2600,14 @@ Spezifisches Gewicht:
 
 Auf der Oberfläche sind Höhlungen und kreisförmige Vertiefungen, wovon manche 1/2 Zoll Durchmesser und fast dieselbe Tiefe haben. Die schwarze Rinde scheint unvollständig und nur teilweise geschmolzen gewesen zu sein; sie ist meist matt, porös und leicht ablösbar.
 
-Das Innere ist dunkelaschgrau, weissgrau gesprenkelt und da und dort mit braunen Rostflecken und sehr zahlreichen dunkleren und festeren, häufig wohl abgerundeten Kügelchen von Senfkorn - bis Erbsengroße. Zahlreiche eiförmige und unregelmäßige kleine Höhlungen sind oft von glänzenden metallischen Kryställchen und stahlgrauen Körnchen überzogen, die zuweilen kugelig angeordnet und bunt angelaufen sind. Mit dem Mikroskop erkennt man selten grünliche und honiggelbe Körnchen.
+Das Innere ist dunkelaschgrau, weißgrau gesprenkelt und da und dort mit braunen Rostflecken und sehr zahlreichen dunkleren und festeren, häufig wohl abgerundeten Kügelchen von Senfkorn - bis Erbsengroße. Zahlreiche eiförmige und unregelmäßige kleine Höhlungen sind oft von glänzenden metallischen Kryställchen und stahlgrauen Körnchen überzogen, die zuweilen kugelig angeordnet und bunt angelaufen sind. Mit dem Mikroskop erkennt man selten grünliche und honiggelbe Körnchen.
 
 Nach Shepard besteht die Hauptmasse des Steins (etwa 90%, der erdigen Masse des Steins), Olivin aus:
 
 SiO₃. MgO. FeO., sowie NaO, Cr₂O₃. und S.  
 42,3. 31,46. 20,67.
 
-Ferner findet sich darin ein feldspathartiges Mineral, wahrscheinlich Labrador, dann phosphorsaurer Kalk in sehr kleinen Mengen, als kleine gelblichgrüne durchsichtige Körnchen und in kleinen Kugeln und Nieren, Howardit, die weissgrauen Einschlüsse in der dunkeln Grundmasse, ferner Magnetkies, der kristallinische Ueberzug der Höhlungen, sowie Nickeleisen in mittelfein eingesprengten Körnern, welches besteht aus:
+Ferner findet sich darin ein feldspatartiges Mineral, wahrscheinlich Labrador, dann phosphorsaurer Kalk in sehr kleinen Mengen, als kleine gelblichgrüne durchsichtige Körnchen und in kleinen Kugeln und Nieren, Howardit, die weißgrauen Einschlüsse in der dunkeln Grundmasse, ferner Magnetkies, der kristallinische Überzug der Höhlungen, sowie Nickeleisen in mittelfein eingesprengten Körnern, welches besteht aus:
 
 Fe. Ni.  
 93,9. 6,1.
@@ -2624,11 +2620,7 @@ Forsyth, Georgia, Nord-Amerika.
 
 1829, Mai 8, zwischen 3 und 4 Uhr Nachmittags.
 
-Es fiel ein einzelner Stein von etwa 18 K. Größere Bruchstücke
-scheinen nur in amerikanischen Sammlungen zu sein (Shepard 197 Gr.).
-Kleinere Stücke sind in Wien (86,954 Gr.), London, Berlin (3,498
-Gr.), Dublin und den Privatsammlungen von Greg, v. Reichenbach,
-Nevill und Auerbach.
+Es fiel ein einzelner Stein von etwa 18 K. Größere Bruchstücke scheinen nur in amerikanischen Sammlungen zu sein (Shepard 197 Gr.). Kleinere Stücke sind in Wien (86,954 Gr.), London, Berlin (3,498 Gr.), Dublin und den Privatsammlungen von Greg, v. Reichenbach, Nevill und Auerbach.
 
 Spezifisches Gewicht:  
 3,37-3,52 Shepard,  
@@ -2654,7 +2646,7 @@ Literatur: Shepard Sillim. Amer. Journ. 18, 388. (2) 6, 406.
 
 ### Deal
 
-Deal, bei Long-Branch, New-Yersey, Nord-Amerika.
+Deal, bei Long-Branch, New-Jersey, Nord-Amerika.
 
 1829, August 14, gegen Mitternacht.
 
@@ -2700,7 +2692,7 @@ North Inch of Perth, Schottland.
 
 1830, Mai 17, 12 1/2 Uhr Nachmittags.
 
-Diese neue und seltene Lokalität findet sich im britischen Museum in London und stammt aus Dr. Thomsons Sammlung von einem 7 Zoll langen Stein; er ist geschnitten und polirt: Maskelyne beschrieb ihn bei der Versammlung der British-Association 1862 und zeigte mikroskopische Schnitte vor. Gedruckt ist aber noch nichts über denselben.
+Diese neue und seltene Lokalität findet sich im britischen Museum in London und stammt aus Dr. Thomsons Sammlung von einem 7 Zoll langen Stein; er ist geschnitten und poliert: Maskelyne beschrieb ihn bei der Versammlung der British-Assoziation 1862 und zeigte mikroskopische Schnitte vor. Gedruckt ist aber noch nichts über denselben.
 
 ### Vouillé
 
@@ -2731,11 +2723,11 @@ Spezifisches Gewicht:
 3,60 mit 1/12 Rinde, v. Schreibers,  
 3,7057 ohne Rinde. Rumler.
 
-Die Rinde ist überall gleichmäßig, bräunlichschwarz, matt, nur auf den Erhabenheiten schwach schimmernd, fast glatt, durch sehr kleine knotige, meist aber etwas platt gedrückte, hier und da runzel- oder schuppenartige Erhabenheiten sehr schwach rau. Nur an sehr wenigen Stellen zeigt sich eine unvollkommene Ueberrindung. Die Grundmasse ist dunkelgrau, schwach rostbraun gefleckt und enthält undeutliche, meist kleine kugelige Einschlüsse und sehr feine schwarze Adern. Eisen ist gleichmäßig verteilt und fein, Magnetkies fast mikroskopisch fein eingesprengt.
+Die Rinde ist überall gleichmäßig, bräunlichschwarz, matt, nur auf den Erhabenheiten schwach schimmernd, fast glatt, durch sehr kleine knotige, meist aber etwas platt gedrückte, hier und da runzel- oder schuppenartige Erhabenheiten sehr schwach rau. Nur an sehr wenigen Stellen zeigt sich eine unvollkommene Überrindung. Die Grundmasse ist dunkelgrau, schwach rostbraun gefleckt und enthält undeutliche, meist kleine kugelige Einschlüsse und sehr feine schwarze Adern. Eisen ist gleichmäßig verteilt und fein, Magnetkies fast mikroskopisch fein eingesprengt.
 
 v. Holger hat den Stein analysiert und gefunden:
 
-Thonsilikat. Mg. Ca. Mn. Al. Fe. Co. S. Sa.  
+Tonsilikat. Mg. Ca. Mn. Al. Fe. Co. S. Sa.  
 1\. 39,00. 6,00. 3,00. 6,66. 0,16. 22,33. 0,19. 22,66. 100,00.  
 2\. 42,80. 7,83. 3,80. 8,90. 0,27. 27,77. 3,50. 5,13. 100,00.  
 3\. 36,37. 8,53. 4,70. 6,87. 0,84. 25,99. 2,70. 14,00. 100,00.
@@ -2758,7 +2750,7 @@ Curvello, Provinz Minas Geraes, Brasilien.
 
 1833, April 11, 6 3/4 Uhr Abends.
 
-Ein Feuermeteor von scheinbarer Mondgrösse bewegte sich von SSW. nach NNO. und zog einen langen Schweif hinter sich. Im Zenith des Beobachters zerbarst es in drei große und einige kleine Stücke und verschwand. Nach 123 Pulsschlägen folgte eine heftige Detonation und ein starkes Getöse, das etwa drei Minuten dauerte. Dabei fiel etwa drei Meilen OSO. von Curvello ein großer Stein in einen tiefen Sumpf. Der Besitzer des Grundstücks ließ von seinen Negern danach suchen, aber der Sumpf war zu tief, man konnte den Stein nicht finden. Einige Tage danach bekam Claussen durch einen Neger ein Stück von etwa 170 Gr., das dieser gefunden und für sich bewahrt hatte, weil er es für Silber hielt. Dieses Stück ist jetzt im Museum zu Rio de Janeiro.
+Ein Feuermeteor von scheinbarer Mondgrösse bewegte sich von SSW. nach NNO. und zog einen langen Schweif hinter sich. Im Zenit des Beobachters zerbarst es in drei große und einige kleine Stücke und verschwand. Nach 123 Pulsschlägen folgte eine heftige Detonation und ein starkes Getöse, das etwa drei Minuten dauerte. Dabei fiel etwa drei Meilen OSO. von Curvello ein großer Stein in einen tiefen Sumpf. Der Besitzer des Grundstücks ließ von seinen Negern danach suchen, aber der Sumpf war zu tief, man konnte den Stein nicht finden. Einige Tage danach bekam Claussen durch einen Neger ein Stück von etwa 170 Gr., das dieser gefunden und für sich bewahrt hatte, weil er es für Silber hielt. Dieses Stück ist jetzt im Museum zu Rio de Janeiro.
 
 Nach Claussen könnte die Masse für einen Eisenmeteoriten gehalten werden, doch ist wahrscheinlicher, dass es ein eisenhaltiger Steinmeteorit ist.
 
@@ -2835,7 +2827,7 @@ Genaueres über den Fall des 12 Seers (etwa 3 1/2 K.?) schweren Steins wurde nic
 
 Spezifisches Gewicht: 3,38.
 
-Der Stein ist sehr fest und mit Eisenrost erfüllt, wie manche verwitterte feinkörnige Granite. Außer Nickeleisen ist keine Mineralspecies zu erkennen, doch scheint er Olivin und eine Feldspathart zu enthalten. An der Luft schwitzen Tröpfchen von Eisenchlorid aus.
+Der Stein ist sehr fest und mit Eisenrost erfüllt, wie manche verwitterte feinkörnige Granite. Außer Nickeleisen ist keine Mineralspezies zu erkennen, doch scheint er Olivin und eine Feldspatart zu enthalten. An der Luft schwitzen Tröpfchen von Eisenchlorid aus.
 
 Er enthält 15,07%, Nickeleisen mit Spuren von Schwefel. Der steinige Teil besteht aus Kieselsäure, Magnesia, Eisenoxydul, Tonerde und Kalk.
 
@@ -2847,7 +2839,7 @@ Aldsworth, Cirencester, England.
 
 1835, August 4, 4 1/2 Uhr Nachmittags.
 
-Der Himmel war sonnig und wolkenfrei; Arbeiter, die 1/2 engl. Meile von Alsworth ruhend an einer Mauer sassen, waren Zeugen des Steinfalles. Sie sahen dabei keine aussergewöhnliche Lichterscheinung, hörten aber ein Getöse in der Luft. Der Stein schlug sechs Zoll tief in den Boden, war aber nicht mehr warm, als er aufgenommen wurde. Seine Oberfläche, wo sie nicht zerbrochen war, war schwarz und beschmutzte die Finger. Er wog 602 Gr. Etwa 1/2 engl. Meile südlich davon fiel ein Schauer von kleinen Steinchen. Kinder hielten sie für schwarze Käfer und versuchten sie zu fangen. Zur selben Zeit wurde zuCirencester, 13 engl. Meil. östlich vom Fallort des Steines, ein leuchtendes Meteor von West-Ost ziehend gesehen, welches einen leuchtenden Schweif hatte. Es verursachte ein rollendes Getöse, welches auch in der ganzen Umgegend gehört wurde. Die Hauptmasse des Steins ist im Museum zu Cirencester, das Modell und ein Stück des Steins (600 Gr.) in London.
+Der Himmel war sonnig und wolkenfrei; Arbeiter, die 1/2 engl. Meile von Alsworth ruhend an einer Mauer sassen, waren Zeugen des Steinfalles. Sie sahen dabei keine außergewöhnliche Lichterscheinung, hörten aber ein Getöse in der Luft. Der Stein schlug sechs Zoll tief in den Boden, war aber nicht mehr warm, als er aufgenommen wurde. Seine Oberfläche, wo sie nicht zerbrochen war, war schwarz und beschmutzte die Finger. Er wog 602 Gr. Etwa 1/2 engl. Meile südlich davon fiel ein Schauer von kleinen Steinchen. Kinder hielten sie für schwarze Käfer und versuchten sie zu fangen. Zur selben Zeit wurde zu Cirencester, 13 engl. Meil. östlich vom Fallort des Steines, ein leuchtendes Meteor von West-Ost ziehend gesehen, welches einen leuchtenden Schweif hatte. Es verursachte ein rollendes Getöse, welches auch in der ganzen Umgegend gehört wurde. Die Hauptmasse des Steins ist im Museum zu Cirencester, das Modell und ein Stück des Steins (600 Gr.) in London.
 
 Spezifisches Gewicht: 3,4.
 
@@ -2861,7 +2853,7 @@ Macao, nahe am Ausfluss des Rio Assu ins Meer, Provinz Rio grande do Norte, Bras
 
 1836, Nov. 11, 5 Uhr Morgens (nicht 11. Dez. 11 1/2 Uhr Nachts).
 
-Es wurde ein Feuermeteor von ausserordentlichem Glanz »so groß wie ein großer Luftballon« gesehen; nach heftiger Detonation fiel eine ungeheure Menge von Steinen von 1/2-40 K., doch meist von der Größe von Taubeneiern. Sie verbreiteten sich über eine Fläche von mehr als 10 Leguas, die größte Menge aber fiel an der Mündung des Flusses. Es sollen viele Ochsen durch sie getödtet und einige verletzt worden sein. Trotz des reichen Schauers finden sich Steine und Bruchstücke nur in wenigen Sammlungen, besonders in Wien (605,951 Gr.), Berlin (41,483 Gr.), Göttingen (10,75 Gr.), Paris, Mus. Hist. nat. (9 Gr.), Petersburg, Akad. d. Wiss. (6,24 Gr.), Madrid, Utrecht, und in den Privatsammlungen von Shepard, v. Reichenbach, Greg (6,3 Gr.).
+Es wurde ein Feuermeteor von außerordentlichem Glanz »so groß wie ein großer Luftballon« gesehen; nach heftiger Detonation fiel eine ungeheure Menge von Steinen von 1/2-40 K., doch meist von der Größe von Taubeneiern. Sie verbreiteten sich über eine Fläche von mehr als 10 Leguas, die größte Menge aber fiel an der Mündung des Flusses. Es sollen viele Ochsen durch sie getötet und einige verletzt worden sein. Trotz des reichen Schauers finden sich Steine und Bruchstücke nur in wenigen Sammlungen, besonders in Wien (605,951 Gr.), Berlin (41,483 Gr.), Göttingen (10,75 Gr.), Paris, Mus. Hist. nat. (9 Gr.), Petersburg, Akad. d. Wiss. (6,24 Gr.), Madrid, Utrecht, und in den Privatsammlungen von Shepard, v. Reichenbach, Greg (6,3 Gr.).
 
 Spezifisches Gewicht:  
 3,74 Rumler,  
@@ -2875,17 +2867,17 @@ Die Akademie in Paris übertrug Berraier die Analyse, doch ist sie noch nicht ge
 
 Literatur: Sillim. Amer. Journ. 34, 209. Poggend. Ann. 42, 592.
 
-### Gross-Divina
+### Groß-Divina
 
-Zwischen Gross-Divina und Budetin, Trentschiner Comitat, Ungarn.
+Zwischen Groß-Divina und Budetin, Trentschiner Komitat, Ungarn.
 
 1837, Juli 24, 11 1/2 Uhr Vormittags.
 
 Bei etwas bewölktem Himmel und donnerähnlichem Getöse fiel in Gegenwart einiger auf dem Felde arbeitenden Bauern ein Stein von 10 K. 710 und schlug in schiefer Richtung 2 1/2 Fuß tief in den Boden; war noch 1/2 Stunde nach dem Fall sehr heiß. Durch den Erzherzog Palatin für das ungarische Nationalmuseum in Pesth in Anspruch genommen, wird er noch daselbst bewahrt. Außerdem ist nur ein Bruchstück in Wien (64,532 Gr.) und in v. Reichenbachs Sammlung.
 
-Spezifisches Gewicht: 3,562 RumLer.
+Spezifisches Gewicht: 3,562 Rumler.
 
-Die Ueberrindung des Steins ist höchst merkwürdig durch ihre Verschiedenheit an verschiedenen Stellen. Die überall mattbräunlichschwarze Rinde ist am oberen runden Ende des Steins glatt und rein, am unteren aber weniger rein schwarz, etwas lichter, rau, körnig, zerbrechlich und loszulösen und hat sich beim Herabfallen schon teilweise abgelöst. Haidinger knüpft an diese Verschiedenheit Betrachtungen über die Lage des Steins in seiner Bahn durch die Atmosphäre und über die Bildung der Rinde.
+Die Überrundung des Steins ist höchst merkwürdig durch ihre Verschiedenheit an verschiedenen Stellen. Die überall mattbräunlichschwarze Rinde ist am oberen runden Ende des Steins glatt und rein, am unteren aber weniger rein schwarz, etwas lichter, rau, körnig, zerbrechlich und loszulösen und hat sich beim Herabfallen schon teilweise abgelöst. Haidinger knüpft an diese Verschiedenheit Betrachtungen über die Lage des Steins in seiner Bahn durch die Atmosphäre und über die Bildung der Rinde.
 
 Die graue rostfleckige Grundmasse enthält eine große Menge kleiner dunkelgrauer kugeliger Einschlüsse, die auf Bruchflächen teilweise hervorragen. Eisen ist ziemlich reichlich und fein, Schwefeleisen höchst fein eingesprengt.
 
@@ -2899,7 +2891,7 @@ Esnandes (Esnaude weniger richtig), Dép. Charente inférieure, Frankreich.
 
 Es fiel ein Stein von 1 1/2 K., der in mehre Stücke zerbrach. Die Hauptmasse ist im naturhistorischen Museum zu Bordeaux, außerdem besitzt etwas davon Wien (48,2 Gr.) und Shepard in New-Haven.
 
-Die feinkörnige lichtaschgraue Grundmasse enthält grünlichweisse Einschlüsse und braune Flecken, sowie reichlich eingesprengtes metallisches Eisen, aber wenig Magnetkies. Die Rinde ist schwärzlichbraun, matt und auffallend dick.
+Die feinkörnige lichtaschgraue Grundmasse enthält grünlichweiße Einschlüsse und braune Flecken, sowie reichlich eingesprengtes metallisches Eisen, aber wenig Magnetkies. Die Rinde ist schwärzlichbraun, matt und auffallend dick.
 
 Literatur: Instit. 1837, No. 220, 334.
 
@@ -2911,13 +2903,13 @@ Chandakapoor im Thal von Beraar, Ostindien.
 
 ### Akburpoor
 
-Akburpoor, District von Saharunpoor, Ostindien.
+Akburpoor, Distrikt von Saharunpoor, Ostindien.
 
 1838, April 18.
 
-Beide Lokalitäten scheinen Einem Fall anzugehören und nur das Datum irrtümlich verschieden zu sein. Von der ersten Lokalität kam ein Stein von 4 K. 200 in den Besitz von Sowerby und finden sich jetzt Bruchstücke in London (803 Gr.), Edinburgh (460 Gr.), Wien (104,453 Gr.), Uppsala (35,4 Gr.), Kopenhagen (11,4 Gr.) und in den Privatsammlungen von Shepard (117 Gr.), Greg (50 Gr.), Fürst Lobkowitz in Berlin (44 Gr.), v. Reichenbach und Nevill. Von der zweiten Lokalität besitzt das brit. Museum 1 K. 755 Gr. Durch genaue Vergleichung liesse sich feststellen, ob beide gleich oder verschieden sind.
+Beide Lokalitäten scheinen Einem Fall anzugehören und nur das Datum irrtümlich verschieden zu sein. Von der ersten Lokalität kam ein Stein von 4 K. 200 in den Besitz von Sowerby und finden sich jetzt Bruchstücke in London (803 Gr.), Edinburgh (460 Gr.), Wien (104,453 Gr.), Uppsala (35,4 Gr.), Kopenhagen (11,4 Gr.) und in den Privatsammlungen von Shepard (117 Gr.), Greg (50 Gr.), Fürst Lobkowitz in Berlin (44 Gr.), v. Reichenbach und Nevill. Von der zweiten Lokalität besitzt das brit. Museum 1 K. 755 Gr. Durch genaue Vergleichung ließe sich feststellen, ob beide gleich oder verschieden sind.
 
-Chandakapoor hat eine dunkelgraue Grundmasse mit braunen Flecken und gelblichweissen rundlichen Einschlüssen; metallisches Eisen und Magnetkies sind reichlich eingesprengt. Die Rinde ist schwarz und matt, mit häufigen Vertiefungen.
+Chandakapoor hat eine dunkelgraue Grundmasse mit braunen Flecken und gelblichweißen rundlichen Einschlüssen; metallisches Eisen und Magnetkies sind reichlich eingesprengt. Die Rinde ist schwarz und matt, mit häufigen Vertiefungen.
 
 v. Reichenbach untersuchte verschiedene Einschlüsse mikroskopisch.
 
@@ -2925,17 +2917,17 @@ Literatur: Poggend. Ann. 111, 369.
 
 ### Cold-Bokkeveld
 
-Cold-Bokkeveld, 15 engl. Meil. von Tulbagh, 70 engl. Meil. von der Capstadt, Capland, Südafrika.
+Cold-Bokkeveld, 15 engl. Meil. von Tulbagh, 70 engl. Meil. von der Kapstadt, Kapland, Südafrika.
 
 1838, Okt. 13, 9 Uhr Morgens.
 
-Das Getöse bei dem Fall war entsetzlich, lauter und gewaltiger, als das heftigste Artilleriefeuer; die Luft wurde auf mehr als 80 engl. Meil. in jeder Richtung erschüttert. Mehre Personen in Worcester fühlten sich an den Knien wie elektrisirt. Bei Worcester, in 40 Meil. Entfernung, verglich man den Lärm mit dem Herabrollen von Felsmassen von einem Berg. Von dem Ort der Beobachtung an der Grenze des großen Karroo, sah man etwas wie eine Gongreve'sche Rakete von Westen her sich Weg bahnen und fast über den Köpfen der Beschauer in Tropfen von Feuer oder durchsichtigem Glase scheinbar zerbersten. Nach der Explosion sah man noch eine Zeit lang einen blauen Rauchstreif von SW. nach NO. Ein Farmer sah den Fall vor sich in den Boden schlagen. Viele Steine fielen in 3 Haufen, alle innerhalb des Umkreises einer Fläche von 40-50 Ellen im Quadrat, einige auf harten Grund, und diese zerschellten in kleine Teilchen, andere in den weichen Grund, und diese wurden ausgegraben. Die Stücke waren anfangs sehr weich und wurden später etwas fester. Nach anderem Bericht sollen die Steine über eine Strecke von 150 engl. Meil. verbreitet gewesen sein, alle in derselben Richtung, so dass man mit Unterbrechungen bei 10, 15, 20, 50 u. s. w. Meilen Steine fand. Die bei Tulbagh gefallenen allein wurden auf mehre Gentner im Gewicht geschätzt. Die meisten Steine wurden gleich nach dem Auffinden verschleppt.
+Das Getöse bei dem Fall war entsetzlich, lauter und gewaltiger, als das heftigste Artilleriefeuer; die Luft wurde auf mehr als 80 engl. Meil. in jeder Richtung erschüttert. Mehre Personen in Worcester fühlten sich an den Knien wie elektrisiert. Bei Worcester, in 40 Meil. Entfernung, verglich man den Lärm mit dem Herabrollen von Felsmassen von einem Berg. Von dem Ort der Beobachtung an der Grenze des großen Karroo, sah man etwas wie eine Gongreve'sche Rakete von Westen her sich Weg bahnen und fast über den Köpfen der Beschauer in Tropfen von Feuer oder durchsichtigem Glase scheinbar zerbersten. Nach der Explosion sah man noch eine Zeit lang einen blauen Rauchstreif von SW. nach NO. Ein Farmer sah den Fall vor sich in den Boden schlagen. Viele Steine fielen in 3 Haufen, alle innerhalb des Umkreises einer Fläche von 40-50 Ellen im Quadrat, einige auf harten Grund, und diese zerschellten in kleine Teilchen, andere in den weichen Grund, und diese wurden ausgegraben. Die Stücke waren anfangs sehr weich und wurden später etwas fester. Nach anderem Bericht sollen die Steine über eine Strecke von 150 engl. Meil. verbreitet gewesen sein, alle in derselben Richtung, so dass man mit Unterbrechungen bei 10, 15, 20, 50 u. s. w. Meilen Steine fand. Die bei Tulbagh gefallenen allein wurden auf mehre Gentner im Gewicht geschätzt. Die meisten Steine wurden gleich nach dem Auffinden verschleppt.
 
 Ganze Steine und Bruchstücke sind in mehreren Sammlungen, so besonders in London (1 K. 115,54), Edinburgh (964 Gr.), Wien (679,23 Gr., 5 St., der größte 435,322 Gr.), Petersburg, Akad. d. Wissensch. (250 Gr.); kleinere in Stuttgart (68 Gr.), Göttingen (23,26 Gr.), Berlin (21,491 Gr.), Tübingen (17 Gr.), Paris (Mus. Hist. nat.), Calcutta, München, Gießen (Realschule) und in den Privatsammlungen von v. Reichenbach, Greg (96 Gr.), Shepard, Nevill, Neumann und Auerbach. Dr. Lee, Hartwell-House b. Aylesbury soll viele Stücke besitzen.
 
 Spezifisches Gewicht:  
 2,94 Faraday,  
-2,69 RumLer.
+2,69 Rumler.
 
 Die dunkelschwarze Rinde ist härter als die Innenmasse und lässt sich von dieser nicht trennen.
 
@@ -2946,7 +2938,7 @@ Faraday fand bei der chemischen Analyse:
 SiO₃. FeO. MgO. Al₂O₃. CaO. NiO. Cr₂O₃. Co, Na.  
 28,9. 33,22. 19,2. 5,22. 1,64. 0,82. 0,7. Spur.
 
-Doch bleibt durch dieselbe vollkommen unentschieden, woher die merkwürdige schwarze Farbe rührt. Harris analysierte daher nochmals und fand, dass die schwarze Farbe von fast 2%, amorpher Kohle herrührt. Außerdem wies er noch eine organische kohlehaltige Verbindung nach. Das Ergebniss der Untersuchung war:
+Doch bleibt durch dieselbe vollkommen unentschieden, woher die merkwürdige schwarze Farbe rührt. Harris analysierte daher nochmals und fand, dass die schwarze Farbe von fast 2%, amorpher Kohle herrührt. Außerdem wies er noch eine organische kohlehaltige Verbindung nach. Das Ergebnis der Untersuchung war:
 
 Kohle|1,67.  
 Bituminöse Substanz|0,25.  
@@ -2976,7 +2968,7 @@ Phosphor, Cobalt, Kupfer|Spuren.
 
 Nach weiteren Untersuchungen von Wöhler verhält sich die organische Substanz wie mineralisches Bitumen und scheint aus einem flüssigen und einem festen Körper zu bestehen; mit absolutem Alkohol lässt sie sich ausziehen. Zugleich wird eine kleine Menge freien Schwefels ausgezogen; außerdem enthält der Stein 3%, wahrscheinlich an Eisen und Nickel gebundenen Schwefel. Der Stein enthält 2,5%, Eisen und 1%, Nickel und etwas über 1%, Chromeisenstein. Selbst nach seinem Trocknen bei 120° ist'er noch wasserhaltig (10,5%) und fängt‘ dieses erst bei 160° zu entweichen an; erst bei der Glühhitze geht es ganz weg. Wöhler hält es für hygroskopisches, irdisches Wasser; durch Destillation-abgeschieden‚ enthält es außer Brenzstoffen kohlensaures Ammoniak, das wahrscheinlich auch erst später aus der Atmosphäre aufgenommen wurde.
 
-Engelbach wies auch spectralanalytisch Lithion und Strontian in dem Stein nach.
+Engelbach wies auch spektralanalytisch Lithion und Strontian in dem Stein nach.
 
 Literatur: Philos. Transact. 1839, I, 83-88. Faraday Poggend. Ann. 47, 384. Wöhler und Haidinger Wien. Akad. Ber. 35, 1859, 5. 41, 1860, 565. Einzelheiten des Falles sind in vielen, besonders englischen Zeitschriften angeführt.
 
@@ -2986,11 +2978,11 @@ Pine Bluff bei Little Piney (37° 55 N. B. 92° 5 W. L.), Missouri, Nord-Amerika
 
 1839, Febr. 13, zwischen 3 und 4 Uhr Nachmittags.
 
-Nach der Detonation einer sehr großen von O. nach W. gehenden Feuerkugel mit langem Schweif wurde der Steinfall von Zeugen beobachtet. Nur ein Steim von Faustgrösse wurde gefunden; er war an einem Eiehbaum zerseheltt. Später fanden sich noch andere Steine, doch weicht deren Gewichtsangabe von 25-75 K. ab. Am meisten scheint Shepard zu besitzen (198 Gr.); kleinere Stücke sind in Wien (61,796 Gr.), London (56,7 Gr.), Berlin (0,833 Gr.), Calcutta, Hudson und in den Privatsammlungen von Greg (15 Gr.), v. Reichenbach, Nevill und Auerbach.
+Nach der Detonation einer sehr großen von O. nach W. gehenden Feuerkugel mit langem Schweif wurde der Steinfall von Zeugen beobachtet. Nur ein Steim von Faustgroße wurde gefunden; er war an einem Eiehbaum zerseheltt. Später fanden sich noch andere Steine, doch weicht deren Gewichtsangabe von 25-75 K. ab. Am meisten scheint Shepard zu besitzen (198 Gr.); kleinere Stücke sind in Wien (61,796 Gr.), London (56,7 Gr.), Berlin (0,833 Gr.), Calcutta, Hudson und in den Privatsammlungen von Greg (15 Gr.), v. Reichenbach, Nevill und Auerbach.
 
 Spezifisches Gewicht: 3,5 Shepard.
 
-Die braunschwarze bis: schwarze,. nicht: ganz glatte, zellige Rinde ist von Sprüngen durchzogen. Das Innere ist aschgrau mit zahlreichen Rostflecken und stellenweise mit kugeligen Einschlüssen, die von der Grundmasse nicht verschieden zu sein scheinen. Durch die ganze Masse sind Metallkörner von der Größe eines kleinen Schrotkorns bis zu Punktgrösse zerstreut; die meisten sind weiß, wenige gelb oder schwach schillernd und: werden vom Magnet angezogen.
+Die braunschwarze bis: schwarze,. nicht: ganz glatte, zellige Rinde ist von Sprüngen durchzogen. Das Innere ist aschgrau mit zahlreichen Rostflecken und stellenweise mit kugeligen Einschlüssen, die von der Grundmasse nicht verschieden zu sein scheinen. Durch die ganze Masse sind Metallkörner von der Größe eines kleinen Schrotkorns bis zu Punktgröße zerstreut; die meisten sind weiß, wenige gelb oder schwach schillernd und: werden vom Magnet angezogen.
 
 Nach Shepards Untersuchung besteht der Stein aus Olivinoid 40%, Howardit 40%, Meteoreisen und Magnetkies 15%, Anorthit 5% und einer Spur Apatit.
 
@@ -3004,7 +2996,7 @@ Kirgisensteppe, nahe am Fluss Karokol, diesseits des Flusses Irtisch im Bezirk v
 
 Der Fall wurde von Kirgisen unter den gewöhnlichen Umständen beobachtet, doch erst nach einer halben Stunde wagten sie es, den Stein auszugrabeni; er lag zwei Fuß tief in der Dammerde und roch noch nach Schwefel.
 
-Die Akademie der Wissenschaften in Petersburg besitzt den vollkommen ganzen Stein von fast 3 K., der eine conische Gestalt von 5 Zoll Höhe und demselben Durchmesser an der Basis hat Bruchstücke sind in keiner anderen Sammlung.
+Die Akademie der Wissenschaften in Petersburg besitzt den vollkommen ganzen Stein von fast 3 K., der eine konische Gestalt von 5 Zoll Höhe und demselben Durchmesser an der Basis hat Bruchstücke sind in keiner anderen Sammlung.
 
 Der Stein ist mattschwarz überrindet und voll länglicher bedeutender Vertiefungen,. die auf der Grundfläche des abgestumpften Kegels grösser und unregelmäßiger sind. Innen ist er lichtaschgrau, sehr feinkörnig und fest, sehr rostfleckig und enthält viel fein eingesprengten Magnetkies, aber weniger Eisen.
 
@@ -3020,11 +3012,11 @@ Bei heiterem Himmel wurde ein stets wachsendes Geräusch gehört, das mit einem 
 
 Spezifisches Gewicht: 3,4025 v. Baumhauer.
 
-Die schwarze Rinde ist feinkörnig und runzelig und scheidet sich scharf von der Innenmasse. Diese ist matt, hellgrau, undeutlich porphyrartig und bei mässiger Vergrößerung von krystallinischer Struktur. Auch sind kleine broncefarbene Metallmassen darin erkennbar.
+Die schwarze Rinde ist feinkörnig und runzelig und scheidet sich scharf von der Innenmasse. Diese ist matt, hellgrau, undeutlich porphyrartig und bei mäßiger Vergrößerung von kristallinischer Struktur. Auch sind kleine broncefarbene Metallmassen darin erkennbar.
 
 Die Analyse von Seelheim ergab:
 
-Magnetischer Thl. 1,767%:  
+Magnetischer Tl. 1,767%:  
 Magneteisenstein|1,767.  
 Nickeleisen|1,767.
 
@@ -3048,7 +3040,7 @@ Chromeisenstein|0,760.
 Schwefeleisen|0,718.  
 |99,424.
 
-Das lösliche Silikat ist Olivin, das unlösliche wohl eine Feldspathsubstanz vielleicht mit Hornblende. Schwefeleisen wurde als FeS berechnet. Lithium fand sich bei der Spectralanalyse nicht.
+Das lösliche Silikat ist Olivin, das unlösliche wohl eine Feldspatsubstanz vielleicht mit Hornblende. Schwefeleisen wurde als FeS berechnet. Lithium fand sich bei der Spektralanalyse nicht.
 
 Literatur: v. Baumhauer u. Seelheim Poggend. Ann. 116. 184.
 
@@ -3070,18 +3062,18 @@ Literatur: Lavini Mém. Acad. Torino (2) 3, 1841. 265.
 
 Concord, New-Hampshire, Nord-Amerika.
 
-1840 (nicht 1846), October (der Tag nicht bestimmt), nach Sonnenuntergang.
+1840 (nicht 1846), Oktober (der Tag nicht bestimmt), nach Sonnenuntergang.
 
-Das Niederfallen eines hühnereigrossen Steines wurde beobachtet; er wog 24 Gr. Er scheint in Shepards Sammlung zu sein; in den großen Sammlungen Europa's ist nichts davon.
+Das Niederfallen eines hühnereigrossen Steines wurde beobachtet; er wog 24 Gr. Er scheint in Shepards Sammlung zu sein; in den großen Sammlungen Europas ist nichts davon.
 
-Die Rinde ist ein glänzend graulichweisses Emaille mit einigen dunkelbraunen metallischen Flecken; innen ist der Stein schlackenartig, wie teilweise gefritteter Feldspat, porös, und deshalb sein specifisches Gewicht nicht zu bestimmen. Härte etwa 6,5. Auch bei Vergrößerung zeigen sich keine metallischen Punkte.
+Die Rinde ist ein glänzend graulichweißes Emaille mit einigen dunkelbraunen metallischen Flecken; innen ist der Stein schlackenartig, wie teilweise gefritteter Feldspat, porös, und deshalb sein spezifisches Gewicht nicht zu bestimmen. Härte etwa 6,5. Auch bei Vergrößerung zeigen sich keine metallischen Punkte.
 
 Die nur sehr zweifelhaft richtige Analyse Shepards ergab:
 
 Kieselsäure, Magnesia, Natron.  
 84,973. 12,076. 2,718.
 
-Der Stein von Goncord soll dem von Bishopville sehr ähnlich sein und wie dieser meist aus Chladnit bestehn. Dieser hat zwar dieselben Bestandteile, aber eine andere procentische Zusammensetzung.
+Der Stein von Goncord soll dem von Bishopville sehr ähnlich sein und wie dieser meist aus Chladnit bestehn. Dieser hat zwar dieselben Bestandteile, aber eine andere prozentische Zusammensetzung.
 
 Im Ganzen muss dieser Stein noch als zweifelhaft meteorisch betrachtet werden.
 
@@ -3089,11 +3081,11 @@ Literatur: Sillim. Amer. Journ. (2) 4, 354.
 
 ### Grüneberg
 
-Grüneberg. Seifersholz bei Heinrichsau, Regierungsbezirk Liegnitz, Prov. Schlesien, Preussen.
+Grüneberg. Seifersholz bei Heinrichsau, Regierungsbezirk Liegnitz, Prov. Schlesien, Preußen.
 
 1841, März 22, 3 1/2 Uhr Nachmittags.
 
-Man hörte drei heftige Detonationen aus einer weißen Wolke im Zenith. Bei Sagan soll auch eine Feuerkugel gesehen worden sein. Sehr bald wurde ein Steinstück, aber schon kalt gefunden. Im Ganzen war nur ein Stein von etwas über 1 K. gefallen und in zwei Hauptstücke zerborsten. Die Hauptmasse ist jetzt in Berlin (812,041 Gr.); dann finden sich Bruchstücke in Breslau, schles. Gesellsch. (160 Gr. mit viel Rinde), Tübingen (100 Gr.), London (51 Gr.), Wien (24,062 Gr.) und in den Privatsammlungen von v. Reichenbach, Erzherzog Stephan (4,4 Gr.), Greg (1,2 Gr.), Shepard und Nevill.
+Man hörte drei heftige Detonationen aus einer weißen Wolke im Zenit. Bei Sagan soll auch eine Feuerkugel gesehen worden sein. Sehr bald wurde ein Steinstück, aber schon kalt gefunden. Im Ganzen war nur ein Stein von etwas über 1 K. gefallen und in zwei Hauptstücke zerborsten. Die Hauptmasse ist jetzt in Berlin (812,041 Gr.); dann finden sich Bruchstücke in Breslau, schles. Gesellsch. (160 Gr. mit viel Rinde), Tübingen (100 Gr.), London (51 Gr.), Wien (24,062 Gr.) und in den Privatsammlungen von v. Reichenbach, Erzherzog Stephan (4,4 Gr.), Greg (1,2 Gr.), Shepard und Nevill.
 
 Spezifisches Gewicht:
 
@@ -3101,7 +3093,7 @@ Spezifisches Gewicht:
 3,69-3,73 Weimann,  
 3,72 Rumler.
 
-Die Rinde ist sehr schwach glänzend oder nur schimmernd, unrein graulichschwarz, dünn und unvollkommen, mit nur sehr geringen, undeutlichen Spuren von erhabenen Linien. Das Innere ist dunkelaschgrau, höchst feinkörnig, erdig, mit sehr undeutlichen, kleinkugeligen Einmengungen und schwarzen, glänzenden Ablösungsflächen. Unter der Lupe erkennt man einen lichtbläulichgrauen Gemengteil, in welchen ein schmutzig gelblichweisser wie eingesprengt ist; beide fliessen stellenweise zusammen. Kleinere und größere zackig hervorragende, vollkommen geschmeidige Eisenteilchen bis zu 2 Linien im Durchmesser sind sehr reichlich, Schwefeleisen sparsamer eingestreut, dieses aber grösser als jene, teils feinkörnig, teils ausgezeichnet einfach blätterig.
+Die Rinde ist sehr schwach glänzend oder nur schimmernd, unrein graulichschwarz, dünn und unvollkommen, mit nur sehr geringen, undeutlichen Spuren von erhabenen Linien. Das Innere ist dunkelaschgrau, höchst feinkörnig, erdig, mit sehr undeutlichen, kleinkugeligen Einmengungen und schwarzen, glänzenden Ablösungsflächen. Unter der Lupe erkennt man einen lichtbläulichgrauen Gemengteil, in welchen ein schmutzig gelblichweißer wie eingesprengt ist; beide fließen stellenweise zusammen. Kleinere und größere zackig hervorragende, vollkommen geschmeidige Eisenteilchen bis zu 2 Linien im Durchmesser sind sehr reichlich, Schwefeleisen sparsamer eingestreut, dieses aber grösser als jene, teils feinkörnig, teils ausgezeichnet einfach blätterig.
 
 Literatur: Weimann u. Glocker Poggend. Ann. 53, 172.
 
@@ -3119,9 +3111,9 @@ Spezifisches Gewicht:
 der Stein 3,56 Dufresnoy,  
 die Eisenkörner 6.48, Dufresnoy.
 
-Die schwarze Rinde ist matt und schimmert nur schwach an einigen Stellen. Die hellgraue, zum Teil rostfleckige und schwarz punktirte Grundmasse schließt gleichmäßig hellgraue Kugeln bis zur Linsengrösse ein und erscheint dadurch gefleckt; außerdem wird sie von dickeren und dünneren Adern durchzogen, die sich auf den Bruchflächen manchmal als Ablösungsflächen in glänzend schwarzen Blättchen darstellen. Eisen tritt fein und grob, Magnetkies nur sehr fein auf.
+Die schwarze Rinde ist matt und schimmert nur schwach an einigen Stellen. Die hellgraue, zum Teil rostfleckige und schwarz punktierte Grundmasse schließt gleichmäßig hellgraue Kugeln bis zur Linsengrösse ein und erscheint dadurch gefleckt; außerdem wird sie von dickeren und dünneren Adern durchzogen, die sich auf den Bruchflächen manchmal als Ablösungsflächen in glänzend schwarzen Blättchen darstellen. Eisen tritt fein und grob, Magnetkies nur sehr fein auf.
 
-Die Analyse ist von Dufresnoy. Er findet im Gesammt:
+Die Analyse ist von Dufresnoy. Er findet im Gesamt:
 
 SiO₃. FeO. MgO. Mn. Al₂O₃. CaO. Fe. Ni. S. KO. NaO.  
 38,13. 29,44. 17,67. Sp. 3,82. 0,14. 7,7. 1,55. 0,39. 0,27. 0,86.
@@ -3159,13 +3151,13 @@ Literatur: Echo du Monde sav. 1842, No. 683, Nov. 24.
 
 ### Milena
 
-Milena (ungarisch Milyáná). Dorf Pusinsko Selo, 1 Meile südlich von Milena, Warasdiner Comitat, Croatien (an der steiermärkischen Grenze bei Windischlandsberg).
+Milena (ungarisch Milyáná). Dorf Pusinsko Selo, 1 Meile südlich von Milena, Warasdiner Komitat, Kroatien (an der steiermärkischen Grenze bei Windischlandsberg).
 
 1842, April 26, 3 Uhr Nachmittags.
 
 Viele Zeugen bemerkten ein Feuermeteor.
 
-Nach heftiger Detonation, die in mehren Absätzen wie schwerer Geschützdonner erfolgte, und einem fünf Minuten anhaltenden Getöse fielen zwei Steine von mässiger Größe 1/2 Meile auseinander; beide wurden von den herbeiströmenden Neugierigen zertrümmert. Das größte Stück des Restes wog über 1 K. Nach Rosthorn sollen drei Steine von über 5 K. gefunden worden sein. Die Hauptmasse (1 K. 190) ist im Museum zu Agram; kleinere Stücke sind in Wien (193,594 Gr.), Gratz (38 Gr.), Berlin (9,663 Gr.) und in den Privatsammlungen von v. Reichenbach und Shepard.
+Nach heftiger Detonation, die in mehren Absätzen wie schwerer Geschützdonner erfolgte, und einem fünf Minuten anhaltenden Getöse fielen zwei Steine von mäßiger Größe 1/2 Meile auseinander; beide wurden von den herbeiströmenden Neugierigen zertrümmert. Das größte Stück des Restes wog über 1 K. Nach Rosthorn sollen drei Steine von über 5 K. gefunden worden sein. Die Hauptmasse (1 K. 190) ist im Museum zu Agram; kleinere Stücke sind in Wien (193,594 Gr.), Gratz (38 Gr.), Berlin (9,663 Gr.) und in den Privatsammlungen von v. Reichenbach und Shepard.
 
 Spezifisches Gewicht:  
 3,54 Rumler.  
@@ -3220,7 +3212,7 @@ Literatur: Edinb. N. Phil. Journ. 47, 53.
 
 ### Bishopville
 
-Bishopville, N. des Sumter-Districts, Süd-Carolina, Nord-Amerika.
+Bishopville, N. des Sumter-Distrikts, Süd-Carolina, Nord-Amerika.
 
 1843, März 25.
 
@@ -3228,7 +3220,7 @@ Das Meteor selbst und seine Detonation wurden von Vielen auf einer Strecke beoba
 
 Spezifisches Gewicht: 3,039 Sartor v. Waltershausen.
 
-Schon die Rinde zeigt viel Abweichendes und Merkwürdiges. Sie ist im Allgemeinen glatt, schwarz, weiß, bläulich und grau und nicht unähnlich manchen verschieden gefärbten Marmorarten; die schwarzen Partien sind obsidianartig, die grauen und weißen meist matt, obgleich die weißen manchmal wie Glasur auf Porzellan glänzen. Sie ist von häufigen Rissen durchzogen, welche bis zu einiger Tiefe in den Stein eindringen; die Ränder derselben sind nach innen zu zum Teil geschmolzen. Über den großen schneeweißen Partien der Grundmasse ist die Rinde durchsichtig und farblos wie Glas. Shepard nannte diesen weißen Bestandteil mit seiner feldspathartigen Krystallisation ähnlich in Zersetzung begriffenem albitischem Granit Chladnit. Dieses weiße, zuweilen schwach seidenglänzende Mineral hat Sartorius v. Waltershausen genauer untersucht; es hat die Härte 6, das spezifische Gewicht 3,039 und steht dem Wollastonit sehr nahe, mit welchem es in Farbe, Härte, Gefüge und Krystallform übereinstimmt. Die mikroskopisch kleinen Krystalle sind monoklino&drisch. Shepard hat auch unvollkommne von Zollgrösse gefunden. Nach v. Reichenbach sind unzählige kleinere und größere Klumpen dieses weißen Gesteins von Mohnsamengrösse bis zu groben Brocken, ja in ganzen Bänken von der Größe eines Daumengliedes meist dicht aneinander geballt, durch die Grundmasse verkittet. Besonders die größeren haben ein blätteriges Gefüge und sind in dieser Richtung spaltbar und zerbrechlich. Nur selten sind äußerst kleine schwarze Pünktchen darin enthalten; nach Sartorius v. Waltershausen sind sie metallisch glänzend und Körner von Magnetkies und braunem Eisenoxyd, das sich wahrscheinlich aus jenem gebildet hat. Nach Surparp treten selbst kleine schwarze Adern auf und da und dort kleine stark rostige Körner von Nickeleisen bis zu Erbsengroße. Die kleinen schwarzen Körner und Krystalle hält er für Schwefelchrom; als weitere Bestandteile nennt er stellenweise sichtbares und nur in geringer Menge vorhandenes Schwefeleisen, dann blauen Iodolith und honiggelben Apatoid, zwei neue, dem Bishopvillesteine angehörige Silikate, sowie Schwefel in Spuren in kleinen halbdurchscheinenden Körnchen und als Pulver zerstreut. v. Reichenbach bestätigte das Auftreten von gediegenem Schwefel in kleinen Nestern von blass und rein schwefelgelber Farbe bis zur Größe einer halben Linse. Sartorius v. Waltershausen fand im Stein keine Spur von schweren Metallen, hält aber für möglich, dass Nickel etc. in den Magnetkieskörnern sich finden. In der wässrigen Lösung fand er nur Spuren von Kalk und Magnesia, Shepard dagegen verschiedene schwefelsaure Salze, Chlor- und Schwefelmetalle. Iodolith ist nach demselben violet bis blass smalteblau, glasglänzend und tritt in kleinen eckigen, etwas abgerundeten Körnchen von der Härte 5,5-6 auf; andere Beobachter scheinen diesen Bestandteil nicht gesehen zu haben. Der Bestandteil, den Shepard für Chromschwefel hält, tritt in kleinen tief gestreiften Prismen auf, hat unvollkommnen Metallglanz, die Härte 4, ist bräunlichschwarz, undurchsichtig und spröd. Er nannte ihn anfangs Schreibersit, ein Name, der später auf das Phosphornickeleisen der Eisenmeteoriten überging.
+Schon die Rinde zeigt viel Abweichendes und Merkwürdiges. Sie ist im Allgemeinen glatt, schwarz, weiß, bläulich und grau und nicht unähnlich manchen verschieden gefärbten Marmorarten; die schwarzen Partien sind obsidianartig, die grauen und weißen meist matt, obgleich die weißen manchmal wie Glasur auf Porzellan glänzen. Sie ist von häufigen Rissen durchzogen, welche bis zu einiger Tiefe in den Stein eindringen; die Ränder derselben sind nach innen zu zum Teil geschmolzen. Über den großen schneeweißen Partien der Grundmasse ist die Rinde durchsichtig und farblos wie Glas. Shepard nannte diesen weißen Bestandteil mit seiner feldspatartigen Kristallisation ähnlich in Zersetzung begriffenem albitischem Granit Chladnit. Dieses weiße, zuweilen schwach seidenglänzende Mineral hat Sartorius v. Waltershausen genauer untersucht; es hat die Härte 6, das spezifische Gewicht 3,039 und steht dem Wollastonit sehr nahe, mit welchem es in Farbe, Härte, Gefüge und Krystallform übereinstimmt. Die mikroskopisch kleinen Krystalle sind monoklino&drisch. Shepard hat auch unvollkommne von Zollgröße gefunden. Nach v. Reichenbach sind unzählige kleinere und größere Klumpen dieses weißen Gesteins von Mohnsamengrösse bis zu groben Brocken, ja in ganzen Bänken von der Größe eines Daumengliedes meist dicht aneinander geballt, durch die Grundmasse verkittet. Besonders die größeren haben ein blätteriges Gefüge und sind in dieser Richtung spaltbar und zerbrechlich. Nur selten sind äußerst kleine schwarze Pünktchen darin enthalten; nach Sartorius v. Waltershausen sind sie metallisch glänzend und Körner von Magnetkies und braunem Eisenoxyd, das sich wahrscheinlich aus jenem gebildet hat. Nach Surparp treten selbst kleine schwarze Adern auf und da und dort kleine stark rostige Körner von Nickeleisen bis zu Erbsengroße. Die kleinen schwarzen Körner und Krystalle hält er für Schwefelchrom; als weitere Bestandteile nennt er stellenweise sichtbares und nur in geringer Menge vorhandenes Schwefeleisen, dann blauen Iodolith und honiggelben Apatoid, zwei neue, dem Bishopvillesteine angehörige Silikate, sowie Schwefel in Spuren in kleinen halbdurchscheinenden Körnchen und als Pulver zerstreut. v. Reichenbach bestätigte das Auftreten von gediegenem Schwefel in kleinen Nestern von blass und rein schwefelgelber Farbe bis zur Größe einer halben Linse. Sartorius v. Waltershausen fand im Stein keine Spur von schweren Metallen, hält aber für möglich, dass Nickel etc. in den Magnetkieskörnern sich finden. In der wässrigen Lösung fand er nur Spuren von Kalk und Magnesia, Shepard dagegen verschiedene schwefelsaure Salze, Chlor- und Schwefelmetalle. Iodolith ist nach demselben violet bis blass smalteblau, glasglänzend und tritt in kleinen eckigen, etwas abgerundeten Körnchen von der Härte 5,5-6 auf; andere Beobachter scheinen diesen Bestandteil nicht gesehen zu haben. Der Bestandteil, den Shepard für Chromschwefel hält, tritt in kleinen tief gestreiften Prismen auf, hat unvollkommnen Metallglanz, die Härte 4, ist bräunlichschwarz, undurchsichtig und spröd. Er nannte ihn anfangs Schreibersit, ein Name, der später auf das Phosphornickeleisen der Eisenmeteoriten überging.
 
 Analysen liegen von Shepard 1. und Sartorius v. Waltershausen 2. 3. vor:
 
@@ -3249,7 +3241,7 @@ und einer kleinen Menge von Magnetkies und braunem Eisenoxyd. Shepard berechnet 
 2 Nickeleisen,  
 2 Magnetkies, Iodolith, Schwefel etc.
 
-Jedenfalls ist die Hauptmasse kieselsaure Magnesia mit einer kleinen Menge eines Thonerdesilikats, das aber nicht Labrador sein kann, weil dieser immer Alkali enthält.
+Jedenfalls ist die Hauptmasse kieselsaure Magnesia mit einer kleinen Menge eines Tonerdesilikats, das aber nicht Labrador sein kann, weil dieser immer Alkali enthält.
 
 Rammelsberg untersuchte den Stein aufs Neue. Er bemerkte an der weißen Hauptmasse nichts von Krystallen, nur leichte Spaltbarkeit. Seine Analyse ergab:
 
@@ -3274,13 +3266,11 @@ Spezifisches Gewicht: 3,57-3,65 v. Baumhauer.
 
 Die Rinde ist dünn, matt, schwarz, mit einigen leichten Rissen.
 
-Die Grundmasse ist hellgrau, sehr weich, mit Eisenkörnchen durch-
-setzt; auch sind deutlich gelbe und schwarze, selten hochpurpurrothe
-Punkte durch die Masse zerstreut.
+Die Grundmasse ist hellgrau, sehr weich, mit Eisenkörnchen durchsetzt; auch sind deutlich gelbe und schwarze, selten hochpurpurrothe Punkte durch die Masse zerstreut.
 
 Nach v. Baumhauers Analyse besteht der Stein aus:
 
-Magnetischer Teil. 10,91%. spec. Gew. 4,93.  
+Magnetischer Teil. 10,91%. spez. Gew. 4,93.  
 Fe|86,75-86,64.  
 Ni|12,97-13,04.  
 Cu u. Sn|0,24-0,27.  
@@ -3326,7 +3316,7 @@ Literatur: Abbot Journ. Asiat. Soc. Bengal. 1844, 155, 880. Rep. Brit. Assoc. 18
 
 ### Kleinwenden
 
-Kleinwenden bei Nordhausen, Regierungsbezirk Erfurt, Preussen.
+Kleinwenden bei Nordhausen, Regierungsbezirk Erfurt, Preußen.
 
 1843, Sept. 16, 4 3/4 Uhr Nachmittags.
 
@@ -3334,7 +3324,7 @@ Bei ganz heiterem Himmel fiel, ohne dass eine Wolke oder eine Lichterscheinung b
 
 Spezifisches Gewicht: 3,7006 Rammelsberg.
 
-Der Stein ist dem von Erxleben ähnlich. In der grauen Grundmasse liegen zahlreiche, aber meist sehr kleine stark glänzende Flitterchen von Meteoreisen ziemlich gleichmäßig verbreitet. Unter der Lupe bemerkt man noch in der grauen Masse ganz deutlich durchscheinende gelbliche und grünliche Partien, welche ohne Zweifel Olivin sind, und neben ihnen sehr ausgezeichnet schwarze glänzende Körner, welche auf Augit schließen lassen. In den kleinen Höhlungen des Steines sind keine deutlichen Krystallbildungen wahrnehmbar. Der metallische Teil hat an einzelnen Stellen eine braune Farbe und gehört wahrscheinlich Magnetkies an; manche sind bis erbsengross.
+Der Stein ist dem von Erxleben ähnlich. In der grauen Grundmasse liegen zahlreiche, aber meist sehr kleine stark glänzende Flitterchen von Meteoreisen ziemlich gleichmäßig verbreitet. Unter der Lupe bemerkt man noch in der grauen Masse ganz deutlich durchscheinende gelbliche und grünliche Partien, welche ohne Zweifel Olivin sind, und neben ihnen sehr ausgezeichnet schwarze glänzende Körner, welche auf Augit schließen lassen. In den kleinen Höhlungen des Steines sind keine deutlichen Krystallbildungen wahrnehmbar. Der metallische Teil hat an einzelnen Stellen eine braune Farbe und gehört wahrscheinlich Magnetkies an; manche sind bis erbsengroß.
 
 Nach der Analyse von Rammelsberg zerfällt der Stein in:
 
@@ -3434,7 +3424,7 @@ Literatur: Eichwald Erman Arch. 5, 181. Borissiac Bull. Ac. Pétersb. 5, 196.
 
 ### Killeter
 
-Killeter bei Castlederg, County Tyrone, Ireland.
+Killeter bei Castlederg, County Tyrone, Irland.
 
 1844, April 29, Nachmittags, wahrscheinlich zwischen 3 und 4 Uhr.
 
@@ -3442,7 +3432,7 @@ Killeter bei Castlederg, County Tyrone, Ireland.
 
 Spezifisches Gewicht: 3,7614 Haughton.
 
-Die gewöhnliche schwarze Rinde deckt die graulichweisse kristallinisch aussehende Grundmasse, die Nickeleisen eingestreut enthält.
+Die gewöhnliche schwarze Rinde deckt die graulichweiße kristallinisch aussehende Grundmasse, die Nickeleisen eingestreut enthält.
 
 Haughton fand bei der Analyse:
 
@@ -3475,7 +3465,7 @@ Weiler Favars, Canton Laissac, 28 Kilom. östlich von Rhodez, Dép. Aveyron, Fra
 
 1844, Okt. 21, zwischen 6 1/2 und 7 Uhr Morgens.
 
-Nach heftiger Detonation, die von einem eigenthümlichen Getöse gefolgt war und in mehr als 48 Kilom. Entfernung gehört wurde, fand man nach einigem Suchen in einem frischen Loch einen Stein von 1 K. 50, der beim Reiben Schwefelgeruch verbreitete und auf den Magnet wirkte. Er bildete eine unregelmäßige, aber doch erkennbare vierseitige abgestumpfte Pyramide. Bruchstücke sind in Paris, Mus. Hist. nat., sowie bei v. Reichenbach und Shepard.
+Nach heftiger Detonation, die von einem eigentümlichen Getöse gefolgt war und in mehr als 48 Kilom. Entfernung gehört wurde, fand man nach einigem Suchen in einem frischen Loch einen Stein von 1 K. 50, der beim Reiben Schwefelgeruch verbreitete und auf den Magnet wirkte. Er bildete eine unregelmäßige, aber doch erkennbare vierseitige abgestumpfte Pyramide. Bruchstücke sind in Paris, Mus. Hist. nat., sowie bei v. Reichenbach und Shepard.
 
 Spezifisches Gewicht: 3,55 Boisse.
 
@@ -3501,11 +3491,11 @@ Schönenberg im Mindelthal, Prov. Schwaben, Bayern.
 
 1846, Dezember 25, 2 Uhr Nachmittags.
 
-Man vernahm wenigstens in einen Umkreis von 8 Stunden Durchmesser ein donnerähnliches Rollen. In Biberach wurde man durch eine Explosion erschreckt, gleich der von einer Kanone oder einem zusammenstürzenden Holzhaufen hervorgebracht, so dass vielfach die Fenster klirrten. Darauf folgte ein Getöse wie von Trommeln und Pauken und endete mit einem langgezogenen Sausen und Klingen. Dabei sahen Bewohner von Schönenberg einen Stein fallen, der zwei Fuß tief in den gefrorenen Lehmboden einschlug und Schwefelgeruch verbreitete. Dabei hellte sich der vorher bedeckte Himmel auf, indem zuerst ein wolkenfreier Streif in der muthmasslichen Richtung! des Meteors entstand. Wahrscheinlich sind noch mehr Steine gefallen, aber nicht gefunden worden.
+Man vernahm wenigstens in einen Umkreis von 8 Stunden Durchmesser ein donnerähnliches Rollen. In Biberach wurde man durch eine Explosion erschreckt, gleich der von einer Kanone oder einem zusammenstürzenden Holzhaufen hervorgebracht, so dass vielfach die Fenster klirrten. Darauf folgte ein Getöse wie von Trommeln und Pauken und endete mit einem langgezogenen Sausen und Klingen. Dabei sahen Bewohner von Schönenberg einen Stein fallen, der zwei Fuß tief in den gefrorenen Lehmboden einschlug und Schwefelgeruch verbreitete. Dabei hellte sich der vorher bedeckte Himmel auf, indem zuerst ein wolkenfreier Streif in der mutmaßlichen Richtung! des Meteors entstand. Wahrscheinlich sind noch mehr Steine gefallen, aber nicht gefunden worden.
 
-Der aufgenommene Stein hat die Gestalt einer sehr unregelmässigen Pyramide und wiegt 8 K. 015. Er wurde für 500 Gulden für die Sammlungin München gekauft; es darf nichts davon abgetrennt werden.
+Der aufgenommene Stein hat die Gestalt einer sehr unregelmäßigen Pyramide und wiegt 8 K. 015. Er wurde für 500 Gulden für die Sammlungin München gekauft; es darf nichts davon abgetrennt werden.
 
-Die Oberfläche ist uneben und mit einer schwarzen Rinde bedeckt. Das Innere, das an den hervorragendsten Ecken beim Ausgraben durch kleine Verletzungen aufgeschlossen wurde, hat Ähnlichkeit mit einem feinkörnigen Dolomit mit einzelnen Metallflitterchen. Auch die Rinde enthält einzelne Körner und eine größere Anzahl von Streifen oder Schnüren von silberweissem, weichem, leicht rostendem Nickeleisen, die 1/4 bis 3/4 Zoll voneinander entfernt sind und sich zum Teil kreuzen und gabeln. Die Hauptmasse ist leicht mit den Fingern zu zerbröckeln und zu Sand zu zerreiben und wirkt auf die Magnetnadel. Man unterscheidet einen weißen feinkörnigen Bestandteil, einen gelblichen und einen grünlichen. Schwefeleisen tritt in einzelnen kleinen Körnchen auf, ebenso ist silberglänzendes Nickeleisen in gefransten Blättchen gleichmäßig eingesprengt. Von Augit und Labrador ist nichts zu entdecken.
+Die Oberfläche ist uneben und mit einer schwarzen Rinde bedeckt. Das Innere, das an den hervorragendsten Ecken beim Ausgraben durch kleine Verletzungen aufgeschlossen wurde, hat Ähnlichkeit mit einem feinkörnigen Dolomit mit einzelnen Metallflitterchen. Auch die Rinde enthält einzelne Körner und eine größere Anzahl von Streifen oder Schnüren von silberweißem, weichem, leicht rostendem Nickeleisen, die 1/4 bis 3/4 Zoll voneinander entfernt sind und sich zum Teil kreuzen und gabeln. Die Hauptmasse ist leicht mit den Fingern zu zerbröckeln und zu Sand zu zerreiben und wirkt auf die Magnetnadel. Man unterscheidet einen weißen feinkörnigen Bestandteil, einen gelblichen und einen grünlichen. Schwefeleisen tritt in einzelnen kleinen Körnchen auf, ebenso ist silberglänzendes Nickeleisen in gefransten Blättchen gleichmäßig eingesprengt. Von Augit und Labrador ist nichts zu entdecken.
 
 Die Annahme Schafhäutls, der Stein sei weich niedergefallen, weil er Eindrücke habe, ist durchaus unhaltbar und irrig; ebenso die Hypothesen, die er bei dieser Gelegenheit über die Bildung der Meteoriten aufstellt.
 
@@ -3519,11 +3509,11 @@ Linn County (Hartford), Iowa, Nord-Amerika.
 
 1847, Febr. 25, 2 Uhr 50 Min. Nachmittags.
 
-In der Richtung, woher die 40 Meil. im Umkreis hörbare Detonation kam, sah man Rauch; es fielen mehre Steine, welche zum Teil gleich nach dem Fall gefunden wurden; doch zerbrach der größte Teil in kleine Stückchen, die verloren gingen. Shepard erhielt einen Stein von etwa 10 K., der durch seine höchst regelmässige prismatische Gestalt ausgezeichnet war; er war beim Fallen in drei Stücke zerbrochen, die aber zusammenpassten. Colonel Abert (Thopograph. Bureau) in Washington erhielt ein Stück von über 1 K. Jetzt besitzt Shepard die Hauptmasse (über 19 K.). Kleinere Bruchstücke sind in Edinburgh (439,4 Gr.), Berlin (311,708 Gr.), Wien (236,255 Gr.), London (186,55 Gr.), Göttingen (50,96 Gr), Hudson und Calcutta, sowie in den Privatsammlungen von Greg (202 Gr.), v. Reichenbach, Nevill und Auerbach (9 Gr.).
+In der Richtung, woher die 40 Meil. im Umkreis hörbare Detonation kam, sah man Rauch; es fielen mehre Steine, welche zum Teil gleich nach dem Fall gefunden wurden; doch zerbrach der größte Teil in kleine Stückchen, die verloren gingen. Shepard erhielt einen Stein von etwa 10 K., der durch seine höchst regelmäßige prismatische Gestalt ausgezeichnet war; er war beim Fallen in drei Stücke zerbrochen, die aber zusammenpassten. Colonel Abert (Thopograph. Bureau) in Washington erhielt ein Stück von über 1 K. Jetzt besitzt Shepard die Hauptmasse (über 19 K.). Kleinere Bruchstücke sind in Edinburgh (439,4 Gr.), Berlin (311,708 Gr.), Wien (236,255 Gr.), London (186,55 Gr.), Göttingen (50,96 Gr), Hudson und Calcutta, sowie in den Privatsammlungen von Greg (202 Gr.), v. Reichenbach, Nevill und Auerbach (9 Gr.).
 
 Die schwarze Rinde ist matt, ziemlich dick, vom Stein scharf abgegrenzt und durch Sprünge in vieleckige Flächen geteilt.
 
-Das Innere ist einförmig perlgrau mit kleinen Rostflecken. Nickeleisen tritt in vielen hellglänzenden Körnchen auf, Schwefeleisen ist weniger zahlreich eingesprengt. Sonst scheint die Grundmasse nur eine Mineralspecies zu enthalten, nach Shepard den Howardiit.
+Das Innere ist einförmig perlgrau mit kleinen Rostflecken. Nickeleisen tritt in vielen hellglänzenden Körnchen auf, Schwefeleisen ist weniger zahlreich eingesprengt. Sonst scheint die Grundmasse nur eine Mineralspezies zu enthalten, nach Shepard den Howardiit.
 
 v. Reichenbach untersuchte ein eckiges hellgraues Korn mikroskopisch.
 
@@ -3555,7 +3545,7 @@ Es wurde der Fall eines Steines beobachtet, der 2 K. wog, in Stücke zerbrach un
 
 Spezifisches Gewicht: 3,512 Giraud.
 
-Die Rinde ist schwarz und glänzend, die Grundmasse sandsteinartig und mit Metallblättchen von Stecknadelkopfgrösse durchsäet.
+Die Rinde ist schwarz und glänzend, die Grundmasse sandsteinartig und mit Metallblättchen von Stecknadelkopfgroße durchsäet.
 
 Die Analyse von Giraud ist sehr mangelhaft; sie ergab:
 
@@ -3577,7 +3567,7 @@ Ohne dass eine eigentliche Feuerkugel bemerkt wurde, fiel nach heftiger Detonati
 
 Spezifisches Gewicht: 3,456 Shepard.
 
-Die Oberfläche ist eben, teils auch unregelmäßig oder leicht wellenförmig. Die Rinde ist schwarz. Das Innere des Steines ist ähnlich Poltawa (unbekannte Fallzeit), aber heller, ohne Rostflecken und mit mehr Perlmutterglanz. Nickeleisen ist in kleinen sehr glänzend silberweissen Punkten eingesprengt; feine schwarze Punkte geben vor dem Lötrohr Chromreaction; auch Magnetkies tritt in kleinen Punkten auf, aber sparsamer, wie Eisen.
+Die Oberfläche ist eben, teils auch unregelmäßig oder leicht wellenförmig. Die Rinde ist schwarz. Das Innere des Steines ist ähnlich Poltawa (unbekannte Fallzeit), aber heller, ohne Rostflecken und mit mehr Perlmutterglanz. Nickeleisen ist in kleinen sehr glänzend silberweißen Punkten eingesprengt; feine schwarze Punkte geben vor dem Lötrohr Chromreaktion; auch Magnetkies tritt in kleinen Punkten auf, aber sparsamer, wie Eisen.
 
 Mit dem Magnet lassen sich 11,22%, ausziehen, bestehend aus  
 Eisen und Nickel.  
@@ -3605,11 +3595,11 @@ Zwei Tage nach einer starken Lichtentwicklung und Detonation wurde auf dem Eis d
 
 Die Oberfläche zeigt warzenförmige Erhöhungen und Vertiefungen; die Rinde ist braunschwarz, etwas glasartig und 1mm dick.
 
-Innen auf frischem Bruch ist er grauweiss, körnig, von einzelnen rostfarbenen Adern durchzogen. Ueberall zeigen sich kleine metallglänzende Körnchen, die an der Luft anlaufen. Er enthält sichtlich verschiedene Mineraliengemenge.
+Innen auf frischem Bruch ist er grauweiß, körnig, von einzelnen rostfarbenen Adern durchzogen. Überall zeigen sich kleine metallglänzende Körnchen, die an der Luft anlaufen. Er enthält sichtlich verschiedene Mineraliengemenge.
 
 Analyse von Ditten:
 
-Magnet. Thl.
+Magnet. Tl.
 Fe|84,20.  
 Ni|14,42.  
 FeS|0,49.  
@@ -3674,7 +3664,7 @@ Spezifisches Gewicht:
 3,412 Haidinger,  
 3,66 Piddington.
 
-Die Rinde ist schwärzlichbraun, matt, sehr dünn; nur stellenweise zeigen sich unregelmäßige metallische Partien, die etwas mehr glänzen. Das Innere ist bimssteinartig oder perlsteinartig, zum Teil weißlich, feinkörnig, zum Teil aschgrau kristallinisch in grobkörniger Zusammensetzung von Individuen bis zu 2 Linien. Das Ganze sieht durch die größeren und kleineren sandartig zusammengeworfenen Partien breccienartig aus. Einzelne Körner sind leicht trennbar, und die größeren Individuen zeigen ziemlich deutliche Teilungsflächen besonders nach einer Richtung. In der aschgrauen Masse liegen kleinere schwarze Körner bis zu Hirsekorngrösse von Chromerz, selten selbst in ziemlich deutlichen Octaedern, aber wie das graue Mineral ungemein mürbe und zerbrechlich, so dass es sich zwischen den Fingern zerreiben lässt.
+Die Rinde ist schwärzlichbraun, matt, sehr dünn; nur stellenweise zeigen sich unregelmäßige metallische Partien, die etwas mehr glänzen. Das Innere ist bimssteinartig oder perlsteinartig, zum Teil weißlich, feinkörnig, zum Teil aschgrau kristallinisch in grobkörniger Zusammensetzung von Individuen bis zu 2 Linien. Das Ganze sieht durch die größeren und kleineren sandartig zusammengeworfenen Partien breccienartig aus. Einzelne Körner sind leicht trennbar, und die größeren Individuen zeigen ziemlich deutliche Teilungsflächen besonders nach einer Richtung. In der aschgrauen Masse liegen kleinere schwarze Körner bis zu Hirsekorngröße von Chromerz, selten selbst in ziemlich deutlichen Oktaedern, aber wie das graue Mineral ungemein mürbe und zerbrechlich, so dass es sich zwischen den Fingern zerreiben lässt.
 
 Analysen liegen vor von Piddington 1. und v. Hauer 2.
 
@@ -3684,29 +3674,29 @@ SiO₃. Fe₂O₃. FeO. MgO. CaO. Al₂O₃. Cr₂O₃. S. HO. As.
 
 1. ist jedenfalls mangelhaft. Bei 2. wurden die schwarzen Körner möglichst aus der Masse abgesondert.
 
-Haidinger schlägt für das eigenthümliche Mineral, das die Hauptmasse des Steins ausmacht, den Namen Piddingtonit vor. G. Rose nennt diesen kleinkörnigen eisenreichen Olivin Chassignit.
+Haidinger schlägt für das eigentümliche Mineral, das die Hauptmasse des Steins ausmacht, den Namen Piddingtonit vor. G. Rose nennt diesen kleinkörnigen eisenreichen Olivin Chassignit.
 
 Literatur: Haidinger Wien. Akad. Ber. 41, 251.
 
 ### Gütersloh
 
-Gütersloh bei Minden in Westphalen, Preussen.
+Gütersloh bei Minden in Westphalen, Preußen.
 
 1851, April 17, 8 Uhr Abends.
 
-Eine sehr helle Feuerkugel mit ebensolchem Schweif zog von O. nach SW. und zerstob in viele kleine leuchtende Funken. Etwa 2 Minuten darauf folgten die Schallerscheinungen, die 8 bis 10 Secunden währten. Es fielen wenigstens zwei Steine, von welchen der erste die Gestalt einer etwas schiefen, abgestumpften vierseitigen Pyramide hatte und jetzt fast ganz in Berlin ist (900,673 Gr.). Fast ein Jahr später wurde noch ein zweiter Stein von etwa 117 Gr. gefunden, der aber durch die Oxydation des Eisens schon sehr verändert war. Er scheint in London zu sein (117,26 Gr.). Kleinere Bruchstücke sind in Wien (87,5 Gr.) und in den Privatsammlungen von v. Reichenbach, Greg und Shepard.
+Eine sehr helle Feuerkugel mit ebensolchem Schweif zog von O. nach SW. und zerstob in viele kleine leuchtende Funken. Etwa 2 Minuten darauf folgten die Schallerscheinungen, die 8 bis 10 Sekunden währten. Es fielen wenigstens zwei Steine, von welchen der erste die Gestalt einer etwas schiefen, abgestumpften vierseitigen Pyramide hatte und jetzt fast ganz in Berlin ist (900,673 Gr.). Fast ein Jahr später wurde noch ein zweiter Stein von etwa 117 Gr. gefunden, der aber durch die Oxydation des Eisens schon sehr verändert war. Er scheint in London zu sein (117,26 Gr.). Kleinere Bruchstücke sind in Wien (87,5 Gr.) und in den Privatsammlungen von v. Reichenbach, Greg und Shepard.
 
-Die Rinde ist schwarz und glanzlos; die eine Seite des Steins ist etwas rundlich und fast glatt, die anderen Flächen haben rundliche Vertiefungen. Auf dem Bruch ist der Stein licht graulichweiss und aschgrau; beide Farben sind scharf getrennt. Die ganze Masse ist matt mit kleinen kugeligen Partien; Eisen tritt in sehr feinen Körnern, aber auch bis zu Stecknadelkopfgrösse auf.
+Die Rinde ist schwarz und glanzlos; die eine Seite des Steins ist etwas rundlich und fast glatt, die anderen Flächen haben rundliche Vertiefungen. Auf dem Bruch ist der Stein licht graulichweiß und aschgrau; beide Farben sind scharf getrennt. Die ganze Masse ist matt mit kleinen kugeligen Partien; Eisen tritt in sehr feinen Körnern, aber auch bis zu Stecknadelkopfgroße auf.
 
 Literatur: Dove u. G. Rose Poggend. Ann. 83, 465. 87, 500.
 
 ### Nulles und Vilabella
 
-Zwischen Nulles und Vilabella, 16 Lieues SW. von Barcelona, 4 Lieues von Tarragona in Catalonien, Spanien.
+Zwischen Nulles und Vilabella, 16 Lieues SW. von Barcelona, 4 Lieues von Tarragona in Katalonien, Spanien.
 
 1851, Nov. 5, 5 1/2 Uhr Abends.
 
-Das Feuermeteor wurde in der ganzen Provinz gesehen; es erschien in O., wuchs zusehends an Größe, nahm seine Richtung nach SW. und zog hinter sich einen leuchtenden Schweif nach, der sich dann in eine Art von Nebel verwandelte und nach etwa 20 Minuten verschwand. Beim Verschwinden der Feuerkugel wurde ein entsetzliches Getöse gehört, das etwa 40 Secunden währte. Dann fielen viele Steine zwischen Valls und Tarragona; die Hauptmasse, etwa 10 K., fiel bei Nulles, zahllose Bruchstücke aber bei den Dörfern Vilabella und Brafim im Gewicht von 1/2-2 1/2 K. Der Hauptstein, den Balcells in der Gestalt einer rohen Pfeilspitze abbildet, wurde nach einiger Zeit noch heiß aufgenommen. Er wurde nach Madrid an den Hof geschickt. Ein zweiter bei Vilabella gefundener, 690 Gr. schwerer Stein wird von Balcells mit einer gewölbt pyramidalen und zugespitzten Fläche und einer fast flachen Basis abgebildet. Es scheinen nur sehr wenige Bruchstücke in andere größere Sammlungen gekommen zu sein: Barcelona Industrieschule, London (4,615), Manchester, Greg.
+Das Feuermeteor wurde in der ganzen Provinz gesehen; es erschien in O., wuchs zusehends an Größe, nahm seine Richtung nach SW. und zog hinter sich einen leuchtenden Schweif nach, der sich dann in eine Art von Nebel verwandelte und nach etwa 20 Minuten verschwand. Beim Verschwinden der Feuerkugel wurde ein entsetzliches Getöse gehört, das etwa 40 Sekunden währte. Dann fielen viele Steine zwischen Valls und Tarragona; die Hauptmasse, etwa 10 K., fiel bei Nulles, zahllose Bruchstücke aber bei den Dörfern Vilabella und Brafim im Gewicht von 1/2-2 1/2 K. Der Hauptstein, den Balcells in der Gestalt einer rohen Pfeilspitze abbildet, wurde nach einiger Zeit noch heiß aufgenommen. Er wurde nach Madrid an den Hof geschickt. Ein zweiter bei Vilabella gefundener, 690 Gr. schwerer Stein wird von Balcells mit einer gewölbt pyramidalen und zugespitzten Fläche und einer fast flachen Basis abgebildet. Es scheinen nur sehr wenige Bruchstücke in andere größere Sammlungen gekommen zu sein: Barcelona Industrieschule, London (4,615), Manchester, Greg.
 
 Spezifisches Gewicht: 3,818 Balcells.
 
@@ -3759,11 +3749,11 @@ Mezö-Madaras (Weiler Fekete und Teich Istentó), Siebenbürgen.
 
 1852, Sept. 4, zwischen 4 und 5 Uhr Nachmittags.
 
-Bei wolkenlosem Himmel und hellem Sonnenschein wurde an vielen Stellen eine von SW. nach NO. ziehende Feuerkugel wahrgenommen. Dann folgte ein eigenthümliches Getöse bis zur Stärke der heftigsten Erschütterungen. Viele mit Heumachen beschäftigte Arbeiter sahen darauf zahlreiche Steine fallen, doch suchten sie erst nach mehreren Stunden nach denselben; einige wurden erst nach Wochen und Monaten gefunden. Sie zerstreuten sich auf einer Ellipse von SW. nach NO. Wenigstens ein Stein fiel in den Istentö; überhaupt scheint nicht 1/4 aller gefallenen Steine gefunden worden zu sein und sind wohl 50 K. gefallen. Der größte wog fast 10 K.; erkam mitanderen nach Wien(12 K. 671,356). Außerdem sind Steine und Bruchstücke in Berlin (2 K. 764), London (691 Gr.), Altenburg (150 Gr.), Gratz (143 Gr.), Kopenhagen (129 Gr.), Göttingen (52,49 Gr.), Stockholm (34 Gr.), Uppsala 17,4 Gr.), Heidelberg, Calcutta und in den Privatsammlungen von Auerbach in Moskau (299 Gr., 2 St.), Erzh. Stersan auf Schaumburg (245 Gr., ganz. St.), v. Reichenbach, Shepard (148 Gr.), Neumann in Prag (76 Gr.), Greg (50 Gr.), Ferber in Gera (41,5 Gr.}, v. Baumhauer in Amsterdam, Zeidler in Prag, Nevill in London.
+Bei wolkenlosem Himmel und hellem Sonnenschein wurde an vielen Stellen eine von SW. nach NO. ziehende Feuerkugel wahrgenommen. Dann folgte ein eigentümliches Getöse bis zur Stärke der heftigsten Erschütterungen. Viele mit Heumachen beschäftigte Arbeiter sahen darauf zahlreiche Steine fallen, doch suchten sie erst nach mehreren Stunden nach denselben; einige wurden erst nach Wochen und Monaten gefunden. Sie zerstreuten sich auf einer Ellipse von SW. nach NO. Wenigstens ein Stein fiel in den Istentö; überhaupt scheint nicht 1/4 aller gefallenen Steine gefunden worden zu sein und sind wohl 50 K. gefallen. Der größte wog fast 10 K.; erkam mitanderen nach Wien(12 K. 671,356). Außerdem sind Steine und Bruchstücke in Berlin (2 K. 764), London (691 Gr.), Altenburg (150 Gr.), Gratz (143 Gr.), Kopenhagen (129 Gr.), Göttingen (52,49 Gr.), Stockholm (34 Gr.), Uppsala 17,4 Gr.), Heidelberg, Calcutta und in den Privatsammlungen von Auerbach in Moskau (299 Gr., 2 St.), Erzh. Stersan auf Schaumburg (245 Gr., ganz. St.), v. Reichenbach, Shepard (148 Gr.), Neumann in Prag (76 Gr.), Greg (50 Gr.), Ferber in Gera (41,5 Gr.}, v. Baumhauer in Amsterdam, Zeidler in Prag, Nevill in London.
 
 Spezifisches Gewicht: 3,5 Knöpfler.
 
-Die Rinde ist schwarz, das Innere grau mit schmutzigweissen Flecken; auch sind viele weissliche und gelbe Metallpunkte deutlich sichtbar. Auf dem natürlichen Bruch erscheinen unzählige weissliche Kügelchen, die auf dem dunkelbraunen Grund weissgrau und kreisförmig scharf abgegrenzt sind. Sie erscheinen als eine Zusammensetzung von mannichfaltigen weißen, schwarzen, grünlichen und graulichen, metallischglänzenden und erdig matten Körperchen.
+Die Rinde ist schwarz, das Innere grau mit schmutzigweissen Flecken; auch sind viele weißliche und gelbe Metallpunkte deutlich sichtbar. Auf dem natürlichen Bruch erscheinen unzählige weißliche Kügelchen, die auf dem dunkelbraunen Grund weißgrau und kreisförmig scharf abgegrenzt sind. Sie erscheinen als eine Zusammensetzung von mannichfaltigen weißen, schwarzen, grünlichen und graulichen, metallischglänzenden und erdig matten Körperchen.
 
 Wöhler und Atkinson haben den Stein analysiert: Ein Hauptbestandteil ist 18%, Eisen mit 1,45% Nickel und 0,05% Kobalt; auch Phosphor in Spuren wurde nachgewiesen. In noch mehr wechselnder Menge tritt Einfachschwefeleisen auf, das auch mit blossen Augen da und dort zu erkennen ist. 0,25% Graphit wird nach dem Auskochen des Steins mit Salzsäure in glänzenden Blättchen sichtbar. Die dunkle Grundmasse scheint aus durch Säure zersetzbaren Silikaten 1. zu bestehn, die darinsitzenden rundlichen Partien aber hauptsächlich aus unzersetzbaren 2.
 
@@ -3777,9 +3767,9 @@ Literatur: Partsch (Knöpfler) Wien. Akad. Ber. 11, 674. Wöhler ebd. 17, 284.
 
 ### Borkút
 
-Borkút an der schwarzen Theiss, Marmaroscher Comitat, Ungarn.
+Borkút an der schwarzen Theiss, Marmaroscher Komitat, Ungarn.
 
-1852, October 13, 3 Uhr Nachmittags.
+1852, Oktober 13, 3 Uhr Nachmittags.
 
 Während eines feinen Regens fiel nach heftiger Detonation ein Stein, der noch heiß aufgefunden wurde und etwa 6 K. wog. Er war in einige Stücke zerbrochen; das größte wog etwas über 4 K. Dieses hat Major K. Pöschl in Raab erhalten. Außerdem finden sich Bruchstücke in Wien (154,221 Gr.) und in v. Reichenbachs Sammlung.
 
@@ -3787,7 +3777,7 @@ Spezifisches Gewicht: 5,242 Leydolt.
 
 Der Stein hatte die Gestalt einer etwas verschobenen vierseitigen Pyramide, war außen zum Teil schwarz und glänzend, zum Teil dunkelgrau ins Schwarze gehend, sehr dünn, mit vielen blasenartigen Vertiefungen.
 
-In der sehr feinkörnigen grauen, leicht zu zerbröckelnden Grundmasse sind runde oder ovale, selten unregelmäßige Kugeln eingeschlossen, die sich leicht auslösen lassen; sie haben bis zu 1 Linie Durchmesser und eine mehr oder weniger rauhe Oberfläche; ihre Farbe ist olivengrün bis dunkelgrün und braun, ihre Härte meist = 6; die meisten sind ganz dicht, einige innen hohl. Außer metallischem Eisen sind zweierlei metallische Körper darin enthalten: ein gelber, den Leydolt für Kupfer- oder Eisenkies hält, und ein tombakbrauner, wahrscheinlich Magnetkies. Diese Metallkörper finden sich auch in den Kugeleinschlüssen.
+In der sehr feinkörnigen grauen, leicht zu zerbröckelnden Grundmasse sind runde oder ovale, selten unregelmäßige Kugeln eingeschlossen, die sich leicht auslösen lassen; sie haben bis zu 1 Linie Durchmesser und eine mehr oder weniger raue Oberfläche; ihre Farbe ist olivengrün bis dunkelgrün und braun, ihre Härte meist = 6; die meisten sind ganz dicht, einige innen hohl. Außer metallischem Eisen sind zweierlei metallische Körper darin enthalten: ein gelber, den Leydolt für Kupfer- oder Eisenkies hält, und ein tombakbrauner, wahrscheinlich Magnetkies. Diese Metallkörper finden sich auch in den Kugeleinschlüssen.
 
 Nach der Analyse von Nurisany lassen sich 18,26%, mit dem Magnete ausziehen 1. Von 100 Teilen des nicht magnetischen Teils werden 51,54%, mit Salzsäure zersetzt 2., 48,46%, nicht 3.
 
@@ -3816,19 +3806,19 @@ Busti, Goruckpore, Ostindien.
 
 Entweder ein neu bekannt gewordener Meteoritenfall oder eine Verwechselung mit einem anderen durch unrichtiges Datum. Er soll ein neues Mineral, ein Mehrfachschwefelcalcium enthalten, welches Oldhamit genannt wurde. Die Bestätigung ist abzuwarten. Ein Stück scheint in London zu sein.
 
-Gedruckt wurde dieses Falles noch nirgends Erwähnung gethan.
+Gedruckt wurde dieses Falles noch nirgends Erwähnung getan.
 
 ### Girgenti
 
-Girgenti, Sicilien.
+Girgenti, Sizilien.
 
 1853, Febr. 10, 1 Uhr Nachmittags.
 
-Der Stein wog 3-4 K. Die Hauptmasse in der Größe einer Mannsfaust ist im Besitz des Prof. Gemmellaro in Catania. Durch Greg, der auch ein Stückchen (9,2 Gr.) besitzt, wurde der Stein ausserhalb Sicilien bekannt. Andere kleine Bruchstücke sind in Wien (17,5 Gr.), London (7,02 Gr.), sowie bei v. Reichenbach, Shepard und Nevill.
+Der Stein wog 3-4 K. Die Hauptmasse in der Größe einer Mannsfaust ist im Besitz des Prof. Gemmellaro in Catania. Durch Greg, der auch ein Stückchen (9,2 Gr.) besitzt, wurde der Stein außerhalb Sizilien bekannt. Andere kleine Bruchstücke sind in Wien (17,5 Gr.), London (7,02 Gr.), sowie bei v. Reichenbach, Shepard und Nevill.
 
 Es ist ein dichter, feinkörniger Stein, der sehr feine silberweiße Eisenteilchen enthält.
 
-Literatur: Gemmellaro soll in einem sicilischen wissenschaftlichen Journal den Stein beschrieben haben. Greg Phil. Mag. Suppl. Jan. 1863.
+Literatur: Gemmellaro soll in einem sizilischen wissenschaftlichen Journal den Stein beschrieben haben. Greg Phil. Mag. Suppl. Jan. 1863.
 
 ### Segowlee
 
@@ -3836,13 +3826,13 @@ Segowlee (auch Soojoulee), Bengalen, Ostindien.
 
 1853, März 6, Mittags.
 
-Das Niederfallen von Steinen wurde beobachtet, ohne dass durch ein Meteor oder besondere Detonationserscheinungen darauf aufmerksam gemacht worden wäre. Einige englische Meilen davon hatte man an verschiedenen Orten ein eigenthümliches rollendes, aber dem Donner ganz unähnliches Getöse gehört; der Himmel war dabei wolkenlos und die Sonne schien in vollem Glanze. Im Bereich 1 engl. [] Meile wurden nach und nach etwa 30 Steine gesammelt; die meisten wogen 1/3-2 K., einer über 7 K.; alle hatten eine ziemlich pyramidale Gestalt.
+Das Niederfallen von Steinen wurde beobachtet, ohne dass durch ein Meteor oder besondere Detonationserscheinungen darauf aufmerksam gemacht worden wäre. Einige englische Meilen davon hatte man an verschiedenen Orten ein eigentümliches rollendes, aber dem Donner ganz unähnliches Getöse gehört; der Himmel war dabei wolkenlos und die Sonne schien in vollem Glanze. Im Bereich 1 engl. [] Meile wurden nach und nach etwa 30 Steine gesammelt; die meisten wogen 1/3-2 K., einer über 7 K.; alle hatten eine ziemlich pyramidale Gestalt.
 
 Die meisten Steine sind in Calcutta (6 K. 173, der größte 5 K. 436) und Wien (1 K. 150, der größte 1 K. 032). Von dem Stein des brit. Museums in London ist es sehr zweifelhaft, ob er von dieser Lokalität stammt, jedenfalls stimmt sein Aussehen nicht mit Segowlee in Wien. Außerdem besitzen noch Shepard und v. Reichenbach Bruchstücke.
 
 Spezifisches Gewicht: 3,425 Haidinger.
 
-Die Rinde ist sehr dünn, dunkelröthlichbraun, größtenteils matt, nur stellenweise auf ebnen Teilen und an abgerundeten Kanten dunkler und etwas glänzend. Das Innere kommt der Farbe nach Mainz sehr nahe, ist durch und durch braun, sehr fest, Härte etwa 6, und schließt kugelige oder eckige, hellere und dunklere Teile von verschiedener Härte ein, sowie feine Körnchen, selten größere Körner von metallischem Eisen und Magnetkies. Dazu ist die Masse noch von zahlreichen Trennungen durchzogen, die mehr den Charakter von Ablösungen haben, welche fester zusammenhängende Teile wie Knoten umschliessen.
+Die Rinde ist sehr dünn, dunkelrötlichbraun, größtenteils matt, nur stellenweise auf ebnen Teilen und an abgerundeten Kanten dunkler und etwas glänzend. Das Innere kommt der Farbe nach Mainz sehr nahe, ist durch und durch braun, sehr fest, Härte etwa 6, und schließt kugelige oder eckige, hellere und dunklere Teile von verschiedener Härte ein, sowie feine Körnchen, selten größere Körner von metallischem Eisen und Magnetkies. Dazu ist die Masse noch von zahlreichen Trennungen durchzogen, die mehr den Charakter von Ablösungen haben, welche fester zusammenhängende Teile wie Knoten umschließen.
 
 Der Stein im britischen Museum, der von Segowlee sein soll, ist weiß und dem von Bishopville (1843) sehr ähnlich.
 
@@ -3856,21 +3846,21 @@ Turuma (Duruma), Wanikaland, nach dem Münchener Katalog etwa zwei Tagreisen wes
 
 In der Münchener Sammlung befindet sich ein Stück eines Steines von 577 Gr. mit schwarzer Rinde und auf der Bruchfläche graulich mit bräunlichen, rostfarbenen Flecken. Ein kleines Stückchen besitzt auch Gres. Dr. Barth von Calw, der den Stein nach München schenkte, gibt über denselben folgende Auskunft:
 
-Im Jahr 1853 schrieb mir einer meiner Gorrespondenten im Wanikaland in Ostafrika, unter 4° südl. Br., es sei im Turuam-Gebiet unter einem starken Donnerwetter ein Stein vom Himmel gefallen; Hirtenknaben, die in der Nähe weideten, hätten ihn fallen sehen und aufgehoben. Die Missionare hätten alsbald ihre Leute hingeschickt, damit sie den Stein sähen und wegen der Erwerbung desselben unterhandelten. Mittlerweile hatten die in der Nachbarschaft vorhandenen Wanikas den Stein, weil er ja vom Himmel gefallen, sogleich als einen Gott betrachtet, mit Oel gesalbet, bekleidet, mit Glasperlen verziert und einen schuppenartigen Tempel darüber gebaut, um ihn daselbst göttlich zu verehren. Nicht einmal sehen durften ihn die Abgesandten der Missionare. Ich gab unverzüglich meinem Gorrespondenten den Auftrag, er solle suchen, den Stein um jeden Preis an sich zu bringen und ihn mir schicken. Aber der Auftrag kam zu spät. Die Wanika's waren natürlich entschlossen, diese Bätylie, die sie als ihren Schutzgott betrachteten, um keinen Preis aus den Händen zu lassen. Auch der Gouverneur von Mombas, an den sich die Missionare wandten, vermochte in dieser Hinsicht nichts über den Aberglauben des Volks. Die Aeltesten der Stadt Kaya, eine Tagreise von dem heiligen Platz, die über den Schutz des Heiligthums zu disponiren hatten, wollten von keinem Anerbieten etwas hören. Erst drei Jahre später, als das wilde Wandervolk der Masai über die Wanikas herfiel, ihre Dörfer ausplünderte und verbrannte, und eine Menge Wanikas ums Leben brachte, gestaltete sich die Sache günstiger, das Volk sah nun ein, dass der vermeintliche Gott sie im Stich gelassen habe und sein Schutz für sie werthlos geworden sei, und hörte nun mit mehr Geneigtheit auf die neuen Anerbietungen, welche die Missionare, eingedenk meines Auftrags, machten. Eine Hungersnoth kam auch dazu, um die Unterhandlungen zu erleichtern, und gegen eine schöne Anzahl von Maria-Theresien-Thalern verstunden sich endlich die Aeltesten dazu, ihr Heiligthum auszuliefern. Ein Mann wurde beauftragt, den Stein in Begleitung des Dieners der Missionare nach Mombas zu bringen, um dort die verabredete Geldsumme in Empfang zu nehmen. Die Entfernung war ziemlich weit. Unterwegs blieb der Mann in einem Dorfe über Nacht, dessen Einwohner ihn überredeten, es sei gefährlich, den Stein in die Hände der Lehrer zu geben, und er ließ sich bewegen, und brachte den Gott in den Tempel zurück. Der Diener der Missionare, dem eine Belohnung verheissen war, wenn er seinen Auftrag nach Wunsch vollzöge, gieng abermals nach Turuma, und es gelang ihm, die Auslieferung zum zweiten Mal zu bewerkstelligen und das Gewächs des Himmels in die Hand des Missionars zu bringen, der es mit der nächsten sichern Gelegenheit mir zusandte. Die Bestandteile des Steines sind nach der chemischen Analyse von Kurr Eisen, Nickel, Kalk, Tonerde, Kieselsäure, Magnesia, Eisenoxyd und Wasser, welche bilden: Olivin, Kalkfeldspath, Eisenoxydhydrat und Nickeleisen.
+Im Jahr 1853 schrieb mir einer meiner Gorrespondenten im Wanikaland in Ostafrika, unter 4° südl. Br., es sei im Turuam-Gebiet unter einem starken Donnerwetter ein Stein vom Himmel gefallen; Hirtenknaben, die in der Nähe weideten, hätten ihn fallen sehen und aufgehoben. Die Missionare hätten alsbald ihre Leute hingeschickt, damit sie den Stein sähen und wegen der Erwerbung desselben unterhandelten. Mittlerweile hatten die in der Nachbarschaft vorhandenen Wanikas den Stein, weil er ja vom Himmel gefallen, sogleich als einen Gott betrachtet, mit Oel gesalbet, bekleidet, mit Glasperlen verziert und einen schuppenartigen Tempel darüber gebaut, um ihn daselbst göttlich zu verehren. Nicht einmal sehen durften ihn die Abgesandten der Missionare. Ich gab unverzüglich meinem Gorrespondenten den Auftrag, er solle suchen, den Stein um jeden Preis an sich zu bringen und ihn mir schicken. Aber der Auftrag kam zu spät. Die Wanika's waren natürlich entschlossen, diese Bätylie, die sie als ihren Schutzgott betrachteten, um keinen Preis aus den Händen zu lassen. Auch der Gouverneur von Mombas, an den sich die Missionare wandten, vermochte in dieser Hinsicht nichts über den Aberglauben des Volks. Die Ältesten der Stadt Kaya, eine Tagreise von dem heiligen Platz, die über den Schutz des Heiligthums zu disponiren hatten, wollten von keinem Anerbieten etwas hören. Erst drei Jahre später, als das wilde Wandervolk der Masai über die Wanikas herfiel, ihre Dörfer ausplünderte und verbrannte, und eine Menge Wanikas ums Leben brachte, gestaltete sich die Sache günstiger, das Volk sah nun ein, dass der vermeintliche Gott sie im Stich gelassen habe und sein Schutz für sie wertlos geworden sei, und hörte nun mit mehr Geneigtheit auf die neuen Anerbietungen, welche die Missionare, eingedenk meines Auftrags, machten. Eine Hungersnot kam auch dazu, um die Unterhandlungen zu erleichtern, und gegen eine schöne Anzahl von Maria-Theresien-Thalern verstunden sich endlich die Ältesten dazu, ihr Heiligtum auszuliefern. Ein Mann wurde beauftragt, den Stein in Begleitung des Dieners der Missionare nach Mombas zu bringen, um dort die verabredete Geldsumme in Empfang zu nehmen. Die Entfernung war ziemlich weit. Unterwegs blieb der Mann in einem Dorfe über Nacht, dessen Einwohner ihn überredeten, es sei gefährlich, den Stein in die Hände der Lehrer zu geben, und er ließ sich bewegen, und brachte den Gott in den Tempel zurück. Der Diener der Missionare, dem eine Belohnung verheißen war, wenn er seinen Auftrag nach Wunsch vollzöge, ging abermals nach Turuma, und es gelang ihm, die Auslieferung zum zweiten Mal zu bewerkstelligen und das Gewächs des Himmels in die Hand des Missionars zu bringen, der es mit der nächsten sichern Gelegenheit mir zusandte. Die Bestandteile des Steines sind nach der chemischen Analyse von Kurr Eisen, Nickel, Kalk, Tonerde, Kieselsäure, Magnesia, Eisenoxyd und Wasser, welche bilden: Olivin, Kalkfeldspat, Eisenoxydhydrat und Nickeleisen.
 
-Das Datum 1853 März 6 im Münchener Katalog stimmt genau mit dem von Segowlee (p. 85) überein; scheint aber nur irrtümlich eine Verwechslung mit diesem indischen Falle zu sein. Es wäre wichtig, wenn wirklich eine Uebereinstimmung der beiden Daten nachgewiesen werden könnte, weil Segowlee und Turuma sich vollkommen ähnlich sind.
+Das Datum 1853 März 6 im Münchener Katalog stimmt genau mit dem von Segowlee (p. 85) überein; scheint aber nur irrtümlich eine Verwechslung mit diesem indischen Falle zu sein. Es wäre wichtig, wenn wirklich eine Übereinstimmung der beiden Daten nachgewiesen werden könnte, weil Segowlee und Turuma sich vollkommen ähnlich sind.
 
 Literatur: Greg Phil. Mag. Suppl. Jan. 1863. In den Abhandl. der Münchener Akademie soll etwas über diesen Stein stehn, doch war trotz vielseitigen Nachsuchens nichts zu finden.
 
 ### Linum
 
-Linum bei Fehrbellin, Provinz Brandenburg, Preussen.
+Linum bei Fehrbellin, Provinz Brandenburg, Preußen.
 
 1854, Sept. 5, kurz vor 8 Uhr Morgens.
 
-Bei klarer Luft, stillem Wetter und wolkenlosem Himmel wurde unter heftiger Detonation der Fall eines Steines beobachtet, der vier Fuß tief in den Moorgrund in schiefer Richtung von SW. nach NO. einschlug und 1 K. 730 wog. Er ist jetzt in Berlin. Andere Sammlungen scheinen gar nichts davon zu besitzen. Der Stein hat die Gestalt einer an Kanten und Ecken ganz abgerundeten unregelmässigen schief dreiseitigen Pyramide, deren eine Seite etwas bauchig ist.
+Bei klarer Luft, stillem Wetter und wolkenlosem Himmel wurde unter heftiger Detonation der Fall eines Steines beobachtet, der vier Fuß tief in den Moorgrund in schiefer Richtung von SW. nach NO. einschlug und 1 K. 730 wog. Er ist jetzt in Berlin. Andere Sammlungen scheinen gar nichts davon zu besitzen. Der Stein hat die Gestalt einer an Kanten und Ecken ganz abgerundeten unregelmäßigen schief dreiseitigen Pyramide, deren eine Seite etwas bauchig ist.
 
-Die Rinde ist schwarz, matt, etwas rau, schwach aufgerissen und ziemlich dick; die Innenmasse ist graulichweiss, feinkörnig mit meist feinen Körnchen von Eisen; das Ganze ist ähnlich den Steinen von Gütersloh (p. 80) und Mauerkirchen (p. 8).
+Die Rinde ist schwarz, matt, etwas rau, schwach aufgerissen und ziemlich dick; die Innenmasse ist graulichweiß, feinkörnig mit meist feinen Körnchen von Eisen; das Ganze ist ähnlich den Steinen von Gütersloh (p. 80) und Mauerkirchen (p. 8).
 
 Literatur: G. Rose Poggend. Ann. 94, 169.
 
@@ -3919,13 +3909,13 @@ Bremervörde, bei dem Dorf Gnarrenburg, Landdrostei Stade, Königreich Hannover.
 
 1855, Mai 13, gegen 5 Uhr Nachmittags.
 
-Bei sehr bewölktem Himmel wurde eine Detonation gehört, aber keine Feuerkugel gesehen. Der Fall eines Steins wurde beobachtet und deren 5, vielleicht mehr gefunden. Der größte, fast unversehrte ist in Göttingen (2755 Gr.), wo noch 2 Stücke (1309 und 90 Gr.) sind. Außerdem besitzen: Clausthal (Bergschule, 1048 Gr.), Wien (2 St., 347,814 Gr.), Berlin (60,309 Gr.), London (45,95 Gr.), Stockholm (13,5 Gr.) und die Privatsammlungen von Krantz inBonn, der einen Stein von 2 1/2 K. zum Verkauf zerschlug, Ferber (Gera 130 Gr.), v. Reichenbach (Wien), Greg (Manchester 130 Gr.), Shepard (N.-Haven), Neumann (Prag, 2 St., 14 Gr.), de Luynes (Dampierre, 8 Gr.), Auerbach (11 Gr.).
+Bei sehr bewölktem Himmel wurde eine Detonation gehört, aber keine Feuerkugel gesehen. Der Fall eines Steins wurde beobachtet und deren 5, vielleicht mehr gefunden. Der größte, fast unversehrte ist in Göttingen (2755 Gr.), wo noch 2 Stücke (1309 und 90 Gr.) sind. Außerdem besitzen: Clausthal (Bergschule, 1048 Gr.), Wien (2 St., 347,814 Gr.), Berlin (60,309 Gr.), London (45,95 Gr.), Stockholm (13,5 Gr.) und die Privatsammlungen von Krantz in Bonn, der einen Stein von 2 1/2 K. zum Verkauf zerschlug, Ferber (Gera 130 Gr.), v. Reichenbach (Wien), Greg (Manchester 130 Gr.), Shepard (N.-Haven), Neumann (Prag, 2 St., 14 Gr.), de Luynes (Dampierre, 8 Gr.), Auerbach (11 Gr.).
 
 Spezifisches Gewicht: 3,5212-3,5495 Hausmann.
 
 Die Rinde ist pechschwarz, etwas nach braun sich neigend, sehr dünn, teils matt, teils wachsartig schimmernd.
 
-Die Grundmasse ist undeutlich feinkörnig, eine Verbindung von dunkleren und helleren Körpern, im Ganzen perlgrau mit weisslicher Sprenkelung. Häufig ist ein graulich-, gelblich- oder grünlichweisses Mineral von versteckt blättrigem Gefüge in größeren oder kleineren Massen eingeschlossen, teils matt, teils schwach schimmernd und in dünnen Splittern durchscheinend;; es hat die Härte des Apatit und tritt am häufigsten in abgerundeten Partien auf von kaum messbarer Größe bis zu einigen Linien Durchmesser; manchmal zeigen sich auch deutliche, aber nicht bestimmbare Krystalle. Mit der Lupe erkennt man andere feine Körper darin eingesprengt. In den grüsseren gerundeten Partien ist nicht selten ein dunklerer Kern von grauer Farbe. Selten sind kleine Körner von Olivin. Kleine schwärzliche Kügelchen lassen sich vollkommen glatt auslösen; bei Vergrößerung erscheinen sie feinsplitterig, matt dunkelgrau und nur an den dünnsten Kanten durchscheinend; sie wirken nicht auf den Magnet. Das Eisen ist nickelhaltig und in kleinen Partien überall, selbst in dem weisslichen Mineral eingesprengt. In kleinen Punkten, selten grösser, tritt auch Schwefeleisen mit der Farbe von Magnetkies auf. Endlich findet sich Graphit in kleinen glänzenden Blättchen und schwarze Körnchen von Chromeisen.
+Die Grundmasse ist undeutlich feinkörnig, eine Verbindung von dunkleren und helleren Körpern, im Ganzen perlgrau mit weißlicher Sprenkelung. Häufig ist ein graulich-, gelblich- oder grünlichweißes Mineral von versteckt blättrigem Gefüge in größeren oder kleineren Massen eingeschlossen, teils matt, teils schwach schimmernd und in dünnen Splittern durchscheinend;; es hat die Härte des Apatit und tritt am häufigsten in abgerundeten Partien auf von kaum messbarer Größe bis zu einigen Linien Durchmesser; manchmal zeigen sich auch deutliche, aber nicht bestimmbare Krystalle. Mit der Lupe erkennt man andere feine Körper darin eingesprengt. In den grüsseren gerundeten Partien ist nicht selten ein dunklerer Kern von grauer Farbe. Selten sind kleine Körner von Olivin. Kleine schwärzliche Kügelchen lassen sich vollkommen glatt auslösen; bei Vergrößerung erscheinen sie feinsplitterig, matt dunkelgrau und nur an den dünnsten Kanten durchscheinend; sie wirken nicht auf den Magnet. Das Eisen ist nickelhaltig und in kleinen Partien überall, selbst in dem weißlichen Mineral eingesprengt. In kleinen Punkten, selten grösser, tritt auch Schwefeleisen mit der Farbe von Magnetkies auf. Endlich findet sich Graphit in kleinen glänzenden Blättchen und schwarze Körnchen von Chromeisen.
 
 Analyse von Wöhler:
 
@@ -3950,7 +3940,7 @@ Die größere Hälfte besitzt die Sammlung der Universität in Gent, die kleiner
 
 Spezifisches Gewicht: 3,293 Duprez.
 
-Der größte Teil der Rinde ist hart, schwarzbraun, eben und gleichmäßig abgerundet, nur die flachere Stelle ist höchst uneben. Das Innere ist weissgrau, braunfleckig, sehr porös, körnig und zerreiblich; Eisen und Magnetkies sind fein eingesprengt. Kleine kugelige etwas kristallinische Einschlüsse hinterlassen beim Herausfallen aus der mürben Masse einen Eindruck.
+Der größte Teil der Rinde ist hart, schwarzbraun, eben und gleichmäßig abgerundet, nur die flachere Stelle ist höchst uneben. Das Innere ist weißgrau, braunfleckig, sehr porös, körnig und zerreiblich; Eisen und Magnetkies sind fein eingesprengt. Kleine kugelige etwas kristallinische Einschlüsse hinterlassen beim Herausfallen aus der mürben Masse einen Eindruck.
 
 Literatur: Duprez Poggend. Ann. 99, 63. Haidinger Wien. Akad. Ber. 42, 1860, 9.
 
@@ -3994,9 +3984,9 @@ Es wurde kein Feuermeteor beobachtet, aber eine heftige Detonation mit darauffol
 
 Zwei große Stücke besitzt A. Venturi in Brescia; kleinere sind besonders in Wien (80,939 Gr.), London (73,06 Gr.), sowie bei v. Reichenbach, Greg und Shepard.
 
-Speeifisches Gewicht: 3,81 Curioni.
+Spezifisches Gewicht: 3,81 Curioni.
 
-Die Oberfläche ist wellig und mit einer schwarzen, 1-2mm dicken Rinde bedeckt; mit der Lupe erkennt man darin kleine weiße Körnchen. Das Innere besteht hauptsächlich aus dunkelgrauen unregelmässigen bis vollkommen kugeligen Körnchen in einer heller grauen Grundmasse.. Nur sehr selten sind diese Kügelchen auszulösen; das größte hatte 2mm Durchmesser. Besonders beim Zerreiben mit den Fingern bemerkt man das Eisen in sehr kleinen Körnchen, sowie Magnetkies. Kleine weissliche Körnchen hält Curioni für eine Art Feldspat. Eine kohlige Substanz fand er bei der Analyse. Das Ergebniss derselben war:
+Die Oberfläche ist wellig und mit einer schwarzen, 1-2mm dicken Rinde bedeckt; mit der Lupe erkennt man darin kleine weiße Körnchen. Das Innere besteht hauptsächlich aus dunkelgrauen unregelmäßigen bis vollkommen kugeligen Körnchen in einer heller grauen Grundmasse.. Nur sehr selten sind diese Kügelchen auszulösen; das größte hatte 2mm Durchmesser. Besonders beim Zerreiben mit den Fingern bemerkt man das Eisen in sehr kleinen Körnchen, sowie Magnetkies. Kleine weißliche Körnchen hält Curioni für eine Art Feldspat. Eine kohligen Substanz fand er bei der Analyse. Das Ergebnis derselben war:
 
 Magnetischer Teil: 22,78%, = { Fe. 91,60. | Ni. 8,40.
 
@@ -4022,7 +4012,7 @@ Parnallee, 16 engl. Meilen von Madura, Ostindien.
 
 1857, Febr. 28, um die Mittagszeit.
 
-Unter heftiger, bis auf 40 engl. Meil. Entfernung hörbarer Detonation fielen zwei Steine, der größere von 61 K. wenige Secunden vor dem kleineren, der fast 17 K. wog und 2-3 Meil. südlich vom ersten fiel. Beide Fälle wurden von Zeugen beobachtet. Ersterer ist größtenteils in London (58 K. 890), letzterer kam an das WesternReserveCollege inHudson, von woviele Stücke abgetauscht wurden. Solche finden sich außer in indischen Sammlungen (Calcutta, Rourkee, Amritsir, Lahore etc.) besonders in Wien (741,574 Gr.), Washington, Berlin, Göttingen, Turin und den Privatsammlungen von Greg (80 Gr.), v. Reichenbach und Shepard.
+Unter heftiger, bis auf 40 engl. Meil. Entfernung hörbarer Detonation fielen zwei Steine, der größere von 61 K. wenige Sekunden vor dem kleineren, der fast 17 K. wog und 2-3 Meil. südlich vom ersten fiel. Beide Fälle wurden von Zeugen beobachtet. Ersterer ist größtenteils in London (58 K. 890), letzterer kam an das WesternReserveCollege in Hudson, von wo viele Stücke abgetauscht wurden. Solche finden sich außer in indischen Sammlungen (Calcutta, Rourkee, Amritsir, Lahore etc.) besonders in Wien (741,574 Gr.), Washington, Berlin, Göttingen, Turin und den Privatsammlungen von Greg (80 Gr.), v. Reichenbach und Shepard.
 
 Spezifisches Gewicht:  
 3,421-3,464 Cassels,  
@@ -4032,7 +4022,7 @@ Spezifisches Gewicht:
 
 Der Steinist sehr ähnlich Bremervörde (p. 88). Die Oberfläche zeigt die rundlichen Vertiefungen, aber einzelne derselben haben nur 1/2, ja nur 1/4 Zoll im Durchmesser und sind ziemlich steil vertieft. Die sehr dünne Rinde ist bräunlichschwarz, nur wenig glänzend, fast matt.
 
-In der grau und braun gefleckten Grundmasse bemerkt man zahlreiche hellgraue, zum Teil weissliche, größtenteils runde Einschlüsse; unter der Lupe tritt aber erst die Mengung aus ungleichartigen Teilchen besonders auf polierten Flächen bis ins Kleinste hervor. Geschiebeartig liegen weisslichgraue bis 1/4 Zoll große Einschlüsse neben eckigen dichten schwarzen, glanzlosen von ähnlicher Größe, und dann zeigen sich wieder metallische dichte oder ganz feinkörnige mehr eckige Massen eines Eisenkieses in dem Gemenge, die nicht auf die Magnetnadel einwirken. Auch feine Teilchen von metallischem Eisen sind vorhanden, aber in wenig beträchtlicher Menge. Zu den merkwürdigsten Gemengteilen gehören aber hellere und dunklere, gelbe und braune, oft innen gelbe und außen dunkelbraune, stark abgerundete Einschlüsse, welche von glänzenden metallischen Ringen auf den polierten Flächen eingefasst erscheinen. Diese Einfassung besteht aus der eisenkiesartigen gelben Metallmasse; Eisen tritt nur in Spuren in der Ueberrindung auf, findet sich aber auch in kleinen Teilchen in den grösserenMassen vonSchwefeleisen. Diese mannichfaltigen Bestandteile geben dem Stein ein marmorirtes Aussehen. Cassels will deutliche Krystalle von Nickeleisen gefunden haben. Die Farbe des Pulvers ist olivengrün. Scott fand bei der qualitativen Analyse Eisen, Nickel, Spuren von Kobalt und Chrom, Schwefel, Kieselsäure, Tonerde, Eisenoxyd, Magnesia und Kalk. Nach Cassels ließen sich 21,151% mit dem Magnet ausziehen. Die Analyse ergab Kieselsäure, Kalk, Natron, Kali, Eisenoxyd, Schwefeleisen, Chromoxyd, Manganoxydul, Eisen, Nickel, Kobalt, Kupfer, Schwefel und Phosphor (keine Magnesia?!). Bunsen wies darin zuerst Lithion spectralanalytisch nach.
+In der grau und braun gefleckten Grundmasse bemerkt man zahlreiche hellgraue, zum Teil weißliche, größtenteils runde Einschlüsse; unter der Lupe tritt aber erst die Mengung aus ungleichartigen Teilchen besonders auf polierten Flächen bis ins Kleinste hervor. Geschiebeartig liegen weißlichgraue bis 1/4 Zoll große Einschlüsse neben eckigen dichten schwarzen, glanzlosen von ähnlicher Größe, und dann zeigen sich wieder metallische dichte oder ganz feinkörnige mehr eckige Massen eines Eisenkieses in dem Gemenge, die nicht auf die Magnetnadel einwirken. Auch feine Teilchen von metallischem Eisen sind vorhanden, aber in wenig beträchtlicher Menge. Zu den merkwürdigsten Gemengteilen gehören aber hellere und dunklere, gelbe und braune, oft innen gelbe und außen dunkelbraune, stark abgerundete Einschlüsse, welche von glänzenden metallischen Ringen auf den polierten Flächen eingefasst erscheinen. Diese Einfassung besteht aus der eisenkiesartigen gelben Metallmasse; Eisen tritt nur in Spuren in der Überrundung auf, findet sich aber auch in kleinen Teilchen in den größeren Massen von Schwefeleisen. Diese mannichfaltigen Bestandteile geben dem Stein ein marmoriertes Aussehen. Cassels will deutliche Krystalle von Nickeleisen gefunden haben. Die Farbe des Pulvers ist olivengrün. Scott fand bei der qualitativen Analyse Eisen, Nickel, Spuren von Kobalt und Chrom, Schwefel, Kieselsäure, Tonerde, Eisenoxyd, Magnesia und Kalk. Nach Cassels ließen sich 21,151% mit dem Magnet ausziehen. Die Analyse ergab Kieselsäure, Kalk, Natron, Kali, Eisenoxyd, Schwefeleisen, Chromoxyd, Manganoxydul, Eisen, Nickel, Kobalt, Kupfer, Schwefel und Phosphor (keine Magnesia?!). Bunsen wies darin zuerst Lithion spektralanalytisch nach.
 
 Literatur: Cassels Sillim. Amer. Journ. (2) 32, 401. Haidinger Wien. Akad. Ber. 43, Feb. 7. 44, Juli 4.
 
@@ -4048,7 +4038,7 @@ Spezifisches Gewicht: 3,479-3,708; und ohne die metallischen
 Teile 3,22-3,39.  
 Die metallischen Teile 5,206 Abich.
 
-Die Oberfläche ist teils glatt, teils rau, firnissartig glänzend, und treten darauf zahlreiche, größtenteils kleinkörnige stahlgraue glänzende Bestandteile hervor; sie haben einen Durchmesser von 1/2-2mm und eine Höhe von 1/2-3/4mm. In der Innenmasse, die etwas härter als die Rinde ist, sind derartige Metallteilchen häufig, seltner aber grösser als bis zu 5mm Durchmesser und von unregelmäßiger Gestalt. Die Grundmasse enthält feinere und gröbere, mehr rundliche als eckige Bestandteile in meist dunklen Farben. Der Bruch ist grobsplitterig, zum Teil selbst porphyrartig. Es lassen sich deutliche 1-2mm lange Krystalle von lauchgrünem Olivin abscheiden. Auch grünlich grauer Labrador tritt in Krystallen von 2-3mm, selbst von 8mm und einer selbst von 14mm Durchmesser auf; diese Krystalle setzen sich weniger scharf von der Grundmasse ab und sind von einem fremdartigen Aggregat rindenförmig umgeben. Eine dritte Mineralspecies tritt in kleinen weissgelben, schwachglänzenden Krystallfragmenten und in fein eingesprengten Krystallnadeln auf.
+Die Oberfläche ist teils glatt, teils rau, firnissartig glänzend, und treten darauf zahlreiche, größtenteils kleinkörnige stahlgraue glänzende Bestandteile hervor; sie haben einen Durchmesser von 1/2-2mm und eine Höhe von 1/2-3/4mm. In der Innenmasse, die etwas härter als die Rinde ist, sind derartige Metallteilchen häufig, seltner aber grösser als bis zu 5mm Durchmesser und von unregelmäßiger Gestalt. Die Grundmasse enthält feinere und gröbere, mehr rundliche als eckige Bestandteile in meist dunklen Farben. Der Bruch ist grobsplitterig, zum Teil selbst porphyrartig. Es lassen sich deutliche 1-2mm lange Krystalle von lauchgrünem Olivin abscheiden. Auch grünlich grauer Labrador tritt in Krystallen von 2-3mm, selbst von 8mm und einer selbst von 14mm Durchmesser auf; diese Krystalle setzen sich weniger scharf von der Grundmasse ab und sind von einem fremdartigen Aggregat rindenförmig umgeben. Eine dritte Mineralspezies tritt in kleinen weißgelben, schwachglänzenden Krystallfragmenten und in fein eingesprengten Krystallnadeln auf.
 
 Nach der Analyse von Abich besteht der in Salzsäure
 
@@ -4061,7 +4051,7 @@ Nickeloxydul (Cu-haltig)|0,35.
 Kali|0,50.  
 Natron|0,50.  
 Schwefel|0,64.  
-Zinnoxyd|Spur.
+Zinnoxid|Spur.
 
 2\. unlösliche Teil aus:
 Kieselsäure|47,44.  
@@ -4081,7 +4071,7 @@ Abich berechnet daraus folgende Bestandteile:
 5\. Nickeleisen 10,25  
 100,00.
 
-Doch kann diese Deutung nicht ganz richtig sein, da diese Mineralien in concentrirter Salzsäure löslich sind.
+Doch kann diese Deutung nicht ganz richtig sein, da diese Mineralien in konzentrierter Salzsäure löslich sind.
 
 Literatur: Abich Bull. Acad. Pétersb. II, 439.
 
@@ -4091,7 +4081,7 @@ Nördlich von Heredia, etwa 5 Meil. von San José, Costa Rica, Central-Amerika.
 
 1857, April 1.
 
-Eine Feuerkugel bewegte sich rasch durch die Luft und detonirte heftig. Mehre Steine von beträchtlicher Größe wurden gefunden. Das größte Bruchstück mit Rirtde, etwa die Hälfte eines ganzen Steines, ist in Göttingen und wiegt 475 Gr. Kleine Stücke sind in Wien (14,062) und in den Privatsammlungen von v. Reichenbach und Greg (1 Gr.).
+Eine Feuerkugel bewegte sich rasch durch die Luft und detonierte heftig. Mehre Steine von beträchtlicher Größe wurden gefunden. Das größte Bruchstück mit Rirtde, etwa die Hälfte eines ganzen Steines, ist in Göttingen und wiegt 475 Gr. Kleine Stücke sind in Wien (14,062) und in den Privatsammlungen von v. Reichenbach und Greg (1 Gr.).
 
 Der Stein ist bedeckt mit einer dünnen schwarzen Rinde, welche sich von der Innenmasse nicht unterscheidet; diese ist grau, und scheint viel Graphit in flachen dünnen Blättchen zu enthalten. Sie ist sehr fest und enthält glänzende Kügelchen von metallischem Eisen.
 
@@ -4150,11 +4140,11 @@ Kaba, südwestlich von Debreczin, Ungarn.
 
 1857, April 15, zwischen 10 und 11 Uhr Abends.
 
-Es wurde bei heitrem Himmel eine Feuerkugel gesehen und eine starke Detonation sehr verschieden von dem Donner gehört. Erst am folgenden Morgen fand sich der Stein in die harte Strasse so tief eingekeilt, dass die Oberfläche des Steines mit der des Bodens gleich lag. Erst am Abend wurde er ausgegraben. Er war noch unverletzt und wog fast 4 K. Doch wurden einige Stücke abgeschlagen, so dass er jetzt, wie er im Museum des reformirten Collegiums zu Debreczin ist, 2 K. 940 wiegt. Kleine Bruchstücke sind in Wien (39,375 Gr.), Göttingen (3 Gr.) und den Privatsammlungen von v. Reichenbach und Greg.
+Es wurde bei heitrem Himmel eine Feuerkugel gesehen und eine starke Detonation sehr verschieden von dem Donner gehört. Erst am folgenden Morgen fand sich der Stein in die harte Strasse so tief eingekeilt, dass die Oberfläche des Steines mit der des Bodens gleich lag. Erst am Abend wurde er ausgegraben. Er war noch unverletzt und wog fast 4 K. Doch wurden einige Stücke abgeschlagen, so dass er jetzt, wie er im Museum des reformierten Collegiums zu Debreczin ist, 2 K. 940 wiegt. Kleine Bruchstücke sind in Wien (39,375 Gr.), Göttingen (3 Gr.) und den Privatsammlungen von v. Reichenbach und Greg.
 
-Der Meteorit hat eine obere gewölbte, fast konische und eine untere jochförmige Oberfläche, bei welcher der eine Abfall steiler ist, als der andere. Die Rinde der convexen Oberfläche ist bräunlich schwarz, glanzlos, und von der konischen Spitze als Mittelpunkt laufen strahlenförmig gegen die Seitenflächen und Seitenkanten schlängelnde, aber nicht continuirliche Furchen und Erhabenheiten. Auf der unteren Fläche dagegen ist die Rinde in der mittleren Gegend feinkörnig durch die überdeckten größeren und kleineren Kügelchen der inneren Masse; sonst ist sie reinschwarz, matt, glanzlos, nur anzweiStellen porös undsschlackig, hie und da verglast und an einer Stelle mit deutlichem Pechglanz.
+Der Meteorit hat eine obere gewölbte, fast konische und eine untere jochförmige Oberfläche, bei welcher der eine Abfall steiler ist, als der andere. Die Rinde der konvexen Oberfläche ist bräunlich schwarz, glanzlos, und von der konischen Spitze als Mittelpunkt laufen strahlenförmig gegen die Seitenflächen und Seitenkanten schlängelnde, aber nicht kontinuierliche Furchen und Erhabenheiten. Auf der unteren Fläche dagegen ist die Rinde in der mittleren Gegend feinkörnig durch die überdeckten größeren und kleineren Kügelchen der inneren Masse; sonst ist sie reinschwarz, matt, glanzlos, nur anzweiStellen porös undsschlackig, hie und da verglast und an einer Stelle mit deutlichem Pechglanz.
 
-In der dunkelgrauen diehten Innenmasse sieht man sehr zahlreiche kleinere und größere konische Punkte und Flecken, deren einige sogar bohnengross sind, wodurch die Masse ein porphyrartiges Aussehen bekommt. Endlich befinden sich in der Grundmasse unzählige kleinere und größere hirse- bis pfefferkorngrosse schwarze Kügelchen, einige concentrisch-schalig, die sich aus der Grundmasse ziemlich leicht auslösen lassen, wo dann ein entsprechend rundes Grübchen bleibt. Aus ihrem Pulver lassen sich mit dem Magnet sehr kleine Teilchen von Eisen ausziehen, doch sieht man darin keine glänzenden Metallkörner; letztere bemerkt man überhaupt im Inneren viel weniger, als auf der convexen Oberfläche. Die Kügelchen zeigen unter dem Mikroskop im Inneren einen hohlen Raum und bestehn aus einem farblosen, sehr krystallinischen und einem schwarzen Mineral.
+In der dunkelgrauen diehten Innenmasse sieht man sehr zahlreiche kleinere und größere konische Punkte und Flecken, deren einige sogar bohnengross sind, wodurch die Masse ein porphyrartiges Aussehen bekommt. Endlich befinden sich in der Grundmasse unzählige kleinere und größere hirse- bis pfefferkorngrosse schwarze Kügelchen, einige konzentrisch-schalig, die sich aus der Grundmasse ziemlich leicht auslösen lassen, wo dann ein entsprechend rundes Grübchen bleibt. Aus ihrem Pulver lassen sich mit dem Magnet sehr kleine Teilchen von Eisen ausziehen, doch sieht man darin keine glänzenden Metallkörner; letztere bemerkt man überhaupt im Inneren viel weniger, als auf der konvexen Oberfläche. Die Kügelchen zeigen unter dem Mikroskop im Inneren einen hohlen Raum und bestehn aus einem farblosen, sehr kristallinischen und einem schwarzen Mineral.
 
 Nach der Analyse von Wöhler besteht der erdige dunkelgraue Teil des Steines aus:
 
@@ -4174,7 +4164,7 @@ Kieselsäure|34,24.
 Kobalt, Phosphor und unbekannte Materie|in unbestimmb. Menge.  
 98,50.
 
-Obgleich Wöhler in der unbekannten Materie nach ihrem Verhalten sogleich eine organische Verbindung, einen Kohlenwasserstoff vermuthete, so wies er später doch noch genauer nach, dass der Stein neben freier Kohle allerdings eine den sog. Bergwachsarten, dem Ozokerit, Scheererit etc. ähnliche Verbindung enthalte, die in Weingeist löslich ist, durch Aether in einen flüssigen und einen löslichen festen Körper zerlegt wird, der deutlich krystallisirt. Doch war die untersuchte Steinmasse zu klein, um Genaueres über diese merkwürdige Substanz ermitteln zu können.
+Obgleich Wöhler in der unbekannten Materie nach ihrem Verhalten sogleich eine organische Verbindung, einen Kohlenwasserstoff vermutete, so wies er später doch noch genauer nach, dass der Stein neben freier Kohle allerdings eine den sog. Bergwachsarten, dem Ozokerit, Scheererit etc. ähnliche Verbindung enthalte, die in Weingeist löslich ist, durch Äther in einen flüssigen und einen löslichen festen Körper zerlegt wird, der deutlich kristallisiert. Doch war die untersuchte Steinmasse zu klein, um Genaueres über diese merkwürdige Substanz ermitteln zu können.
 
 Literatur: Hörnes Wien. Akad. Ber. 31, 347. Wöhler ebd. 33, 205. 34, 7. Török Poggend. Ann. 105, 329 gibt die Grundmasse wohl durch einen Druckfehler als dunkelgrün statt dunkelggau an.
 
@@ -4202,9 +4192,9 @@ Literatur: Instit. 1857, 363.
 
 Ohaba, Blasendorfer Bezirk, Siebenbürgen.
 
-1857, October 10/11 Nachts.
+1857, Oktober 10/11 Nachts.
 
-Es wurde am heitren Nachthimmel eine feurige Masse beobachtet; alsdann fiel unter heftiger Betonation ein Stein nieder, der auch am darauffolgenden Morgen gefunden wurde. Er hat die Gestalt einer unregelmässigen dreiseitigen Pyramide; 2 Seiten sind glatt, die dritte und die Basis zeigen die charakteristischen Vertiefungen. Er wog ursprünglich 16 K. 240. Das größte Stück ist jetzt in Wien (16 K. 030,343, mit 2 kleinen 16 K. 082,83). Außerdem scheinen nyr Bruchstücke zu sein in Göttingen (11,795 Gr.) und hei Greg (2,2 Gr.) und Shepard.
+Es wurde am heitren Nachthimmel eine feurige Masse beobachtet; alsdann fiel unter heftiger Betonation ein Stein nieder, der auch am darauffolgenden Morgen gefunden wurde. Er hat die Gestalt einer unregelmäßigen dreiseitigen Pyramide; 2 Seiten sind glatt, die dritte und die Basis zeigen die charakteristischen Vertiefungen. Er wog ursprünglich 16 K. 240. Das größte Stück ist jetzt in Wien (16 K. 030,343, mit 2 kleinen 16 K. 082,83). Außerdem scheinen nyr Bruchstücke zu sein in Göttingen (11,795 Gr.) und hei Greg (2,2 Gr.) und Shepard.
 
 Spezifisches Gewicht: 3,1103 Grailich (Mittel aus 4 Bestimmungen).
 
@@ -4225,7 +4215,7 @@ SiO₃. MgO. KO. NaO. MnO. FeO. Al₂O₃.
 
 und berechnet daraus die Zusammensetzung aus
 
-unlöslichem Silikat {Augit,Feldspath,}|44,83  
+unlöslichem Silikat {Augit,Feldspat,}|44,83  
 löslichem Silikat (Olivin)|18,27  
 nickelhaltigem Eisen|23,76  
 und Schwefeleisen|13,14
@@ -4238,17 +4228,17 @@ Quenggouk in Pegu, nordöstlich von Bassein, Hinterindien.
 
 1857, Dez. 27, 2 Uhr 25 Min. Morgens.
 
-Etwa 90 engl. Meilen vom Fallort auf dem Basseinflusse fahrend sah Leutnant Aylesbury eine äußerst glänzende Lichterscheinung von SW. nach NO. ziehen, mehr ein langer Feuerschweif, als eine Kugel, die eigentlich nur im Augenblick der heftigen Detonation sichtbar war; der Schall wurde noch in 20 deutschen Meilen Entfernung gehört, in 40, wo das Meteor auch gesehen wurde, nicht mehr. Es fielen 3 Steine und wurden sogleich aufgefunden; sie wogen 2 K. 291, 1 K. 909 und 1 K. 844. Die beiden ersten passten zusammen, doch war die Bruchfläche nicht überrindet; beide lagen etwa 1 engl. Meile auseinander. Das dritte Stück, welches 10 engl. Meilen davon gefunden wurde, hatte einen ansehnlichen Teil überrindet, ähnlich der Rinde der beiden anderen Stücke, aber der andere Teil war frischer Bruch; dieser passte nicht ganz genau an die anderen, aber doch so nahe, dass nur ein kleiner Teil der ganzen Masse verloren gegangen sein kann. Das Zerreissen des Steines muss also in großer Höhe vor sich gegangen sein, wo aber schon die kosmische Geschwindigkeit durch den Widerstand der Atmosphäre aufgehoben war. Die Hauptmasse ist in Calcutta; Bruchstücke finden sich in London (1 K. 643), Wien (498,762 Gr.) und den Privatsammlungen von Greg (24,6 Gr.), Shepard und v. Reichenbach.
+Etwa 90 engl. Meilen vom Fallort auf dem Basseinflusse fahrend sah Leutnant Aylesbury eine äußerst glänzende Lichterscheinung von SW. nach NO. ziehen, mehr ein langer Feuerschweif, als eine Kugel, die eigentlich nur im Augenblick der heftigen Detonation sichtbar war; der Schall wurde noch in 20 deutschen Meilen Entfernung gehört, in 40, wo das Meteor auch gesehen wurde, nicht mehr. Es fielen 3 Steine und wurden sogleich aufgefunden; sie wogen 2 K. 291, 1 K. 909 und 1 K. 844. Die beiden ersten passten zusammen, doch war die Bruchfläche nicht überrindet; beide lagen etwa 1 engl. Meile auseinander. Das dritte Stück, welches 10 engl. Meilen davon gefunden wurde, hatte einen ansehnlichen Teil überrindet, ähnlich der Rinde der beiden anderen Stücke, aber der andere Teil war frischer Bruch; dieser passte nicht ganz genau an die anderen, aber doch so nahe, dass nur ein kleiner Teil der ganzen Masse verloren gegangen sein kann. Das Zerreißen des Steines muss also in großer Höhe vor sich gegangen sein, wo aber schon die kosmische Geschwindigkeit durch den Widerstand der Atmosphäre aufgehoben war. Die Hauptmasse ist in Calcutta; Bruchstücke finden sich in London (1 K. 643), Wien (498,762 Gr.) und den Privatsammlungen von Greg (24,6 Gr.), Shepard und v. Reichenbach.
 
 Spezifisches Gewicht: 3,737 Haidinger.
 
-Die Rinde ist graulichschwarz insBraune, eglanzlos, dünn; die innere graue, etwas bläuliche Masse besteht ganz aus einzelnen runden, wie in weißen Sand eingebetteten Körnern oder Kügelchen, die sich leicht trennen. Das Ganze ist zerreiblich. Geschliffen treten die kugeligen Einschlüsse deutlicher hervor, teils ganz rund, teils eckig, graulichweiss bis dunkelrauchgrau in allen Schattirungen, höchstens 1 Linie im Durchmesser. Eisen ist gleichmäßig und fein, Schwefeleisen äußerst fein eingesprengt. Letzterer Bestandteil, der Farbe nach Magnetkies, durchsetzt die Steinmasse plattenförmig in der Art eines Ganges, der an der stärksten Stelle etwa 1/2 Linie dick ist.
+Die Rinde ist graulichschwarz ins Braune, eglanzlos, dünn; die innere graue, etwas bläuliche Masse besteht ganz aus einzelnen runden, wie in weißen Sand eingebetteten Körnern oder Kügelchen, die sich leicht trennen. Das Ganze ist zerreiblich. Geschliffen treten die kugeligen Einschlüsse deutlicher hervor, teils ganz rund, teils eckig, graulichweiß bis dunkelrauchgrau in allen Schattierungen, höchstens 1 Linie im Durchmesser. Eisen ist gleichmäßig und fein, Schwefeleisen äußerst fein eingesprengt. Letzterer Bestandteil, der Farbe nach Magnetkies, durchsetzt die Steinmasse plattenförmig in der Art eines Ganges, der an der stärksten Stelle etwa 1/2 Linie dick ist.
 
 Literatur: Haidinger Wien. Akad. Ber. 41, 750. 42, 301. 44, 637; bei 2 eine Kartenskizze, bei 3 die Erscheinung des Meteors in Farbendruck.
 
 ### Kakowa
 
-Kakowa, nordwestl. von Oravitza, Temeser Banat, Oesterreich.
+Kakowa, nordwestl. von Oravitza, Temeser Banat, Österreich.
 
 1858, Mai 19, 8 Uhr Morgens.
 
@@ -4256,7 +4246,7 @@ Schafhirten hörten ein dumpfes Donnern und dann ein Sausen in der Luft und sahe
 
 Spezifisches Gewicht: 3,384 Haidinger.
 
-Die Rinde ist schwarz, wenig glänzend, in den tieferen Stellen der Oberfläche gröblich netzartig, wie runzelig. Die Grundmasse ist hellgrau mit zahlreichen kleinen rostbraunen Flecken, ganz feinkörnig, fast dicht und voll metallischer Eisenteilchen bis zu 1 Linie im Durchmesser. Auf einer polierten Fläche lassen sich außer der vorherrschenden hellgrauen Grundmasse dunklere Stellen erkennen, sowie kugelige Einschlüsse von fast graulichweisser Farbe, in denen das Eisen fast ganz fehlt. Einige Kügelchen sind dunkler, von bräunlicher Farbe. Der ganze untere Teil des Steines wird seiner größten Diagonale nach von einem nahe 3/4 Linien dicken Gang von Rindenmasse durchsetzt. Außerdem sieht man noch zahlreiche, mehr Haarrissen ähnliche Spaltendurchschnitte, deren einige die hellfarbigen kugeligen Einschlüsse durchsetzen. Im Ganzen ähnelt der Stein denen von Macao (1836) und Lucé (1768).
+Die Rinde ist schwarz, wenig glänzend, in den tieferen Stellen der Oberfläche gröblich netzartig, wie runzelig. Die Grundmasse ist hellgrau mit zahlreichen kleinen rostbraunen Flecken, ganz feinkörnig, fast dicht und voll metallischer Eisenteilchen bis zu 1 Linie im Durchmesser. Auf einer polierten Fläche lassen sich außer der vorherrschenden hellgrauen Grundmasse dunklere Stellen erkennen, sowie kugelige Einschlüsse von fast graulichweißer Farbe, in denen das Eisen fast ganz fehlt. Einige Kügelchen sind dunkler, von bräunlicher Farbe. Der ganze untere Teil des Steines wird seiner größten Diagonale nach von einem nahe 3/4 Linien dicken Gang von Rindenmasse durchsetzt. Außerdem sieht man noch zahlreiche, mehr Haarrissen ähnliche Spaltendurchschnitte, deren einige die hellfarbigen kugeligen Einschlüsse durchsetzen. Im Ganzen ähnelt der Stein denen von Macao (1836) und Lucé (1768).
 
 Harris hat unter Wöhlers Leitung den Stein analysiert und gefunden:
 
@@ -4281,7 +4271,7 @@ Aussun und Clarac, Canton Montréjeau, Dép. de la Haute Garonne, Frankreich.
 
 1858, Dez. 9, 7 1/2 Uhr Morgens.
 
-Es wurde eine glänzende Feuerkugel von NO. nach SW. mit einer Bahnlänge von 12-15 Meilen wahrgenommen; dann folgte ein heftiger Schall wie bei der Explosion eines Pulverthurms, welcher auf 10-13 [] Meilen gehört wurde. Ein großer schwarzer noch heisser Stein von 8-10 K. schlug durch das Strohdach einer Hütte zu Clarac; bei Aussun wurde ein unregelmäßig sphärischer Stein mit Einbuchtungen, 40-45 K. schwer, ausgegraben, auch an anderen Stellen scheinen noch Steine gefallen zu sein. Sie wurden zerschlagen und verteilt. Die größten Stücke sind wohl nach Paris gekommen. Außerdem sind Bruchstücke in Wien (745,95 Gr.), Berlin (547,981 Gr.), Edinburgh (354 Gr.), London (341 Gr.), Kopenhagen (Univ. 150 Gr.), Göttingen (95 Gr.), Heidelberg, Montpellier, Polignan und den Privatsammlungen von de Luynes (715 Gr., 2 St.), Greg (346 Gr.), Shepard (297 Gr.), v. Reichenbach, Nevill und Ferber (133 Gr., 2 St.).
+Es wurde eine glänzende Feuerkugel von NO. nach SW. mit einer Bahnlänge von 12-15 Meilen wahrgenommen; dann folgte ein heftiger Schall wie bei der Explosion eines Pulverturms, welcher auf 10-13 [] Meilen gehört wurde. Ein großer schwarzer noch heißer Stein von 8-10 K. schlug durch das Strohdach einer Hütte zu Clarac; bei Aussun wurde ein unregelmäßig sphärischer Stein mit Einbuchtungen, 40-45 K. schwer, ausgegraben, auch an anderen Stellen scheinen noch Steine gefallen zu sein. Sie wurden zerschlagen und verteilt. Die größten Stücke sind wohl nach Paris gekommen. Außerdem sind Bruchstücke in Wien (745,95 Gr.), Berlin (547,981 Gr.), Edinburgh (354 Gr.), London (341 Gr.), Kopenhagen (Univ. 150 Gr.), Göttingen (95 Gr.), Heidelberg, Montpellier, Polignan und den Privatsammlungen von de Luynes (715 Gr., 2 St.), Greg (346 Gr.), Shepard (297 Gr.), v. Reichenbach, Nevill und Ferber (133 Gr., 2 St.).
 
 Spezifisches Gewicht:  
 3,51 bei einem ganzen Stück, Damour,  
@@ -4290,9 +4280,7 @@ Spezifisches Gewicht:
 3,50 Chancel u. Moitessier,  
 3,39 die Kugeln. Leymerie.
 
-Die Grundmasse ist ziemlich gleichförmig hellaschgrau, derb, doch etwas mürbe; sie enthält verschiedene Einschlüsse, besonders gelb-
-
-lichgrüne von Hirsekorngrösse, ein olivinartiges Mineral; dann dunkelgraue, olivingrüne bis braune Kugeln, zum Teil schalig, von 1-4mm Durchmesser und selbst bis Erbsengroße, die leicht aus der umgebenden Masse auszulösen sind mit Hinterlassung eines Grübchens; sie sind selten rein und schließen öfter kleine Metallflitter und Grundmasse ein. Ein dritter Einschluss von etwa 3/4 Kubikzoll ist gelbgrau, ähnlich krystallinischem Olivin, aber weniger durchscheinend und hat mehr Fettals Glasglanz; auch dieser hat eine rundliche Oberfläche ähnlich einem Geschiebe. Magnetkies und gediegenes Eisen, auch etwas Schwefelkies sind in geringer Menge und meist ganz fein eingesprengt, doch haben auch manche Metallflitter bis 5mm Länge; auch fehlen die gelblichen sogenannten Rostflecken nicht.
+Die Grundmasse ist ziemlich gleichförmig hellaschgrau, derb, doch etwas mürbe; sie enthält verschiedene Einschlüsse, besonders gelblichgrüne von Hirsekorngrösse, ein olivinartiges Mineral; dann dunkelgraue, olivingrüne bis braune Kugeln, zum Teil schalig, von 1-4mm Durchmesser und selbst bis Erbsengroße, die leicht aus der umgebenden Masse auszulösen sind mit Hinterlassung eines Grübchens; sie sind selten rein und schließen öfter kleine Metallflitter und Grundmasse ein. Ein dritter Einschluss von etwa 3/4 Kubikzoll ist gelbgrau, ähnlich kristallinischem Olivin, aber weniger durchscheinend und hat mehr Fettals Glasglanz; auch dieser hat eine rundliche Oberfläche ähnlich einem Geschiebe. Magnetkies und gediegenes Eisen, auch etwas Schwefelkies sind in geringer Menge und meist ganz fein eingesprengt, doch haben auch manche Metallflitter bis 5mm Länge; auch fehlen die gelblichen sogenannten Rostflecken nicht.
 
 Die Rinde ist schwärzlichbraun, matt und sehr dünn.
 
@@ -4309,7 +4297,7 @@ c 52,05. 11,40. 18,45. 16,50. -,-. Spur. 1,60. -,-.
 d 61,58. 2,00. 11,80. 16,90. 2,55. 0,60. 2,30. 2,00.  
 e 65,11. 2,10. 12,42. 14,46. 2,68. 0,63. 2,40. -,-.  
 
-a In HCl leicht löslicher Teil. b Dasselbe nach einer späteren Correktur. c Der HCl länger widerstehende Teil. d Die ganze Masse. e Dieselbe ohne Schwefeleisen.
+a In HCl leicht löslicher Teil. b Dasselbe nach einer späteren Korrektur. c Der HCl länger widerstehende Teil. d Die ganze Masse. e Dieselbe ohne Schwefeleisen.
 
 Sie berechnen daraus:  
 Silikate|85,98  
@@ -4320,7 +4308,7 @@ Filhol nimmt den löslichen Teil (b) als Olivin an, ebenso Leymerie die Kugeln.
 
 Analyse von Chancel und Moitessier:
 
-Magnet. Thl. 10,04 (Fe 83,65. Ni 15,58. P Met. 0,67. S u. Verl. 0,19)  
+Magnet. Tl. 10,04 (Fe 83,65. Ni 15,58. P Met. 0,67. S u. Verl. 0,19)  
 Chromeisen|0,67  
 Magnetkies|5,72  
 Olivin|45,08 (SiO₃ 39,46. FeO 22,05. MgO 38,49)  
@@ -4345,7 +4333,7 @@ Mn|0,50
 S|2,14  
 P|Sp.
 
-Nicht magnesticher Teil.
+Nicht magnetischer Teil.
 
 a\. im Ganzen. 91,59%
 SiO₃|42,00  
@@ -4398,7 +4386,7 @@ Unter explosionsartigem Knallen und zischendem Geräusch fielen vier Steine, die
 
 Spezifisches Gewicht: 3,465 Smith.
 
-Die Rinde ist schwarz und glasig, das Innere grau; mit der Lupe lassen sich darin metallische Teilchen, ein dunkles glasiges Mineral, ein dunkles mattes, sowie ein weisses Mineral erkennen. Mit dem Magnet lassen sich 4,91% ausziehen, die nach der Analyse von Smith bestehn aus:
+Die Rinde ist schwarz und glasig, das Innere grau; mit der Lupe lassen sich darin metallische Teilchen, ein dunkles glasiges Mineral, ein dunkles mattes, sowie ein weißes Mineral erkennen. Mit dem Magnet lassen sich 4,91% ausziehen, die nach der Analyse von Smith bestehn aus:
 
 Fe. Ni. Co. Cu. P. S.  
 86,781. 13,241. 0,342. 0,036. 0,026. 0,022.
@@ -4436,11 +4424,11 @@ Bethlehem bei Albany, Troy, New-York, Nord-Amerika.
 
 1859, August 11.
 
-Es wurde eine heftige Detonation in Nordwest-Massachussets und New-York gehört. Nur ein Stein in der Größe eines Taubeneis wurde gefunden; er war beim Anschlagen an ein Haus zerborsten. Der größte Teil (9,3 Gr.) ist im Staatscabinet zu Albany, auch London und Shepard besitzen kleine Stückchen.
+Es wurde eine heftige Detonation in Nordwest-Massachusetts und New-York gehört. Nur ein Stein in der Größe eines Taubeneis wurde gefunden; er war beim Anschlagen an ein Haus zerborsten. Der größte Teil (9,3 Gr.) ist im Staatskabinett zu Albany, auch London und Shepard besitzen kleine Stückchen.
 
 Spezifisches Gewicht: 3,56 Shepard.
 
-Die Rinde ist dick, vollkommen schwarz, rau. Innen ist die Masse hellgrau, feinkörnig; die einzelnen Körnchen sind sehr kristallinisch, fast durchsichtig, glänzend, grau oder grünlich weiß. Nickeleisen von glänzendweisser Farbe ist in feinen Fäden und halb krystallinischen Körnern dick durch die Masse zerstreut; außerdem treten glänzende Punkte von Einfachschwefeleisen auf.
+Die Rinde ist dick, vollkommen schwarz, rau. Innen ist die Masse hellgrau, feinkörnig; die einzelnen Körnchen sind sehr kristallinisch, fast durchsichtig, glänzend, grau oder grünlich weiß. Nickeleisen von glänzendweißer Farbe ist in feinen Fäden und halb kristallinischen Körnern dick durch die Masse zerstreut; außerdem treten glänzende Punkte von Einfachschwefeleisen auf.
 
 In der Farbe kommt der Stein Kleinwenden (p. 73) am nächsten, doch ist er grobkörniger und lockerer im Gefüge.
 
@@ -4454,11 +4442,11 @@ Alessandria, S. Giuliano vecchio, Piemont.
 
 Prof. Bombicci in Bologna hatte die Güte, über diesen Steinfall folgende briefliche Mitteilungen zu machen:
 
-"Den 2. Febr. 1860 hörte man im Thal von S. Giuliano vecchio, nahe bei der Stadt Alessandria in Piemont, ungefähr gegen 12 Uhr Mittags einen sehr starken Knall in der Luft, der die umliegenden Städte fürchten ließ, es sei irgendein Pulvermagazin explodirt. Der Knall war vom Fall verschiedener Aerolithen begleitet. Ein Jäger, welcher sich bestürzt hinter eine Mauer geflüchtet hatte, konnte einige davon sammeln, unter ihnen den von mir besessenen, von dem ich ein Stück den Sammlungen hiesiger Universität, in das von mir dirigirte Museum, geschenkt habe. Das Aussehen ist dem der Aerolithen sehr ähnlich, die in Gegenwart verschiedener Augenzeugen in der Umgegend von S. Giovan d'Asso nahe bei Siena im Jahr 1794 fielen; dieselbe schwarze Farbe der äusseren Kruste, dieselbe körnige Struktur, dieselbe Dichtigkeit. Was diesen sehr schönen Meteorstein allein bemerkenswert macht, ist der Reichtum an metallischem Eisen, welches, statt in bestimmte kleine Teilchen inmitten der steinartigen Elemente, vorzugsweise Silikate, zerteilt zu sein, in kleinen Schichten, in Plättchen mit verschiedener Richtung und verschiedener Dicke sich darstellt. Sie sind im Allgemeinen sehr fein, diese kleinen Schichten, so dass ihr Querschnitt sich dem Auge wie eine dünne, schwarze Linie präsentirt. Sie haben metallisches Aussehen und Glanz. Die Analyse dieses Meteoriten wurde von Missaghi unternommen, und folgende sind davon die Resultate:
+"Den 2. Febr. 1860 hörte man im Thal von S. Giuliano vecchio, nahe bei der Stadt Alessandria in Piemont, ungefähr gegen 12 Uhr Mittags einen sehr starken Knall in der Luft, der die umliegenden Städte fürchten ließ, es sei irgendein Pulvermagazin explodiert. Der Knall war vom Fall verschiedener Aerolithen begleitet. Ein Jäger, welcher sich bestürzt hinter eine Mauer geflüchtet hatte, konnte einige davon sammeln, unter ihnen den von mir besessenen, von dem ich ein Stück den Sammlungen hiesiger Universität, in das von mir dirigierte Museum, geschenkt habe. Das Aussehen ist dem der Aerolithen sehr ähnlich, die in Gegenwart verschiedener Augenzeugen in der Umgegend von S. Giovan d'Asso nahe bei Siena im Jahr 1794 fielen; dieselbe schwarze Farbe der äußeren Kruste, dieselbe körnige Struktur, dieselbe Dichtigkeit. Was diesen sehr schönen Meteorstein allein bemerkenswert macht, ist der Reichtum an metallischem Eisen, welches, statt in bestimmte kleine Teilchen inmitten der steinartigen Elemente, vorzugsweise Silikate, zerteilt zu sein, in kleinen Schichten, in Plättchen mit verschiedener Richtung und verschiedener Dicke sich darstellt. Sie sind im Allgemeinen sehr fein, diese kleinen Schichten, so dass ihr Querschnitt sich dem Auge wie eine dünne, schwarze Linie präsentiert. Sie haben metallisches Aussehen und Glanz. Die Analyse dieses Meteoriten wurde von Missaghi unternommen, und folgende sind davon die Resultate:
 
 Kieselsäure|37,403  
 Metallisches Eisen|19,370  
-Oxydirtes Eisen|12,831  
+Oxydiertes Eisen|12,831  
 Magnesia|11,176  
 Tonerde|8,650  
 Schwefel|3,831  
@@ -4469,7 +4457,7 @@ Mangan und Kobalt|Spur
 Verlust|1,673  
 100,000
 
-Die Stücke und Fragmente wogen 300-1000 Gr. Ihre mittlere Dichtigkeit war 3,815, die Dichtigkeit der äusseren Kruste 4,801. Die Silikate, welche den steinartigen Teil ausmachen, wurden nicht bestimmt.
+Die Stücke und Fragmente wogen 300-1000 Gr. Ihre mittlere Dichtigkeit war 3,815, die Dichtigkeit der äußeren Kruste 4,801. Die Silikate, welche den steinartigen Teil ausmachen, wurden nicht bestimmt.
 
 Das Wetter während des Falles der Aerolithen war regnerisch, ziemlich kalt; der Thau war vom Frost gehärtet, was die Wiederauffindung der Fragmente erleichterte."
 
@@ -4495,13 +4483,13 @@ New-Concord unweit Zanesville, Guernsey County und Muskingum County, Ohio, Nord-
 
 1860, Mai 1, 12 Uhr 46 Min. Mittags.
 
-Aus einem Feuermeteor von scheinbarer Vollmondgrösse, das sich von SO. nach NW. mit einer Geschwindigkeit von etwa 4 Meilen in der Secunde bewegte und dessen Höhe Evans auf 41-43 engl. Meilen, den Durchmesser auf etwa 3/8 Meilen berechnete, fielen unter heftiger Detonation viele größere Steine; einer von etwa 25 K. wurde im Fall gesehen und noch heiß ausgegraben; der größte von fast 47 K. wurde erst nach drei Wochen am Fuß einer Eiche drei Fuß tief in der Erde gefunden. Es mögen wohl über 30 Steine gefallen sein, die zusammen etwa 350 K. wogen; sie waren auf einem Raum von 10 engl. Meilen Länge und 3 Meilen Breite in der Richtung von SO. nach NW. zerstreut; am NW.-Ende lagen die größten. Bruchstücke sind jedenfalls in den meisten amerikanischen Sammlungen. Smith, Shepard und Patterson besitzen die größten. Der größte Stein ist im Marietta College; von europäischen Sammlungen besitzen Stücke: London (fast 8 K.), Berlin (222,744 Gr.), Göttingen (211 Gr.), Wien (201,25 Gr.), Heidelberg, Zürich (1,6 Gr.) und die Privatsammlungen von Greg (über 3 K.), v. Reichenbach, Ferber (116 Gr.).
+Aus einem Feuermeteor von scheinbarer Vollmondgrösse, das sich von SO. nach NW. mit einer Geschwindigkeit von etwa 4 Meilen in der Sekunde bewegte und dessen Höhe Evans auf 41-43 engl. Meilen, den Durchmesser auf etwa 3/8 Meilen berechnete, fielen unter heftiger Detonation viele größere Steine; einer von etwa 25 K. wurde im Fall gesehen und noch heiß ausgegraben; der größte von fast 47 K. wurde erst nach drei Wochen am Fuß einer Eiche drei Fuß tief in der Erde gefunden. Es mögen wohl über 30 Steine gefallen sein, die zusammen etwa 350 K. wogen; sie waren auf einem Raum von 10 engl. Meilen Länge und 3 Meilen Breite in der Richtung von SO. nach NW. zerstreut; am NW.-Ende lagen die größten. Bruchstücke sind jedenfalls in den meisten amerikanischen Sammlungen. Smith, Shepard und Patterson besitzen die größten. Der größte Stein ist im Marietta College; von europäischen Sammlungen besitzen Stücke: London (fast 8 K.), Berlin (222,744 Gr.), Göttingen (211 Gr.), Wien (201,25 Gr.), Heidelberg, Zürich (1,6 Gr.) und die Privatsammlungen von Greg (über 3 K.), v. Reichenbach, Ferber (116 Gr.).
 
 Spezifisches Gewicht:  
 3,5417 Johnson,  
 3,550 Smith.
 
-Die Steine haben alle eine eckige Gestalt und sind mit einer matten, schwarzen Rinde bedeckt. An manchen Stellen ist die Oberfläche nur zum Teil verglast. Das Innere ist sehr feinkörnig, lichtbläulichgrau; mit der Lupe lassen sich darin fünf verschiedene Bestandteile unterscheiden; eine weissliche Masse ist reichlich durch das Ganze zerstreut und an einigen Stellen ein noch heller weisses Mineral erkennbar. Ein gelblichbraunes Mineral ist in Flecken, und schwarze Teilchen über: die Oberfläche zerstreut. Ein Stück hatte sehr dünne Adern eines glänzenden schwarzen Minerals, wahrscheinlich Graphit. In großen Massen ist der Stein sehr zäh, kleine Stückchen aber sind leicht zerreiblich. Die undeutlichen kugeligen Einschlüsse sind so fest in der Grundmasse eingebettet, dass sie auf dem Bruch ebenfalls Querbruch zeigen. Glänzendweisses Nickeleisen ist reichlich in kleinen Punkten und bis zu Stecknadelkopfgrösse eingestreut. Einfachschwefeleisen ist weniger auffallend, obgleich oft sichtbar in größeren Flecken, während schwarze Körner von Chromeisen mit der Lupe und manchmal mit blossen Augen zu erkennen sind.
+Die Steine haben alle eine eckige Gestalt und sind mit einer matten, schwarzen Rinde bedeckt. An manchen Stellen ist die Oberfläche nur zum Teil verglast. Das Innere ist sehr feinkörnig, lichtbläulichgrau; mit der Lupe lassen sich darin fünf verschiedene Bestandteile unterscheiden; eine weißliche Masse ist reichlich durch das Ganze zerstreut und an einigen Stellen ein noch heller weißes Mineral erkennbar. Ein gelblichbraunes Mineral ist in Flecken, und schwarze Teilchen über: die Oberfläche zerstreut. Ein Stück hatte sehr dünne Adern eines glänzenden schwarzen Minerals, wahrscheinlich Graphit. In großen Massen ist der Stein sehr zäh, kleine Stückchen aber sind leicht zerreiblich. Die undeutlichen kugeligen Einschlüsse sind so fest in der Grundmasse eingebettet, dass sie auf dem Bruch ebenfalls Querbruch zeigen. Glänzendweißes Nickeleisen ist reichlich in kleinen Punkten und bis zu Stecknadelkopfgroße eingestreut. Einfachschwefeleisen ist weniger auffallend, obgleich oft sichtbar in größeren Flecken, während schwarze Körner von Chromeisen mit der Lupe und manchmal mit bloßen Augen zu erkennen sind.
 
 Analysen liegen vor von Johnson 1., Smith 2., 3. und Madelung 4.
 
@@ -4545,7 +4533,7 @@ Literatur: Sehr ausführliche Berichte nebst Kartenskizzen und Abbildungen von S
 
 ### Dhurmsala
 
-Dhurmsala, Dharam Sal, District von Kangra, NO. von Punjab, 31° 55' nördlicher Breite, 77°, östlicher Länge von Greenw., Ostindien.
+Dhurmsala, Dharam Sal, Distrikt von Kangra, NO. von Punjab, 31° 55' nördlicher Breite, 77°, östlicher Länge von Greenw., Ostindien.
 
 1860, Juli 14, 2 1/4 Uhr Nachmittags.
 
@@ -4555,7 +4543,7 @@ Spezifisches Gewicht:
 3,456 Jackson,  
 3,175 Haidinger.
 
-Die Rinde ist bräunlichschwarz und glanzlos, das Innere ist ziemlich fest, hellgrau und vollkommen körnig mit sehr wenigen rostbraunen Flecken, und schließt stellenweise bis nahe viertelzöllige Einschlüsse der verschiedensten Beschaffenheit ein; die hellgrauen, fast weißen sind mehr kristallinisch, die dunkelbraunen mehr dicht. Eisen und Magnetkies sind nicht sehr häufig, letzterer tritt auch in Spuren als Ueberrindung der runden, wie abgerollten Einschlüsse auf.
+Die Rinde ist bräunlichschwarz und glanzlos, das Innere ist ziemlich fest, hellgrau und vollkommen körnig mit sehr wenigen rostbraunen Flecken, und schließt stellenweise bis nahe viertelzöllige Einschlüsse der verschiedensten Beschaffenheit ein; die hellgrauen, fast weißen sind mehr kristallinisch, die dunkelbraunen mehr dicht. Eisen und Magnetkies sind nicht sehr häufig, letzterer tritt auch in Spuren als Überrundung der runden, wie abgerollten Einschlüsse auf.
 
 Nach der Analyse von Jackson werden 43%, mit dem Magnet ausgezogen. Die Steinmasse besteht aus:
 
@@ -4603,14 +4591,14 @@ Bulloah
 Chireya  
 4 K.
 
-Es kann nicht bezweifelt werden, dass die fünf an vier verschiedenen Orten gefallenen Steine ursprünglich eine einzige Masse ausmachten. Maskelyne hat sie aneinandergepasst; danach fehlte nur ein plattenförmiges Stück zwischen dem Piprassi- und dem Qutaharstein. Die zwei Bulloahbruchstücke passen genau aneinander und an den Piprassistein; an den Stellen, wo sie zusammenstossen, sind sie nicht überrindet, wohl aber an den anderen. Die Chireya- und Qutaharstücke dagegen haben überall eine Rinde, die kaum irgendwo eine Verschiedenheit zeigt. Die Oberflächen sind glatt und die Ecken stark abgerundet. Das Zerbersten muss also zu verschiedenen Zeiten vor sich gegangen sein, so dass zuerst eine Ueberrindung der Bruchfläche noch möglich war, dann aber nicht mehr.
+Es kann nicht bezweifelt werden, dass die fünf an vier verschiedenen Orten gefallenen Steine ursprünglich eine einzige Masse ausmachten. Maskelyne hat sie aneinandergepasst; danach fehlte nur ein plattenförmiges Stück zwischen dem Piprassi- und dem Qutaharstein. Die zwei Bulloahbruchstücke passen genau aneinander und an den Piprassistein; an den Stellen, wo sie zusammenstossen, sind sie nicht überrindet, wohl aber an den anderen. Die Chireya- und Qutaharstücke dagegen haben überall eine Rinde, die kaum irgendwo eine Verschiedenheit zeigt. Die Oberflächen sind glatt und die Ecken stark abgerundet. Das Zerbersten muss also zu verschiedenen Zeiten vor sich gegangen sein, so dass zuerst eine Überrundung der Bruchfläche noch möglich war, dann aber nicht mehr.
 
 Spezifisches Gewicht: 3,60 Maskelyne. Es scheint in den ver-
 schiedenen Teilen ziemlich gleichmäßig zu sein.
 
 Die Rinde ist russschwarz und von dichtem Gefüge; an manchen Stücken geht die Farbe mehr in's Braune über. Auch die Dicke ist nicht überall gleich.
 
-Das Innere besteht aus einer gelblichbraunen Grundmasse; mit einer Lupe erkennt man eine reichliche Einstreuung von vorstehenden Punkten metallischen Eisens, welche von unregelmässigen dunkeln Flecken umgeben sind. Schwefeleisen tritt in ansehnlicher Menge mit dem Eisen auf. Dieses ist in kleinen, einzelnen, unregelmäßig gestalteten und manchmal kristallinisch aussehenden Körnchen verteilt, die nicht zu einer schwammartigen Masse sich vereinigen. Außer diesen Bestandteilen finden sich verschiedene sehr unregelmäßig verteilte Kügelchen eines durchscheinenden Minerals von grünlichbrauner Farbe, das dem Olivin ähnlich ist, sowie selten ein sehr dunkel gefärbtes Mineral gewöhnlich mit schimmerndem Bruch und vielleicht manchmal etwas kristallinisch.
+Das Innere besteht aus einer gelblichbraunen Grundmasse; mit einer Lupe erkennt man eine reichliche Einstreuung von vorstehenden Punkten metallischen Eisens, welche von unregelmäßigen dunkeln Flecken umgeben sind. Schwefeleisen tritt in ansehnlicher Menge mit dem Eisen auf. Dieses ist in kleinen, einzelnen, unregelmäßig gestalteten und manchmal kristallinisch aussehenden Körnchen verteilt, die nicht zu einer schwammartigen Masse sich vereinigen. Außer diesen Bestandteilen finden sich verschiedene sehr unregelmäßig verteilte Kügelchen eines durchscheinenden Minerals von grünlichbrauner Farbe, das dem Olivin ähnlich ist, sowie selten ein sehr dunkel gefärbtes Mineral gewöhnlich mit schimmerndem Bruch und vielleicht manchmal etwas kristallinisch.
 
 Unter dem Mikroskop bei schwacher Vergrößerung scheint eine Schnittfläche aus Olivin zu bestehn, der mit einem grauen und einem undurchsichtigen weißen Mineral gemischt ist; das graue scheint manchmal Kügelchen zu bilden, die wieder Olivin einschliessen.
 
@@ -4636,7 +4624,7 @@ Literatur: Philos. Magaz. 1861, Aug. 107.
 
 Meno in der Nähe von Fürstenberg, Alt-Strelitz, Mecklenburg.
 
-1862, October 7, zwischen 12 1/2 Uhr Mittags.
+1862, Oktober 7, zwischen 12 1/2 Uhr Mittags.
 
 Aus einer großen Feuerkugel fiel unter Geräusch, Zischen und Sausen, unterbrochen von heftigen Detonationen, die mit einer fernen Kanonade verglichen wurden, ein großer Stein schräg von Ost nach West 1 1/2 Fuß tief in die Erde. Dabei war der Himmel klar, und weder ein Schweif, noch eine Wolke in der Gegend der Detonation ist bemerkt worden. Einem Schafhirten, der nahe dabei war, wurde dabei der Sand ins Gesicht geworfen; doch war die Hitze des Steines zu groß, ihn sofort aus dem Boden zu nehmen. Anfangs hatte er das Gewicht von etwa 10 K. oder etwas darüber, doch wurden einige Stücke davon abgeschlagen, so dass er jetzt noch 7 K. wiegt. v. Reichenbach hat ihn für 400 Thlr. gekauft.
 
@@ -4666,7 +4654,7 @@ Im Darmstädtischen (nach der Etikette 1815 bei Darmstadt gefallen, aber jedenfa
 
 Fallzeit unbekannt. Ein Stein von etwa 94 Gr. Gewicht ist in der akadem. Mineraliensammlung zu Heidelberg; von anderen Sammlungen besitzen nur Wien (5,5 Gr.) und London ein kleines Bruchstück. Suckow führt in seiner »Mineralogie« von 1804 an, dass mehre Stücke in der Heidelberger Sammlung waren und dass sie, »nachdem man verschiedene Male heftige Knalle in der Luft gehört hatte«, im Darmstädtischen gefunden worden seien. Sie müssen also jedenfalls vor 1804 gefallen sein.
 
-Blum beschreibt den Stein als ein. feinkörniges Gemenge von vorherrschendem Olivin mit Labradorit und wie es scheint auch mit etwas Augit und gediegenem Eisen. Dieses ist in einzelnen stark glänzenden Körnchen eingestreut und durchzieht die Masse in zackigen Partien, so dass der Gehalt davon ziemlich bedeutend ist. An der Oberfläche ist es hier und da oxydiert, wodurch kleine Rostflecken entstehn. Der Olivin tritt in bräunlichgelben krystallinischen Teilchen auf, selten in undeutlichen Krystallen, manchmal mit deutlichen und stark glänzenden brachydiagonalen Spaltungsflächen. Labradorit tritt in graulichen krystallinischen Partien, auch zuweilen mit deutlichen Spaltungsflächen auf. Kleine schwarze Pünktchen scheinen Augit zu sein.
+Blum beschreibt den Stein als ein. feinkörniges Gemenge von vorherrschendem Olivin mit Labradorit und wie es scheint auch mit etwas Augit und gediegenem Eisen. Dieses ist in einzelnen stark glänzenden Körnchen eingestreut und durchzieht die Masse in zackigen Partien, so dass der Gehalt davon ziemlich bedeutend ist. An der Oberfläche ist es hier und da oxydiert, wodurch kleine Rostflecken entstehn. Der Olivin tritt in bräunlichgelben kristallinischen Teilchen auf, selten in undeutlichen Krystallen, manchmal mit deutlichen und stark glänzenden brachydiagonalen Spaltungsflächen. Labradorit tritt in graulichen kristallinischen Partien, auch zuweilen mit deutlichen Spaltungsflächen auf. Kleine schwarze Pünktchen scheinen Augit zu sein.
 
 Die Rinde ist schwarz, runzelig, matt, nur stellenweise glänzend.
 
@@ -4696,7 +4684,7 @@ Weder über Fallort, noch Fallzeit ist etwas bekannt geworden. In der Sammlung d
 
 Spezifisches Gewicht: 3,55 Rumler.
 
-Die meist schwarze, dünne, iwatte Rinde wird an einer Seite, die zugleich durch die Vertiefungen darin sich auszeichnet, durch einen bräunlichen Ueberzug ersetzt. Die dunkelaschfarbene, feinkörnige Grundmasse enthält teils hellere, teils dunklere, stellenweise fast schwarze rundliche Einschlüsse, sowie meist sehr fein und nicht häufig eingesprengtes Eisen und ebenso Magnetkies.
+Die meist schwarze, dünne, iwatte Rinde wird an einer Seite, die zugleich durch die Vertiefungen darin sich auszeichnet, durch einen bräunlichen Überzug ersetzt. Die dunkelaschfarbene, feinkörnige Grundmasse enthält teils hellere, teils dunklere, stellenweise fast schwarze rundliche Einschlüsse, sowie meist sehr fein und nicht häufig eingesprengtes Eisen und ebenso Magnetkies.
 
 Literatur: Blöde Bull. Acad. Pétersb. 6, 1848, No. 1. Eichwald Erman Arch. 5, 180.
 
@@ -4710,7 +4698,7 @@ Speecifisches Gewicht: 3,51-3,55 Rumler.
 
 Die Rinde ist matt und schwarz, sehr dünn, unterbrochen und fast nur schorfartig.
 
-Die derbe und dichte dunkelgraue Grundmasse zeigt angeschliffen feine dunkelgrüngraue Körner. Eisen ist spärlich und fein eingesprengt, aber viel Schwefeleisen, das ebenfalls meist sehr fein, aber selbst bis zu erbsengrossen Körnern und zum Teil bunt angelaufen auftritt. Blöde vermuthet auch Magneteisen (?) darin. Nach v. Reichenbach sollen auch große kristallinische Körper darin eingeschlossen sein.
+Die derbe und dichte dunkelgraue Grundmasse zeigt angeschliffen feine dunkelgrüngraue Körner. Eisen ist spärlich und fein eingesprengt, aber viel Schwefeleisen, das ebenfalls meist sehr fein, aber selbst bis zu erbsengrossen Körnern und zum Teil bunt angelaufen auftritt. Blöde vermutet auch Magneteisen (?) darin. Nach v. Reichenbach sollen auch große kristallinische Körper darin eingeschlossen sein.
 
 Literatur: Eichwald Erman Arch. 5, 180. Blöde Bull. Ac. Pétersb. VI. 1848. No. 1. v. Reichenbach Poggend. Ann. 111, 362. Partsch 46.
 
@@ -4783,7 +4771,7 @@ Sie sind nach der Zeit ihres Bekanntwerdens geordnet.
 
 Zwischen Krasnojarsk und Ahakarsk oder zwischen den Flüssen Ubei und Sisin in Sibirien, nach dem wissenschaftlichen Entdecker gewöhnlich auch Pallaseisen genannt.
 
-In allen Beziehungen gehört dieses Eisen zu den merkwürdigsten Meteoritenmassen, die bis jetzt bekannt geworden sind. Pallas hatte sie auf seinen Reisen in Sibirien 1772 gefunden, doch war sie schon 1749 zwischen zwei Nebenflüssen des Jenisei entdeckt worden. Die Tataren betrachteten diese Masse als ein vom Himmel gefallenes Heiligthum. Der erste Entdecker hatte sie weggebracht, um sie zu verarbeiten. So fand sie Pallas, der sie genau beschreibt und schliesslich noch bemerkt, dass auf dem ganzen Berg nicht die Spur von alten Schmelzheerden oder Bergarbeiten gefunden werde. Ursprünglich wog der Block fast 700 K. Er kam nach Petersburg, wo in der Sammlung der Akademie die Hauptmasse (über 519 K.) aufbewahrt wird. Andere Institute in Petersburg, namentlich die medicinisch-chirurgische Akademie, das Berginstitut, die Universität, das Romanzow'sche Museum und die mineralogische Gesellschaft besitzen größere Bruchstücke.
+In allen Beziehungen gehört dieses Eisen zu den merkwürdigsten Meteoritenmassen, die bis jetzt bekannt geworden sind. Pallas hatte sie auf seinen Reisen in Sibirien 1772 gefunden, doch war sie schon 1749 zwischen zwei Nebenflüssen des Jenisei entdeckt worden. Die Tataren betrachteten diese Masse als ein vom Himmel gefallenes Heiligtum. Der erste Entdecker hatte sie weggebracht, um sie zu verarbeiten. So fand sie Pallas, der sie genau beschreibt und schliesslich noch bemerkt, dass auf dem ganzen Berg nicht die Spur von alten Schmelzheerden oder Bergarbeiten gefunden werde. Ursprünglich wog der Block fast 700 K. Er kam nach Petersburg, wo in der Sammlung der Akademie die Hauptmasse (über 519 K.) aufbewahrt wird. Andere Institute in Petersburg, namentlich die medicinisch-chirurgische Akademie, das Berginstitut, die Universität, das Romanzow'sche Museum und die mineralogische Gesellschaft besitzen größere Bruchstücke.
 
 Durch Chladnis geistreiche Hypothese, die in der ganzen gebildeten Welt Aufsehen erregte und die lebhafteste Besprechung für und gegen fand, wurde man erst recht auf diese merkwürdige Masse aufmerksam, bei der jetzt niemand mehr den geringsten Zweifel hegt, dass sie wirklich meteorisch sei. Als Chladni aber diesen Gedanken 1794 zuerst aussprach, musste noch ein Jahrzehnt hingehn, ehe seine Ansicht zu wissenschaftlicher Geltung gelangte. Seit jener Zeit hat das Pallaseisen seinen Weg fast in alle Sammlungen gefunden. Die größten Stücke sind in Kopenhagen (3 K. 513), Wien (3 K. 457,4), London (3 K. 226,9), Berlin (2 K. 884), Gratz (1 K. 717), Göttingen (1 K. 246), Harlem, Ges. d. Wissensch. (598 Gr.), Uppsala (587 Gr.), Edinburgh (495 Gr.), München (383 Gr.), Zürich (270 Gr.), Gotha (205 Gr.), Dorpat (223,8 Gr.) Paris, Ec. des Mines (137 Gr.), Leipzig (104,5 Gr.), und kleinere oder von unbekanntem Gewicht Paris (Mus. His. nat.), Levden, Kiel, Pisa, Calcutta, Clausthal, Marburg, Gießen, Moskau, CGassel (Gewerbsch.), Helsingfors, Bologna, Breslau (schles. Gesellsch.), Dublin, Stuttgart (königl. Cabin. die verschiedenen Stücke unter verschiedenen unbekannten Nahmen, z. B. Kadnar und Nemir, und polyt. Schule), Bern, Kopenhagen (Thierarzneischule), Basel, Freiberg, Kiel, Hudson, Görlitz (Realschule), Erlangen, Darmstadt, Tübingen, Hamburg (nat. hist. Mus.) und Heidelberg. Von Privaten besitzen größere Stücke v. Reichenbach, Shepard (488,7 Gr.), Kessler-Gontard in Frankfurt a. M. (439 Gr.), Fürst Lobkowitz in Bilin (394 Gr.), de Luynes in Dampierre (385 Gr.), Greg (308 Gr.), Ferber in Gera (198 Gr.), Neumann in Prag (152 Gr.) und kleinere oder von unbekanntem Gewicht van Breda in Harlem, Dunker in Marburg, Nevill in London, Zeidler in Prag, v. Henikstein in Gratz, Osann in Würzburg, Phoebus in Gießen, Jordan in Saarbrücken, Erzh. Stephan auf Schaumburg, Rössler in Hanau, Zimmermann, Meyer und Dr. Fischer in Hamburg und Keller sen. in Freiburg i. Br.
 
@@ -4857,7 +4845,7 @@ Steinbach, zwischen Johanngeorgenstadt und Eibenstock bei Schwarzenberg, Sachsen
 
 Rittersgrün bei Schwarzenberg, Sachsen.
 
-Chladni erwähnt mehre Eisenmassen mit Olivin aus Sachsen. 1751 beschrieb Lehmann eine solche, die Markgraf besaß und zwischen Eibenstock und Johanngeorgenstadt auf einer Eisenhalde bei den Steinbacher Seifenwerken gefunden worden war. Ein zweites Stück stammt aus der v. Schönberg'schen Sammlung und ist jetzt der Hauptmasse nach in Gotha (764,67 Gr.); es war etikettirt: »ein kurioses Stück gediegen Eisen, so auf dem Felde gefunden worden.« In der de Drée'schen Sammlung befand sich ein Stück angeblich vom Senegal, in der Born'schen Sammlung ein solches von Böhmen, in der Stieglitz'schen ein Eisen aus Norwegen. Alle diese Lokalitäten zeigen durch ihre vollkommne Uebereinstimmung mit Rittersgrün (bekannt seit 1861), dass sie demselben Fall angehören und mit dem ersterwähnten Eisen von Steinbach übereinstimmen, welche Namen sie auch irriger Weise führen mögen.
+Chladni erwähnt mehre Eisenmassen mit Olivin aus Sachsen. 1751 beschrieb Lehmann eine solche, die Markgraf besaß und zwischen Eibenstock und Johanngeorgenstadt auf einer Eisenhalde bei den Steinbacher Seifenwerken gefunden worden war. Ein zweites Stück stammt aus der v. Schönberg'schen Sammlung und ist jetzt der Hauptmasse nach in Gotha (764,67 Gr.); es war etikettirt: »ein kurioses Stück gediegen Eisen, so auf dem Felde gefunden worden.« In der de Drée'schen Sammlung befand sich ein Stück angeblich vom Senegal, in der Born'schen Sammlung ein solches von Böhmen, in der Stieglitz'schen ein Eisen aus Norwegen. Alle diese Lokalitäten zeigen durch ihre vollkommne Übereinstimmung mit Rittersgrün (bekannt seit 1861), dass sie demselben Fall angehören und mit dem ersterwähnten Eisen von Steinbach übereinstimmen, welche Namen sie auch irriger Weise führen mögen.
 
 Im April 1861 wurde zu Breitenbach, Gerichtsbezirk Platten, Kreis Elbogen in Böhmen, 3-4 Stunden von Johanngeorgenstadt, etwa eine Elle tief in der Dammerde eine olivinreiche Eisenmasse gefunden, die ungefähr 10 1/2 K. wog. Offenbar gehört sie demselben Meteoritenfall an, wie die vorherigen und muss derselbe ein sehr ausgedehnter und reicher gewesen sein (vielleicht zwischen 1540 und 1550). Letztere Masse ist zum allergrössten Teil vom britischen Museum in London angekauft worden; nur Fabrikant Rössler in Hanau besitzt ein Stückchen. Von den erstgenannten Steinbacheisen besitzt am meisten Wien (1 K. 203,696) und London (130,7 Gr.); kleinere Stücke oder solche von unbekanntem Gewicht Berlin (50,146 Gr.), Uppsala (46,9 Gr.), Göttingen (11,93 Gr.), Stockholm (Akad. der Wissensch.), sowie die Privatsammlungen von Greg (17 Gr.), v. Reichenbach, Nevill, Shepard, Auerbach, Zimmermann in Hamburg, Neumann in Prag.
 
@@ -4871,14 +4859,14 @@ des Olivins:
 angeblich von Norwegen:  
 6,866 Rumler.
 
-Auf der Schnittfläche tritt das Eisen in glänzenden Tafeln von verschiedener Größe und den verschiedensten Gestalten aus dunkelschwarzgrünem Olivin heraus; es zeigt allermeist abgerundete Umrisse und nur selten erscheinen scharfe Ecken. Beim Ätzen treten die schönsten Widmannstätten'schen Figuren auf, die sich aber von denen des Pallas-, Atacama- und Brahin-Eisens wesentlich unterscheiden. Sie sind nicht, wie bei diesen, von einem dünnen Saume ringsum eingefasst, sondern bei jedem Eisenteilchen, das von Olivin umgrenzt wird, erstrecken sich die Figuren in gleicher Richtung bis an die äusserste Grenze fort und erscheinen auch im nächsten Eisenteilchen wieder in gleicher Richtung. Bei Betrachtung der Figuren auf drei senkrecht aufeinander stehenden Schnittflächen erkennt man deutlich, dass die ganze Eisenmasse ein einziger Krystall ist. - Magnetkies in kleinen bis über erbsengrossen Partien ist reichlich eingesprengt.
+Auf der Schnittfläche tritt das Eisen in glänzenden Tafeln von verschiedener Größe und den verschiedensten Gestalten aus dunkelschwarzgrünem Olivin heraus; es zeigt allermeist abgerundete Umrisse und nur selten erscheinen scharfe Ecken. Beim Ätzen treten die schönsten Widmannstätten'schen Figuren auf, die sich aber von denen des Pallas-, Atacama- und Brahin-Eisens wesentlich unterscheiden. Sie sind nicht, wie bei diesen, von einem dünnen Saume ringsum eingefasst, sondern bei jedem Eisenteilchen, das von Olivin umgrenzt wird, erstrecken sich die Figuren in gleicher Richtung bis an die äusserste Grenze fort und erscheinen auch im nächsten Eisenteilchen wieder in gleicher Richtung. Bei Betrachtung der Figuren auf drei senkrecht aufeinander stehenden Schnittflächen erkennt man deutlich, dass die ganze Eisenmasse ein einziger Kristall ist. - Magnetkies in kleinen bis über erbsengrossen Partien ist reichlich eingesprengt.
 
 Howard analysierte das Eisen, das aus der Born'schen in die Greville'sche Sammlung übergegangen war und angeblich von Tabor in Böhmen stammte. Er fand:
 
 Eisen 80.  
 Nickel 20.
 
-Stromeyer untersuchte den Olivin. Das Ergebniss seiner Analyse war:
+Stromeyer untersuchte den Olivin. Das Ergebnis seiner Analyse war:
 
 SiO₃. FeO. MgO. Mn₂O₃. Cr,0,. Glühverl. Sa.  
 61,88. 9,12. 25,83. 9,31. 0,33. 0,45. 97,92.
@@ -4887,7 +4875,7 @@ Der 86 1/2 K. schwere Eisenblock von Rittersgrün bei Schwarzenberg in Sachsen w
 
 Wo sie nicht beschädigt ist hat die Masse eine dicke Rostrinde. Die Brandrinde ist dünn und besteht nach Breithaupt aus Magneteisenstein - dieser könnte aber auch wie bei dem Tolucaeisen sich beim Liegen in der Erde gebildet haben.
 
-Bei der vollkommnen Uebereinstimmung dieses Eisens mit dem von Steinbach in Sachsen ist umso weniger zu zweifeln, dass beide Lokalitäten demselben Fall angehören, als Rittersgrün und Steinbach nur eine geogr. Meile voneinanderentfernt sind.
+Bei der vollkommnen Übereinstimmung dieses Eisens mit dem von Steinbach in Sachsen ist umso weniger zu zweifeln, dass beide Lokalitäten demselben Fall angehören, als Rittersgrün und Steinbach nur eine geogr. Meile voneinanderentfernt sind.
 
 Die Hauptmasse ist in Freiberg, kleinere Stücke besonders in Wien, Berlin und bei Greg, v. Reichenbach und Auerbach, werden aber bald keiner größeren Sammlung fehlen.
 
@@ -4900,7 +4888,7 @@ Literatur: Chladni Feuermeteore p. 324-326 erwähnt die verschiedenen Eisenmasse
 
 ### Bitburg
 
-Bitburg, Provinz Niederrhein, Preussen.
+Bitburg, Provinz Niederrhein, Preußen.
 
 Gefunden 1802, bekannt seit 1814.
 
@@ -5005,14 +4993,14 @@ Literatur: Edinb. N. Phil. Journ. 47, 53.
 
 ### Hainholz
 
-Hainholz, nördlich von Borgholz, SO. von Paderborn, Westphalen, Preussen.
+Hainholz, nördlich von Borgholz, SO. von Paderborn, Westphalen, Preußen.
 
 Die Fallzeit ist unbekannt. Gefunden wurde die Masse 1856 von Mühlenpfordt aus Hannover und wog etwa 16 1/2 K. Sie zersprang beim Zerschlagen in mehre schalig abgesonderte Stücke. Die größten davon hat wohl v. Reichenbach gekauft; außerdem finden sich Stücke in Wien (1 K. 592, das größte 840 Gr.), London (680 Gr.), Berlin (529,155 Gr.), Göttingen (177 Gr., Olivin 5,85 Gr.), sowie bei Greg (77 Gr.), Shepard, Auerbach (59 Gr.), Neumann in Prag (44 Gr.) und v. Baumhauer in Amsterdam.
 
 Spezifisches Gewicht: 4,61 Wöhler,  
 ohne Einschluss größerer Eisenknollen: 3,830 Haidinger.
 
-Dem äusseren Aussehen nach ist es ein Steinmeteorit, sehr ähnlich Brauneisenstein, aber durch den hohen Eisengehalt und das bedeutende spezifische Gewicht gehört es zu den Uebergangsgliedern der Pallasgruppe. Das Ganze ist sehr fest. Der frische Bruch ist dunkelgrauschwarz oder dunkelgrün bis schwarzgrün, feinkörnig und schließt stellenweise grüne Olivinkörner und gelbliches Schwefeleisen ein. Beim Anschleifen und Anfeilen tritt überall metallisches nickelreiches Eisen in kleinen Partien hervor. Doch enthält es auch kugelige und elliptische Knollen von Eisen in der Größe einer Erbse bis einer Kirsche, die sich auslösen lassen. Diese schließen abermals kleinere Kugeln oder Knollen von Schwefeleisen ein, die mit Schreibersit eingefasst sind. Die Eisenknollen sind fest mit der umgebenden Silikatgrundmasse verwachsen und zeigen Widmannstätten'sche Figuren. Das Eisen der Grundmasse erscheint in kleinen Partien von etwa 2 Linien nach jeder Richtung von vollkommen gleichbleibendem krystallinischen Gefüge, was durch die gleichzeitige Spiegelung sichtbar ist, schließt aber in seinem Inneren wie in ästiger Durchwachsung Silikatteilchen ein; größere rundliche Teilchen des letzteren sind noch überdies vorhanden, sowie eckige Teilchen von 1/2-1 Linie. Höchst charakteristisch sind die hochkrystallinischen Olivine mit deutlicher Spaltbarkeit, sie zeigen aber nur einen regelmässigen Umschluss und haben die äussere Krystallform verloren. v. Reichenbach besitzt einen solchen Krystall von 1 3/4 Zoll Länge und 1 1/2 Zoll Breite. Derselbe schließt aus den merkwürdigen Bestandteilen auf verschiedene Bildungsepochen und eröffnet die Aussicht auf eine Art von Geologie der Meteoriten mit Nachweisen über die Zeitfolge der Bildung der Bestandteile.
+Dem äußeren Aussehen nach ist es ein Steinmeteorit, sehr ähnlich Brauneisenstein, aber durch den hohen Eisengehalt und das bedeutende spezifische Gewicht gehört es zu den Uebergangsgliedern der Pallasgruppe. Das Ganze ist sehr fest. Der frische Bruch ist dunkelgrauschwarz oder dunkelgrün bis schwarzgrün, feinkörnig und schließt stellenweise grüne Olivinkörner und gelbliches Schwefeleisen ein. Beim Anschleifen und Anfeilen tritt überall metallisches nickelreiches Eisen in kleinen Partien hervor. Doch enthält es auch kugelige und elliptische Knollen von Eisen in der Größe einer Erbse bis einer Kirsche, die sich auslösen lassen. Diese schließen abermals kleinere Kugeln oder Knollen von Schwefeleisen ein, die mit Schreibersit eingefasst sind. Die Eisenknollen sind fest mit der umgebenden Silikatgrundmasse verwachsen und zeigen Widmannstätten'sche Figuren. Das Eisen der Grundmasse erscheint in kleinen Partien von etwa 2 Linien nach jeder Richtung von vollkommen gleichbleibendem kristallinischen Gefüge, was durch die gleichzeitige Spiegelung sichtbar ist, schließt aber in seinem Inneren wie in ästiger Durchwachsung Silikatteilchen ein; größere rundliche Teilchen des letzteren sind noch überdies vorhanden, sowie eckige Teilchen von 1/2-1 Linie. Höchst charakteristisch sind die hochkrystallinischen Olivine mit deutlicher Spaltbarkeit, sie zeigen aber nur einen regelmässigen Umschluss und haben die äussere Krystallform verloren. v. Reichenbach besitzt einen solchen Kristall von 1 3/4 Zoll Länge und 1 1/2 Zoll Breite. Derselbe schließt aus den merkwürdigen Bestandteilen auf verschiedene Bildungsepochen und eröffnet die Aussicht auf eine Art von Geologie der Meteoriten mit Nachweisen über die Zeitfolge der Bildung der Bestandteile.
 
 Eine Analyse ist noch nicht geliefert worden.
 
@@ -5051,9 +5039,9 @@ Sierra de Chaco, in der Wüste Atacama, nördl. von Chili.
 
 Durch G. Rose wurde 1863 eine merkwürdige Meteoritenmasse bekannt, von welcher ein Stück von 422 Gr. durch Domeyko nach Berlin kam.
 
-Dieser Meteorit ist verschieden von dem Atacamaeisen, gehört aber auch zu der Uebergangsgruppe und schließt sich am nächsten an Hainholz an. Wie bei diesem sind metallische Gemengteile und Silikate in fast gleicher Menge vorhanden; die metallischen sind Nickeleisen und Magnetkies, die Silikate Olivin und Augit. Betrachtet man das Stück auf dem frischen Bruch, so sieht es körnig und im Allgemeinen grünlichschwarz und glanzlos aus; man erkennt nur einzelne größere Körner von röthlichgelbem Olivin und kleinere schwärzlichgrüne von Augit. Das überall fein eingesprengte Eisen ist hier fast gar nicht wahrzunehmen, vollkommen aber unterscheiden sich die Gemengteile auf einer polierten Fläche.
+Dieser Meteorit ist verschieden von dem Atacamaeisen, gehört aber auch zu der Uebergangsgruppe und schließt sich am nächsten an Hainholz an. Wie bei diesem sind metallische Gemengteil und Silikate in fast gleicher Menge vorhanden; die metallischen sind Nickeleisen und Magnetkies, die Silikate Olivin und Augit. Betrachtet man das Stück auf dem frischen Bruch, so sieht es körnig und im Allgemeinen grünlichschwarz und glanzlos aus; man erkennt nur einzelne größere Körner von röthlichgelbem Olivin und kleinere schwärzlichgrüne von Augit. Das überall fein eingesprengte Eisen ist hier fast gar nicht wahrzunehmen, vollkommen aber unterscheiden sich die Gemengteil auf einer polierten Fläche.
 
-Das Eisen tritt stahlgrau, metallglänzend und in großer Menge hervor. Es ist in feinen Teilen allenthalben mit kleinen Teilen der Silikate gemengt, die überall mit ganz unregelmässigen eckigen und zackigen Oberflächen ineinandergreifen und zwischen denen der Magnetkies überall, aber in noch feineren Teilen, durch seine tombakbraune Farbe kenntlich, enthalten ist. Dazwischen treten nun in einzelnen größeren Körnern Nickeleisen, Olivin und Augit auf. Geätzt zeigen die größeren Körner des Nickeleisens sehr feine und zierliche Widmannstätten'sche Figuren von einem eigenthümlichen Verhalten; man erkennt darin nicht ein System von Streifen, die einem aus schaligen Zusammensetzungsstücken parallel den Flächen des Oktaeders bestehenden Individuum entsprechen, sondern stets mehre; bei einem Korne sind deren drei zu erkennen, die durch eine halbe Linie dickes, nicht gestreiftes Nickeleisen getrennt sind, in welchen nur hie und da kleine Körner oder körnige Partien von Augit liegen. Die kleineren Teile des Eisens zeigen beim Ätzen keine Figuren.
+Das Eisen tritt stahlgrau, metallglänzend und in großer Menge hervor. Es ist in feinen Teilen allenthalben mit kleinen Teilen der Silikate gemengt, die überall mit ganz unregelmäßigen eckigen und zackigen Oberflächen ineinandergreifen und zwischen denen der Magnetkies überall, aber in noch feineren Teilen, durch seine tombakbraune Farbe kenntlich, enthalten ist. Dazwischen treten nun in einzelnen größeren Körnern Nickeleisen, Olivin und Augit auf. Geätzt zeigen die größeren Körner des Nickeleisens sehr feine und zierliche Widmannstätten'sche Figuren von einem eigentümlichen Verhalten; man erkennt darin nicht ein System von Streifen, die einem aus schaligen Zusammensetzungsstücken parallel den Flächen des Oktaeders bestehenden Individuum entsprechen, sondern stets mehre; bei einem Korne sind deren drei zu erkennen, die durch eine halbe Linie dickes, nicht gestreiftes Nickeleisen getrennt sind, in welchen nur hie und da kleine Körner oder körnige Partien von Augit liegen. Die kleineren Teile des Eisens zeigen beim Ätzen keine Figuren.
 
 Der Olivin ist von grünlichgelber bis röthlichgelber und brauner Farbe und zuweilen von beträchtlicher Größe (bis 3/4 Zoll Durchmesser). Er ist zerklüftet und nimmt im Allgemeinen keine so gute Politur an wie der Augit, vielleicht weil er schon etwas zersetzt ist.
 
@@ -5066,7 +5054,7 @@ Nach Domeykos Angabe besteht das eingemengte metallische Eisen aus:
 Fe 88,5  
 Ni 11,5.
 
-Das Ergebniss weiterer analytischer Untersuchungen wird mitzuteilen versprochen.
+Das Ergebnis weiterer analytischer Untersuchungen wird mitzuteilen versprochen.
 
 Literatur: G. Rose Berl. Akad. Ber. 1863, Jan. 15.
 
@@ -5076,11 +5064,11 @@ Sie sind nach der Zeit ihres Auffindens oder Wissenschaftlichen bekanntwerdens g
 
 ### Hraschina
 
-Hraschina bei Agram, Croatien, Oesterreich.
+Hraschina bei Agram, Kroatien, Österreich.
 
 1751, Mai 26, Abends 6 Uhr.
 
-Einer der seltenen, wohl beobachteten Fälle von Meteoreisen aus einer Feuerkugel. Mehrere Urkunden und gerichtliche Zeugenverhöre geben genauen Aufschluss über das ganze Ereignis. Dass die Feuerkugel auch in Hannover gesehen worden, beruht auf einem Irrtum. Sie zog von West nach Ost, detonirte heftig, verbreitete einen starken Rauch, und dann sah man unter stärkstem Krachen und einer Erschütterung wie bei einem Erdbeben zwei Massen niederfallen, die 2000 Fuß voneinander in die Erde einschlugen. Die kleinere von etwa 9 K. wurde zerstückelt, verteilt, zum Teil verschmiedet und ging verloren; die größere von über 40 K. kam in die k. k. Schatzkammer, 1777 in das k. k. Hof-Naturaliencabinet und befindet sich zum größten Teil noch in der Wiener Sammlung (39 K. 265,372, 7 St., der größte 39 K. 200,840). Kleinere Abschnitte sind in London (284,37 Gr.), Berlin (28,155 Gr.), Göttingen (23,38 Gr., 4 St.), Paris, Zürich, Würzburg und Marburg, so wie in den Privatsammlungen von v. Reichenbach, Teyler in Harlem (39,8 Gr.), Shepard und Greg (4 Gr.).
+Einer der seltenen, wohl beobachteten Fälle von Meteoreisen aus einer Feuerkugel. Mehrere Urkunden und gerichtliche Zeugenverhöre geben genauen Aufschluss über das ganze Ereignis. Dass die Feuerkugel auch in Hannover gesehen worden, beruht auf einem Irrtum. Sie zog von West nach Ost, detonierte heftig, verbreitete einen starken Rauch, und dann sah man unter stärkstem Krachen und einer Erschütterung wie bei einem Erdbeben zwei Massen niederfallen, die 2000 Fuß voneinander in die Erde einschlugen. Die kleinere von etwa 9 K. wurde zerstückelt, verteilt, zum Teil verschmiedet und ging verloren; die größere von über 40 K. kam in die k. k. Schatzkammer, 1777 in das k. k. Hof-Naturaliencabinet und befindet sich zum größten Teil noch in der Wiener Sammlung (39 K. 265,372, 7 St., der größte 39 K. 200,840). Kleinere Abschnitte sind in London (284,37 Gr.), Berlin (28,155 Gr.), Göttingen (23,38 Gr., 4 St.), Paris, Zürich, Würzburg und Marburg, so wie in den Privatsammlungen von v. Reichenbach, Teyler in Harlem (39,8 Gr.), Shepard und Greg (4 Gr.).
 
 Spezifisches Gewicht:  
 7,73-7,80 v. Schreibers,  
@@ -5161,13 +5149,13 @@ Spezifisches Gewicht:
 7,60-7,67 v. Schreibers,  
 7,728 Rumler.
 
-Die Oberfläche ist meist mit einer ziemlich dicken Rostrinde, ähnlich dichtem Brauneisenstein und teilweise Brauneisenocker, bedeckt; auf einem Stück in München hat sich Limonit gebildet; Krantz fand an einigen Stücken, die er erhielt, Magneteisen teils derb, teil in scharfen glänzenden Octaedern und Dodecaedern in drusenartigen Vertiefungen; jedenfalls hat sich auch dieser Körper erst beim Liegen auf der Erde gebildet.
+Die Oberfläche ist meist mit einer ziemlich dicken Rostrinde, ähnlich dichtem Brauneisenstein und teilweise Brauneisenocker, bedeckt; auf einem Stück in München hat sich Limonit gebildet; Krantz fand an einigen Stücken, die er erhielt, Magneteisen teils derb, teil in scharfen glänzenden Oktaedern und Dodecaedern in drusenartigen Vertiefungen; jedenfalls hat sich auch dieser Körper erst beim Liegen auf der Erde gebildet.
 
 G. Rose bemerkte in der Rostrinde einen ganzen Quarzkrystall von 1/3 Linie Länge (das erste Auftreten von Quarz bei Meteoriten) und noch ein Bruchstück eines solchen; dass es wirklich Quarz war, wies er nicht nur durch Winkelmessung, sondern auch durch Schmelzen mit Soda nach; nach dem Ablösen derselben blieb ein glattflächiger Eindruck auf der Rostrinde. Auf anderen Stücken suchte Rose vergebens nach Quarz, doch nimmt er ihn als darin ursprünglich eingewachsen an. An einem faustgrossen Stück seiner Sammlung fand v. Reichenbach auf der einen Seite angehäufte Brandrindensubstanz, ähnlich Frischschlacke; sie ritzt Glas, ist hell durchsichtig, nelkenbraun und enthält hier und da Flitter von Eisenfadenkrystallen. An manchen Stücken sind auf der Oberfläche auch Tröpfchen von Eisenchlorid bemerkt worden, so wie ziemlich große Blättchen von metallglänzendem, gelblichweissem Schreibersit und Einfachschwefeleisen in graulichgelben oder tombakbraunen Partien.
 
 Das Innere zeigt keine Höhlungen. Auf den grossblättrig-krystallinischen Bruchflächen zeigt das Eisen octaedrische Spaltbarkeit und ist zinnweiss; Magnetkies, steinige Körper, unreine Olivine von Mohnkornbis Bohnengrösse und Knollen von Graphit sind darin eingelagert; letzterer tritt in derben Partien und stets mit Schwefeleisen zusammen auf und dringt tief in das Innere der Masse ein. Ein von Taylor untersuchtes Stück enthielt eine kleine Kugel von Magnetkies, wie wenn sie in das erweichte Eisen eingedrückt worden wäre; sie war zum Teil zersetzt und hinterliess in Salzsäure dünne Blättchen von Schreibersit und eine geringe Menge von Chromeisen.
 
-Ein Stück in der Berliner Sammlung zeigt das regelmässige Gefüge schon ohne alle Aetzung auf seiner wie gehackt aussehenden Oberfläche. Die Widmannstätten'schen Figuren erscheinen beim Ätzen sehr schön und deutlich; ihre Linien durchkreuzen sich in drei vorherrschenden Richtungen; charakteristisch sind feine Linien einer blassgelblichen, metallischen Substanz von besonderem Glanz, die auch schon auf der ungeätzten polierten Fläche deutlich sichtbar sind. Es ist dies Schreibersit.
+Ein Stück in der Berliner Sammlung zeigt das regelmäßige Gefüge schon ohne alle Aetzung auf seiner wie gehackt aussehenden Oberfläche. Die Widmannstätten'schen Figuren erscheinen beim Ätzen sehr schön und deutlich; ihre Linien durchkreuzen sich in drei vorherrschenden Richtungen; charakteristisch sind feine Linien einer blassgelblichen, metallischen Substanz von besonderem Glanz, die auch schon auf der ungeätzten polierten Fläche deutlich sichtbar sind. Es ist dies Schreibersit.
 
 An einer anderen über fussgrossen Platte sind viele große Einschlüsse von Magnetkies oder von Einfachschwefeleisen (FeS), sowie von Graphit sichtbar, die alle mit einer speisgelben metallischglänzenden Hülle umgeben sind, die v. Reichenbach irriger Weise für Schwefelkies hält, der aber in den Meteoriten sehr wahrscheinlich gar nicht vorkommt. Das Eisen ist nicht passiv.
 
@@ -5369,7 +5357,7 @@ Schon 1804 wird dieses Eisen von per Rio erwähnt, ohne dass unterdes etwas Gena
 
 Spezifisches Gewicht: 7,200-7,620 Burkart.
 
-Auf frischem Bruch zeigt dieses Eisen eine fast silberweiße Farbe, ein körnig-blättriges Gefüge und sehr deutliche kristallinische Textur, während es an den übrigen Stellen der natürlichen Oberfläche eisenschwarz und mit hasel- bis wallnussgrossen blasenförmigen drusenartigen Höhlungen bedeckt ist, welche mit einer dünnen, festen, brauneisensteinartigen Masse bekleidet sind. Innen. ist die Masse gleichartig, ohne Risse und Sprünge und ohne sichtliche Einmengung von Schwefeleisen oder sonstigen fremden Körpern, indem das Schwefeleisen erst nach dem Ätzen bemerkbar wird. Beim Ätzen treten sehr schöne Widmannstätten'sche Figuren auf, wobei auch die Einmengung von Schwefeleisen und Phosphornickeleisen sichtbar wird, ersteres in feinen runden Teilchen und wie es scheint seltener, als bei den Eisen von Zacatecas und Xiquipilco. Die Streifen der Figuren sind 1/4-1 Linie breit, mit feinen, ihre Richtung diagonal kreuzenden Linien schraffirt und zugleich mit feinen weißen Flecken auf grauem Grunde punktirt. Diese Streifen sind von schmalen, hellmessinggelben, metallisch glänzenden Leisten voneinander getrennt, welche auch teilweise, aber nicht in durchlaufenden, sondern abgesetzten, unterbrochenen Linien in den Mittelfeldern auftreten und wohl aus Schreibersit bestehen. Am deutlichsten erscheinen diese Leisten auf den angelaufenen Flächen auf dem hellbraunen oder blauen Grunde durch ihre schöne gelbe Farbe, wo man auch weit deutlicher die Mittelfelder von solchen Leisten umgrenzt und in abgebrochenen, oft nur punktirten Linien schraflirt sieht, welche da und dort wieder so nahe zusammentreten, dass das ganze Mittelfeld gelb erscheint.
+Auf frischem Bruch zeigt dieses Eisen eine fast silberweiße Farbe, ein körnig-blättriges Gefüge und sehr deutliche kristallinische Textur, während es an den übrigen Stellen der natürlichen Oberfläche eisenschwarz und mit hasel- bis wallnussgrossen blasenförmigen drusenartigen Höhlungen bedeckt ist, welche mit einer dünnen, festen, brauneisensteinartigen Masse bekleidet sind. Innen. ist die Masse gleichartig, ohne Risse und Sprünge und ohne sichtliche Einmengung von Schwefeleisen oder sonstigen fremden Körpern, indem das Schwefeleisen erst nach dem Ätzen bemerkbar wird. Beim Ätzen treten sehr schöne Widmannstätten'sche Figuren auf, wobei auch die Einmengung von Schwefeleisen und Phosphornickeleisen sichtbar wird, ersteres in feinen runden Teilchen und wie es scheint seltener, als bei den Eisen von Zacatecas und Xiquipilco. Die Streifen der Figuren sind 1/4-1 Linie breit, mit feinen, ihre Richtung diagonal kreuzenden Linien schraffirt und zugleich mit feinen weißen Flecken auf grauem Grunde punktiert. Diese Streifen sind von schmalen, hellmessinggelben, metallisch glänzenden Leisten voneinander getrennt, welche auch teilweise, aber nicht in durchlaufenden, sondern abgesetzten, unterbrochenen Linien in den Mittelfeldern auftreten und wohl aus Schreibersit bestehen. Am deutlichsten erscheinen diese Leisten auf den angelaufenen Flächen auf dem hellbraunen oder blauen Grunde durch ihre schöne gelbe Farbe, wo man auch weit deutlicher die Mittelfelder von solchen Leisten umgrenzt und in abgebrochenen, oft nur punktirten Linien schraflirt sieht, welche da und dort wieder so nahe zusammentreten, dass das ganze Mittelfeld gelb erscheint.
 
 Analyse von Bergemann:
 Fe. Ni. Co. P. S.  Unlösl.  
@@ -5393,7 +5381,7 @@ Literatur: Burkart N. Jahrb. Mineralogie 1856, 305. BerGEmann Poggend. Ann. 100,
 
 Charcas, 10 Meil. S. von Catorze, 23 NO. von Zacatecas; Staat San Luis Potosi, Mexiko.
 
-Sonneschmid erwähnt 1804 diese Eisenmasse zuerst; 1811 wurde sie durch A. v. Humboldt allgemein bekannt. Sie ist an einem Eck der Kirche des Städtchens zum Teil in den Boden eingegraben; ihre Gestalt ist einer unregelmässigen dreiseitigen abgestumpften Doppelpyramide zu vergleichen, wenn man das eingegrabene dem über den Boden hervorragenden Stücke ähnlich annehmen darf. Burkart schätzt den sichtbaren Teil auf 400 bis 500 K. Gewicht. Auf der Oberfläche zeigt dieses Eisen eine große Menge kleiner rundlicher Höhlungen und auf der einen Seite eine größere flache Vertiefung. Bei dem häufigen Klopfen, Reiben und Scheuern ist es nicht zu verwundern, dass keine Rinde vorhanden ist und dass die vorspringenden Ecken und Kanten eine fast silberweiße Farbe zeigen.
+Sonneschmid erwähnt 1804 diese Eisenmasse zuerst; 1811 wurde sie durch A. v. Humboldt allgemein bekannt. Sie ist an einem Eck der Kirche des Städtchens zum Teil in den Boden eingegraben; ihre Gestalt ist einer unregelmäßigen dreiseitigen abgestumpften Doppelpyramide zu vergleichen, wenn man das eingegrabene dem über den Boden hervorragenden Stücke ähnlich annehmen darf. Burkart schätzt den sichtbaren Teil auf 400 bis 500 K. Gewicht. Auf der Oberfläche zeigt dieses Eisen eine große Menge kleiner rundlicher Höhlungen und auf der einen Seite eine größere flache Vertiefung. Bei dem häufigen Klopfen, Reiben und Scheuern ist es nicht zu verwundern, dass keine Rinde vorhanden ist und dass die vorspringenden Ecken und Kanten eine fast silberweiße Farbe zeigen.
 
 Ob von diesem Meteoreisen Proben in Sammlungen sind, ist ungewiss; in den größeren öffentlichen und Privatsammlungen scheint nichts davon zu sein. Ebensowenig scheint etwas von dem Eisen, das durch den Hüttenbesitzer Aquilar von Pablazon auf sein Amalgamirwerk nach Catorze gebracht wurde und das etwa 4000 K. wiegen soll, in wissenschaftliche Hände gelangt zu sein.
 
@@ -5455,7 +5443,7 @@ Spezifisches Gewicht:
 7,80-7,83 v. Schreibers,  
 7,75-7,879 Rumler.
 
-Das Eisen ist derb und dicht und enthält da und dort Körner und Linien von Magnetkies. Beim Ätzen zeigen sich die schönsten Widmannstätten'schen Figuren; sie bilden meist gleichseitige Dreiecke, welche von Streifen von mässiger Breite umschlossen sind.
+Das Eisen ist derb und dicht und enthält da und dort Körner und Linien von Magnetkies. Beim Ätzen zeigen sich die schönsten Widmannstätten'schen Figuren; sie bilden meist gleichseitige Dreiecke, welche von Streifen von mäßiger Breite umschlossen sind.
 
 Die ersten Analysen von Klaproth 1., Neumann 2. und John 3. sind nicht genau.
 
@@ -5484,9 +5472,9 @@ Literatur: Neumann Gilb. Ann. 42, 197. v. Schreibers Beiträge p. 72 beschreibt 
 
 ### Lenartó
 
-Lenartó, Saroser Comitat, Ungarn, an der galizischen Grenze.
+Lenartó, Saroser Komitat, Ungarn, an der galizischen Grenze.
 
-1814 zu Ende October wurde diese Eisenmasse im Walde Lenartuwka in der Nähe von Bartfeld von einem Schäfer neben einer Quelle unter Schlamm und faulenden Aesten aufgefunden. 1815 wurde sie von Sennowitz zuerst beschrieben. Sie wog 108 K. 640 und ist jetzt ihrer Hauptmasse nach im ungarischen National-Museum in Pesth (74 K. 760). Stücke davon sind in vielen Sammlungen, besonders in Wien (3 K. 292,8), London (1 K. 829), Paris, Ecole des Mines (1 K. 250), Berlin (446,154 Gr.), Harlem, Teylers Mus. (130 Gr.), Paris, Mus. Hist. nat. (116 Gr.), Göttingen (102 Gr.) und kleinere in Bern, Bologna, Breslau, Calcutta, Gopenhagen, Gotha, Petersburg, Trier, Uppsala, Utrecht, so wie bei Fürst Loskowitz in Bilin (2 K. 990), Greg (259 Gr.), de Luynes in Dampierre (148 Gr.) und kleinere oder von unbekanntem Gewichte bei v. Reichenbach, Shepard, Auerbach, Nevill, Fischer in Hamburg, Erzh. Stephan auf Schaumburg, Ferber in Gera, Neumann in Prag, v. Henikstein in Gratz, Kessler in Frankfurt a. M.; Baron v. Brudern besaß nach v. Schreibers ein Stück von fast 21 K.
+1814 zu Ende Oktober wurde diese Eisenmasse im Walde Lenartuwka in der Nähe von Bartfeld von einem Schäfer neben einer Quelle unter Schlamm und faulenden Aesten aufgefunden. 1815 wurde sie von Sennowitz zuerst beschrieben. Sie wog 108 K. 640 und ist jetzt ihrer Hauptmasse nach im ungarischen National-Museum in Pesth (74 K. 760). Stücke davon sind in vielen Sammlungen, besonders in Wien (3 K. 292,8), London (1 K. 829), Paris, Ecole des Mines (1 K. 250), Berlin (446,154 Gr.), Harlem, Teylers Mus. (130 Gr.), Paris, Mus. Hist. nat. (116 Gr.), Göttingen (102 Gr.) und kleinere in Bern, Bologna, Breslau, Calcutta, Gopenhagen, Gotha, Petersburg, Trier, Uppsala, Utrecht, so wie bei Fürst Loskowitz in Bilin (2 K. 990), Greg (259 Gr.), de Luynes in Dampierre (148 Gr.) und kleinere oder von unbekanntem Gewichte bei v. Reichenbach, Shepard, Auerbach, Nevill, Fischer in Hamburg, Erzh. Stephan auf Schaumburg, Ferber in Gera, Neumann in Prag, v. Henikstein in Gratz, Kessler in Frankfurt a. M.; Baron v. Brudern besaß nach v. Schreibers ein Stück von fast 21 K.
 
 Spezifisches Gewicht:  
 7,798 Wehrle,  
@@ -5594,7 +5582,7 @@ X. Phosphornickeleisen.
 
 Der in Salzsäure unlösliche Rückstand (0,452%) bestand aus einem feinen weißen Pulver und metallglänzenden Teilchen; letztere konnten mit dem Magnet ausgezogen werden (0,37%) und erschienen bei 80facher Vergrößerung zinnweiss, stark glänzend, ästigoder hackig, einige stahlblau angelaufen. Beim teilweisen Lösen in Königswasser zeigten sich durchsichtige bräunlichgelbe Körnchen darin eingewachsen, die wie Olivin aussahen; eins hatte deutliche Krystallflächen und war dunkelbraungelb. Dieses olivinartige Mineral war auch, ungleichförmig in einzelne Partien verteilt, bei der mikroskopischen Betrachtung einer geätzten Fläche auf dem noch ganzen Meteoreisen deutlich zu erkennen. Der metallische Teil des Unlöslichen erwies sich als Schreibersit (Phosphornickeleisen). Das rückbleibende weiße Pulver (0,08%) bestand bei 80facher Vergrößerung aus meist farblosen abgerundeten Stückchen von starkem Glanz, einige waren bräunlichgelb wie Olivin, wenige andere tiefblau wie Saphir und ein einziges blassrubinroth. Das Pulver ritzte Quarz, konnte also kein Quarz sein. Diese merkwürdigen rubin- und saphirfarbenen Einschlüsse wurden noch in anderen Meteoreisen gefunden.
 
-Literatur: Partsch und Wöhler Wien. Akad. Ber. 8, 1852, 496 mit Abb. der eigenthümlichen zickzackförmigen Sprünge und unausgefüllten Gänge; einer endet in einen Sack, der teilweise mit porösem Schwefeleisen ausgefüllt ist. G. Rose Berl. Akad. Ber. 1862. Aug. 7.
+Literatur: Partsch und Wöhler Wien. Akad. Ber. 8, 1852, 496 mit Abb. der eigentümlichen zickzackförmigen Sprünge und unausgefüllten Gänge; einer endet in einen Sack, der teilweise mit porösem Schwefeleisen ausgefüllt ist. G. Rose Berl. Akad. Ber. 1862. Aug. 7.
 
 ### Bedford County
 
@@ -5606,7 +5594,7 @@ Spezifisches Gewicht:
 7,337 Silliman,  
 6,915 Shepard.
 
-Ein Stück von 60-80 Gr. erschien als ein deutlicher Krystall; die Aussenflächen desselben waren fast schwarz, der frische Bruch aber metallglänzend. Die Masse ist hochkrystallinisch in parallelen Blättern, die sich aber manchmal verwirrt durchkreuzen. Beim Ätzen erscheinen sehr feine Linien. Härte 6-6,5.
+Ein Stück von 60-80 Gr. erschien als ein deutlicher Kristall; die Aussenflächen desselben waren fast schwarz, der frische Bruch aber metallglänzend. Die Masse ist hochkrystallinisch in parallelen Blättern, die sich aber manchmal verwirrt durchkreuzen. Beim Ätzen erscheinen sehr feine Linien. Härte 6-6,5.
 
 Silliman fand bei der Analyse:
 
@@ -5656,7 +5644,7 @@ Spezifisches Gewicht:
 7,146 Steinmann,  
 7,62-7,713 Rumler.
 
-Nach der dicken Rostrinde muss das Eisen Jahrhunderte lang im Boden gelegen haben. Das Innere ist vollkommen metallisch, derb und dicht, und weißer als gewöhnliches Stabeisen, und schließt stellenweise Magnetkies, zum Teil in Kegeln, so wie ein schwarzes, nicht sehr hartes Mineral ein, nach Berzelius Graphit, nach Partsch problematisch. In diese schwarze Masse, die sowohl in der Mitte als an der Oberfläche des Eisens in zuweilen fast zolllangen Partien auftritt, ist wieder gediegenes Eisen und auch Magnetkies fein eingesprengt. Letzterer umschliesst auch die schwarzen Partien ringsum rindenarlig, und vom äusseren Rande laufen höchst sonderbare kurze und feine Streifen aus, die sich zuweilen in der Eisenmasse noch weiter verzweigen. Magnetkies ist an manchen Stellen in Nieren von der Größe einer Mandel ausgeschieden, und tritt auch in sonderbaren eckigen Partien mit aus- und einspringenden Winkeln auf. Beim Ätzen erscheinen die. Mittel- und Zwischenfelder mit den feinen Schraffirungsleisten nur in sehr geringer Anzahl, dagegen die Streifen sehr ausgezeichnet und breit und erfüllen fast die ganze Masse. Dieses Reichenbach'sche Bandeisen tritt schon ohne Ätzen bei feinstem Poliren hervor. Mehre der dickeren Streifen, die nebeneinander liegen, sind bald nach dieser, bald nach jener Richtung mit ganz feinen und parallelen Linien schraffirt, diese auch wieder von Linien nach anderen Richtungen durchschnitten, so dass, wenn man die geätzte Fläche in verschiedene Lagen bringt, der abwechselnde Glanz des Moire metallique auftritt.
+Nach der dicken Rostrinde muss das Eisen Jahrhunderte lang im Boden gelegen haben. Das Innere ist vollkommen metallisch, derb und dicht, und weißer als gewöhnliches Stabeisen, und schließt stellenweise Magnetkies, zum Teil in Kegeln, so wie ein schwarzes, nicht sehr hartes Mineral ein, nach Berzelius Graphit, nach Partsch problematisch. In diese schwarze Masse, die sowohl in der Mitte als an der Oberfläche des Eisens in zuweilen fast zolllangen Partien auftritt, ist wieder gediegenes Eisen und auch Magnetkies fein eingesprengt. Letzterer umschliesst auch die schwarzen Partien ringsum rindenarlig, und vom äußeren Rande laufen höchst sonderbare kurze und feine Streifen aus, die sich zuweilen in der Eisenmasse noch weiter verzweigen. Magnetkies ist an manchen Stellen in Nieren von der Größe einer Mandel ausgeschieden, und tritt auch in sonderbaren eckigen Partien mit aus- und einspringenden Winkeln auf. Beim Ätzen erscheinen die. Mittel- und Zwischenfelder mit den feinen Schraffirungsleisten nur in sehr geringer Anzahl, dagegen die Streifen sehr ausgezeichnet und breit und erfüllen fast die ganze Masse. Dieses Reichenbach'sche Bandeisen tritt schon ohne Ätzen bei feinstem Poliren hervor. Mehre der dickeren Streifen, die nebeneinander liegen, sind bald nach dieser, bald nach jener Richtung mit ganz feinen und parallelen Linien schraffirt, diese auch wieder von Linien nach anderen Richtungen durchschnitten, so dass, wenn man die geätzte Fläche in verschiedene Lagen bringt, der abwechselnde Glanz des Moire metallique auftritt.
 
 Analysen sind bekannt von Steinmann 1., v. Holger 2., 3. und Berzelius 4., 5.:
 
@@ -5746,7 +5734,7 @@ Literatur: Jackson Sillim. Amer. Journ. 34, 332. Jackson und Hayes ebd. 48, 145-
 
 Putnam County, Georgia, Nord-Amerika.
 
-Nach Willet wurde 1839 eine große Eisenmasse in bebautem Felde gefunden, die nach der Schmiede gebracht wurde, aber nicht zu bearbeiten war. Ihre Gestalt war etwa die einer dreiseitigen Pyramide mit unregelmässigen Flächen. Die größten Stücke scheinen bei L. Smith in Louisville (fast 35 K.), der Mercer-Universität, Georgia (etwa 30 K.) und bei Suerarp (über 17 K.) zu sein. Bescheidenere Bruchstücke oder von unbekanntem Gewicht finden sich besonders in London (113,165 Gr.), Wien (87,5 Gr.), Göttingen (33,5 Gr.), Berlin (24,656 Gr.), Paris, Mus. Hist. nat., so wie bei Greg (55 Gr.), de Luynes (48 Gr.), Auerbach (23 Gr.), v. Reichenbach und Nevill.
+Nach Willet wurde 1839 eine große Eisenmasse in bebautem Felde gefunden, die nach der Schmiede gebracht wurde, aber nicht zu bearbeiten war. Ihre Gestalt war etwa die einer dreiseitigen Pyramide mit unregelmäßigen Flächen. Die größten Stücke scheinen bei L. Smith in Louisville (fast 35 K.), der Mercer-Universität, Georgia (etwa 30 K.) und bei Suerarp (über 17 K.) zu sein. Bescheidenere Bruchstücke oder von unbekanntem Gewicht finden sich besonders in London (113,165 Gr.), Wien (87,5 Gr.), Göttingen (33,5 Gr.), Berlin (24,656 Gr.), Paris, Mus. Hist. nat., so wie bei Greg (55 Gr.), de Luynes (48 Gr.), Auerbach (23 Gr.), v. Reichenbach und Nevill.
 
 Spezifisches Gewicht: 7,69 Shepard.
 
@@ -5806,15 +5794,15 @@ Spezifisches Gewicht:
 6,222 Shepard,  
 Schwefeleisen: 4,454 Shepard.
 
-Es wird darüber gestritten, ob das Eisen von Cocke County und Sevier County, beide in Tennessee und nicht weit voneinander gefunden, übereinstimmten oder verschieden seien. v. Reichenbach findet sie ganz verschieden, G. Rose trennt beide auch im Berliner Meteoriten-Catalog, in Wien und London dagegen und in den amerikanischen Originalmitteilungen werden diese Unterschiede nicht gemacht. Solange diese nicht entschieden festgestellt sind, ist man berechtigt, beide zusammenzufassen. - Die dicke Rostrinde gleicht leicht zerbröckelndem Brauneisenstein; darin finden sich häufig zum Teil ziemlich große, gelblich weiße, völlig metallisch glänzende und biegsame Blätter von Schreibersit. Das Metall selbst ist sehr weiß und besteht zum Teil aus großen und vollkommenen octaedrischen Gestalten. Bei der Masse von Troost fand Shepard regelmässigen krystallinischen Bruch; die reine Oberfläche war unterbrochen von glänzendem Schwefeleisen von 1/4-1/16 Zoll Dicke. Dabei traten rhombische und Dreiecksflächen vor, die durch den Kohlenstoff zwischen den Platten des Eisens meist schwarz waren. Doch tritt das Schwefeleisen nicht nur in Adern und Platten, sondern auch in Kugeln und mandelförmigen Massen auf, die manchmal 1/2 Zoll dick sind. Dieser Bestandteil macht nach Shepard etwa 1/6 der ganzen Masse aus, ist concentrisch blättrig und die Blättchen oft durch Eisen und Kohle voneinander getrennt.
+Es wird darüber gestritten, ob das Eisen von Cocke County und Sevier County, beide in Tennessee und nicht weit voneinander gefunden, übereinstimmten oder verschieden seien. v. Reichenbach findet sie ganz verschieden, G. Rose trennt beide auch im Berliner Meteoriten-Catalog, in Wien und London dagegen und in den amerikanischen Originalmitteilungen werden diese Unterschiede nicht gemacht. Solange diese nicht entschieden festgestellt sind, ist man berechtigt, beide zusammenzufassen. - Die dicke Rostrinde gleicht leicht zerbröckelndem Brauneisenstein; darin finden sich häufig zum Teil ziemlich große, gelblich weiße, völlig metallisch glänzende und biegsame Blätter von Schreibersit. Das Metall selbst ist sehr weiß und besteht zum Teil aus großen und vollkommenen octaedrischen Gestalten. Bei der Masse von Troost fand Shepard regelmässigen kristallinischen Bruch; die reine Oberfläche war unterbrochen von glänzendem Schwefeleisen von 1/4-1/16 Zoll Dicke. Dabei traten rhombische und Dreiecksflächen vor, die durch den Kohlenstoff zwischen den Platten des Eisens meist schwarz waren. Doch tritt das Schwefeleisen nicht nur in Adern und Platten, sondern auch in Kugeln und mandelförmigen Massen auf, die manchmal 1/2 Zoll dick sind. Dieser Bestandteil macht nach Shepard etwa 1/6 der ganzen Masse aus, ist concentrisch blättrig und die Blättchen oft durch Eisen und Kohle voneinander getrennt.
 
 Auch enthält es bis wallnussgrosse Knollen von Graphit außer den dünnen Krusten dieser Substanz zwischen den Blättern des Eisens.
 
-Nach Troost ist das Eisen ein eigenthümliches Gemenge von Meteoreisen, Kohleneisen oder Graphit, Schwefeleisen und gelbem und braunem Eisenrost, die stellenweise alle fast gleichartig gemengt sind. Danach soll Nickeleisen 99% ausmachen, zum Teil kristallinische Struktur haben, zum Teil aus Körnern und Kügelchen von verschiedener Größe und Form bestehen, die untereinander ganz verkittet sind oder durch ein dünnes, biegsames, hochpolirbares Häutchen von Graphit (?) getrennt werden. Der kristallinische Teil besteht aus Blättchen von verschiedener Dicke in Gestalt gleichseitiger Dreiecke, die auch durch solche biegsame Häutchen getrennt sind. Durch Spaltung lassen sich regelmässige Tetraeder erhalten und gewann Troost ein solches von 1 Zoll Höhe. Das Eisen ist hämmerbar., aber härter und weißer als gewöhnliches Schmiedeeisen. Der Graphit ist dem irdischen sehr ähnlich, enthält aber Eisen, das zum Teil durch den Magnet ausgezogen werden kann. Das Schwefeleisen ist nach Troost in geringster Menge vorhanden, nicht magnetisch und so weich, dass es mit dem Messer geschnitten werden kann.
+Nach Troost ist das Eisen ein eigentümliches Gemenge von Meteoreisen, Kohleneisen oder Graphit, Schwefeleisen und gelbem und braunem Eisenrost, die stellenweise alle fast gleichartig gemengt sind. Danach soll Nickeleisen 99% ausmachen, zum Teil kristallinische Struktur haben, zum Teil aus Körnern und Kügelchen von verschiedener Größe und Form bestehen, die untereinander ganz verkittet sind oder durch ein dünnes, biegsames, hochpolirbares Häutchen von Graphit (?) getrennt werden. Der kristallinische Teil besteht aus Blättchen von verschiedener Dicke in Gestalt gleichseitiger Dreiecke, die auch durch solche biegsame Häutchen getrennt sind. Durch Spaltung lassen sich regelmäßige Tetraeder erhalten und gewann Troost ein solches von 1 Zoll Höhe. Das Eisen ist hämmerbar., aber härter und weißer als gewöhnliches Schmiedeeisen. Der Graphit ist dem irdischen sehr ähnlich, enthält aber Eisen, das zum Teil durch den Magnet ausgezogen werden kann. Das Schwefeleisen ist nach Troost in geringster Menge vorhanden, nicht magnetisch und so weich, dass es mit dem Messer geschnitten werden kann.
 
 Die Masse, die Shepard von der Knoxville-Universität erhielt, war verschieden von der, die Troost beschrieben, grobkrystallinisch und fast frei von graphitischen und pyritischen Einschlüssen. Nach v. Reichenbach enthält aber auch Sevier- wie Cosby-Eisen Knollen von Graphit, also auch hier sind die Widersprüche nicht gelöst.
 
-Widmannstätten'sche Figuren sind nach v. Reichenbach auch bei den von ihm unterschiedenen Eisen schon auf dem rohen Bruch zu erkennen und treten als ausgezeichnet feinlinige parallele Streifungen auf. Werden Schnitte in der Richtung der Spaltungsflächen polirt und geätzt, so entstehen nur kleine Rinnen und wellenförmige Linien, die glänzend am Grunde und matt am oberen Ende sind; sie sind so klein und unregelmäßig, dass sie nur mit dem Mikroskop wahrnehmbar sind. Bei einem Schnitt aber, der die Spaltungsflächen kreuzt, entstehen beim Ätzen feme silberweiße Linien. v. Reichenbach bei seinen Untersuchungen über die verschiedenen ven ihm unterschiedenen Eisensorten, durch welche die Figuren entstehen, bespricht vielfach auch das Verhalten dieser Eisenmassen, doch sind auch diese Beobachtungen nicht hinreichend, zwei verschiedene Lokalitäten (Cosby und Sevier) annehmen zu müssen.
+Widmannstätten'sche Figuren sind nach v. Reichenbach auch bei den von ihm unterschiedenen Eisen schon auf dem rohen Bruch zu erkennen und treten als ausgezeichnet feinlinige parallele Streifungen auf. Werden Schnitte in der Richtung der Spaltungsflächen poliert und geätzt, so entstehen nur kleine Rinnen und wellenförmige Linien, die glänzend am Grunde und matt am oberen Ende sind; sie sind so klein und unregelmäßig, dass sie nur mit dem Mikroskop wahrnehmbar sind. Bei einem Schnitt aber, der die Spaltungsflächen kreuzt, entstehen beim Ätzen feme silberweiße Linien. v. Reichenbach bei seinen Untersuchungen über die verschiedenen ven ihm unterschiedenen Eisensorten, durch welche die Figuren entstehen, bespricht vielfach auch das Verhalten dieser Eisenmassen, doch sind auch diese Beobachtungen nicht hinreichend, zwei verschiedene Lokalitäten (Cosby und Sevier) annehmen zu müssen.
 
 Troost fand bei der Analyse:
 
@@ -5863,7 +5851,7 @@ Scriba, Oswego County, New-York, Nord-Amerika.
 
 Spezifisches Gewicht: 7,5 Shepard.
 
-Es hat eine glatte Oberfläche und schwarze Rinde, in deren Fugen Magneteisen sich findet. Das Eisen ist sehr zäh; es enthält ein graphitartiges Mineral mit der Härte von 5-5,5 und dem spec, Gew. 5,2-5,4; es ist spröde, dunkeleisenschwarz und hat unvollkommenen Metallglanz. Obgleich es keine regelmässige kristallinische Struktur zeigt, so entstehen beim Ätzen eigenthümliche fleckige Zeichnungen, wie Metallmohr, aber keine Figuren.
+Es hat eine glatte Oberfläche und schwarze Rinde, in deren Fugen Magneteisen sich findet. Das Eisen ist sehr zäh; es enthält ein graphitartiges Mineral mit der Härte von 5-5,5 und dem spec, Gew. 5,2-5,4; es ist spröde, dunkeleisenschwarz und hat unvollkommenen Metallglanz. Obgleich es keine regelmäßige kristallinische Struktur zeigt, so entstehen beim Ätzen eigentümliche fleckige Zeichnungen, wie Metallmohr, aber keine Figuren.
 
 Shepard fand bei der Analyse:
 
@@ -5909,7 +5897,7 @@ Literatur: Compt. rend. 35, 289.
 
 ### Arva
 
-Arva. Bei dem Dorf Szlanicza, am Fuß der Magura, im Arvaer Comitat, Ungarn.
+Arva. Bei dem Dorf Szlanicza, am Fuß der Magura, im Arvaer Komitat, Ungarn.
 
 Dieses Eisen wurde 1840 offenbar in sehr beträchtlicher Menge gefunden, jedoch die Tatsache, selbst die Fundstelle äußerst geheim gehalten. Erst 1844 drang davon in die Oeffentlichkeit und Haidinger erwähnte dieses Eisens zuerst in der Wiener Zeitung. Unterdess waren aber wohl 32 Centner heimlich eingeschmolzen worden. Nur etwa 2 Centner wurden gerettet. So war der Bergingenieur Weiss in Arva durch sein Geheimhalten die Ursache, dass einer der merkwürdigsten Schätze Oesterreichs bis auf eine Kleinigkeit verloren ging.
 
@@ -5963,7 +5951,7 @@ Spezifisches Gewicht:
 7,728 CLark,  
 7,501 Rockwell.
 
-Auf der Bruchfläche ist es grob kristallinisch. Die polirte Oberfläche ist fast so weiß wie Neusilber; unter gewissen Winkeln gehalten sieht man die krystallinischen Zeichnungen, die beim Ätzen noch deutlicher erscheinen; diese Widmannstätten''schen Figuren zeigen hauptsächlich kurze, parallele, glänzende Linien in verschiedenen Richtungen; der sehr schmale Raum zwischen denselben ist überall fein gefleckt, ähnlich Metallmohr. Magnetkies tritt in Kegelform auf. Beim Abschneiden einer Scheibe fand Shepard eine einzelne, sehr regelmäßig tropfenförmige Höhlung von mehr als einem halben Zoll Durchmesser, die durch eine kleine Oeffnung mit der Oberfläche in Verbindung stand. Die innere Wandung war fast ganz und mit einem bräunlichschwarzen Pulver bedeckt, das nicht weiter untersucht wurde.
+Auf der Bruchfläche ist es grob kristallinisch. Die polirte Oberfläche ist fast so weiß wie Neusilber; unter gewissen Winkeln gehalten sieht man die kristallinischen Zeichnungen, die beim Ätzen noch deutlicher erscheinen; diese Widmannstätten''schen Figuren zeigen hauptsächlich kurze, parallele, glänzende Linien in verschiedenen Richtungen; der sehr schmale Raum zwischen denselben ist überall fein gefleckt, ähnlich Metallmohr. Magnetkies tritt in Kegelform auf. Beim Abschneiden einer Scheibe fand Shepard eine einzelne, sehr regelmäßig tropfenförmige Höhlung von mehr als einem halben Zoll Durchmesser, die durch eine kleine Oeffnung mit der Oberfläche in Verbindung stand. Die innere Wandung war fast ganz und mit einem bräunlichschwarzen Pulver bedeckt, das nicht weiter untersucht wurde.
 
 Analysen lieferten Rockwell 1., Shepard 2. und Clark 3.:
 
@@ -5992,7 +5980,7 @@ De Kalb County, Caryfort, Tennessee, Nord-Amerika.
 
 Etwa 1840 wurde diese ursprünglich über 16 K. schwere Eisenmasse ausgepflügt; dech muss sie viel schwerer gewesen sein. Troost kaufte und beschrieb dieselbe 1845. Ein großes Stück besitzt auch v. Reichenbach; in großen Öffentlichen Sammlungen scheint diese Lokalität zu fehlen; Greg besitzt 26 Gr.
 
-Schon ohne Ätzen treten auf der polierten Schnittfläche die Widmannstätten'schen Figuren hervor: Blättchen, die in eine Metallmasse eingebettet sind ; diese ist fast silberweiss, härter und daher beim Poliren glänzender. Wird. das Eisen parallel mit diesen Blättchen geschnitten oder nahezu parallel, se erscheinen nur unregelmäßige Flecken; wird aber quer geschnitten, so erscheint eine regelmässige Anordnung der Figuren, wodurch octaedrische Krystallisation angezeigt wird. Die Blätter lassen sich aus der Masse auslösen; sie haben Farbe und Glanz wie polirtes Silber und laufen selbst in 5-6 Jahren nicht an der Luft an. Grosse Kiese und Knollen von Graphit sind reichlich eingelagert.
+Schon ohne Ätzen treten auf der polierten Schnittfläche die Widmannstätten'schen Figuren hervor: Blättchen, die in eine Metallmasse eingebettet sind ; diese ist fast silberweiss, härter und daher beim Poliren glänzender. Wird. das Eisen parallel mit diesen Blättchen geschnitten oder nahezu parallel, se erscheinen nur unregelmäßige Flecken; wird aber quer geschnitten, so erscheint eine regelmäßige Anordnung der Figuren, wodurch octaedrische Krystallisation angezeigt wird. Die Blätter lassen sich aus der Masse auslösen; sie haben Farbe und Glanz wie polirtes Silber und laufen selbst in 5-6 Jahren nicht an der Luft an. Grosse Kiese und Knollen von Graphit sind reichlich eingelagert.
 
 Literatur: Troost Sillim. Amer. Journ. (1) 49, 341.
 
@@ -6037,7 +6025,7 @@ Im Herbst 1832 wurde diese Masse gefunden, aber erst 1845 von Troost beschrieben
 
 Spezifisches Gewicht: 7,265 Shepard.
 
-Die Masse ist zum Teil mit einer Rostrinde, zum Teil aber auch mit einer glatten, schwarzen Brandrinde bedeckt. Sie ist sehr fest; auf dem sehr krystallinischen Bruch zeigen sich dreieckige Blättchen, deren einige 4 Linien lang sind. Beim Durchsägen wurde ein Knollen einer nicht weiter beschriebenen Masse gefunden, der 2 1/2 Zoll lang, 2 Zoll breit und 1 1/2 Zoll dick war. Von der Hauptmasse war er durch einige dünne Häutchen eines weißen glänzenden Metalls getrennt, wie beim De Kalb-Eisen (p. 171), und ließ sich leicht herausschlagen. Beim Ätzen entstehen keine Widmannstätten'schen Figuren, sondern nur kleine glänzende Flecken, oder eckige Stellen von der Größe feinkörnigen Schiesspulvers, die zum Teil mit glänzenden Linien und Fasern untermischt sind.
+Die Masse ist zum Teil mit einer Rostrinde, zum Teil aber auch mit einer glatten, schwarzen Brandrinde bedeckt. Sie ist sehr fest; auf dem sehr kristallinischen Bruch zeigen sich dreieckige Blättchen, deren einige 4 Linien lang sind. Beim Durchsägen wurde ein Knollen einer nicht weiter beschriebenen Masse gefunden, der 2 1/2 Zoll lang, 2 Zoll breit und 1 1/2 Zoll dick war. Von der Hauptmasse war er durch einige dünne Häutchen eines weißen glänzenden Metalls getrennt, wie beim De Kalb-Eisen (p. 171), und ließ sich leicht herausschlagen. Beim Ätzen entstehen keine Widmannstätten'schen Figuren, sondern nur kleine glänzende Flecken, oder eckige Stellen von der Größe feinkörnigen Schiesspulvers, die zum Teil mit glänzenden Linien und Fasern untermischt sind.
 
 Bei feuchtem Wetter bilden sich an der Grenze des Eisens und der Rostrinde Tröpfchen von Eisenchlorid. Doch ist das Eisen selbst frei von Chlor. Shepard fand auch kein Nickel, sondern 99,89% Eisen mit Spuren von Calcium, Magnesium und Aluminium, der Menge nach in der Reihe, wie sie genannt sind.
 
@@ -6059,7 +6047,7 @@ Fe. Ni. Cu, As. Unlösl.
 1\. 95,54. 5,037. -,-. -,-.  
 2\. 92,583. 5,708. Spur. 1,4.
 
-Schwefel wurde in 1. gar nicht berücksichtigt, in 2. nicht quantitativ bestimmt. Der in Salzsäure unlösliche Rückstand bei 2. wurde in Königswasser gelöst; es blieb ein braunes Pulver zurück, in dem Silicium vermuthet wurde. Die Analyse ergab:
+Schwefel wurde in 1. gar nicht berücksichtigt, in 2. nicht quantitativ bestimmt. Der in Salzsäure unlösliche Rückstand bei 2. wurde in Königswasser gelöst; es blieb ein braunes Pulver zurück, in dem Silicium vermutet wurde. Die Analyse ergab:
 
 Fe. Ni. P. Si?  
 44,1. 24,5. 11,4. 10,0.
@@ -6078,7 +6066,7 @@ Smithland, Livingston County, Kentucky, Nord-Amerika.
 
 Wahrscheinlich 1840 oder 1841 wurden, wie es scheint verschiedene Eisenmassen gefunden. Prof. Troost bekam zu verschiedenen Malen Proben davon zugestellt, um ihren Silbergehalt zu ermitteln, Genaueres aber konnte er nicht erfahren. Erst 1846 gelang es ihm, das einzige noch ganze Stück von etwa 4 1/2 K. sich zu verschaffen und zu beschreiben. Das Uebrige war verschmiedet worden. Die Hauptmassen sind in London (2 K. 565) und bei Troost (2 K.), kleine Stückchen in Wien (13,125 Gr.), sowie bei v. Reichenbach, Greg und Nevill.
 
-Das Eisen ist sehr feinkörnig und enthält sehr wenig fremde Einschlüsse. Beim Ätzen entstehen keine Figuren, auch keine Spur krystallinischen Gefüges, sondern nur kleine glänzende Flecken, die in ziemlich regelmässigen Zwischenräumen nahe beieinander liegen.
+Das Eisen ist sehr feinkörnig und enthält sehr wenig fremde Einschlüsse. Beim Ätzen entstehen keine Figuren, auch keine Spur kristallinischen Gefüges, sondern nur kleine glänzende Flecken, die in ziemlich regelmässigen Zwischenräumen nahe beieinander liegen.
 
 Nach einer annähernden Analyse von Troost besteht es aus 90% Eisen und 10% vorzugsweise Nickel. Auch Prof. Roscog in Manchester bestätigte jüngst den großen Nickelgehalt.
 
@@ -6120,7 +6108,7 @@ Fe. Ni. Co. Cu, Sn. Mn. Si. Me. P. S. X. Cr.
 1\. 98,19. 0,23. -,-. -,-. -,-. -,-. -,-. -,-. -,-. 1,58. Sp.  
 2\. 93,225. 0,236. 0,099. Sp. 0,501. Sp. Sp. 0,543. 4,765. -,-.
 
-X. = Unlösliches, bestehend aus Graphit und Schreibersit. Nach Clark behielt dasselbe die Gestalt des ursprünglichen Stücks bei und bestand aus glänzenden Blättchen von Graphit, einer schwarzen, flockigen Masse und einem magnetischen Teil, der unter dem Mikroskop als ein Netzwerk von krystallinischen Tafeln erschien, die sich unter Winkeln von etwa 60° und 120° schnitten und genau den Figuren glichen, die an dieser Stelle beim Ätzen entstanden waren. Außerdem wurden noch bräunliche Körnchen, härter wie Glas, beim Unlöslichen gefunden; sie glichen sehr dem Olivin von Atacama. Nach Shepard besteht diese Masse aus Kieselsäure, Kalk, Magnesia und Eisenoxyd.
+X. = Unlösliches, bestehend aus Graphit und Schreibersit. Nach Clark behielt dasselbe die Gestalt des ursprünglichen Stücks bei und bestand aus glänzenden Blättchen von Graphit, einer schwarzen, flockigen Masse und einem magnetischen Teil, der unter dem Mikroskop als ein Netzwerk von kristallinischen Tafeln erschien, die sich unter Winkeln von etwa 60° und 120° schnitten und genau den Figuren glichen, die an dieser Stelle beim Ätzen entstanden waren. Außerdem wurden noch bräunliche Körnchen, härter wie Glas, beim Unlöslichen gefunden; sie glichen sehr dem Olivin von Atacama. Nach Shepard besteht diese Masse aus Kieselsäure, Kalk, Magnesia und Eisenoxyd.
 
 Literatur: Shepard Sillim. Amer. Journ. (2) 4, 80; daselbst auch Abbildung der Eisenmasse. Clark Annal. Chem. Pharmac. 1852, 6, 367.
 
@@ -6160,7 +6148,7 @@ Literatur: Beinert Der Meteorit von Braunau. Breslau 1848. Auszüge davon in vie
 
 ### Seeläsgen
 
-Seeläsgen, Kreis Schwiebus, Reg.-Bezirk Frankfurt a. O., Brandenburg, Preussen.
+Seeläsgen, Kreis Schwiebus, Reg.-Bezirk Frankfurt a. O., Brandenburg, Preußen.
 
 Diese Eisenmasse von 102 K. wurde 7 Ellen unter dem Boden in einer Wiese gefunden. Sie hatte eine unregelmäßige und rundliche Form mit stumpfer Spitze und breiter Basis, viele flache und tiefe Gruben und zuweilen sehr stark hervortretende Buckeln auf der Oberfläche und mass im größten Umfange über drei Fuß. Nachdem dieses Eisen eine Zeit lang unter anderen Steinen vor dem Hause eines Bauern gelegen, wurde es 1847 als meteorisch erkannt. Über die Hälfte erhielt Krantz in Bonn, der sie stückweise verkaufte. Am meisten scheint London zu besitzen (9 K. 713) und Berlin (4 K. 471), kleinere Stücke Wien (1 K. 997), Breslau, schles. Gesellsch. (1 K. 812), Harlem, Akademie der Wissenschaften (998,7 Gr.), Tübingen (529 Gr.), Kopenhagen (341,5 Gr.), Uppsala (231,7 Gr.), Stockholm (203 Gr.), Göttingen (147,77 Gr.), Marburg (145,8 Gr.) und kleinere oder von unbekanntem Gewicht Calcutta, Cassel, Freiberg, Freiburg im Breisg., Gießen (Univers.), Stuttgart; ferner die Privatsammlungen von Greg (2 K. 230), Abt Zeidler (744 Gr.), Ferber in Gera (664 Gr.), Shepard (357 Gr.), Fürst Lobkowitz (275 Gr.), Neumann in Prag (257 Gr.), de Luynes (193 Gr.), Fischer in Hamburg (143 Gr.), Keller sen. in Freiburg im Breisg. (130 Gr.), Jordan in Saarbrücken (107 Gr.), sowie kleinere oder von unbekanntem Gewicht v. Reichenbach, Erzh. Stephan auf Schaumburg, Zimmermann und Ulex in Hamburg, Auerbach in Moskau und Wiser in Zürich.
 
@@ -6215,7 +6203,7 @@ Ohne genauere Angabe des Ortes, aber verschieden von Burlington, Otsego County.
 
 Dieser kleinste aller Eisenmeteoriten wurde 1845 gefunden und 1848 von Shepard beschrieben. Er war tropfenförmig und wog 17,94 Gr. (276 Grains). Es ist demnach unklar, wie das britische Museum 28,4 Gr. davon besitzen kann, zumal da noch Nevill ein Stückchen hat und Shepard wohl auch einen Rest in seiner Sammlung zurückbehielt.
 
-Zu hart, um es zu sägen, wurde es mit einem schweren Hammer zerschlagen und zeigte dann im Inneren ein blättriges oder blättrigsäuliges Gefüge vom Mittelpunkt aus nach dem Umfang. Die Farbe ist hellstahlgrau mit einem Stich in's Gelbliche oder Röthliche, ähnlich Magnetkies. Zerstreut darin liegen sehr kleine, vollkommen runde Kügelchen von Magnetkies, die besonders mit dem Mikroskop sichtbar sind; sie sind leicht auszulösen und hinterlassen glatte Höhlungen mit silberweissen Wänden. Eine polirte Fläche des Inneren zeigt beim Ätzen unzählige, sehr nahe beieinander liegende silberweiße Linien, die sich in verschiedenen Richtungen schneiden, obgleich sie selten regelmässige Dreiecke bilden. Auf einer solchen Fläche sehen die kleinen Magnetkieskugeln wie schwarze Punkte aus.
+Zu hart, um es zu sägen, wurde es mit einem schweren Hammer zerschlagen und zeigte dann im Inneren ein blättriges oder blättrigsäuliges Gefüge vom Mittelpunkt aus nach dem Umfang. Die Farbe ist hellstahlgrau mit einem Stich in's Gelbliche oder Röthliche, ähnlich Magnetkies. Zerstreut darin liegen sehr kleine, vollkommen runde Kügelchen von Magnetkies, die besonders mit dem Mikroskop sichtbar sind; sie sind leicht auszulösen und hinterlassen glatte Höhlungen mit silberweißen Wänden. Eine polirte Fläche des Inneren zeigt beim Ätzen unzählige, sehr nahe beieinander liegende silberweiße Linien, die sich in verschiedenen Richtungen schneiden, obgleich sie selten regelmäßige Dreiecke bilden. Auf einer solchen Fläche sehen die kleinen Magnetkieskugeln wie schwarze Punkte aus.
 
 In Königswasser löst sich das Eisen schwierig und entwickelt dabei Schwefelwasserstoff. Zurück bleibt Graphit und ein schweres weissliches Pulver, das mit Soda geschmolzen ein Metall gibt, welches Shepard für Zinn hält. Seine Analyse gab 94,57% Eisen und den Rest Kupfer, Nickel, Kobalt, Schwefel, Kohle und vielleicht Zinn und Chrom.
 
@@ -6267,7 +6255,7 @@ Mit 1849 soll diese Eisenmasse bekannt sein; trotzdem kann kaum Genaueres darüb
 
 Chesterville, Chester County, Süd-Carolina, Nord-Amerika.
 
-1849 erhielt Dr. Anprews in Concord, Nord-Carolina, ein Stück von 1-1 1/2 K. von einer größeren Eisenmasse, die ursprünglich etwa 16 1/2 K. gewogen hatte, aber zumeist verschmiedet worden war. Man hatte sie ausgepflügt. Dr. Kersh in Fairfield-District, Süd-Carol., scheint die Hauptmasse zu besitzen, Shepard hat etwa 4 1/2 K., London 4 K. Kleinere Stücke sind in Wien (883,764 Gr.), Berlin (427,495 Gr.), Göttingen (115,5 Gr., scheint geschmiedet) und bei Greg (75 Gr.), Auerbach (36 Gr.), v. Reichenbach und Nevill.
+1849 erhielt Dr. Anprews in Concord, Nord-Carolina, ein Stück von 1-1 1/2 K. von einer größeren Eisenmasse, die ursprünglich etwa 16 1/2 K. gewogen hatte, aber zumeist verschmiedet worden war. Man hatte sie ausgepflügt. Dr. Kersh in Fairfield-Distrikt, Süd-Carol., scheint die Hauptmasse zu besitzen, Shepard hat etwa 4 1/2 K., London 4 K. Kleinere Stücke sind in Wien (883,764 Gr.), Berlin (427,495 Gr.), Göttingen (115,5 Gr., scheint geschmiedet) und bei Greg (75 Gr.), Auerbach (36 Gr.), v. Reichenbach und Nevill.
 
 Spezifisches Gewicht: 7,818 Clark.
 
@@ -6284,7 +6272,7 @@ Literatur: Shepard Sillim. Amer. Journ. (2) 7, 449.
 
 ### Schwetz
 
-Schwetz an der Weichsel, Reg.-Bezirk Marienwerder, Provinz Preussen.
+Schwetz an der Weichsel, Reg.-Bezirk Marienwerder, Provinz Preußen.
 
 Im Frühjahr 1850 wurde beim Abtragen eines sandigen Hügels für die Ostbahn etwa 4 Fuß unter der Oberfläche eine Eisenmasse von der Gestalt eines geraden, an den Kanten ganz abgerundeten rechtwinkeligen Prisma's gefunden. Ihre Dimensionen waren: Höhe 9 Zoll, Seite der Basis 5 1/4 und 4 Zoll, Umfang der Länge nach 24 Zoll, der Breite nach 17 1/2 Zoll, das Gewicht über 20 K. Die Masse wurde von den Arbeitern in mehre Stücke zerschlagen, was schon vorhandene natürliche Klüfte, nach der Beschaffenheit der Oberfläche derselben zu schließen, erleichterten; ein Teil derselben wurde auch verschmiedet. Es kamen alle Stücke nach Berlin, wo jetzt noch 8 K. 827,37 sind. Die anderen kamen besonders nach London (1 K. 049), Wien (842,206 Gr.), Göttingen (304,5 Gr.), sowie zu Shepard (439 Gr.), Greg (160 Gr.), Auerbach (116 Gr.), Ferber in Gera (70,5 Gr.), v. Reichenbach und Nevill.
 
@@ -6396,7 +6384,7 @@ B. Silliman jun. beschrieb dieses Eisen 1850. Die Masse, die er erhielt, wog anf
 
 Spezifisches Gewicht: 6,835 Shepard.
 
-Der meteorische Charakter dieses Eisens ist zu erkennen an dem eigenthümlichen krystallinischen Gefüge, der harten äusseren Rinde, den Knollen von Magnetkies, welche in großen abgerundeten Massen darin eingestreut sind, besonders aber durch die chemische Zusammensetzung.
+Der meteorische Charakter dieses Eisens ist zu erkennen an dem eigentümlichen kristallinischen Gefüge, der harten äußeren Rinde, den Knollen von Magnetkies, welche in großen abgerundeten Massen darin eingestreut sind, besonders aber durch die chemische Zusammensetzung.
 
 Die Analysen von Brewer ergaben:
 
@@ -6534,7 +6522,7 @@ Literatur: Sillim. Amer. Journ. (2) 17, 325.
 
 Tabarz, am Fuß des Inselberges, Thüringen.
 
-Diese Eisenmasse soll 1854, am 18. October niedergefallen und noch heiß aufgenommen worden sein. Doch hat sie wahrscheinlich lange im Boden gelegen, weil sie eine ziemlich stark verrostete unebene Oberfläche hatte. Nur die Sammlungen in Göttingen (121,2 Gr.) und Wien (14,218 Gr.) scheinen Stücke davon zu besitzen. In der dunkelbraunen Oxydrinde zeigen sich einzelne Blättchen von Schreibersit, sowie graugelbes Einfachschwefeleisen. Beim Ätzen treten Widmannstätten'sche Figuren hervor.
+Diese Eisenmasse soll 1854, am 18. Oktober niedergefallen und noch heiß aufgenommen worden sein. Doch hat sie wahrscheinlich lange im Boden gelegen, weil sie eine ziemlich stark verrostete unebene Oberfläche hatte. Nur die Sammlungen in Göttingen (121,2 Gr.) und Wien (14,218 Gr.) scheinen Stücke davon zu besitzen. In der dunkelbraunen Oxydrinde zeigen sich einzelne Blättchen von Schreibersit, sowie graugelbes Einfachschwefeleisen. Beim Ätzen treten Widmannstätten'sche Figuren hervor.
 
 Spezifisches Gewicht: 7,737 Eberhard.
 
@@ -6565,7 +6553,7 @@ Diese Eisenmasse wurde 1840 von Greenwood gefunden und 1855 von Greg beschrieben
 
 Spezifisches Gewicht eines von Höhlungen nicht freien Stücks: 6,5 Greg.
 
-Das Eisen ist sehr weich und zeigt beim Ätzen keine Widmannstätten'schen Figuren. Einige Stellen sind mit wabenartigen Höhlungen erfüllt, welche Häutchen oder kleinere Kügelchen bis zu Erbsengroße von reinem Blei enthielten. Heddle, der das Eisen und Blei auch untersuchte, fand in einigen Höhlungen auch ein sehr zartes, graulichschwarzes, etwas metallisch aussehendes, sowie ein gelblichbraunes, in Säuren unlösliches erdiges Mineral. Greg vermuthet, dass das Blei ursprünglich mit Nickel und Kobalt legirt gewesen sei und bei der Hitze der Feuerkugel aussaigerte.
+Das Eisen ist sehr weich und zeigt beim Ätzen keine Widmannstätten'schen Figuren. Einige Stellen sind mit wabenartigen Höhlungen erfüllt, welche Häutchen oder kleinere Kügelchen bis zu Erbsengroße von reinem Blei enthielten. Heddle, der das Eisen und Blei auch untersuchte, fand in einigen Höhlungen auch ein sehr zartes, graulichschwarzes, etwas metallisch aussehendes, sowie ein gelblichbraunes, in Säuren unlösliches erdiges Mineral. Greg vermutet, dass das Blei ursprünglich mit Nickel und Kobalt legirt gewesen sei und bei der Hitze der Feuerkugel aussaigerte.
 
 Darlington analysierte das Eisen zweimal:
 
@@ -6664,7 +6652,7 @@ Oranjeflussdistrict, Süd-Afrika.
 
 Seit 1856 bekannt.
 
-Shepard in New-Haven erhielt daher einen Eisenblock, der ursprünglich etwa 148 K. wog. Stücke davon sind inLondon (97,95 Gr.), Wien (48,125 Gr.), Göttingen (30,97 Gr.), Berlin (28,988 Gr.), sowie bei Greg (16 Gr.) und v. Reichenbach. Das Eisen zeigt an der Oberfläche keine Oxydation, nur eine papierdicke schwarze Rinde. Es ist gleichartig und durchaus kristallinisch, so dass sich leicht octaedrische und tetraedrische Fragmente abspalten lassen. Polirte Flächen sind sehr weiß und zeigen geätzt sehr regelmässige Widmannstätten'sche Figuren.
+Shepard in New-Haven erhielt daher einen Eisenblock, der ursprünglich etwa 148 K. wog. Stücke davon sind inLondon (97,95 Gr.), Wien (48,125 Gr.), Göttingen (30,97 Gr.), Berlin (28,988 Gr.), sowie bei Greg (16 Gr.) und v. Reichenbach. Das Eisen zeigt an der Oberfläche keine Oxydation, nur eine papierdicke schwarze Rinde. Es ist gleichartig und durchaus kristallinisch, so dass sich leicht octaedrische und tetraedrische Fragmente abspalten lassen. Polirte Flächen sind sehr weiß und zeigen geätzt sehr regelmäßige Widmannstätten'sche Figuren.
 
 Das spezifische Gewicht fand Shepard 3,7 (?); nach seiner AnaIyse besteht es aus:
 
@@ -6833,7 +6821,7 @@ Literatur: Transact. Acad. St. Louis I, 1860, 711. Shepard Sillim. Amer. Journ. 
 
 La Grange, Oldham County, Kentucky, Nord-Amerika.
 
-Im October 1860 wurde eine Eisenmasse von 51 K. gefunden. Fast die ganze Masse besitzt Smith in Louisville; Bruchstücke sind besonders in Wien (402,5 Gr.), London (59,47 Gr.), sowie bei Shepard, v. Reichenbach und Gerg.
+Im Oktober 1860 wurde eine Eisenmasse von 51 K. gefunden. Fast die ganze Masse besitzt Smith in Louisville; Bruchstücke sind besonders in Wien (402,5 Gr.), London (59,47 Gr.), sowie bei Shepard, v. Reichenbach und Gerg.
 
 Spezifisches Gewicht: 7,89.
 
@@ -6887,7 +6875,7 @@ Wawnikiewicz fand im Herbst 1864 bei Heidelberg eine Eisenmasse, welche nach mö
 
 Offenbar war dieses Eisen vom Regen aus der, dem bunten Sandstein aufliegenden Lehmschicht ausgespült worden; es trug alle Spuren eines langjährigen Verweilens im feuchten Erdboden an sich. Die Gestalt war knollig und abgerundet eckig. Es war so hart, dass es sich weder sägen, noch mit der härtesten Feile bearbeiten ließ; durch einen Schlag mit einem schweren Hammer zersprang es. Auf den eisengrauen, glänzenden körnigen Bruchflächen zeigten sich häufige, unbestimmt gestaltete Höhlungen, deren Oberfläche mit einer traubigen mattschwarzen Rinde wahrscheinlich von Eisenoxyduloxyd überzogen war. Einzelne dieser Höhlungen zeigten sich, obgleich selten, ganz erfüllt mit einer feldspathartigen Masse, in der sich hie und da kleinere Blasenräume erkennen ließen. Auf einer polierten Fläche entstehen beim Ätzen sehr ausgezeichnete Widmannstätten'sche Figuren.
 
-Das Eisen löst sich in erwärmter Salpetersäure nur mit Zurücklassung weniger kleiner weißer Silikatkörner auf; Kohle und Graphit scheiden sich dabei nicht aus. Beim Lösen in verdünnter Schwefelsäure dagegen, wobei übelriechendes Schwefelwasserstoff haltendes Wasserstoffgas entweicht, bleiben nicht ganz 2% eines mattschwarzen, nicht krystallinischen, mit jenen Silikatstückchen gemengten Pulvers zurück, das aus Eisen, Nickel, Kobalt, Phosphor und Schwefel besteht. Beim Lösen dieses Pulvers in Königswasser schied sich auch nicht Graphit oder Kohle aus.
+Das Eisen löst sich in erwärmter Salpetersäure nur mit Zurücklassung weniger kleiner weißer Silikatkörner auf; Kohle und Graphit scheiden sich dabei nicht aus. Beim Lösen in verdünnter Schwefelsäure dagegen, wobei übelriechendes Schwefelwasserstoff haltendes Wasserstoffgas entweicht, bleiben nicht ganz 2% eines mattschwarzen, nicht kristallinischen, mit jenen Silikatstückchen gemengten Pulvers zurück, das aus Eisen, Nickel, Kobalt, Phosphor und Schwefel besteht. Beim Lösen dieses Pulvers in Königswasser schied sich auch nicht Graphit oder Kohle aus.
 
 Wawnikiewicz analysierte 1. die in verdünnter Schwefelsäure löslichen und die mit dem Wasserstoff entweichenden Bestandteile, 2. den unlöslichen Rückstand.
 
@@ -6948,7 +6936,7 @@ Literatur: Nickerl Lotos, Ztschr. f. Naturwissensch. Prag. 12, 1862, 244.
 
 Bruce.
 
-v. Reichenbach erwähnt dieses Eisen mehrfach bei seinen Untersuchungen über die Structurverhältnisse des Meteoreisens und seine Bestandteile. Sein Herkommen ist gänzlich unbekannt. Es kam durch Bruce an Partsch und wurde von diesem an v. Reichenbach als nichtmeteorisch überlassen. Dieser überzeugte sich von seiner eigenthümlichen Meteorität und nannte es nach der letzten Quelle, aus der es herstammt.
+v. Reichenbach erwähnt dieses Eisen mehrfach bei seinen Untersuchungen über die Structurverhältnisse des Meteoreisens und seine Bestandteile. Sein Herkommen ist gänzlich unbekannt. Es kam durch Bruce an Partsch und wurde von diesem an v. Reichenbach als nichtmeteorisch überlassen. Dieser überzeugte sich von seiner eigentümlichen Meteorität und nannte es nach der letzten Quelle, aus der es herstammt.
 
 Es zeigt Widmannstätten'sche Figuren.
 
@@ -7000,4 +6988,4 @@ Wilmsdorf, Rittergut bei Dresden.
 
 An diesem Tage soll eine 110 K. schwere Meteoritenmasse noch warm aufgefunden und ausgegraben worden sein. Das britische Museum soll sie erworben haben.
 
-Ein Dresdener Localblatt enthält diese zweifelhaft richtige Notiz.
+Ein Dresdener Lokalblatt enthält diese zweifelhaft richtige Notiz.
