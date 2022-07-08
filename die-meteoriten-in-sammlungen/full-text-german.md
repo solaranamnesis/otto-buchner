@@ -432,7 +432,7 @@ Okniny. 1833, Dez. 27 (Berlin). 57.
 
 Harrison County. 1859, März 28 (London). 101.
 
-Siena. 1794, Juni 46 (Berlin, Göttingen, London, Clausthal). 11.
+Siena. 1794, Juni 16 (Berlin, Göttingen, London, Clausthal). 11.
 
 Ensisheim. 1492, Nov. 16 (in den meisten Sammlungen). 3.
 
