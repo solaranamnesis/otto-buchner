@@ -122,7 +122,7 @@ Das Recht der Übersetzung in die englische und französische Sprache hat sich d
 | [Xiquipilco](#xiquipilco)                              | [Eaufromont](#eaufromont)                                                             | [Haywood County](#haywood-county)           |
 | [Bemdegó](#bemdegó)                                    | [Arva](#arva)                                                                         | [Tabarz](#tabarz)                           |
 | [Zacatecas](#zacatecas)                                | [Burlington](#burlington)                                                             | [Sarepta](#sarepta)                         |
-| [Kap der guten Hoffnung](#cap-der-guten-hoffnung)      | [Madagascar](#madagascar)                                                             | [Tarapaca](#tarapaca)                       |
+| [Kap der guten Hoffnung](#kap-der-guten-hoffnung)      | [Madagascar](#madagascar)                                                             | [Tarapaca](#tarapaca)                       |
 | [Mistecà](#mistecà)                                    | [De Kalb County](#de-kalb-county)                                                     | [Madoc](#madoc)                             |
 | [Charcas](#charcas)                                    | [Siebenbürgen](#siebenbürgen)                                                         | [Campbell County](#campbell-county)         |
 | [Durango](#durango)                                    | [Babbs Mühle](#babbs-mühle)                                                           | [Cohahuila](#cohahuila)                     |
