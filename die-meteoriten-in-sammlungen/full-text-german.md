@@ -59,7 +59,7 @@ Das Recht der Übersetzung in die englische und französische Sprache hat sich d
 | [Belaja-Zerkwa](#belaja-zerkwa)                         | [Gütersloh](#gütersloh)                                       | [Drake Creek](#drake-creek)                 |
 | [Salés](#salés)                                         | [Nulles und Vilabella](#nulles-und-vilabella)                 | [Bialistock](#bialistock)                   |
 | [Benares](#benares)                                     | [Yatoor](#yatoor)                                             | [Richmond](#richmond)                       |
-| [l'Aigle](#laigle)                                      | [Mezö-Madaras](#mezö-madaras)                                 | [Forsyth](#forsyth)                         |
+| [L'Aigle](#laigle)                                      | [Mezö-Madaras](#mezö-madaras)                                 | [Forsyth](#forsyth)                         |
 | [Saurette](#saurette)                                   | [Borkút](#borkút)                                             | [Deal](#deal)                               |
 | [Mässing](#mässing)                                     | [Busti, Goruckpore](#busti-goruckpore)                        | [Krasnoy-Ugol](#krasnoy-ugol)               |
 | [High-Possil](#high-possil)                             | [Girgenti](#girgenti)                                         | [Launton](#launton)                         |
@@ -378,7 +378,7 @@ Gießen, Ende März 1863.
 
 Verzeichnis der im k. k. Mineralien-Cabinet zu Wien aufbewahrten Meteoriten.
 
-(Dezember 45, 1862. Von P. Partsch, fortgesetzt von Dr. M. Hörnes.)
+(Dezember 15, 1862. Von P. Partsch, fortgesetzt von Dr. M. Hörnes.)
 
 I\. Meteorsteine.
 
@@ -436,7 +436,7 @@ Siena. 1794, Juni 46 (Berlin, Göttingen, London, Clausthal). 11.
 
 Ensisheim. 1492, Nov. 16 (in den meisten Sammlungen). 3.
 
-l'Aigle. 1803, Apr. 26 (in den meisten Sammlungen). 15.
+L'Aigle. 1803, Apr. 26 (in den meisten Sammlungen). 15.
 
 *) Partsch Die Meteoriten im k. k. Hof-Mineralien-Kabinette zu Wien 1843. Es sind gleichzeitig die größeren öffentlichen Sammlungen aufgeführt, wo noch Steine und Bruchstücke aufbewahrt sind, sowie die Seitenzahl, wo die betreffende Monographie zu finden ist.
 
@@ -810,7 +810,7 @@ I\. Steinmeteoriten.
 
 1\. Chondrit (feinkörnige Grundmasse mit eingemengten kleinen Kugeln eines Magnesia-Silikats, mit Kristallen und Körnern von Olivin, Chromeisenerz und einer unbestimmten schwarzen Substanz, sowie von Nickeleisen und Magnetkies).
 
-Kleinwenden, Erxleben, Stauropol, Ensisheim, Chantonnay, Tabor, Lucé, Barbotan, Doroninsk, Limerick, Tipperary, Toulouse, Seres, Krasnoy-Ugol, Wessely, Grünberg, Cabarras County, Mezö-Madaras, Renazzo, Luponnas, Eichstädt, Benares, Nanjemoy, Timochin, Weston, Parma, Lixna, Blansko, Richmond, la Baffe, Poltawa, Macao, Gütersloh, Siena, Bremervörde, Parnallee, Aussun, Mauerkirchen, Linn County, Linum, Apt, Bachmut, New-Concord, Honolulu, Kakowa, Charkow, Wold Cottage, Salés, Schellin, l'Aigle, Dhurmsala, Asco, Lissa, Charsonville, Kuleschowka, Berlanguillas, Agen, Zaborzika, Slobodka, Pohlitz, Forsyth, Vouillé, Okniny, Little Piney, Château Renard, Oesel, Milena, Meno, Futtehpore, Pegu, Trenzano, Ohaba, Charvallas, Mainz.
+Kleinwenden, Erxleben, Stauropol, Ensisheim, Chantonnay, Tabor, Lucé, Barbotan, Doroninsk, Limerick, Tipperary, Toulouse, Seres, Krasnoy-Ugol, Wessely, Grünberg, Cabarras County, Mezö-Madaras, Renazzo, Luponnas, Eichstädt, Benares, Nanjemoy, Timochin, Weston, Parma, Lixna, Blansko, Richmond, la Baffe, Poltawa, Macao, Gütersloh, Siena, Bremervörde, Parnallee, Aussun, Mauerkirchen, Linn County, Linum, Apt, Bachmut, New-Concord, Honolulu, Kakowa, Charkow, Wold Cottage, Salés, Schellin, L'Aigle, Dhurmsala, Asco, Lissa, Charsonville, Kuleschowka, Berlanguillas, Agen, Zaborzika, Slobodka, Pohlitz, Forsyth, Vouillé, Okniny, Little Piney, Château Renard, Oesel, Milena, Meno, Futtehpore, Pegu, Trenzano, Ohaba, Charvallas, Mainz.
 
 2\. Howardit (feinkörniges Gemenge von Olivin mit einem weißen Silikat, möglicherweise Anorthit, mit einer geringen Menge Chromeisenerz und Nickeleisen).
 
@@ -880,7 +880,7 @@ a\. Sigena, Macao, Charsonville.
 
 b\. Grau und weiß gefleckt:
 
-Luponnas, Gütersloh, Weston, Macerata, Okniny, Salés, Mooresfort, Limerick, l'Aigle, Assam.
+Luponnas, Gütersloh, Weston, Macerata, Okniny, Salés, Mooresfort, Limerick, L'Aigle, Assam.
 
 c\. Mit weißlichen Einschlüssen:
 
@@ -1406,9 +1406,9 @@ SiO₃. MgO. Fe₂O₃. NiO. Fe. Ni. S. Sa.
 
 Literatur: Gilb. Ann. 13, 291. 15, 423. 41, 453. Chladni Feuermet. 266. v. Schreibers Beiträge 62. Partsch 43.
 
-### l'Aigle
+### L'Aigle
 
-l'Aigle (la Vassolerie, Fontenil, la Métonnerie, S. Michel-de Sommaire, St. Nicolas-de Sommaire, Bas Vernet, Mesle, Belangère, la Barne, Bois laville, Corboyer etc.), Normandie, Dép. de l'Orne, Frankreich.
+L'Aigle (la Vassolerie, Fontenil, la Métonnerie, S. Michel-de Sommaire, St. Nicolas-de Sommaire, Bas Vernet, Mesle, Belangère, la Barne, Bois laville, Corboyer etc.), Normandie, Dép. de l'Orne, Frankreich.
 
 1803, April 26, 1 Uhr Nachmittags.
 
@@ -2058,7 +2058,7 @@ Spezifisches Gewicht:
 3,5925 Rumler,  
 3,6213 Rumler.
 
-Die Rinde ist schwarz, matt, wenig pechartig glänzend, stellenweise schlackig, ähnlich Barbotan, l'Aigle u. A.
+Die Rinde ist schwarz, matt, wenig pechartig glänzend, stellenweise schlackig, ähnlich Barbotan, L'Aigle u. A.
 
 Das Innere ist feinkörnig, porös, zerreiblich, lichtaschgrau, rostbraun gefleckt und schwarz punktiert; hell und dunkelgraue kugelige, fest verwachsene Teile sind so durcheinander geknetet, dass sie mancherlei krumme Streifen und Flächen bilden. Viele schwarze, meist sehr feine Adern bilden in der Masse teils Lagen und Streifen, teils einzelne tropfenartige Flecken. Manchmal finden sich beträchtliche schwarze Absonderungsflächen. Da und dort zeigen sich auch Kügelchen von einer dunkelgrauen und Anhäufungen von einer ganz weißen erdigen Substanz. Viele metallische Punkte sind fein, Schwefeleisen mikroskopisch fein eingesprengt. Der Stein wirkt stark auf die Magnetnadel.
 
@@ -2329,7 +2329,7 @@ Angers, Dép. Maine et Loire, Frankreich.
 
 Aus einer Feuerkugel, die in NNW. erschien und heftig detonierte, fielen wahrscheinlich mehre Steine. Einer von nicht ganz 1 K. wurde gleich nach dem Fallen nicht besonders warm aufgenommen. In Poitiers wurde die Feuerkugel als Sternschnuppe gesehen. Der Schweif blieb einige Zeit und veränderte seine Gestalt.
 
-Über die Beschaffenheit des unregelmäßig eckigen Steins, der seiner Hauptmasse nach in Paris (77 Gr.) und außerdem vielleicht nur in v. Reichenbachs Sammlung vertreten ist, wurde nur sehr wenig bekannt. Die Rinde ist gleichförmig braunschwarz und zeigt an einer Stelle eine Blase. Das Innere ist den Steinen von l'Aigle ähnlich und ein Gemenge eines weißen und eines rötlichen Bestandteils.
+Über die Beschaffenheit des unregelmäßig eckigen Steins, der seiner Hauptmasse nach in Paris (77 Gr.) und außerdem vielleicht nur in v. Reichenbachs Sammlung vertreten ist, wurde nur sehr wenig bekannt. Die Rinde ist gleichförmig braunschwarz und zeigt an einer Stelle eine Blase. Das Innere ist den Steinen von L'Aigle ähnlich und ein Gemenge eines weißen und eines rötlichen Bestandteils.
 
 Literatur: Gilb. Ann. 71, 345. 361.
 
@@ -4577,7 +4577,7 @@ Im Goruckpur-District unweit Butsura; bei Piprassi, Bulloah, Qutahar Bazar, Chir
 
 Das Ereignis war von so heftiger Detonation begleitet, dass dieselbe noch in einer Entfernung von 60 engl. Meilen gehört wurde. Dabei wurde an verschiedenen Stellen eine Feuerkugel gesehen. An vier verschiedenen Stellen des Goruckpur-Distriktes fielen Steine; der nächste größere Ort war Butsura. Die zwei kleinsten Steine von 257 Gr. und 151 Gr. wurden bei Bulloah von einem Augenzeugen im Fall beobachtet. Nach drei heftigen Detonationen bemerkte er in der Höhe eine Lichtmasse wie eine Flamme; dann fielen die Steine, verursachten ein heftiges Getöse und sprühten dabei Funken wie weißglühendes Eisen; sie schlugen etwa 180 Meter von ihm in den Boden, dass der Sand hoch in Luft geschleudert wurde. Der Himmel war dabei heiter, das Wetter sehr heiß, doch bemerkte man eine kleine Wolke, aus welcher das Getöse und der leuchtende Körper gekommen war. An der Stelle, wo das Niederfallen der Steine bemerkt worden, fanden sich fünf Steinstücke, die sehr heiß waren. Leider wurden nur zwei Stücke aufbewahrt. - Auch der Fall des Piprassisteines wurde, aber aus größerer Entfernung, beobachtet. Nach drei heftigen Detonationen, denen ein rollendes, allmählich schwächer werdendes Getöse folgte, wurde die Aufmerksamkeit vieler Augenzeugen auf eine Staubwolke gelenkt, welche etwa 1 Kilometer von ihnen vom Boden aufstieg. Einen fallenden Körper sahen sie vorher nicht, hörten aber einen pfeifenden Ton wie von einer Kugel, nur viel lauter. Sie gingen darauf hin und fanden den Stein, der 5 K. 249 wog, berührten ihn aber zwei Tage lang nicht, weil sie ihn für Mahadeo hielten. - Zwei Stunden nach dem Fall wurde die Heiterkeit des Weiters durch einen Sturm unterbrochen, der von etwas Regen begleitet war. - Der Stein von Qutahar Bazar wog fast 9, der von Chireya über 4 K.
 
-Die vier Fallorte liegen an den Ecken eines ziemlich regelmäßigen Parallelogramms von etwa 2 und 3 engl. Meilen Seitenlänge; die kürzere Diagonale zwischen Piprassi und Chireya geht von NW. nach SO. Analog den genauen Untersuchungen von Biot bei dem Steinfall von l'Aigle und von v. Schreibers bei dem von Stannern ist anzunehmen, dass die größten Steine zuerst fielen und das Meteor sich von WNW. nach OSO. bewegte. Maskelyne nimmt eine Bewegung in entgegengesetzter Richtung an.
+Die vier Fallorte liegen an den Ecken eines ziemlich regelmäßigen Parallelogramms von etwa 2 und 3 engl. Meilen Seitenlänge; die kürzere Diagonale zwischen Piprassi und Chireya geht von NW. nach SO. Analog den genauen Untersuchungen von Biot bei dem Steinfall von L'Aigle und von v. Schreibers bei dem von Stannern ist anzunehmen, dass die größten Steine zuerst fielen und das Meteor sich von WNW. nach OSO. bewegte. Maskelyne nimmt eine Bewegung in entgegengesetzter Richtung an.
 
 Piprassi  
 5 K.
