@@ -806,7 +806,7 @@ Krasnojarsk, Brahin, Atacama, Steinbach, Rittersgrün, Bitburg.
 
 Hainholz, Sierra de Chaco.
 
-I\. Steinmeteoriten.
+II\. Steinmeteoriten.
 
 1\. Chondrit (feinkörnige Grundmasse mit eingemengten kleinen Kugeln eines Magnesia-Silikats, mit Kristallen und Körnern von Olivin, Chromeisenerz und einer unbestimmten schwarzen Substanz, sowie von Nickeleisen und Magnetkies).
 
