@@ -3986,7 +3986,7 @@ Zwei große Stücke besitzt A. Venturi in Brescia; kleinere sind besonders in Wi
 
 Spezifisches Gewicht: 3,81 Curioni.
 
-Die Oberfläche ist wellig und mit einer schwarzen, 1-2mm dicken Rinde bedeckt; mit der Lupe erkennt man darin kleine weiße Körnchen. Das Innere besteht hauptsächlich aus dunkelgrauen unregelmäßigen bis vollkommen kugeligen Körnchen in einer heller grauen Grundmasse.. Nur sehr selten sind diese Kügelchen auszulösen; das größte hatte 2mm Durchmesser. Besonders beim Zerreiben mit den Fingern bemerkt man das Eisen in sehr kleinen Körnchen, sowie Magnetkies. Kleine weißliche Körnchen hält Curioni für eine Art Feldspat. Eine kohligen Substanz fand er bei der Analyse. Das Ergebnis derselben war:
+Die Oberfläche ist wellig und mit einer schwarzen, 1-2mm dicken Rinde bedeckt; mit der Lupe erkennt man darin kleine weiße Körnchen. Das Innere besteht hauptsächlich aus dunkelgrauen unregelmäßigen bis vollkommen kugeligen Körnchen in einer heller grauen Grundmasse.. Nur sehr selten sind diese Kügelchen auszulösen; das größte hatte 2mm Durchmesser. Besonders beim Zerreiben mit den Fingern bemerkt man das Eisen in sehr kleinen Körnchen, sowie Magnetkies. Kleine weißliche Körnchen hält Curioni für eine Art Feldspat. Eine kohlige Substanz fand er bei der Analyse. Das Ergebnis derselben war:
 
 Magnetischer Teil: 22,78%, = { Fe. 91,60. | Ni. 8,40.
 
@@ -6268,7 +6268,7 @@ Rammelsberg fand bei der Analyse:
 Fe. Ni. Co.  
 93,18. 5,77. 1,05.
 
-aber keinen Rückstand von Phosphorverbindungen, sondern nur einen kohligen Bestandteil mit zufällig darunter gekommenen Sandkörnern. G. Rose dagegen fand im schwarzen Rückstand außer Kohle:
+aber keinen Rückstand von Phosphorverbindungen, sondern nur einen kohlige Bestandteil mit zufällig darunter gekommenen Sandkörnern. G. Rose dagegen fand im schwarzen Rückstand außer Kohle:
 
 Fe. Ni. Cu. Cr. P.  
 22,59. 34,77. 4,74. 3,90. 34,13.
