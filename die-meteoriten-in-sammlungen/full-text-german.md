@@ -384,7 +384,7 @@ I\. Meteorsteine.
 
 A\. Anomale (ohne gediegenes und Schwefeleisen, oder im Pulver nur mit dem Mikroskop zu entdecken.)
 
-a\. Kohligen Meteoriten.
+a\. Kohlige Meteoriten.
 
 Alais. 1806, März 15 (Paris, Berlin, London, Stockholm). 19.
 
@@ -828,7 +828,7 @@ Shalka.
 
 Bishopville.
 
-6\. Kohligen Meteoriten.
+6\. Kohlige Meteoriten.
 
 Alais, Cold Bokkeveld, Kaba.
 
