@@ -5027,8 +5027,8 @@ Es ist eine dichte Eisenmasse mit eingewachsenen großen Olivinkristallen; beim 
 
 Jackson in Boston fand bei der Analyse:
 
-Fe. Ni. Sn. und etwas SiO,.
-89. 40,29. 0,729.
+Fe. Ni. Sn. und etwas SiO₃.
+89. 10,29. 0,729.
 
 Literatur: Boston Soc. Nat. Hist. 7, 161. 174. 175. 279. 289. Haidinger Wien. Akad. Ber. 41, 1860, 572. 44, 1861, Juni 6.
 
