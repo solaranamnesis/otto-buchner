@@ -6439,7 +6439,7 @@ Union County, Georgia, Nord-Amerika.
 
 Spezifisches Gewicht: 7,07 Shepard.
 
-An drei Seiten war die Masse mit blättrigem Eisenoxydhydrat überzogen, die beiden anderen zeigten einen anscheinend frischen Bruch, aber keinen metallischen Glanz, sondern das Aussehen von grobkörnigem Granat (Colophonit oder Coccolithj. Im Inneren ist das Eisen von zylindrischen oder nadelförmigen Massen von Schwefeleisen durchsetzt. Poliert ist es fast silberweiß, zeigt aber beim Ätzen keine eigentlichen Widmannstätten'schen Figuren, sondern eine Reihe gewebähnlicher Massen oder eine bunte landkartenähnliche Zeichnung.
+An drei Seiten war die Masse mit blättrigem Eisenoxydhydrat überzogen, die beiden anderen zeigten einen anscheinend frischen Bruch, aber keinen metallischen Glanz, sondern das Aussehen von grobkörnigem Granat (Colophonit oder Coccolith). Im Inneren ist das Eisen von zylindrischen oder nadelförmigen Massen von Schwefeleisen durchsetzt. Poliert ist es fast silberweiß, zeigt aber beim Ätzen keine eigentlichen Widmannstätten'schen Figuren, sondern eine Reihe gewebähnlicher Massen oder eine bunte landkartenähnliche Zeichnung.
 
 Ein von Magnetkies möglichst freies Stück enthielt nach Shepard 3,32%, Nickel, sowie Spuren von Phosphor, Kobalt, Magnesium, Calcium und reichlich Chrom.
 
