@@ -9,4 +9,4 @@ Attempt at translations from the original German to English, I welcome all pull 
 English - Plain Text  
 English - PDF  
 [German - Plain Text](die-meteoriten-in-sammlungen/full-text-german.md)  
-[German - PDF](https://cdn.solaranamnesis.com/Buchner/buchner_meteoriten_sammlungen_german.pdf) | Fraktur | Schwabacher  
+[German - PDF](https://cdn.solaranamnesis.com/Buchner/buchner_meteoriten_sammlungen_german.pdf) | [Fraktur](https://cdn.solaranamnesis.com/Buchner/buchner_meteoriten_sammlungen_german-frak.pdf) | [Schwabacher](https://cdn.solaranamnesis.com/Buchner/buchner_meteoriten_sammlungen_german-swab.pdf)  
