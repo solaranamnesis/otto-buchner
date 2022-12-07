@@ -15,11 +15,13 @@
 \usepackage{parskip}
 \usepackage{yfonts}
 \usepackage{sectsty}
+\usepackage[titles]{tocloft}
 
-\sectionfont{\Huge}
-\subsectionfont{\LARGE}
-\subsubsectionfont{\LARGE}
-\paragraphfont{\LARGE}
+\allsectionsfont{\frakfamily}
+\sectionfont{\frakfamily\Huge}
+\subsectionfont{\frakfamily\LARGE}
+\subsubsectionfont{\frakfamily\LARGE}
+\paragraphfont{\frakfamily\LARGE}
 
 \begin{document}
 \setlength{\parindent}{10pt}
@@ -32,6 +34,11 @@
 \renewcommand{\contentsname}{
 \frakfamily{Inhaltsverzeichnis}
 }
+
+\renewcommand{\cftsecfont}{\frakfamily}
+\renewcommand{\cftsubsecfont}{\frakfamily}
+\renewcommand{\cftsubsubsecfont}{\frakfamily}
+
 % fix toc page numbers
 \let\origcftsecfont\cft
 \let\origcftsecpagefont\cftsecpagefont
@@ -46,6 +53,9 @@
 \let\origcftsubsubsecafterpnum\cftsubsubsecafterpnum
 \renewcommand{\cftsubsubsecpagefont}{\frakfamily{\origcftsubsubsecpagefont}}
 \renewcommand{\cftsubsubsecafterpnum}{\frakfamily{\origcftsubsubsecafterpnum}}
+
+\renewcommand\thefootnote{\frakfamily{\arabic{footnote}}}
+
 \begin{titlepage} % Suppresses headers and footers on the title page
 	\centering % Centre everything on the title page
 	%\scshape % Use small caps for all text on the title page
