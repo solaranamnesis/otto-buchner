@@ -826,9 +826,7 @@ Juvenas, Stannern, Jonzac, Petersburg.
 
 ## System von v. Reichenbach.
 
-Systematisches Verzeichnis der Meteoriten in der Sammlung des Freiherrn
-
-v. Reichenbach zu Wien.[^7]
+Systematisches Verzeichnis der Meteoriten in der Sammlung des Freiherrn v. Reichenbach zu Wien.[^7]
 
 1\. Sippe. Steine frei von regulinischen Metallen.
 
