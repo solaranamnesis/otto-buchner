@@ -1923,8 +1923,6 @@ SiO₃. MgO. FeO. NiO.[^16] NaO. KO. Al₂O₃. CaO. MnO. FeOCr203.
 1\. 56,252. 20,396. 9,723. 0,138. 1,000. 0,512. 6,025. 3,106. 0,690. 1,100.  
 2\. 32,607. 34,357. 28,801. 0,456. 0,977. 0,977. -,-. -,-. 0,824. -,-.
 
-([^17] mit Sn. und Cu.).
-
 Rammelsberg berechnete daraus 1. als ein Gemenge von Labrador und Hornblende oder weniger wahrscheinlich Oligoklas und Augit, 2. als Olivin mit einem anderen Silikat, das aber nicht Anorthit sein kann.
 
 Literatur: Chladni Gilb. Ann. 60, 247. Cavoleau ebd. 63, 228. Berzelius Pogg. Ann. 33, 28. Rammelsberg Handwörterb. Suppl. 5, 19. Shepard Rep. 7.
@@ -2526,10 +2524,10 @@ MnO. -,-. 2,08. -,-.
 MgO. 23,833. 18,50. 1,48.  
 CaO. -,-. 0,30. -,-.  
 Al₂O₃. 2,466. 0,23. -,-.  
-NiO (Co). 2,166.[^18] 2,08. 1,85.  
+NiO (Co). 2,166.[^17] 2,08. 1,85.  
 S. 2,443. 1,80. 2,47.  
 Fe₂O₃. 12,200. Sn. 0,10. -,-.  
-Cr₂O₃. 0,833. KO. 0,02. -,-.
+Cr₂O₃. 0,833.[^18] KO. 0,02. -,-.
 --. -,-. NaO. 0,35. -,-.
 
 Nach v. Baumhauer ist der durch Säure zersetzbare Teil Olivin. Das nicht Zersetzbare ließ sich nicht berechnen, weil die Alkalien nicht bestimmt waren. v. Baumhauer vermutet darin Labrador und Hornblende mit wenig Olivin. Shepard glaubt, dass darin außer den blassgelben Körnchen von wahrscheinlich Olivin (Olivinoid) noch Howardit wund Anorthit, Nickel- und Schwefeleisen seien, sowie da und dort kleine Fleckchen von Chromeisen.
@@ -6936,14 +6934,15 @@ Ein Dresdener Lokalblatt enthält diese zweifelhaft richtige Notiz.
 [^13]: Rückstand; ließ sich in ein Silikat von Eisenoxydul und Magnesia zerlegen, dass auch Tonerde, Nickel und Zinn enthielt. Der Verlust bestand zum Teil aus Sauerstoff, der dem Eisen angehört.
 [^14]: Chromeisen.
 [^15]: (mit Ni.)
-[^16]: entspricht 1,704 Ni.
-[^17]: entspricht 0,584 Cr.
-[^18]: O aus dem Verlust bestimmt.
-[^19]: Chromeisenstein.
-[^20]: Der Verlust war Wasser, das beim Glühen entwichen war.
-[^21]: Mit Mg.
-[^22]: als FeS2.
-[^23]: Schreibersit.
-[^24]: Mit Spur Zinn.
-[^25]: = 46,5 Eisen.
-[^26]: Silikatrückstand.
+[^16]: Mit Sn. und Cu.
+[^17]: Entspricht 1,704 Ni.
+[^18]: Entspricht 0,584 Cr.
+[^19]: O aus dem Verlust bestimmt.
+[^20]: Chromeisenstein.
+[^21]: Chromeisenstein.
+[^22]: Der Verlust war Wasser, das beim Glühen entwichen war.
+[^23]: Mit Mg.
+[^24]: Als FeS2.
+[^25]: Schreibersit.
+[^26]: Mit Spur Zinn.
+[^27]: Silikatrückstand.
