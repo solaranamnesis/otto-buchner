@@ -838,9 +838,7 @@ Juvenas, Stannern, Jonzac, Petersburg.
 
 ## System von v. Reichenbach.
 
-Systematisches Verzeichnis der Meteoriten in der Sammlung des Freiherrn
-
-v. Reichenbach zu Wien.*
+Systematisches Verzeichnis der Meteoriten in der Sammlung des Freiherrn v. Reichenbach zu Wien.*
 
 *) Nach gütiger brieflicher Mitteilung d. d. 23. Nov. 1861; ergänzt nach Poggend. Ann. 107, 166 u. ff. Doch weicht das Verzeichnis daselbst etwas von dem hier gegebenen ab.
 
